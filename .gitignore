@@ -1,0 +1,18 @@
+# env and credentials
+.env
+
+# virtualenv
+.venv/
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# build artifacts
+out/
+
+# source pdf (do not commit)
+TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf
