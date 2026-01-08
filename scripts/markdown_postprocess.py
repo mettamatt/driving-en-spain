@@ -1003,6 +1003,12 @@ def _parse_drive_reach_rows(lines: list[str], start: int) -> tuple[list[str], in
             i += 1
             continue
 
+        # If we run conversion twice (pre/post reflow), the block may already be a list.
+        # Strip list markers so the conversion is idempotent.
+        m_list = UNORDERED_LIST_RE.match(s) or ORDERED_LIST_RE.match(s)
+        if m_list:
+            s = m_list.group(2).strip()
+
         m = re.search(r"\bit reaches\b", s, flags=re.IGNORECASE)
         if m and m.start() > 0:
             prefix = s[: m.start()].strip()
@@ -1289,6 +1295,13 @@ def convert_known_tables(markdown: str) -> str:
         if PAGE_MARKER_RE.match(line):
             out.append(line)
             after_page_marker = True
+            i += 1
+            continue
+
+        # Reflow inserts blank lines around HTML comments, so allow empty lines while
+        # we're still in the "immediately after a page marker" state.
+        if after_page_marker and line.strip() == "":
+            out.append(line)
             i += 1
             continue
 
@@ -1606,16 +1619,27 @@ def postprocess_markdown(
       - preserve: keep original line breaks (but still normalises whitespace)
     """
     text = _normalize_line_endings(markdown)
-    if enable_tables:
-        text = convert_known_tables(text)
-
-    text = _fix_kmh_diagram_numbers(text)
-
     # Always strip trailing spaces to avoid unintended Markdown hard breaks.
     text = "\n".join(line.rstrip() for line in text.splitlines()).rstrip() + "\n"
 
+    # PDF extraction frequently duplicates lines, which can confuse later heuristics.
     text = _collapse_consecutive_duplicate_lines(text)
 
+    if enable_tables:
+        # First pass: catch tables that are already parseable pre-reflow.
+        text = convert_known_tables(text)
+
+    # For our inputs, many "tables" arrive heavily word-wrapped (e.g. "Motorway" + "and dual carriageway",
+    # "Maximum" + "speed"). Reflow first so table detectors can match reliably, then run a second pass.
     if style == "paragraphs":
-        return reflow_markdown_paragraphs(text)
+        text = reflow_markdown_paragraphs(text)
+        if enable_tables:
+            text = convert_known_tables(text)
+
+    text = _fix_kmh_diagram_numbers(text)
+
+    # One last normalization pass after conversions.
+    text = "\n".join(line.rstrip() for line in text.splitlines()).rstrip() + "\n"
+    text = _collapse_consecutive_duplicate_lines(text)
+
     return text

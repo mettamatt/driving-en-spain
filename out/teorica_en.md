@@ -467,51 +467,21 @@ Watch video
 
 <!-- Page: 29 -->
 
-Type of licence
 
-Vehicles you can drive
-
-Minimum age to drive
-
-AM
-
-Mopeds with two or three wheels and light quadricycles.
-
-Vehicles for people with reduced mobility. 15 years
-
-A1
-
-Motorcycles with a maximum engine size of 125 cubic centimetres and a maximum power of 11 kilowatts.
-
-Motor tricycles with a maximum power of 15 kilowatts. 16 years
-
-A2
-
-Motorcycles with a maximum power of 35 kilowatts. 18 years
-
-A
-
-Motorcycles and tricycles with any type of engine and power. 20 years
+| Type of licence | Vehicles you can drive | Minimum age to drive |
+| --- | --- | --- |
+| AM | Mopeds with two or three wheels and light quadricycles. Vehicles for people with reduced mobility. | 15 years |
+| A1 | Motorcycles with a maximum engine size of 125 cubic centimetres and a maximum power of 11 kilowatts. Motor tricycles with a maximum power of 15 kilowatts. | 16 years |
+| A2 | Motorcycles with a maximum power of 35 kilowatts. | 18 years |
+| A | Motorcycles and tricycles with any type of engine and power. | 20 years |
 
 <!-- Page: 30 -->
 
-B
 
-Mopeds.
-
-Vehicles for people with reduced mobility.
-
-Cars that can carry up to nine passengers.
-
-Special agricultural vehicles.
-
-Special non-agricultural vehicles that reach a maximum speed of 40 kilometres per hour and do not weigh more than 3,500 kilos.
-
-Combination of vehicles when the trailer does not carry a weight over 750 kilos. 18 years
-
-B+E
-
-Combination of vehicles. The trailer can carry a load of up to 3,500 kilos. 18 years
+| Type of licence | Vehicles you can drive | Minimum age to drive |
+| --- | --- | --- |
+| B | Mopeds. Vehicles for people with reduced mobility. Cars that can carry up to nine passengers. Special agricultural vehicles. Special non-agricultural vehicles that reach a maximum speed of 40 kilometres per hour and do not weigh more than 3,500 kilos. Combination of vehicles when the trailer does not carry a weight over 750 kilos. | 18 years |
+| B+E | Combination of vehicles. The trailer can carry a load of up to 3,500 kilos. | 18 years |
 
 <!-- Page: 31 -->
 
@@ -4135,32 +4105,15 @@ Type of vehicle
 
 <!-- Page: 252 -->
 
-Motorway and dual carriageway
 
-Roads
-Tracks
-
-Maximum speed
-
-Minimum speed
-
-Maximum speed
-
-Minimum speed
-
-Maximum speed
-
-Minimum speed
-
-120
-60
-90
+| Road type | Max speed (km/h) | Min speed (km/h) |
+| --- | --- | --- |
+| Motorway and dual carriageway | 120 | 60 |
+| Roads | 90 | 45 |
+| Tracks | 30 | 15 |
 
 On some roads the limit may be 100.
 
-45
-30
-15
 Type of vehicle
 
 - Buses.
@@ -4169,29 +4122,12 @@ Type of vehicle
 
 - Adaptable mixed vehicles.
 
-Motorway and dual carriageway
 
-Roads
-Tracks
-
-Maximum speed
-
-Minimum speed
-
-Maximum speed
-
-Minimum speed
-
-Maximum speed
-
-Minimum speed
-
-100
-60
-90
-45
-30
-15
+| Road type | Max speed (km/h) | Min speed (km/h) |
+| --- | --- | --- |
+| Motorway and dual carriageway | 100 | 60 |
+| Roads | 90 | 45 |
+| Tracks | 30 | 15 |
 
 <!-- Page: 253 -->
 
@@ -4209,29 +4145,13 @@ Type of vehicle
 
 - Vehicles with a trailer.
 
-Motorway and dual carriageway
 
-Roads
-Tracks
+| Road type | Max speed (km/h) | Min speed (km/h) |
+| --- | --- | --- |
+| Motorway and dual carriageway | 90 | 60 |
+| Roads | 80 | 40 |
+| Tracks | 30 | 15 |
 
-Maximum speed
-
-Minimum speed
-
-Maximum speed
-
-Minimum speed
-
-Maximum speed
-
-Minimum speed
-
-90
-60
-80
-40
-30
-15
 Type of vehicle
 
 - Three-wheeled vehicles that are not motorcycles.
@@ -4240,29 +4160,12 @@ Type of vehicle
 
 - Special vehicles that can reach 60 kilometres per hour on flat ground.
 
-Motorway and dual carriageway
 
-Roads
-Tracks
-
-Maximum speed
-
-Minimum speed
-
-Maximum speed
-
-Minimum speed
-
-Maximum speed
-
-Minimum speed
-
-70
-60
-70
-35
-30
-15
+| Road type | Max speed (km/h) | Min speed (km/h) |
+| --- | --- | --- |
+| Motorway and dual carriageway | 70 | 60 |
+| Roads | 70 | 35 |
+| Tracks | 30 | 15 |
 
 <!-- Page: 254 -->
 
@@ -4287,30 +4190,23 @@ Types of vehicle
 
 - Other special vehicles
 
-Motorway and dual carriageway
 
-Roads
-Tracks
-Maximum and minimum speed
+| Road type | Speed limit |
+| --- | --- |
+| Motorway and dual carriageway | May not travel |
+| Roads | 40 |
+| Tracks | 30 |
 
-May not travel
-
-40
-30
 Types of vehicle
 
 - Cycles
 
-Motorway and dual carriageway
 
-Roads
-Tracks
-Maximum speed
-
-45 on dual carriageways. On motorways they may not travel.
-
-45
-30
+| Road type | Speed limit |
+| --- | --- |
+| Motorway and dual carriageway | 45 on dual carriageways. On motorways they may not travel. |
+| Roads | 45 |
+| Tracks | 30 |
 
 <!-- Page: 255 -->
 
@@ -4324,16 +4220,12 @@ Type of vehicle
 
 - Vehicles for people with reduced mobility.
 
-Motorway and dual carriageway
 
-Roads
-Tracks
-Maximum speed
-
-May not travel
-
-45
-30
+| Road type | Speed limit |
+| --- | --- |
+| Motorway and dual carriageway | May not travel |
+| Roads | 45 |
+| Tracks | 30 |
 
 For vehicles that do school transport with children or that carry dangerous goods, the maximum speed limit is 10 kilometres less than for other vehicles. For example, the speed limit on a road for a bus is 90 kilometres per hour. But for a bus that takes children to school the speed limit is 80 kilometres per hour.
 
@@ -4345,30 +4237,25 @@ Type of vehicle
 
 - All vehicles in general
 
-Streets without kerbs, where the carriageway and the pavement are at the same height
 
-Streets with one lane in each direction
+| Street type | Max speed (km/h) |
+| --- | --- |
+| Streets without kerbs, where the carriageway and the pavement are at the same height | 20 |
+| Streets with one lane in each direction | 30 |
+| Streets with several lanes in each direction | 50 |
 
-Streets with several lanes in each direction
-
-20
-30
-50
 Type of vehicle
 
 - Vehicles that carry dangerous goods.
 
 - Special vehicles that cannot reach a speed of more than 60 kilometres per hour.
 
-Streets without kerbs, where the carriageway and the pavement are at the same height
 
-Streets with one lane in each direction
-
-Streets with several lanes in each direction
-
-20
-30
-40
+| Street type | Max speed (km/h) |
+| --- | --- |
+| Streets without kerbs, where the carriageway and the pavement are at the same height | 20 |
+| Streets with one lane in each direction | 30 |
+| Streets with several lanes in each direction | 40 |
 
 <!-- Page: 257 -->
 
@@ -4382,15 +4269,13 @@ Type of vehicle
 
 - Cycles.
 
-Streets without kerbs, where the carriageway and the pavement are at the same height
 
-Streets with one lane in each direction
+| Street type | Max speed (km/h) |
+| --- | --- |
+| Streets without kerbs, where the carriageway and the pavement are at the same height | 20 |
+| Streets with one lane in each direction | 30 |
+| Streets with several lanes in each direction | 45 |
 
-Streets with several lanes in each direction
-
-20
-30
-45
 Type of vehicle
 
 - Personal mobility vehicles.
@@ -5578,7 +5463,7 @@ In vehicles used to carry goods, loads that cannot be bent or divided can stick 
 
 | Type of vehicle | How much can the load stick out? |
 | --- | --- |
-| Vehicles that are 5 metres or less in length | One third of the metres the vehicle measures. For example, if the vehicle measures 3 metres, the load can stick out 1 metre. The load can stick out at the front and at the back 1/3 Maximum 1/3 Maximum |
+| Vehicles that are 5 metres or less in length | One third of the metres the vehicle measures. For example, if the vehicle measures 3 metres, the load can stick out 1 metre. The load can stick out at the front and at the back 1/3 Maximum |
 | Vehicles that are more than 5 metres in length | The load can stick out 2 metres at the front and 3 metres at the back. Maximum 2m Maximum 3m |
 | Vehicles that measure at most 2.55 metres in width when they carry the load | The load can stick out 0.40 metres on each side of the vehicle. It is not allowed to place the load like this. The panels cannot go crosswise because they take up more. It is allowed to place the load like this. Larger dimension NOT ALLOWED Smaller dimension Larger dimension ALLOWED |
 
@@ -6269,6 +6154,7 @@ Which wheels does the drive from the engine reach?
 - Front-wheel drive It reaches the front wheels.
 - Rear-wheel drive It reaches the rear wheels.
 - Four-wheel drive It reaches all the wheels.
+
 
 First gear is the one that sends the most force to the wheels, but it is the slowest.
 
