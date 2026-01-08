@@ -20,6 +20,9 @@ AGE_YEARS_RE = re.compile(r"^\d{1,3}\s+years?$", re.IGNORECASE)
 
 TABLE_LINE_RE = re.compile(r"^\s*\|.*\|\s*$")
 SIMPLE_NUMBER_RE = re.compile(r"^\d{1,4}$")
+MEASURE_TOKEN_RE = re.compile(r"\b\d+(?:\.\d+)?\s*(?:metres?|m)\b", re.IGNORECASE)
+LOAD_ROW_START_RE = re.compile(r"^vehicles that\b", re.IGNORECASE)
+INCL_LOAD_PREFIX_RE = re.compile(r"^\(?(?:including the load)\)?\s*", re.IGNORECASE)
 
 
 @dataclass(frozen=True)
@@ -33,6 +36,13 @@ class LicenceRow:
 class TwoColRow:
     key: str
     value: str
+
+
+@dataclass(frozen=True)
+class SkiddingRow:
+    vehicle_type: str
+    wheels: str
+    action: str
 
 
 def _normalize_line_endings(text: str) -> str:
@@ -420,6 +430,36 @@ def _is_simple_number(line: str) -> bool:
     return bool(SIMPLE_NUMBER_RE.fullmatch(line.strip()))
 
 
+def _is_including_load_note_line(line: str) -> bool:
+    return _norm(line) in {"including the load", "(including the load)"}
+
+
+def _strip_including_load_prefix(line: str) -> tuple[str, bool]:
+    s = line.strip()
+    stripped = INCL_LOAD_PREFIX_RE.sub("", s).strip()
+    return stripped, stripped != s
+
+
+def _split_label_value_at_first_measure(line: str) -> tuple[str, str] | None:
+    """
+    Split a combined 'label + measure' line like:
+      "Buses 4.20 metres"
+    into ("Buses", "4.20 metres").
+    """
+    s = line.strip()
+    if not s or s[0].isdigit():
+        return None
+    matches = list(MEASURE_TOKEN_RE.finditer(s))
+    if not matches:
+        return None
+    first = matches[0]
+    label = s[: first.start()].strip()
+    value = s[first.start() :].strip()
+    if not label or not value:
+        return None
+    return label, value
+
+
 def _looks_like_licence_header(lines: list[str], index: int) -> tuple[tuple[str, str, str], int] | None:
     """
     Returns ((h1,h2,h3), idx_after_headers) if a licence table header is found at index.
@@ -581,6 +621,416 @@ def _render_two_col_table(headers: tuple[str, str], rows: list[TwoColRow]) -> li
     for r in rows:
         out.append(f"| {_escape_md_table_cell(r.key)} | {_escape_md_table_cell(r.value)} |")
     return out
+
+
+def _looks_like_load_overhang_header(lines: list[str], index: int) -> tuple[tuple[str, str], int] | None:
+    if index >= len(lines):
+        return None
+    if _norm(lines[index]) != "type of vehicle":
+        return None
+    j = _next_nonblank(lines, index + 1)
+    if j is None:
+        return None
+    norm2 = re.sub(r"\?$", "", _norm(lines[j])).strip()
+    if norm2 != "how much can the load stick out":
+        return None
+    return ((lines[index].strip(), lines[j].strip()), j + 1)
+
+
+def _parse_load_overhang_rows(lines: list[str], start: int) -> tuple[list[TwoColRow], int]:
+    def is_value_start(line: str) -> bool:
+        n = _norm(line)
+        if n.startswith("one third"):
+            return True
+        if n.startswith("the load can stick out"):
+            return True
+        if n.startswith("maximum"):
+            return True
+        if n in {"larger dimension", "smaller dimension", "not allowed", "allowed"}:
+            return True
+        if n.startswith("it is "):
+            return True
+        return False
+
+    def parse_row_block(block: list[str]) -> TwoColRow | None:
+        # Split key/value within a block; keys are "Vehicles ..." lines, values start with known phrases.
+        value_start = None
+        for idx, ln in enumerate(block):
+            if is_value_start(ln):
+                value_start = idx
+                break
+        if value_start is None or value_start == 0:
+            return None
+        key = re.sub(r"\s+", " ", " ".join(block[:value_start])).strip()
+        value = re.sub(r"\s+", " ", " ".join(block[value_start:])).strip()
+        if not key.lower().startswith("vehicles"):
+            return None
+        if not value:
+            return None
+        return TwoColRow(key=key, value=value)
+
+    rows: list[TwoColRow] = []
+    block: list[str] = []
+    i = start
+
+    while i < len(lines):
+        s = lines[i].strip()
+        if PAGE_MARKER_RE.match(s) or HTML_COMMENT_LINE_RE.match(s) or HEADING_RE.match(s):
+            break
+        if s == "":
+            if block:
+                row = parse_row_block(block)
+                if row:
+                    rows.append(row)
+                block = []
+            i += 1
+            continue
+        block.append(s)
+        i += 1
+
+    if block:
+        row = parse_row_block(block)
+        if row:
+            rows.append(row)
+
+    return rows, i
+
+
+def _looks_like_dimension_table_header(
+    lines: list[str], index: int, *, dimension_norm: str, max_header_norm: str
+) -> tuple[tuple[str, str], int] | None:
+    if index >= len(lines):
+        return None
+    if _norm(lines[index]) != dimension_norm:
+        return None
+
+    j = _next_nonblank(lines, index + 1)
+    if j is None or _norm(lines[j]) != "vehicle":
+        return None
+    k = _next_nonblank(lines, j + 1)
+    if k is None or _norm(lines[k]) != max_header_norm:
+        return None
+
+    header_1 = lines[j].strip()
+    header_2 = lines[k].strip()
+    start_rows = k + 1
+
+    m = _next_nonblank(lines, k + 1)
+    if m is not None and _is_including_load_note_line(lines[m]):
+        header_2 = header_2 + " " + lines[m].strip()
+        start_rows = m + 1
+    else:
+        if m is not None:
+            _, had_prefix = _strip_including_load_prefix(lines[m])
+            if had_prefix:
+                header_2 = header_2 + " (Including the load)"
+
+    return ((header_1, header_2), start_rows)
+
+
+def _parse_vehicle_measure_rows(
+    lines: list[str], start: int, *, stop_norms: set[str]
+) -> tuple[list[TwoColRow], int]:
+    rows: list[TwoColRow] = []
+    label: str | None = None
+    values: list[str] = []
+
+    def flush() -> None:
+        nonlocal label, values
+        if label is None:
+            return
+        value = re.sub(r"\s+", " ", " ".join(values)).strip()
+        if value:
+            rows.append(TwoColRow(key=label.strip(), value=value))
+        label = None
+        values = []
+
+    i = start
+    while True:
+        i2 = _next_nonblank(lines, i)
+        if i2 is None:
+            break
+        i = i2
+        s = lines[i].strip()
+        if not s:
+            i += 1
+            continue
+
+        if PAGE_MARKER_RE.match(s) or HTML_COMMENT_LINE_RE.match(s) or HEADING_RE.match(s):
+            break
+        if _norm(s) in stop_norms:
+            break
+
+        if _is_including_load_note_line(s):
+            i += 1
+            continue
+
+        s, _ = _strip_including_load_prefix(s)
+        if not s:
+            i += 1
+            continue
+
+        label_value = _split_label_value_at_first_measure(s)
+        if label_value:
+            part_label, first_value = label_value
+            if label is not None and not values:
+                label = re.sub(r"\s+", " ", f"{label} {part_label}").strip()
+                values = [first_value]
+            else:
+                flush()
+                label = part_label
+                values = [first_value]
+            i += 1
+            continue
+
+        if label is None:
+            label = s
+            values = []
+            i += 1
+            continue
+
+        if not values and not s[0].isdigit():
+            # Some row labels are hard-wrapped across multiple lines in the PDF extraction.
+            label = re.sub(r"\s+", " ", f"{label} {s}").strip()
+            i += 1
+            continue
+
+        if s[0].isdigit():
+            values.append(s)
+            i += 1
+            continue
+
+        flush()
+        label = s
+        values = []
+        i += 1
+
+    flush()
+    return rows, i
+
+
+def _looks_like_skidding_table_header(
+    lines: list[str], index: int
+) -> tuple[tuple[str, str, str], int] | None:
+    """
+    Detect the skidding table (Topic 14-ish) extracted as:
+      Type of vehicle
+      Which / wheels / skid?
+      What should you do?
+    """
+    if index >= len(lines):
+        return None
+    if _norm(lines[index]) != "type of vehicle":
+        return None
+
+    # Grab the next few nonblank lines to match either:
+    # - "Which wheels skid?" on one line, or
+    # - "Which" + "wheels" + "skid?" across three lines.
+    look: list[tuple[int, str]] = []
+    cursor = index + 1
+    while len(look) < 6:
+        nxt = _next_nonblank(lines, cursor)
+        if nxt is None:
+            break
+        s = lines[nxt].strip()
+        if not s:
+            cursor = nxt + 1
+            continue
+        look.append((nxt, s))
+        cursor = nxt + 1
+
+    def norm_no_q(s: str) -> str:
+        return re.sub(r"\?$", "", _norm(s)).strip()
+
+    for span in (1, 2, 3):
+        if len(look) < span + 1:
+            continue
+        which_idxs = [idx for idx, _ in look[:span]]
+        which_text = " ".join(txt for _, txt in look[:span]).strip()
+        if norm_no_q(which_text) != "which wheels skid":
+            continue
+        do_idx, do_text = look[span]
+        if norm_no_q(do_text) != "what should you do":
+            continue
+        header_1 = lines[index].strip()
+        header_2 = which_text
+        header_3 = do_text
+        return ((header_1, header_2, header_3), do_idx + 1)
+
+    return None
+
+
+def _parse_skidding_rows(lines: list[str], start: int) -> tuple[list[SkiddingRow], int]:
+    rows: list[SkiddingRow] = []
+    i = start
+
+    def is_row_start(s: str) -> bool:
+        n = _norm(s)
+        return n.startswith("front-wheel drive") or n.startswith("rear-wheel drive")
+
+    def is_wheel_line(s: str) -> bool:
+        return s in {"Rear", "Front"}
+
+    while True:
+        i2 = _next_nonblank(lines, i)
+        if i2 is None:
+            return rows, len(lines)
+        i = i2
+        s = lines[i].strip()
+
+        if PAGE_MARKER_RE.match(s) or HTML_COMMENT_LINE_RE.match(s) or HEADING_RE.match(s):
+            return rows, i
+
+        # Column 1: vehicle type + description (until a wheel label line).
+        vehicle_parts: list[str] = []
+        while i < len(lines):
+            s1 = lines[i].strip()
+            if not s1:
+                i += 1
+                continue
+            if PAGE_MARKER_RE.match(s1) or HTML_COMMENT_LINE_RE.match(s1) or HEADING_RE.match(s1):
+                return rows, i
+            if is_wheel_line(s1):
+                break
+            vehicle_parts.append(s1)
+            i += 1
+
+        i3 = _next_nonblank(lines, i)
+        if i3 is None:
+            return rows, len(lines)
+        wheel = lines[i3].strip()
+        if not is_wheel_line(wheel):
+            return rows, i3
+
+        # Column 3: actions, until the next row starts or a marker/heading/comment.
+        action_parts: list[str] = []
+        i = i3 + 1
+        while True:
+            j = _next_nonblank(lines, i)
+            if j is None:
+                i = len(lines)
+                break
+            s2 = lines[j].strip()
+            if PAGE_MARKER_RE.match(s2) or HTML_COMMENT_LINE_RE.match(s2) or HEADING_RE.match(s2):
+                i = j
+                break
+            if is_row_start(s2):
+                i = j
+                break
+            action_parts.append(s2)
+            i = j + 1
+
+        vehicle_type = re.sub(r"\s+", " ", " ".join(vehicle_parts)).strip()
+        action = re.sub(r"\s+", " ", " ".join(action_parts)).strip()
+        if not vehicle_type or not action:
+            return [], start
+        rows.append(SkiddingRow(vehicle_type=vehicle_type, wheels=wheel, action=action))
+
+
+def _render_skidding_table(headers: tuple[str, str, str], rows: list[SkiddingRow]) -> list[str]:
+    h1, h2, h3 = (_escape_md_table_cell(h) for h in headers)
+    out = [
+        f"| {h1} | {h2} | {h3} |",
+        "| --- | --- | --- |",
+    ]
+    for r in rows:
+        out.append(
+            f"| {_escape_md_table_cell(r.vehicle_type)} | {_escape_md_table_cell(r.wheels)} | {_escape_md_table_cell(r.action)} |"
+        )
+    return out
+
+
+def _looks_like_drive_reach_block(lines: list[str], index: int) -> tuple[str, int] | None:
+    """
+    Detect the small drive-type block extracted as:
+      Which wheels / does the drive / from the engine reach?
+    followed by a few "X-wheel drive ... It reaches ..." lines.
+    Returns (question_text, start_rows_index).
+    """
+    if index >= len(lines):
+        return None
+
+    look: list[tuple[int, str]] = [(index, lines[index].strip())]
+    cursor = index + 1
+    while len(look) < 4:
+        nxt = _next_nonblank(lines, cursor)
+        if nxt is None:
+            break
+        s = lines[nxt].strip()
+        if not s:
+            cursor = nxt + 1
+            continue
+        look.append((nxt, s))
+        cursor = nxt + 1
+
+    def norm_no_q(s: str) -> str:
+        return re.sub(r"\?$", "", _norm(s)).strip()
+
+    for span in (1, 2, 3):
+        if len(look) < span:
+            continue
+        question = " ".join(txt for _, txt in look[:span]).strip()
+        if norm_no_q(question) != "which wheels does the drive from the engine reach":
+            continue
+        start_rows = look[span - 1][0] + 1
+        return question, start_rows
+
+    return None
+
+
+def _parse_drive_reach_rows(lines: list[str], start: int) -> tuple[list[str], int]:
+    """
+    Parse rows like:
+      Front-wheel drive It reaches the front wheels.
+    where the label may be hard-wrapped across lines.
+    Returns rendered list-item lines (no trailing blank line) and next index.
+    """
+    items: list[str] = []
+    label_parts: list[str] = []
+    i = start
+
+    def flush(label: str, value: str) -> None:
+        label = re.sub(r"\s+", " ", label).strip()
+        value = re.sub(r"\s+", " ", value).strip()
+        if label and value:
+            items.append(f"- {label} {value}".strip())
+
+    while i < len(lines):
+        s = lines[i].strip()
+        if PAGE_MARKER_RE.match(s) or HTML_COMMENT_LINE_RE.match(s) or HEADING_RE.match(s):
+            break
+        if not s:
+            i += 1
+            continue
+
+        m = re.search(r"\bit reaches\b", s, flags=re.IGNORECASE)
+        if m and m.start() > 0:
+            prefix = s[: m.start()].strip()
+            value = s[m.start() :].strip()
+            if label_parts:
+                prefix = re.sub(r"\s+", " ", " ".join(label_parts + [prefix])).strip()
+                label_parts = []
+            flush(prefix, value)
+            i += 1
+            if len(items) >= 3:
+                break
+            continue
+
+        if _norm(s).startswith("it reaches"):
+            if not label_parts:
+                break
+            label = re.sub(r"\s+", " ", " ".join(label_parts)).strip()
+            flush(label, s)
+            label_parts = []
+            i += 1
+            if len(items) >= 3:
+                break
+            continue
+
+        label_parts.append(s)
+        i += 1
+
+    return items, i
 
 
 def _find_block_end(lines: list[str], start: int, *, stop_norms: set[str]) -> int:
@@ -881,6 +1331,79 @@ def convert_known_tables(markdown: str) -> str:
                 i = next_i2
                 continue
 
+        maybe_height_header = _looks_like_dimension_table_header(
+            lines,
+            i,
+            dimension_norm="height",
+            max_header_norm="maximum height allowed",
+        )
+        if maybe_height_header:
+            headers_h, start_rows_h = maybe_height_header
+            rows_h, next_i_h = _parse_vehicle_measure_rows(
+                lines, start_rows_h, stop_norms={"length"}
+            )
+            if len(rows_h) >= 2:
+                out.append(line)
+                out.append("")
+                out.extend(_render_two_col_table(headers_h, rows_h))
+                out.append("")
+                i = next_i_h
+                continue
+
+        maybe_length_header = _looks_like_dimension_table_header(
+            lines,
+            i,
+            dimension_norm="length",
+            max_header_norm="maximum length allowed",
+        )
+        if maybe_length_header:
+            headers_l, start_rows_l = maybe_length_header
+            rows_l, next_i_l = _parse_vehicle_measure_rows(
+                lines, start_rows_l, stop_norms=set()
+            )
+            if len(rows_l) >= 2:
+                out.append(line)
+                out.append("")
+                out.extend(_render_two_col_table(headers_l, rows_l))
+                out.append("")
+                i = next_i_l
+                continue
+
+        maybe_skidding_header = _looks_like_skidding_table_header(lines, i)
+        if maybe_skidding_header:
+            headers_s, start_rows_s = maybe_skidding_header
+            rows_s, next_i_s = _parse_skidding_rows(lines, start_rows_s)
+            if len(rows_s) >= 2:
+                out.append("")
+                out.extend(_render_skidding_table(headers_s, rows_s))
+                out.append("")
+                i = next_i_s
+                continue
+
+        maybe_overhang_header = _looks_like_load_overhang_header(lines, i)
+        if maybe_overhang_header:
+            headers_o, start_rows_o = maybe_overhang_header
+            rows_o, next_i_o = _parse_load_overhang_rows(lines, start_rows_o)
+            if len(rows_o) >= 2:
+                out.append("")
+                out.extend(_render_two_col_table(headers_o, rows_o))
+                out.append("")
+                i = next_i_o
+                continue
+
+        maybe_drive_reach = _looks_like_drive_reach_block(lines, i)
+        if maybe_drive_reach:
+            question, start_rows_d = maybe_drive_reach
+            items, next_i_d = _parse_drive_reach_rows(lines, start_rows_d)
+            if len(items) >= 2:
+                out.append("")
+                out.append(question)
+                out.append("")
+                out.extend(items)
+                out.append("")
+                i = next_i_d
+                continue
+
         maybe_points_header = _looks_like_points_table_header(lines, i)
         if maybe_points_header:
             headers_p, start_rows_p = maybe_points_header
@@ -940,6 +1463,136 @@ def convert_known_tables(markdown: str) -> str:
     return "\n".join(out).rstrip() + "\n"
 
 
+def _is_markdown_table_start_at(lines: list[str], index: int) -> bool:
+    if index >= len(lines):
+        return False
+    line = lines[index].rstrip()
+    if not TABLE_LINE_RE.match(line):
+        return False
+    if index + 1 >= len(lines):
+        return False
+    sep = lines[index + 1].rstrip()
+    if not TABLE_LINE_RE.match(sep):
+        return False
+    if re.search(r"[A-Za-z0-9]", sep):
+        return False
+    return True
+
+
+def _collapse_consecutive_duplicate_lines(markdown: str) -> str:
+    """
+    Drop exact consecutive duplicate lines (common PDF extraction artifact).
+    Preserves fenced code and Markdown tables.
+    """
+    lines = markdown.splitlines()
+    out: list[str] = []
+    in_code_fence = False
+    prev: str | None = None
+
+    i = 0
+    while i < len(lines):
+        raw = lines[i]
+        line = raw.rstrip()
+
+        if FENCE_RE.match(line):
+            in_code_fence = not in_code_fence
+            out.append(line)
+            prev = None
+            i += 1
+            continue
+
+        if in_code_fence:
+            out.append(line)
+            i += 1
+            continue
+
+        if _is_markdown_table_start_at(lines, i):
+            prev = None
+            while i < len(lines):
+                row = lines[i].rstrip()
+                if row.strip() == "":
+                    break
+                if not TABLE_LINE_RE.match(row):
+                    break
+                out.append(row)
+                i += 1
+            continue
+
+        stripped = line.strip()
+        if stripped and prev == stripped:
+            i += 1
+            continue
+
+        out.append(line)
+        prev = stripped if stripped else None
+        i += 1
+
+    return "\n".join(out).rstrip() + "\n"
+
+
+def _fix_kmh_diagram_numbers(markdown: str) -> str:
+    """
+    Fix common km/h scale extraction artifacts like:
+      "100120 140160" -> "100 120 140 160"
+    Only applies inside simple "Km/h" blocks to avoid touching unrelated numbers.
+    """
+    lines = markdown.splitlines()
+    out: list[str] = []
+    in_code_fence = False
+    in_kmh_block = False
+
+    def split_compacted_token(tok: str) -> list[str]:
+        if not tok.isdigit() or len(tok) < 6 or len(tok) % 3 != 0:
+            return [tok]
+        parts = [tok[i : i + 3] for i in range(0, len(tok), 3)]
+        try:
+            nums = [int(p) for p in parts]
+        except ValueError:
+            return [tok]
+        if all(0 <= n <= 300 for n in nums):
+            return parts
+        return [tok]
+
+    for raw in lines:
+        line = raw.rstrip()
+
+        if FENCE_RE.match(line):
+            in_code_fence = not in_code_fence
+            in_kmh_block = False
+            out.append(line)
+            continue
+
+        if in_code_fence:
+            out.append(line)
+            continue
+
+        s = line.strip()
+        if s.lower() == "km/h":
+            in_kmh_block = True
+            out.append(line)
+            continue
+
+        if in_kmh_block:
+            if (
+                s
+                and not re.fullmatch(r"[0-9 ]+", s)
+                and not s.lower().startswith("stop ")
+                and s.lower() != "stop"
+            ):
+                in_kmh_block = False
+
+        if in_kmh_block and s and re.fullmatch(r"[0-9 ]+", s):
+            new_tokens: list[str] = []
+            for tok in s.split():
+                new_tokens.extend(split_compacted_token(tok))
+            out.append(" ".join(new_tokens))
+            continue
+
+        out.append(line)
+
+    return "\n".join(out).rstrip() + "\n"
+
+
 def postprocess_markdown(
     markdown: str,
     *,
@@ -956,8 +1609,12 @@ def postprocess_markdown(
     if enable_tables:
         text = convert_known_tables(text)
 
+    text = _fix_kmh_diagram_numbers(text)
+
     # Always strip trailing spaces to avoid unintended Markdown hard breaks.
     text = "\n".join(line.rstrip() for line in text.splitlines()).rstrip() + "\n"
+
+    text = _collapse_consecutive_duplicate_lines(text)
 
     if style == "paragraphs":
         return reflow_markdown_paragraphs(text)
