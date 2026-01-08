@@ -339,12 +339,6 @@ def main(argv: list[str]) -> int:
             print(f"... ({len(chunks) - 10} more)")
         return 0
 
-    if not os.environ.get("OPENAI_API_KEY"):
-        print("ERROR: OPENAI_API_KEY is not set in the environment.", file=sys.stderr)
-        print("Set it like: export OPENAI_API_KEY='...'", file=sys.stderr)
-        print("Or create a .env file (see env.example).", file=sys.stderr)
-        return 2
-
     workdir: Path = args.workdir or Path(str(out_md) + ".work")
     workdir.mkdir(parents=True, exist_ok=True)
 
@@ -370,12 +364,24 @@ def main(argv: list[str]) -> int:
         }
         manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    client = OpenAI(
-        api_key=os.environ.get("OPENAI_API_KEY"),
-        base_url=os.environ.get("OPENAI_BASE_URL"),
-        organization=os.environ.get("OPENAI_ORG_ID"),
-        project=os.environ.get("OPENAI_PROJECT_ID"),
+    needs_api = args.force or any(
+        not (workdir / f"chunk-{c.index:04d}.en.md").exists() for c in chunks
     )
+
+    if needs_api and not os.environ.get("OPENAI_API_KEY"):
+        print("ERROR: OPENAI_API_KEY is not set in the environment.", file=sys.stderr)
+        print("Set it like: export OPENAI_API_KEY='...'", file=sys.stderr)
+        print("Or create a .env file (see env.example).", file=sys.stderr)
+        return 2
+
+    client = None
+    if needs_api:
+        client = OpenAI(
+            api_key=os.environ.get("OPENAI_API_KEY"),
+            base_url=os.environ.get("OPENAI_BASE_URL"),
+            organization=os.environ.get("OPENAI_ORG_ID"),
+            project=os.environ.get("OPENAI_PROJECT_ID"),
+        )
 
     translated_chunks: list[str] = []
     for c in chunks:
@@ -386,6 +392,7 @@ def main(argv: list[str]) -> int:
             continue
 
         print(f"[do] chunk {c.index:04d} (chars={len(c.text)} markers={len(c.expected_page_markers)})")
+        assert client is not None
         out_text = _call_openai_translate(
             client,
             args.model,
