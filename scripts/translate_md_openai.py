@@ -331,7 +331,7 @@ def main(argv: list[str]) -> int:
     if not os.environ.get("OPENAI_API_KEY"):
         print("ERROR: OPENAI_API_KEY is not set in the environment.", file=sys.stderr)
         print("Set it like: export OPENAI_API_KEY='...'", file=sys.stderr)
-        print("Or create a .env file (see .env.example).", file=sys.stderr)
+        print("Or create a .env file (see env.example).", file=sys.stderr)
         return 2
 
     workdir: Path = args.workdir or Path(str(out_md) + ".work")

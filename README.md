@@ -28,7 +28,7 @@ The `--page-markers` option adds invisible `<!-- Page: N -->` comments, which ma
 
 ## 3) Translate to English with OpenAI (GPT‑5 / GPT‑5.2)
 
-Set credentials either by exporting env vars, or by creating a `.env` file (see `.env.example`). The translation script will load `.env` automatically.
+Set credentials either by exporting env vars, or by creating a `.env` file (see `env.example`). The translation script will load `.env` automatically.
 
 ```sh
 export OPENAI_API_KEY="YOUR_KEY"

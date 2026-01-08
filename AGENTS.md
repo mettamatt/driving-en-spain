@@ -6,7 +6,7 @@
   - `translate_md_openai.py` translates Markdown to English via the OpenAI API in resumable chunks.
 - `out/` stores generated Markdown outputs (e.g., `out/teorica_es.md`). Treat as build artifacts.
 - `TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf` is the source document.
-- `.env`/`.env.example` contain translation credentials and model config.
+- `.env`/`env.example` contain translation credentials and model config.
 
 ## Build, Test, and Development Commands
 Set up a virtual environment and install dependencies:
@@ -46,4 +46,4 @@ pandoc out/teorica_en.md -o out/teorica_en.html
 
 ## Security & Configuration Tips
 - Keep `.env` private; do not commit real API keys.
-- Prefer `.env.example` for sharing configuration defaults.
+- Prefer `env.example` for sharing configuration defaults.
