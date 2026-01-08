@@ -15,6 +15,7 @@ __pycache__/
 out/**
 !out/teorica_es.md
 !out/teorica_en.md
+!out/teorica_en.pdf
 !out/teorica_en.md.work/
 !out/teorica_en.md.work/**
 

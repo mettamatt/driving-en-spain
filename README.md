@@ -9,6 +9,7 @@ This repo is optimized for the source document:
 
 Notes:
 - `out/teorica_en.md` is checked in so most users can just read the final result.
+- `out/teorica_en.pdf` is checked in as a ready-to-read PDF export.
 - `out/teorica_en.md.work/` (manifest + chunk outputs) is checked in so developers can rebuild/post-process without re-translating.
 - Other generated files under `out/` are still treated as build artifacts (they’re gitignored by default).
 - The PDF is gitignored; you must obtain it separately and place it in the repo root.
@@ -19,6 +20,12 @@ Notes:
 - `scripts/pdf_extract_to_md.py` → extract PDF text into Spanish Markdown (optionally with page markers).
 - `scripts/translate_md_openai.py` → translate Markdown to English via the OpenAI API in resumable chunks.
 - `scripts/markdown_postprocess.py` → post-process Markdown (paragraph reflow + a few known table conversions). This is called automatically by `translate_md_openai.py`.
+
+## Outputs (checked in)
+
+- English (Markdown): [`out/teorica_en.md`](out/teorica_en.md)
+- English (PDF): [`out/teorica_en.pdf`](out/teorica_en.pdf)
+- Spanish (Markdown): [`out/teorica_es.md`](out/teorica_es.md)
 
 ## Requirements
 
