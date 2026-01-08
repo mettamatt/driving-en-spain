@@ -8,7 +8,9 @@ This repo is optimized for the source document:
 `TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf`.
 
 Notes:
-- `out/` is treated as a build artifact (it’s gitignored).
+- `out/teorica_en.md` is checked in so most users can just read the final result.
+- `out/teorica_en.md.work/` (manifest + chunk outputs) is checked in so developers can rebuild/post-process without re-translating.
+- Other generated files under `out/` are still treated as build artifacts (they’re gitignored by default).
 - The PDF is gitignored; you must obtain it separately and place it in the repo root.
 - This is not official material and not legal/learning advice — verify against current DGT sources.
 

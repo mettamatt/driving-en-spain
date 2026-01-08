@@ -12,7 +12,11 @@ __pycache__/
 *.pyc
 
 # build artifacts
-out/
+out/**
+!out/teorica_es.md
+!out/teorica_en.md
+!out/teorica_en.md.work/
+!out/teorica_en.md.work/**
 
 # source pdf (do not commit)
 TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf

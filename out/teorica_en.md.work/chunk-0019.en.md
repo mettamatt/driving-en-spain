@@ -1,0 +1,436 @@
+<!-- Page: 320 -->
+Rules for carrying people,
+animals and loads
+General rules
+Weight limit
+All vehicles have marked
+a maximum number of kilos they can carry
+depending on their features.
+It is forbidden for vehicles to carry
+more load than they can, counting the weight
+of passengers, luggage
+and other materials or loads.
+When a vehicle carries more weight than it should,
+some of its parts get damaged, such as:
+the tyres, the acceleration systems
+and the braking systems.
+Carrying animals
+Animals must travel in the back
+of the vehicle and be secured to the seat.
+When possible, a separating mesh
+or another device will be placed
+between the part where the animals travel
+and the part where the driver travels.
+<!-- Page: 321 -->
+Animals can never travel loose
+inside the vehicle.
+Carrying people
+General
+rules
+Carrying
+people
+on a bicycle
+Carrying
+people on a
+moped
+and motorcycle
+General rules
+The number of people who can travel
+in a vehicle depends on the number of seats
+that vehicle has.
+For example, in a car with five seats
+six people cannot travel.
+Watch video
+Each person must travel in their seat
+during the whole journey without moving
+to other spaces in the vehicle.
+<!-- Page: 322 -->
+However, people can travel in the parts
+of vehicles meant to carry loads
+when the vehicle has the necessary authorisation.
+The driver must spread the passengers
+in the vehicle and place the load so
+that they have enough space to drive
+and see the road well
+from all sides of the vehicle.
+The driver must pay special attention to:
+
+- Being comfortable in their seat.
+
+- Making sure the other passengers use
+their seats and do not move from them.
+
+- Placing the objects they carry well
+so they do not get in the way.
+All travellers will get in and out of the vehicle
+when it is stopped and on the side closest
+to the pavement or the hard shoulder.
+<!-- Page: 323 -->
+Carrying people on a bicycle
+On bicycles made for one person
+only the rider may travel.
+However, when the rider is an adult,
+they can carry as a passenger a child
+under seven years old.
+The child will travel in an allowed extra seat.
+This seat will be placed behind
+the seat of the adult who is riding.
+Carrying people on mopeds
+and motorcycles
+Watch video
+On mopeds and motorcycles one person can travel
+with the rider when the person
+meets the following requirements:
+
+- They are over 12 years old.
+
+- They sit behind the rider.
+<!-- Page: 324 -->
+- They sit correctly and place
+their feet on the footrests that are
+on the sides of the vehicle.
+
+- They wear the helmet correctly fitted.
+Watch video
+As an exception, children who are
+over seven years old can travel on a motorcycle
+or moped when they meet two requirements.
+
+- They travel with one of their parents
+or with an adult
+who takes responsibility for them.
+
+- They follow all the safety rules
+that other passengers must follow.
+Carrying loads
+A load is any object
+that is carried in the vehicle.
+It can be luggage, goods, or anything else.
+<!-- Page: 325 -->
+In vehicles made to carry people,
+you can carry luggage and other types of loads
+as long as they meet these requirements:
+
+- The load is suitable
+for the vehicle’s features.
+For example, it does not exceed the weight
+that vehicle can carry.
+
+- The load is well distributed and secured
+so that the vehicle does not lose
+its stability.
+
+- The driver of the vehicle shows
+that they are carrying that load,
+when necessary.
+
+- The load does not cover the lights or the warning
+signals of the vehicle.
+It also lets other vehicles clearly see
+the signals the driver makes with their hand.
+Objects carried in a vehicle
+must be placed in the boot.
+<!-- Page: 326 -->
+When it is necessary to place an object
+in another place in the vehicle, you must make sure
+that the object will not move
+in case of a crash or when braking.
+The driver must also make sure that the object
+lets them see the whole road well.
+It is forbidden for the loads
+carried by a vehicle to:
+
+- Move around inside the vehicle.
+
+- Fall off.
+
+- Drag along the road.
+
+- Make noise, give off dust or smoke.
+Transport of loads that can fall
+or that give off dust will always be done in special
+vehicles prepared to carry
+these materials.
+Motorcycles, three-wheeled vehicles,
+mopeds, cycles and bicycles can
+carry a trailer or semi-trailer
+when it meets the following features:
+
+- The trailer weighs at most
+half of what the vehicle weighs.
+<!-- Page: 327 -->
+- It travels during the day and is clearly visible.
+
+- The vehicle travels more slowly
+than the maximum speed
+allowed for that vehicle.
+
+- No people travel in the trailer.
+Allowed sizes for vehicles and loads
+Allowed sizes for vehicles
+Width
+The maximum width allowed for a vehicle
+is 2.55 metres, including its load if it carries one.
+2.55 m
+<!-- Page: 328 -->
+Height
+Vehicle
+Maximum height allowed
+(Including the load)
+Vehicles in general
+4 metres
+
+4 m
+Buses
+4.20 metres
+Recovery trucks that remove
+vehicles
+4.50 metres
+Length
+Vehicle
+Maximum length allowed
+(Including the load)
+Motor vehicles,
+except buses
+12 metres
+
+12 m
+
+Trailer only
+12 metres
+12 m
+Vehicles
+with trailer
+18.75 metres
+18.75 m
+Articulated
+vehicles,
+that carry
+a semi-trailer
+
+16.50 metres
+16.50 m
+Combination
+of vehicles
+in euromodular
+configuration
+25.25 metres
+25.25 m
+<!-- Page: 329 -->
+Allowed sizes for loads
+As a general rule, the load cannot be
+wider, higher, or longer than the vehicle carrying it.
+That is, it cannot stick out from the vehicle.
+But the load placed
+on the roof rack of the vehicle may stick out.
+Roof rack. The top part of the vehicle
+where luggage and other objects can be placed.
+In cases where the load
+has to stick out because there is no other way
+to carry the object, vehicles must meet
+different conditions
+depending on the type of vehicle.
+Vehicles
+that carry
+loads
+Vehicles
+that carry
+passengers
+Vehicles that only carry loads
+In vehicles used to carry
+goods, loads that cannot be bent
+or divided can stick out when they meet
+some requirements.
+Some examples of these loads can be:
+pipes, beams, or posts.
+<!-- Page: 330 -->
+Type of vehicle
+How much can the load stick out?
+Vehicles that
+are 5 metres
+or less in length
+One third of the metres
+the vehicle measures.
+For example, if the vehicle
+measures 3 metres, the load can
+stick out 1 metre.
+The load can stick out
+at the front and at the back
+1/3 Maximum
+1/3 Maximum
+
+Vehicles
+that are
+more than 5 metres
+in length
+The load can stick out 2 metres
+at the front and 3 metres at the back.
+Maximum 2m
+Maximum 3m
+
+Vehicles
+that measure
+at most
+2.55 metres
+in width
+when they carry
+the load
+The load can stick out 0.40 metres
+on each side of the vehicle.
+It is not allowed to place
+the load like this.
+The panels cannot
+go crosswise
+because they take up more.
+It is allowed to place
+the load like this.
+Larger
+dimension
+NOT ALLOWED
+Smaller
+dimension
+Larger dimension
+ALLOWED
+<!-- Page: 331 -->
+Combinations
+of vehicles
+in euromodular
+configuration
+The load cannot be longer
+than the vehicle.
+Vehicles that also carry passengers
+The load cannot stick out at the front
+or on the sides of the vehicle.
+The load can stick out at the back of the vehicle
+when it meets these features.
+
+- Loads that can be divided into
+smaller loads can stick out
+at most, 10 per cent
+of the vehicle’s length
+at the back of the vehicle.
+
+For example, in a vehicle that is
+three metres long,
+a bicycle placed at the back
+can stick out 30 centimetres
+at most.
+<!-- Page: 332 -->
+- Loads that cannot be divided
+into smaller loads
+can stick out, at most,
+15 per cent
+at the back of the vehicle.
+
+For example, in a vehicle that is
+3 metres long,
+a board placed on top
+can stick out at the back 45 centimetres
+at most.
+
+- In vehicles that are less
+than one metre wide, such as, for example,
+motorcycles, the load:
+
+- Cannot stick out at the front.
+
+- Can stick out at the back
+0.25 metres (25 centimetres).
+
+- Can stick out on each side
+0.50 metres (50 centimetres)
+from the centre of the vehicle.
+Whenever the load sticks out from the vehicle
+you must take all necessary measures
+to avoid accidents or damage to other people
+and vehicles.
+<!-- Page: 333 -->
+Marking the load that sticks out
+Loads that stick out at the front
+
+- During the day they are not marked.
+
+- At night or on days with low light
+they are marked with a white light.
+Loads that stick out at the back
+
+- They are marked during the day and at night.
+
+- To mark them, a plate is placed
+with red and white diagonal
+lines at the back
+of the load.
+
+- Two plates with red and white diagonal
+lines are placed at the back
+of the vehicle when the load is as wide
+as the vehicle.
+
+Each plate is placed at one end
+of the load that sticks out.
+<!-- Page: 334 -->
+Loads that stick out at the back
+must be lit with a red light
+when the vehicle travels at night
+or on a day with low light.
+Loads that stick out on the sides
+Loads that stick out more than 40 centimetres
+on the sides of the vehicle must have
+a light on at the ends of the load
+when it is night or a day with low light.
+The lights that mark the load
+at the front of the vehicle
+will be white
+and those that mark the load at the back
+will be red.
+<!-- Page: 335 -->
+Loading and unloading operations
+Loading and unloading operations
+of objects are always done off the road.
+When circumstances force it to be done
+on the road, the following precautions will be taken:
+
+- Not cause damage to other vehicles
+or pedestrians travelling in that area.
+
+- Respect the rules about the places
+where you can stop and park
+and the times when it is allowed.
+
+- Stop the vehicle on the side that is
+closest to the pavement or the hard shoulder.
+
+- Take as little time as possible to load
+or unload.
+
+- Avoid noise and disturbance
+that are not necessary.
+It is forbidden to leave loads on the road,
+the hard shoulder, or in pedestrian areas.
+Plates and signs on vehicles
+Number plate
+All motor vehicles, except motorcycles,
+must carry two number plates.
+One at the front and one at the back.
+Motorcycles and mopeds must carry
+only one plate, at the back.
+<!-- Page: 336 -->
+Trailers and semi-trailers
+that can carry more than 750 kilos
+must carry their number plate at the back
+and, in addition, the number plate of the vehicle
+that tows it.
+Trailers and semi-trailers that can carry
+less than 750 kilos will only carry the number plate
+of the vehicle that tows them at the back.
+Priority vehicle sign
+Light signal made up of one or more
+blue lights.
+It is carried by vehicles
+that provide emergency services.
+These vehicles are:
+police cars, fire engines,
+civil protection vehicles, rescue vehicles,
+and ambulances.
+These vehicles can use the light signal
+at the same time as the siren to make sounds.
