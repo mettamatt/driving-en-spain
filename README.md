@@ -4,6 +4,7 @@ This repo includes two scripts:
 
 - `scripts/pdf_extract_to_md.py` → extract PDF text into Spanish Markdown (optionally with page markers).
 - `scripts/translate_md_openai.py` → translate that Markdown to English via the OpenAI API in resumable chunks.
+- `scripts/markdown_postprocess.py` → post-process Markdown (paragraph reflow + a few known table conversions). This is called automatically by `translate_md_openai.py`.
 
 ## 1) Setup
 

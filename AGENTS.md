@@ -4,6 +4,7 @@
 - `scripts/` holds the Python tooling:
   - `pdf_extract_to_md.py` extracts text from the source PDF into Spanish Markdown.
   - `translate_md_openai.py` translates Markdown to English via the OpenAI API in resumable chunks.
+  - `markdown_postprocess.py` post-processes Markdown (paragraph reflow + a few known table conversions).
 - `out/` stores generated Markdown outputs (e.g., `out/teorica_es.md`). Treat as build artifacts.
 - `TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf` is the source document.
 - `.env`/`env.example` contain translation credentials and model config.
