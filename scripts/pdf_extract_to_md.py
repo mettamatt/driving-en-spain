@@ -60,7 +60,17 @@ def _lines_from_text(text: str) -> list[str]:
         collapsed.pop(0)
     while collapsed and collapsed[-1] == "":
         collapsed.pop()
-    return collapsed
+
+    # Drop consecutive duplicate non-numeric lines (common PDF extraction artifact).
+    deduped: list[str] = []
+    prev: str | None = None
+    for line in collapsed:
+        if line and prev == line and not _is_standalone_page_number(line):
+            continue
+        deduped.append(line)
+        prev = line
+
+    return deduped
 
 
 def _extract_pages_pymupdf(pdf_path: Path) -> list[PageText]:
