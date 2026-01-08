@@ -19,6 +19,7 @@ TABLE_KEY_RE = re.compile(r"^[A-Z0-9][A-Z0-9+./-]{0,7}$")
 AGE_YEARS_RE = re.compile(r"^\d{1,3}\s+years?$", re.IGNORECASE)
 
 TABLE_LINE_RE = re.compile(r"^\s*\|.*\|\s*$")
+SIMPLE_NUMBER_RE = re.compile(r"^\d{1,4}$")
 
 
 @dataclass(frozen=True)
@@ -415,6 +416,10 @@ def _next_nonblank(lines: list[str], start: int) -> int | None:
     return i if i < len(lines) else None
 
 
+def _is_simple_number(line: str) -> bool:
+    return bool(SIMPLE_NUMBER_RE.fullmatch(line.strip()))
+
+
 def _looks_like_licence_header(lines: list[str], index: int) -> tuple[tuple[str, str, str], int] | None:
     """
     Returns ((h1,h2,h3), idx_after_headers) if a licence table header is found at index.
@@ -578,6 +583,231 @@ def _render_two_col_table(headers: tuple[str, str], rows: list[TwoColRow]) -> li
     return out
 
 
+def _find_block_end(lines: list[str], start: int, *, stop_norms: set[str]) -> int:
+    """
+    Return the index of the first line that should terminate a conversion block.
+    """
+    i = start
+    while i < len(lines):
+        s = lines[i].strip()
+        if not s:
+            i += 1
+            continue
+        if PAGE_MARKER_RE.match(s) or HTML_COMMENT_LINE_RE.match(s) or HEADING_RE.match(s):
+            return i
+        if _norm(s) in stop_norms:
+            return i
+        i += 1
+    return len(lines)
+
+
+def _looks_like_outside_speed_table_header(
+    lines: list[str], index: int
+) -> tuple[tuple[str, str, str], int] | None:
+    if index >= len(lines):
+        return None
+    if _norm(lines[index]) != "motorway and dual carriageway":
+        return None
+    j = _next_nonblank(lines, index + 1)
+    if j is None or _norm(lines[j]) != "roads":
+        return None
+    k = _next_nonblank(lines, j + 1)
+    if k is None or _norm(lines[k]) != "tracks":
+        return None
+    return ((lines[index].strip(), lines[j].strip(), lines[k].strip()), k + 1)
+
+
+def _render_speed_max_min_table(
+    road_labels: tuple[str, str, str], values: list[str]
+) -> list[str]:
+    mw, roads, tracks = (_escape_md_table_cell(s) for s in road_labels)
+    mw_max, mw_min, r_max, r_min, t_max, t_min = (v.strip() for v in values[:6])
+    out = [
+        "| Road type | Max speed (km/h) | Min speed (km/h) |",
+        "| --- | --- | --- |",
+        f"| {mw} | {_escape_md_table_cell(mw_max)} | {_escape_md_table_cell(mw_min)} |",
+        f"| {roads} | {_escape_md_table_cell(r_max)} | {_escape_md_table_cell(r_min)} |",
+        f"| {tracks} | {_escape_md_table_cell(t_max)} | {_escape_md_table_cell(t_min)} |",
+    ]
+    return out
+
+
+def _render_speed_single_table(
+    road_labels: tuple[str, str, str], values: list[str]
+) -> list[str]:
+    mw, roads, tracks = (_escape_md_table_cell(s) for s in road_labels)
+    mw_v, r_v, t_v = (v.strip() for v in values[:3])
+    out = [
+        "| Road type | Speed limit |",
+        "| --- | --- |",
+        f"| {mw} | {_escape_md_table_cell(mw_v)} |",
+        f"| {roads} | {_escape_md_table_cell(r_v)} |",
+        f"| {tracks} | {_escape_md_table_cell(t_v)} |",
+    ]
+    return out
+
+
+def _parse_outside_speed_table(
+    lines: list[str], start: int, end: int
+) -> tuple[list[str], list[str]] | None:
+    """
+    Parse the "Motorway and dual carriageway / Roads / Tracks" speed blocks extracted from PDF tables.
+    Returns (rendered_table_lines, extra_lines) or None if it doesn't match.
+    """
+    header_norms = {
+        "maximum speed",
+        "minimum speed",
+        "maximum and minimum speed",
+    }
+
+    has_min = any(_norm(lines[i]) == "minimum speed" for i in range(start, end))
+
+    extras: list[str] = []
+    if has_min:
+        nums: list[str] = []
+        for i in range(start, end):
+            s = lines[i].strip()
+            if not s:
+                continue
+            if _norm(s) in header_norms:
+                continue
+            if _is_simple_number(s):
+                nums.append(s)
+                continue
+            extras.append(s)
+        if len(nums) < 6:
+            return None
+        # Any non-numeric lines get emitted after the table (e.g., "On some roads the limit may be 100.")."
+        return (nums[:6], extras)
+
+    # Max-only / mixed blocks: pick first three non-header values, allowing text for the first cell.
+    values: list[str] = []
+    for i in range(start, end):
+        s = lines[i].strip()
+        if not s:
+            continue
+        if _norm(s) in header_norms:
+            continue
+        if _is_simple_number(s):
+            values.append(s)
+            continue
+        if len(values) < 1:
+            values.append(s)
+            continue
+        # Remaining non-numeric lines are likely notes/figure captions.
+        extras.append(s)
+
+    if len(values) < 3:
+        return None
+    return (values[:3], extras)
+
+
+def _looks_like_in_town_speed_table_header(
+    lines: list[str], index: int
+) -> tuple[tuple[str, str, str], int] | None:
+    if index >= len(lines):
+        return None
+    if not _norm(lines[index]).startswith("streets without kerbs"):
+        return None
+    j = _next_nonblank(lines, index + 1)
+    if j is None or _norm(lines[j]) != "streets with one lane in each direction":
+        return None
+    k = _next_nonblank(lines, j + 1)
+    if k is None or _norm(lines[k]) != "streets with several lanes in each direction":
+        return None
+    return ((lines[index].strip(), lines[j].strip(), lines[k].strip()), k + 1)
+
+
+def _parse_in_town_speed_table(lines: list[str], start: int, end: int) -> list[str] | None:
+    speeds: list[str] = []
+    for i in range(start, end):
+        s = lines[i].strip()
+        if not s:
+            continue
+        if _is_simple_number(s):
+            speeds.append(s)
+            if len(speeds) >= 3:
+                break
+    if len(speeds) < 3:
+        return None
+    return speeds[:3]
+
+
+def _render_in_town_speed_table(street_labels: tuple[str, str, str], speeds: list[str]) -> list[str]:
+    s1, s2, s3 = (_escape_md_table_cell(s) for s in street_labels)
+    v1, v2, v3 = (v.strip() for v in speeds[:3])
+    out = [
+        "| Street type | Max speed (km/h) |",
+        "| --- | --- |",
+        f"| {s1} | {_escape_md_table_cell(v1)} |",
+        f"| {s2} | {_escape_md_table_cell(v2)} |",
+        f"| {s3} | {_escape_md_table_cell(v3)} |",
+    ]
+    return out
+
+
+def _looks_like_points_table_header(lines: list[str], index: int) -> tuple[tuple[str, str], int] | None:
+    if index >= len(lines):
+        return None
+    if _norm(lines[index]) != "type of driver":
+        return None
+    j = _next_nonblank(lines, index + 1)
+    if j is None or _norm(lines[j]) != "points":
+        return None
+    return ((lines[index].strip(), lines[j].strip()), j + 1)
+
+
+def _parse_points_rows(lines: list[str], start: int, end: int) -> tuple[list[tuple[str, str]], int]:
+    rows: list[tuple[str, str]] = []
+    i = start
+    while True:
+        i2 = _next_nonblank(lines, i)
+        if i2 is None or i2 >= end:
+            return rows, end
+        i = i2
+
+        # End conditions.
+        s = lines[i].strip()
+        if PAGE_MARKER_RE.match(s) or HTML_COMMENT_LINE_RE.match(s) or HEADING_RE.match(s):
+            return rows, i
+
+        # Parse label (may span multiple lines) until we hit a numeric value.
+        label_parts: list[str] = []
+        while i < end:
+            s = lines[i].strip()
+            if not s:
+                i += 1
+                continue
+            if _is_simple_number(s):
+                break
+            if PAGE_MARKER_RE.match(s) or HTML_COMMENT_LINE_RE.match(s) or HEADING_RE.match(s):
+                return rows, i
+            label_parts.append(s)
+            i += 1
+
+        i3 = _next_nonblank(lines, i)
+        if i3 is None or i3 >= end:
+            return rows, end
+        i = i3
+        val = lines[i].strip()
+        if not _is_simple_number(val) or not label_parts:
+            return rows, i
+        label = re.sub(r"\s+", " ", " ".join(label_parts)).strip()
+        rows.append((label, val))
+        i += 1
+
+
+def _render_points_table(headers: tuple[str, str], rows: list[tuple[str, str]]) -> list[str]:
+    h1, h2 = (_escape_md_table_cell(h) for h in headers)
+    out = [
+        f"| {h1} | {h2} |",
+        "| --- | --- |",
+    ]
+    for label, val in rows:
+        out.append(f"| {_escape_md_table_cell(label)} | {_escape_md_table_cell(val)} |")
+    return out
+
+
 def convert_known_tables(markdown: str) -> str:
     """
     Convert a couple of known "PDF extracted" table patterns into Markdown tables.
@@ -651,6 +881,57 @@ def convert_known_tables(markdown: str) -> str:
                 i = next_i2
                 continue
 
+        maybe_points_header = _looks_like_points_table_header(lines, i)
+        if maybe_points_header:
+            headers_p, start_rows_p = maybe_points_header
+            end_p = _find_block_end(lines, start_rows_p, stop_norms=set())
+            rows_p, next_i_p = _parse_points_rows(lines, start_rows_p, end_p)
+            if len(rows_p) >= 2:
+                out.append("")
+                out.extend(_render_points_table(headers_p, rows_p))
+                out.append("")
+                i = next_i_p
+                continue
+
+        maybe_speed_header = _looks_like_outside_speed_table_header(lines, i)
+        if maybe_speed_header:
+            road_labels, start_values = maybe_speed_header
+            end_values = _find_block_end(
+                lines,
+                start_values,
+                stop_norms={"type of vehicle", "types of vehicle"},
+            )
+            parsed = _parse_outside_speed_table(lines, start_values, end_values)
+            if parsed:
+                values, extras = parsed
+                out.append("")
+                if len(values) >= 6:
+                    out.extend(_render_speed_max_min_table(road_labels, values))
+                else:
+                    out.extend(_render_speed_single_table(road_labels, values))
+                out.append("")
+                if extras:
+                    out.extend(extras)
+                    out.append("")
+                i = end_values
+                continue
+
+        maybe_town_speed_header = _looks_like_in_town_speed_table_header(lines, i)
+        if maybe_town_speed_header:
+            street_labels, start_vals = maybe_town_speed_header
+            end_vals = _find_block_end(
+                lines,
+                start_vals,
+                stop_norms={"type of vehicle", "types of vehicle"},
+            )
+            speeds = _parse_in_town_speed_table(lines, start_vals, end_vals)
+            if speeds:
+                out.append("")
+                out.extend(_render_in_town_speed_table(street_labels, speeds))
+                out.append("")
+                i = end_vals
+                continue
+
         out.append(line)
         i += 1
 
@@ -681,4 +962,3 @@ def postprocess_markdown(
     if style == "paragraphs":
         return reflow_markdown_paragraphs(text)
     return text
-
