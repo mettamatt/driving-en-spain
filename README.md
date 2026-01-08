@@ -34,6 +34,7 @@ Set credentials either by exporting env vars, or by creating a `.env` file (see 
 export OPENAI_API_KEY="YOUR_KEY"
 export OPENAI_MODEL="gpt-5.2"   # or "gpt-5"
 export OPENAI_ENGLISH_VARIANT="uk"  # uk | us | international
+export OPENAI_MD_OUTPUT_STYLE="paragraphs"  # paragraphs | preserve
 
 . .venv/bin/activate
 python scripts/translate_md_openai.py out/teorica_es.md out/teorica_en.md
@@ -44,6 +45,7 @@ Resuming: if it stops mid-run, re-run the same command. It writes per-chunk outp
 Notes:
 - Default is `uk`, which tends to match European road terminology (e.g., “give way”, “roundabout”).
 - You can also override via CLI: `--english-variant uk|us|international`.
+- Default output style is `paragraphs` (reflowed for reading). Override via env/CLI: `OPENAI_MD_OUTPUT_STYLE` / `--output-style`.
 
 ## Optional: glossary (recommended for consistency)
 
