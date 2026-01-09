@@ -21,6 +21,11 @@ Notes:
 - `scripts/translate_md_openai.py` → translate Markdown to English via the OpenAI API in resumable chunks.
 - `scripts/markdown_postprocess.py` → post-process Markdown (paragraph reflow + a few known table conversions). This is called automatically by `translate_md_openai.py`.
 
+Optional utilities:
+- `scripts/postprocess_markdown_cli.py` → run the post-processor on a Markdown file.
+- `scripts/slice_md_pages.py` → extract specific `<!-- Page: N -->` segments into a new Markdown file.
+- `scripts/diff_pages.py` → diff specific page segments between two Markdown files.
+
 ## Outputs (checked in)
 
 - English (Markdown): [`out/teorica_en.md`](out/teorica_en.md)
