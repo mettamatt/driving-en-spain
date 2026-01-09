@@ -37,24 +37,24 @@ Validación: Cristina Casanova, Fernando Covas y Elisenda Copons (+Tu, Fundació
 ## ÍNDICE GENERAL
 
 <!-- Page: 3 -->
-Tema 1. Definiciones
-Tema 2. Documentación
-Tema 3. El estado del conductor
-Tema 4. Obligaciones de conductores y peatones
-Tema 5. Dispositivos de seguridad en el vehículo
-Tema 6. Elementos del vehículo y normas para usarlos
-Tema 7. Sistema de luces de los vehículos
-Tema 8. Señales de circulación
-Tema 9. La vía
-Tema 10. Velocidad y distancias
-Tema 11. Maniobras
-Tema 12. Normas de preferencia para circular
-Tema 13. Transportar personas y cargas
-Tema 14. Conducir de forma segura
-Tema 15. Mecánica y mantenimiento del vehículo
-Tema 16. Accidentes de tráfico
-Tema 17. Conducción preventiva y eficiente
-Anexo puntos. El permiso de conducir por puntos
+- Tema 1. Definiciones
+- Tema 2. Documentación
+- Tema 3. El estado del conductor
+- Tema 4. Obligaciones de conductores y peatones
+- Tema 5. Dispositivos de seguridad en el vehículo
+- Tema 6. Elementos del vehículo y normas para usarlos
+- Tema 7. Sistema de luces de los vehículos
+- Tema 8. Señales de circulación
+- Tema 9. La vía
+- Tema 10. Velocidad y distancias
+- Tema 11. Maniobras
+- Tema 12. Normas de preferencia para circular
+- Tema 13. Transportar personas y cargas
+- Tema 14. Conducir de forma segura
+- Tema 15. Mecánica y mantenimiento del vehículo
+- Tema 16. Accidentes de tráfico
+- Tema 17. Conducción preventiva y eficiente
+- Anexo puntos. El permiso de conducir por puntos
 
 <!-- Page: 4 -->
 

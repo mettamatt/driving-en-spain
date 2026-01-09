@@ -23,6 +23,7 @@ SIMPLE_NUMBER_RE = re.compile(r"^\d{1,4}$")
 MEASURE_TOKEN_RE = re.compile(r"\b\d+(?:\.\d+)?\s*(?:metres?|m)\b", re.IGNORECASE)
 LOAD_ROW_START_RE = re.compile(r"^vehicles that\b", re.IGNORECASE)
 INCL_LOAD_PREFIX_RE = re.compile(r"^\(?(?:including the load)\)?\s*", re.IGNORECASE)
+GENERAL_INDEX_HEADINGS = {"general index", "índice general", "indice general"}
 
 
 @dataclass(frozen=True)
@@ -412,6 +413,53 @@ def reflow_markdown_paragraphs(markdown: str) -> str:
     flush_paragraph()
     while out and out[-1] == "":
         out.pop()
+    return "\n".join(out).rstrip() + "\n"
+
+
+def _format_general_index(markdown: str) -> str:
+    """
+    Convert the GENERAL INDEX block into a Markdown list so GitHub renders it line-by-line.
+    """
+    lines = markdown.splitlines()
+    out: list[str] = []
+    in_general_index = False
+    started_list = False
+
+    def heading_text(line: str) -> str:
+        return re.sub(r"^\s*#{1,6}\s*", "", line).strip()
+
+    for line in lines:
+        if HEADING_RE.match(line):
+            heading = heading_text(line)
+            if _norm(heading) in GENERAL_INDEX_HEADINGS:
+                in_general_index = True
+                started_list = False
+            else:
+                in_general_index = False
+                started_list = False
+            out.append(line.rstrip())
+            continue
+
+        if in_general_index:
+            if HTML_COMMENT_LINE_RE.match(line):
+                if started_list:
+                    in_general_index = False
+                    started_list = False
+                out.append(line.rstrip())
+                continue
+            if line.strip() == "":
+                out.append(line.rstrip())
+                continue
+            if UNORDERED_LIST_RE.match(line) or ORDERED_LIST_RE.match(line):
+                out.append(line.rstrip())
+                started_list = True
+                continue
+            out.append(f"- {line.strip()}")
+            started_list = True
+            continue
+
+        out.append(line.rstrip())
+
     return "\n".join(out).rstrip() + "\n"
 
 
@@ -1635,6 +1683,8 @@ def postprocess_markdown(
         text = reflow_markdown_paragraphs(text)
         if enable_tables:
             text = convert_known_tables(text)
+
+    text = _format_general_index(text)
 
     text = _fix_kmh_diagram_numbers(text)
 

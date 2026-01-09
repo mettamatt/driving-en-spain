@@ -27,27 +27,27 @@ Published by the Ministry of the Interior - Directorate-General for Traffic (DGT
 
 <!-- Page: 3 -->
 
-Topic 1. Definitions
-Topic 2. Documentation
-Topic 3. The driver’s condition
-Topic 4. Obligations of drivers and pedestrians
-Topic 5. Safety devices in the vehicle
+- Topic 1. Definitions
+- Topic 2. Documentation
+- Topic 3. The driver’s condition
+- Topic 4. Obligations of drivers and pedestrians
+- Topic 5. Safety devices in the vehicle
 
-Topic 6. Vehicle elements and rules for using them
+- Topic 6. Vehicle elements and rules for using them
 
-Topic 7. Vehicle lighting system
-Topic 8. Traffic signs
-Topic 9. The road
-Topic 10. Speed and distances
-Topic 11. Manoeuvres
-Topic 12. Right of way rules
-Topic 13. Carrying people and loads
-Topic 14. Driving safely
-Topic 15. Vehicle mechanics and maintenance
-Topic 16. Traffic accidents
-Topic 17. Preventive and efficient driving
+- Topic 7. Vehicle lighting system
+- Topic 8. Traffic signs
+- Topic 9. The road
+- Topic 10. Speed and distances
+- Topic 11. Manoeuvres
+- Topic 12. Right of way rules
+- Topic 13. Carrying people and loads
+- Topic 14. Driving safely
+- Topic 15. Vehicle mechanics and maintenance
+- Topic 16. Traffic accidents
+- Topic 17. Preventive and efficient driving
 
-Points annex. The points-based driving licence
+- Points annex. The points-based driving licence
 
 <!-- Page: 4 -->
 
