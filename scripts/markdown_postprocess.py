@@ -11,6 +11,8 @@ FENCE_RE = re.compile(r"^\s*```")
 HEADING_RE = re.compile(r"^\s{0,3}#{1,6}\s+")
 UNORDERED_LIST_RE = re.compile(r"^(\s*[-*+])\s+(.+)$")
 ORDERED_LIST_RE = re.compile(r"^(\s*\d+[.)])\s+(.+)$")
+MD_IMAGE_RE = re.compile(r"^\s*!\[[^\]]*]\([^)]+\)\s*$")
+HTML_IMG_RE = re.compile(r"^\s*<img\b[^>]*>\s*$", re.IGNORECASE)
 
 DEFINITION_START_RE = re.compile(
     r"^[A-Za-z][A-Za-z0-9'’-]*(?:\s+[A-Za-z][A-Za-z0-9'’-]*){0,3}\.\s+"
@@ -201,6 +203,139 @@ def _is_markdown_table_start(lines: list[str], index: int) -> bool:
     return True
 
 
+def _split_md_table_row(line: str) -> list[str]:
+    """
+    Split a Markdown table row into cells, handling escaped pipes (`\\|`).
+    """
+    s = line.strip()
+    if s.startswith("|"):
+        s = s[1:]
+    if s.endswith("|"):
+        s = s[:-1]
+
+    cells: list[str] = []
+    buf: list[str] = []
+    prev_backslash = False
+    for ch in s:
+        if ch == "|" and not prev_backslash:
+            cells.append("".join(buf).strip())
+            buf = []
+            prev_backslash = False
+            continue
+        buf.append(ch)
+        prev_backslash = ch == "\\" and not prev_backslash
+    cells.append("".join(buf).strip())
+    return cells
+
+
+def _is_md_table_separator_row(cells: list[str]) -> bool:
+    """
+    Identify the separator row in a Markdown table, e.g.:
+      | --- | :---: | ---: |
+    """
+    for c in cells:
+        s = c.strip()
+        if not s:
+            # Treat an empty separator cell as separator-ish (helps with marker's
+            # trailing empty columns like `| -- |`).
+            continue
+        # Remove spaces and check only dashes/colons remain.
+        compact = s.replace(" ", "")
+        if not compact:
+            continue
+        if re.fullmatch(r":?-{2,}:?", compact) is None:
+            return False
+    return True
+
+
+def _render_md_table_row(cells: list[str]) -> str:
+    return "| " + " | ".join(cells) + " |"
+
+
+def cleanup_markdown_tables(markdown: str) -> str:
+    """
+    Clean up Markdown tables produced by extractors.
+
+    Currently:
+    - Drops trailing columns that are empty for all content rows.
+    - Removes consecutive duplicate separator rows.
+    - Removes completely empty content rows.
+    """
+    lines = markdown.splitlines()
+    out: list[str] = []
+
+    i = 0
+    while i < len(lines):
+        if not _is_markdown_table_start(lines, i):
+            out.append(lines[i].rstrip())
+            i += 1
+            continue
+
+        # Capture the whole table block.
+        table_lines: list[str] = []
+        while i < len(lines):
+            row = lines[i].rstrip()
+            if row.strip() == "":
+                break
+            if not TABLE_LINE_RE.match(row):
+                break
+            table_lines.append(row)
+            i += 1
+
+        parsed: list[tuple[list[str], bool]] = []
+        max_cols = 0
+        for row in table_lines:
+            cells = _split_md_table_row(row)
+            max_cols = max(max_cols, len(cells))
+            parsed.append((cells, _is_md_table_separator_row(cells)))
+
+        # Pad rows to uniform width.
+        padded: list[tuple[list[str], bool]] = []
+        for cells, is_sep in parsed:
+            if len(cells) < max_cols:
+                cells = cells + [""] * (max_cols - len(cells))
+            padded.append((cells, is_sep))
+
+        # Determine trailing columns to drop: keep up to the last non-empty cell
+        # across all non-separator rows.
+        last_nonempty = -1
+        for cells, is_sep in padded:
+            if is_sep:
+                continue
+            for idx in range(max_cols - 1, -1, -1):
+                if cells[idx].strip():
+                    last_nonempty = max(last_nonempty, idx)
+                    break
+
+        keep_cols = max_cols if last_nonempty < 0 else (last_nonempty + 1)
+        keep_cols = max(1, keep_cols)
+
+        cleaned_rows: list[str] = []
+        prev_was_sep = False
+        for cells, is_sep in padded:
+            cells = cells[:keep_cols]
+            if is_sep:
+                if prev_was_sep:
+                    continue
+                cleaned_rows.append(_render_md_table_row(["---"] * keep_cols))
+                prev_was_sep = True
+                continue
+
+            if all(not c.strip() for c in cells):
+                continue
+            cleaned_rows.append(_render_md_table_row([c.strip() for c in cells]))
+            prev_was_sep = False
+
+        # Ensure at least a header and separator.
+        if len(cleaned_rows) == 1:
+            cleaned_rows.append(_render_md_table_row(["---"] * keep_cols))
+
+        out.extend(cleaned_rows)
+        continue
+
+    return "\n".join(out).rstrip() + "\n"
+
+
 def reflow_markdown_paragraphs(markdown: str) -> str:
     """
     Convert hard-wrapped lines into more natural Markdown paragraphs.
@@ -227,6 +362,10 @@ def reflow_markdown_paragraphs(markdown: str) -> str:
     def is_heading(line: str) -> bool:
         return bool(HEADING_RE.match(line))
 
+    def is_image(line: str) -> bool:
+        s = line.strip()
+        return bool(MD_IMAGE_RE.match(s) or HTML_IMG_RE.match(s))
+
     def parse_list_start(line: str) -> tuple[str, str] | None:
         m = UNORDERED_LIST_RE.match(line)
         if m:
@@ -246,6 +385,7 @@ def reflow_markdown_paragraphs(markdown: str) -> str:
         if (
             is_heading(peek)
             or is_html_comment(peek)
+            or is_image(peek)
             or parse_list_start(peek)
             or FENCE_RE.match(peek)
             or TABLE_LINE_RE.match(peek)
@@ -308,6 +448,14 @@ def reflow_markdown_paragraphs(markdown: str) -> str:
             i += 1
             continue
 
+        if is_image(line):
+            flush_paragraph()
+            ensure_blank_line()
+            out.append(line)
+            ensure_blank_line()
+            i += 1
+            continue
+
         if is_html_comment(line):
             flush_paragraph()
             ensure_blank_line()
@@ -339,6 +487,7 @@ def reflow_markdown_paragraphs(markdown: str) -> str:
                     if (
                         is_heading(nxt)
                         or is_html_comment(nxt)
+                        or is_image(nxt)
                         or parse_list_start(nxt)
                         or TABLE_LINE_RE.match(nxt)
                     ):
@@ -397,6 +546,7 @@ def reflow_markdown_paragraphs(markdown: str) -> str:
                 nxt_line.strip() == ""
                 or is_heading(nxt_line)
                 or is_html_comment(nxt_line)
+                or is_image(nxt_line)
                 or parse_list_start(nxt_line)
                 or _looks_like_label_line(nxt_line)
                 or _looks_like_definition_start(nxt_line)
@@ -1683,6 +1833,9 @@ def postprocess_markdown(
         text = reflow_markdown_paragraphs(text)
         if enable_tables:
             text = convert_known_tables(text)
+
+    # Normalize extractor-generated tables (e.g. marker's trailing empty columns).
+    text = cleanup_markdown_tables(text)
 
     text = _format_general_index(text)
 
