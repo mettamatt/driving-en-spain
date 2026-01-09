@@ -9,8 +9,8 @@ is failing:
 
 - It takes a lot of effort to move the steering wheel.
 
-- It may be that the tyres have low
-pressure and need more air.
+- The tyres may have low
+pressure and may need inflating more.
 
 - The steering wheel is too loose.
 
@@ -21,23 +21,23 @@ on a straight road.
 - Some tyres may be
 more inflated than others.
 
-- The tyres wear out very soon.
+- The tyres wear out very quickly.
 
 - The steering wheel vibrates while you drive.
 The wheels may not be
-well balanced.
+properly balanced.
 <!-- Page: 381 -->
 Power steering
 A system that helps the driver
-use less force
+to use less force
 to turn the steering wheel and control the vehicle.
 There is also a type of power steering
 called progressive.
 Progressive power steering helps you turn
 the steering wheel very easily when the vehicle is going slowly
-and makes it a bit harder
-when the vehicle is travelling at higher speed.
-This makes it easier to control the vehicle.
+and makes it take a little more effort
+when the vehicle is travelling at a higher speed.
+This will make it easier to control the vehicle.
 <!-- Page: 382 -->
 Suspension system
 What is its function?
@@ -54,7 +54,7 @@ and driving without jolts.
 What happens when the suspension system fails?
 
 - The vehicle dips forwards
-or the back lifts a lot
+or the rear lifts a lot
 when braking.
 
 - The vehicle sways from side to side
@@ -76,15 +76,14 @@ in poor condition have?
 Especially on bends
 and when it is windy.
 
-- There is more risk of aquaplaning.
+- There is a higher risk of aquaplaning.
 
 - The vehicle needs more space
 to brake.
-Especially when the road is wet.
+Especially when the road surface is wet.
 
-- The system that stops
-the brakes from locking
-works worse.
+- The system that prevents
+the brakes from locking works worse.
 
 - Other parts of the vehicle
 wear out and break
@@ -100,19 +99,19 @@ more easily.
 Braking system
 What is its function?
 To reduce speed or stop the vehicle
-and stop it from moving again
+and prevent it from moving again
 when it should not.
-When you press the brake pedal,
-a force is sent to the vehicle’s wheels
+When you press the brake pedal, a force is transmitted
+to the vehicle’s wheels
 so that they stop and stop working.
-This force goes through a liquid
+This force passes through a fluid
 called brake fluid
 and reaches the parts that brake the wheels,
 which are the pads or the shoes.
 The pads and the shoes rub
 against other parts of the wheels
 and make them stop.
-What should you check?
+What must you check?
 
 - That there is brake fluid
 in the vehicle’s reservoir.
@@ -120,19 +119,19 @@ And that it is between the minimum
 and maximum values and that it is in good condition.
 <!-- Page: 386 -->
 - That the pads or the shoes are not
-worn and are well secured.
+worn and are properly secured.
 
-- That the tyres are well inflated,
+- That the tyres are properly inflated,
 with the pressure they need.
 Watch video
 Wheel and tyre check
-To keep the vehicle’s wheels and tyres
-in good condition, you must:
+To keep the vehicle’s
+wheels and tyres in good condition, you must:
 
 - Check that the tyres
-are well inflated,
+are properly inflated,
 at least once a month.
-Especially if you are going to make a long trip,
+Especially if you are going to make a long journey,
 or load the vehicle a lot.
 <!-- Page: 387 -->
 You must do this check
@@ -140,22 +139,22 @@ before you start driving.
 Watch video
 
 - Look at the tyre tread
-to make sure it is not too worn.
+to make sure it is not very worn.
 
 You must always carry a spare wheel
 in the vehicle and other systems.
-This wheel will be a bit more inflated than the others.
+This wheel will be slightly more inflated than the others.
 
 ## Topic 16. Road traffic accidents
 <!-- Page: 388 -->
 Contents
-Avoid road traffic accidents
+Avoiding road traffic accidents
 
 - Risk factors
 
 - Consequences of road traffic accidents
 for society
-People with more risk of having
+People with a higher risk of having
 road traffic accidents
 
 - Pedestrians
@@ -174,15 +173,15 @@ First aid
 
 - Moving the injured
 <!-- Page: 389 -->
-Avoid road traffic accidents
+Avoiding road traffic accidents
 Risk factors
 Most road traffic accidents
 can be avoided.
-Some circumstances of the driver, the vehicle,
+Some circumstances related to the driver, the vehicle,
 the road and the environment mean that there is
-more risk of having an accident.
+a higher risk of having an accident.
 The circumstances that make a person
-have more risk of having an accident
+more likely to have an accident
 are called risk factors.
 <!-- Page: 390 -->
 What are the main risk factors?
@@ -194,7 +193,7 @@ Number
 of accidents
 Human
 Speeding.
-Drinking alcohol.
+Consuming alcohol.
 Distractions.
 Between 70 and 90
 out of every 100.
@@ -207,7 +206,7 @@ on a bend.
 Between 10 and 35
 out of every 100.
 Vehicle
-fault
+failure
 The brakes fail.
 A tyre
 punctures.
@@ -218,12 +217,12 @@ Many of these risk factors
 can be avoided if the driver behaves
 responsibly.
 For example, by checking the tyres
-before starting a trip to check
-that they are in good condition and will not blow out.
+before starting a journey to check
+that they are in good condition and will not have a blowout.
 <!-- Page: 391 -->
 Accidents can also be avoided
 by reducing speed and leaving
-more safe distance from the vehicle
+a greater safe following distance from the vehicle
 in front on a road in the rain.
 Where and when are there more road traffic accidents?
 
@@ -232,7 +231,7 @@ happen on roads outside towns
 or cities.
 
 - Most accidents happen
-on straight roads and not on bends.
+on straight stretches and not on bends.
 
 - There are fewer accidents on motorways and dual carriageways
 than on the rest of the roads.
@@ -243,15 +242,15 @@ December and summer.
 
 - There are more accidents at weekends
 and on public holidays.
-Especially in the early morning hours.
+Especially in the early hours of the morning.
 
 - During the day, most accidents
 happen at the times people go to and leave
 work.
 Especially at the end of the working day.
 <!-- Page: 392 -->
-- The accidents that happen most
-inside cities are pedestrians being run over.
+- The accidents that happen most within
+cities are pedestrians being run over.
 Consequences of road traffic accidents
 for society
 Road traffic accidents are one of the main
@@ -280,18 +279,17 @@ to vehicles, the road
 and the environment.
 Spending on medical and healthcare resources
 A lot of staff and money must be invested
-to give first aid to the injured,
+to provide first aid to the injured,
 treatment, rehabilitation and the adaptations
-that each injured person needs.
+that each injured person may need.
 <!-- Page: 394 -->
 Spending on security resources
 A lot of staff and money must also be invested
-in the work that police officers and firefighters do
+in the work done by police officers and firefighters
 at accidents.
-Also, each accident means extra costs
-that insurance companies and the organisations
-that provide services to the injured
-have to pay.
+Also, each accident involves extra costs
+that have to be paid by insurers and the organisations
+that provide services to the injured.
 For all these reasons, the World Health
 Organization considers that road traffic accidents
 are a health problem
@@ -300,16 +298,16 @@ And it asks all of us to work together
 so that there are fewer deaths and injuries
 in road traffic accidents.
 <!-- Page: 395 -->
-People with more risk of having
+People with a higher risk of having
 road traffic accidents
 There are studies that show that some groups
 of people are more likely to have
 an accident.
 These groups of people are called
 risk groups.
-Within these risk groups we must distinguish
-between the risk pedestrians face
-and the risk drivers face.
+Within these risk groups, we must distinguish
+between the risk faced by pedestrians
+and the risk faced by drivers.
 <!-- Page: 396 -->
 Pedestrians
 When a vehicle runs over a pedestrian,
@@ -317,7 +315,7 @@ the pedestrian usually suffers very serious injuries.
 They are more likely to die when the accident
 is on a road outside the city
 because vehicles travel faster.
-Pedestrians are run over more in areas
+Pedestrians being run over happens more in areas
 where drivers cannot see them well
 because there is some kind of obstacle.
 To avoid being run over, pedestrians must take
@@ -325,9 +323,9 @@ the following precautions:
 
 - Cross at pedestrian crossings.
 
-- Cross when the traffic light is green.
+- Cross when the traffic lights are green.
 
-- Walk in the permitted spaces
+- Walk in the permitted areas
 on roads and hard shoulders.
 <!-- Page: 397 -->
 - Wait on the pavement to cross.
@@ -336,12 +334,12 @@ Not on the road.
 - Always look before crossing.
 
 - Check that no other vehicle is coming
-before you get out of yours.
+before getting out of yours.
 Drivers must also take
 measures not to run over pedestrians.
 
 - Drive at a moderate speed.
-Especially inside the city.
+Especially within the city.
 
 - Drive more carefully when you reach places
 where there are pedestrians and other vehicles
@@ -353,14 +351,14 @@ of the vehicle without looking.
 or amber.
 <!-- Page: 398 -->
 - Let pedestrians cross
-when they have priority.
+when they have right of way.
 
 - Take special care when a pedestrian
-crosses while talking on a mobile phone.
+crosses while talking on their mobile.
 They may be distracted.
 
 - Pay attention to pedestrians who walk
-near places with parties
+in places close to areas for parties
 and entertainment.
 
 - Take special care at the exit
@@ -376,8 +374,8 @@ BEEEP
 - Do not make changes to the outside
 of vehicles.
 The outside of today’s vehicles
-is designed to cause less harm
-in collisions with pedestrians.
+is designed to cause less damage
+when pedestrians are run over.
 
 - Drive more slowly when passing near
 a bus that is stopped.
@@ -386,8 +384,7 @@ that takes children to school.
 
 - Drive more carefully on rainy days.
 <!-- Page: 400 -->
-- Take many precautions when driving
-in reverse.
+- Take many precautions when reversing.
 There is a system called a pedestrian detector
 that can detect when there is a pedestrian
 in front of a vehicle.
@@ -395,33 +392,33 @@ It warns the driver and, if they do not respond,
 the system activates the brakes and stops the vehicle.
 <!-- Page: 401 -->
 Children and older people
-The pedestrians who have the most risk of having
+The pedestrians who are most at risk of having
 a road traffic accident are children
 and older people.
 Children
 
 - They are shorter than adults.
-This means they see less of the road
-and drivers see them worse too.
+This means they can see less of the road
+and drivers can see them worse.
 
 - They pay less attention to the road
 because they have less sense of danger.
 
 - They do not know the traffic rules.
-Most collisions with children
-happen when they leave school.
+Most children being run over
+happens when they leave school.
 <!-- Page: 402 -->
 Older people
 The main problems that many older people
 have as pedestrians are:
 
 - The noise in the environment does not let them hear
-a vehicle when it is coming closer.
+a vehicle when it is approaching.
 
 - They may have difficulty knowing
-how fast a vehicle is coming.
+the speed at which a vehicle is coming.
 
-- They may have difficulty telling
+- They may have difficulty distinguishing
 the colour of traffic lights.
 
 - There are few pedestrian crossings
@@ -438,6 +435,6 @@ plant pots or badly parked cars.
 - They may have orientation problems
 when they do not know the streets well.
 Older people have more accidents when
-they go alone than when they go with children.
+they go alone than when they are accompanied by children.
 When they go with children they are more careful
 to set a good example and to protect them.

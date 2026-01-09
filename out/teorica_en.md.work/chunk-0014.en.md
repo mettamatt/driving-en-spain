@@ -1,30 +1,44 @@
 <!-- Page: 238 -->
 - Without changing into other lanes.
 Not even to overtake.
+H
 A
 R
-C
+D
+S
+H
+O
+U
+L
+D
 E
-N
+R
+H
 A
 R
-C
+D
+S
+H
+O
+U
+L
+D
 E
-N
+R
 The hard shoulder
-If there is no road, or part of it,
-that is meant for them to travel on,
-the following vehicles must travel
-on the hard shoulder:
+If there is no road or part of it
+intended for them to travel on,
+the following vehicles
+must travel on the hard shoulder:
 
 - Cycles.
 
-- Vehicles that follow cyclists.
+- Vehicles following cyclists.
 
 - Mopeds.
 
-- Vehicles pulled by animals
-and riding animals.
+- Animal-drawn vehicles
+and ridden animals.
 
 - Special vehicles that, when loaded,
 do not weigh more than 3,500 kilos.
@@ -32,37 +46,37 @@ do not weigh more than 3,500 kilos.
 - Vehicles for people
 with difficulty moving.
 When the road has no hard shoulder
-or you cannot travel on it,
+or it is not possible to travel on it,
 these vehicles may use
 only the essential part of the lane.
 <!-- Page: 239 -->
-Bicycle riders
-can leave the hard shoulder and travel
-on the right-hand part of the lane
+Cyclists
+may leave the hard shoulder and travel
+on the right-hand side of the lane
 on downhill slopes with bends.
 See video
-All vehicles that travel
+All vehicles travelling
 on the hard shoulder must do so in single file,
 one behind the other.
-Except bicycle riders,
+Except cyclists,
 who may ride two abreast in the same line.
 But on stretches with no visibility,
 and when there is heavy traffic,
 they must also ride in single file, one behind the other.
-Vehicles that must travel
+Vehicles required to travel
 on the hard shoulder may not overtake
 other vehicles
 when the overtaking:
 
 - Lasts more than 15 seconds.
 <!-- Page: 240 -->
-- Needs more than
-200 metres to overtake.
-Bicycle riders
+- Needs a distance greater
+than 200 metres to overtake.
+Cyclists
 may overtake other vehicles
-without following these two rules.
+without complying with these two rules.
 Travelling on motorways and dual carriageways
-They cannot travel on motorways
+The following may not travel on motorways
 or dual carriageways:
 
 - Pedestrians.
@@ -76,7 +90,7 @@ or dual carriageways:
 - Vehicles for people with reduced mobility.
 
 - Personal mobility vehicles.
-Bicycle riders
+Cyclists
 who are over 14 years old
 may travel
 on the hard shoulder of the dual carriageway,
@@ -84,8 +98,8 @@ unless there is a sign that forbids it.
 <!-- Page: 241 -->
 On toll motorways you must go through
 the booths prepared to collect
-the ticket to enter the motorway
-or to pay when leaving.
+the entry ticket to the motorway
+or to pay on exit.
 These booths have a traffic light
 or green arrow when they are open
 and a traffic light or red cross
@@ -95,20 +109,20 @@ Emergencies on the motorway and dual carriageway
 Vehicles that have to travel
 more slowly on the motorway or dual carriageway due to a breakdown
 must leave this road
-at the first exit they find.
+at the first exit they come to.
 A vehicle that has to stop
 because of an emergency
 must do so on the hard shoulder or on the central reservation.
-To ask for help you can use
-the nearest emergency phone.
+To request assistance you can use
+the nearest emergency telephone.
 People travelling
 in the broken-down or crashed vehicle
 must not walk on the road.
 <!-- Page: 242 -->
 When a vehicle has an accident
 or a breakdown,
-another vehicle must remove it from the road,
-one that is authorised
+it must be removed from the road
+by another vehicle that is authorised
 to do so.
 For example, a tow truck.
 
@@ -127,7 +141,7 @@ Types of speed
 
 - Situations in which you must drive
 at low speed
-General speed
+Generic speed
 
 - Speed limits
 outside towns and cities
@@ -138,7 +152,7 @@ inside towns and cities
 - Minimum speed limits
 inside and outside towns and cities
 
-- Why are speed limits needed?
+- Why are speed limits necessary?
 Types of distance
 
 - Reaction distance
@@ -149,11 +163,11 @@ Types of distance
 
 - Lateral separation
 
-- Safety distance
+- Safe following distance
 <!-- Page: 244 -->
 Types of speed
-It is very important to drive at the right speed
-to avoid dangers and road traffic accidents.
+It is very important to drive at the appropriate speed
+to avoid dangers and traffic accidents.
 2.2 seconds
 1.2 seconds
 30 metres
@@ -172,32 +186,32 @@ Appropriate
 speed
 Maximum speed
 Maximum permitted speed
-that a vehicle can reach
+that a vehicle may reach
 on the road it is travelling on.
 When the vehicle goes faster
 than the maximum permitted speed,
-it is speeding.
-For example, it is speeding
+it is travelling with excess speed.
+For example, it is excess speed
 to travel at a speed of 100 kilometres per hour
 on a road where the
 maximum permitted speed is 90 kilometres per hour.
 <!-- Page: 245 -->
 Minimum speed
-Minimum speed that a vehicle must travel at
+Minimum speed at which a vehicle must travel
 on the road it is travelling on.
 When a vehicle travels
 at a speed lower than the permitted one,
-it has an abnormally reduced speed.
+it is travelling at an abnormally reduced speed.
 For example, it is an abnormally reduced speed
 to drive at 40 kilometres per hour on a motorway
 where the minimum permitted speed
 is 60 kilometres per hour.
 Inappropriate speed
 Speed that is within the
-permitted limits but is not suitable
-because of the driver’s condition, the weather,
-the state of the road,
-or the vehicle’s circumstances.
+permitted limits but is not appropriate
+because of the driver’s conditions, the weather,
+the condition of the road,
+or the circumstances of the vehicle.
 For example, driving at a speed
 of 70 kilometres per hour on a road
 where there are ice patches and the vehicle may skid.
@@ -208,23 +222,23 @@ because there is ice on the road.
 <!-- Page: 246 -->
 Driving at an inappropriate or excessive speed
 is one of the main causes
-of road traffic accidents.
+of traffic accidents.
 Appropriate speed
 Speed that is within the permitted limits
-and that is suitable for the weather conditions,
-the road, the vehicle’s circumstances
+and that is appropriate for the weather conditions,
+the road, the circumstances of the vehicle
 and the driver’s condition.
-The appropriate speed allows you
-to control the vehicle better if something unexpected happens.
+Appropriate speed allows you
+to control the vehicle better in unexpected situations.
 People are more likely to die
-in a road traffic accident
+in a traffic accident
 when the vehicle is travelling at excessive speed
 than when it is travelling at an appropriate speed.
 What must you take into account to travel
 at an appropriate speed?
-You must always respect speed limits.
-But you must also take into account
-the circumstances at each moment.
+You must always respect the speed limits.
+But, in addition, you must take into account
+the circumstances that occur at each moment.
 These circumstances are:
 
 - Your physical and psychological condition.
@@ -235,9 +249,9 @@ and the load you are carrying.
 It is better to drive more slowly
 when you are carrying a lot of weight in the vehicle.
 
-- The state of the road.
+- The condition of the road.
 You must go more slowly if the road
-has speed bumps or has poor surfacing.
+has speed humps or is badly surfaced.
 
 - The traffic situation.
 You must drive more slowly
@@ -257,7 +271,7 @@ Especially when there are children, older people,
 people who cannot see
 or with another type of physical disability.
 <!-- Page: 248 -->
-- Near lanes reserved for cyclists
+- Near roads reserved for cyclists
 and in all places where cyclists travel.
 
 - At pedestrian crossings where there is no
@@ -285,29 +299,29 @@ travelling in your lane or on the hard shoulder.
 gravel or other materials.
 <!-- Page: 250 -->
 - When approaching level crossings, roundabouts or junctions
-where you do not have priority.
+where you do not have right of way.
 In these cases, the maximum speed must be
 50 kilometres per hour.
 See video
 
 - When approaching narrow places
-or places where you cannot see well.
+or places where visibility is poor.
 
 - When passing an oncoming vehicle when
 the circumstances do not allow it
 to be done very safely.
-For example, when you pass a lorry
+For example, when you pass an oncoming lorry
 on a bend on a narrow road.
 
 - When you are dazzled by the lights of another vehicle.
 
 - When there is thick fog, rain, snow or smoke.
 <!-- Page: 251 -->
-General speed
+Generic speed
 What is it?
 Speed limit that each type
-of vehicle must follow on each road.
-There are general maximum and minimum speeds.
+of vehicle must comply with on each road.
+There are maximum and minimum generic speeds.
 Speed limits outside towns and cities
 Type of vehicle
 
@@ -318,67 +332,27 @@ Type of vehicle
 - Three-wheeled vehicles.
 
 - Motor caravans that can carry loads
-under 3,500 kilos.
+less than 3,500 kilos.
 
 - Pick up.
 <!-- Page: 252 -->
-Motorway
-and dual carriageway
-Roads
-Tracks
-Maximum
-speed
-Minimum
-speed
-Maximum
-speed
-Minimum
-speed
-Maximum
-speed
-Minimum
-speed
-120
-60
-90
+|  |  |  |
+| --- | --- | --- |
+| Motorway and dual carriageway | Roads | Tracks |
+| Speed Maximum Minimum | Maximum speed | Speed Speed Minimum Maximum Minimum |
+| 120 | 60 90 <br> On some roads the limit may be 100. | 45 30 15 |
 
-On some
-roads
-the limit
-may be
-100.
-45
-30
-15
 Type of vehicle
-
 - Buses.
-
-- Car-derived vans.
+- Car-derived vehicles.
 
 - Adaptable mixed vehicles.
-Motorway
-and dual carriageway
-Roads
-Tracks
-Maximum
-speed
-Minimum
-speed
-Maximum
-speed
-Minimum
-speed
-Maximum
-speed
-Minimum
-speed
-100
-60
-90
-45
-30
-15
+
+|  |  |  |
+| --- | --- | --- |
+| Motorway and dual carriageway | Roads | Tracks |
+| Speed Maximum Minimum | Maximum speed | Speed Speed Minimum Maximum Minimum |
+| 100 | 60 90 | 45 30 15 |
 <!-- Page: 253 -->
 Type of vehicle
 
@@ -389,7 +363,7 @@ Type of vehicle
 - Vans.
 
 - Motor caravans that can carry loads
-over 3,500 kilos.
+greater than 3,500 kilos.
 
 - Articulated vehicles.
 
@@ -451,18 +425,16 @@ Type of vehicle
 
 - Special vehicles without brake lights.
 
-- Special vehicles that tow a trailer.
+- Special vehicles towing a trailer.
 
 - Motor cultivators.
 Motorway
 and dual carriageway
 Roads
 Tracks
-Maximum and minimum
-speed
-Maximum and minimum
-speed
-They cannot
+Maximum and minimum speed
+Maximum and minimum speed
+May not
 travel
 25
 25
@@ -473,11 +445,9 @@ Motorway
 and dual carriageway
 Roads
 Tracks
-Maximum and minimum
-speed
-Maximum and minimum
-speed
-They cannot
+Maximum and minimum speed
+Maximum and minimum speed
+May not
 travel
 40
 30
@@ -492,7 +462,7 @@ Maximum speed
 45
 on a dual carriageway.
 On a motorway they
-cannot travel.
+may not travel.
 45
 30
 <!-- Page: 255 -->
@@ -510,15 +480,15 @@ and dual carriageway
 Roads
 Tracks
 Maximum speed
-They cannot
+May not
 travel
 45
 30
-For vehicles that do school transport
+For vehicles that provide school transport
 with children or that carry dangerous goods,
 the maximum speed limit is 10 kilometres
-less than for other vehicles.
-For example, the speed limit on a road
+less than for the rest of the vehicles.
+For example, the speed limit on roads
 for a bus is 90 kilometres per hour.
 But for a bus that takes children to school
 the speed limit is 80 kilometres per hour.
@@ -527,21 +497,19 @@ Maximum speed limit
 inside towns and cities
 Type of vehicle
 - All vehicles in general
-Streets
 
-| without kerbs, where the carriageway and the pavement are | Streets with one lane in each direction | Streets with several lanes in each direction |
+|  |  |  |
 | --- | --- | --- |
-| at the same level |  |  |
+| Streets without kerbs, where the carriageway and the pavement are at the same height | Streets with a single lane in each direction | Streets with several lanes in each direction |
 | 20 | 30 | 50 |
 
 Type of vehicle
-- Vehicles that carry dangerous goods.
+- Vehicles carrying dangerous goods.
 - Special vehicles that cannot reach
 
 a speed of more than 60 kilometres per hour.
-Streets
 
-| without kerbs, where the carriageway and the pavement are | Streets with one lane in each direction | Streets with several lanes in each direction |
+|  |  |  |
 | --- | --- | --- |
-| at the same level |  |  |
+| Streets without kerbs, where the carriageway and the pavement are at the same height | Streets with a single lane in each direction | Streets with several lanes in each direction |
 | 20 | 30 | 40 |

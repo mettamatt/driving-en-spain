@@ -5,17 +5,17 @@ Parking light
 It is used when a vehicle has to stop
 in an area that is poorly lit.
 It can be used instead of the sidelights.
-They are fitted at the front and at the back
+They are fitted at the front and at the rear
 of the vehicle.
 They are the same colours as the sidelights.
-Marker lights
-They are used to show clearly
+Width lights
+They are used to clearly indicate
 what the total width of the vehicle is.
 They are two front lights and two rear lights that are fitted
 on the outer edges of the vehicle,
-in the highest area, so they can be seen well.
+in the highest area, so that they can be seen well.
 They are used in the same cases as the sidelights.
-Loading gauge. Width of a vehicle
+Width. Width of a vehicle
 Watch video
 What colour are they?
 The front lights are white.
@@ -23,11 +23,11 @@ The rear lights are red.
 <!-- Page: 144 -->
 Which vehicles must have them?
 It is compulsory for cars, trailers
-and semi-trailers that are more
+and semi-trailers that measure more
 than 2.10 metres wide.
-It is optional for cars that are
+It is optional for cars that measure
 between 1.80 metres and 2.10 metres wide.
-Main beam or full beam
+Main beam or main beam headlights
 It is used to light a long distance
 in front of the vehicle travelling on the road.
 This light is compulsory for all cars
@@ -41,10 +41,10 @@ It is compulsory to have it on:
 
 - When you drive on a road at night,
 there is little natural light
-and you are going faster than 40 kilometres per hour.
+and you are going at more than 40 kilometres per hour.
 <!-- Page: 145 -->
 - At any time of day in tunnels
-outside a built-up area
+outside a municipality
 when the tunnel is not well lit.
 It is optional to switch it on when you drive
 at less than 40 kilometres per hour.
@@ -55,12 +55,12 @@ When is it forbidden to switch on the main beam?
 - When the vehicle is stopped.
 You can use the main beam
 to warn other drivers of a danger.
-You do this by switching the lights
-on and off intermittently so you do not dazzle.
-Dipped beam or passing beam
+You will do this by switching the lights
+on and off intermittently so as not to dazzle.
+Dipped headlights or dipped beam
 It is used to light the road
 in front of the vehicle without dazzling or bothering
-drivers of other vehicles.
+the drivers of other vehicles.
 It is white.
 <!-- Page: 146 -->
 It is compulsory for:
@@ -70,30 +70,29 @@ It is compulsory for:
 - Two- and three-wheeled mopeds:
 they must have one or two lights.
 Motorcycles, three-wheeled vehicles
-and heavy quadricycles can have one or two.
+and heavy quadricycles may have one or two.
 When is it compulsory to use it?
 At night, on all types of roads,
 inside and outside towns and cities.
 During the day, it is used when driving through tunnels
-or on temporary lanes that are put in place
+or through temporary lanes that are put in place
 because of roadworks, accidents or other circumstances.
 <!-- Page: 147 -->
-You must also use these lights when:
+These lights must also be used when:
 
 - The vehicle does not have main beam.
 
 - You drive at less than 40 kilometres per hour.
 
-- There is a chance that you could dazzle
-drivers of other vehicles
-when you switch on the main beam.
-Motorcycles must always have dipped beam on
-during the day
+- There is a possibility that you could dazzle
+the drivers of other vehicles
+when using the main beam.
+Motorcycles must always have dipped headlights on during the day
 when they travel on any street or road.
 Watch video
 Fog lights
 They are used to see the road better
-in fog, snow, heavy rain and smoke.
+in case of fog, snow, heavy rain and smoke.
 There are front and rear fog lights.
 The front lights are white or yellow.
 The rear lights are red
@@ -101,22 +100,22 @@ The rear lights are red
 How are they used?
 Front fog lights
 are used with the sidelights.
-You can also use them at the same time as
-main beam and dipped beam.
+You can also use them at the same time as the
+main beam and dipped headlights.
 Rear fog lights
-must only be used when there is a great need,
+you must only use in cases of great need,
 when the weather and visibility conditions
 are very bad.
-They can be switched on at the same time as main
-and dipped beam and the front fog lights.
+They can be switched on at the same time as the main beam
+and dipped headlights and the front fog lights.
 Watch video
 Reflector
 It is a device that reflects external light
 from other vehicles.
-It is used so the vehicle can be seen.
-These reflectors are on the front,
+It is used so that the vehicle can be seen.
+These types of lights are on the front,
 rear and side of the vehicle.
-Reflectors must be:
+Reflectors must be the colour:
 
 - White at the front.
 
@@ -131,9 +130,9 @@ Direction indicator
 It is used to warn that a vehicle is going to turn
 and move to the right or to the left.
 You must switch it on whenever you are going to change
-direction, change direction of travel, or change lane.
+direction, do a U-turn or change lane.
 You must switch it off when you finish that movement.
-Its light is yellow and flashes.
+Its light is yellow and flashes intermittently.
 It is compulsory for all motor vehicles,
 trailers and semi-trailers.
 Watch video
@@ -149,7 +148,7 @@ their trailers and semi-trailers.
 Watch video
 When are they used?
 They are used in the following cases
-both during the day and at night.
+both by day and by night.
 
 - When a vehicle has a breakdown
 and cannot reach the minimum speed
@@ -157,31 +156,31 @@ that must be driven on that road.
 
 - When a vehicle is making
 an emergency journey.
-For example, taking a woman to hospital
+For example, taking to hospital a woman
 who is about to give birth.
 
 - To warn that another vehicle is stopped
 because of a problem or an emergency
 on any road or in a tunnel.
 
-- When picking up and dropping off passengers in
+- When picking up and setting down passengers in
 school transport vehicles.
 <!-- Page: 151 -->
 Brake light
-It shows that the vehicle is braking.
+It indicates that the vehicle is braking.
 The driver must warn with these lights
 whenever they are going to brake the vehicle,
-even for a short time.
+even if it is for a short time.
 For example, stopping at a red traffic light.
-Their light is bright red and they are fitted
-at the back of the vehicle.
+Its light is an intense red and they are fitted
+at the rear of the vehicle.
 It is compulsory for all cars,
 mopeds, trailers and semi-trailers.
 
 Watch video
 Third brake light
 It is a single light that is fitted
-at the back of the vehicle,
+at the rear of the vehicle,
 above the brake lights.
 It switches on at the same time as the brake lights
 and is the same colour.
@@ -189,18 +188,18 @@ This light is optional for cars.
 Motorcycles cannot have it.
 <!-- Page: 152 -->
 Reversing light
-It lights the road from the back
-of the vehicle to warn that the vehicle
+It lights the road from the rear
+of the vehicle to warn that that vehicle
 is going to travel backwards.
-It is one or two white lights
+They are one or two white lights
 that switch on automatically
 when the vehicle starts to go backwards.
 This light is compulsory for all cars,
-except motorcycles, which are not allowed to have it.
+except for motorcycles, which are forbidden to have it.
 It is optional for three-wheeled vehicles
 and heavy quadricycles.
 Watch video
-Audible warnings
+Audible warning devices
 They are sounds used to warn
 other drivers that a vehicle is there.
 They can only be used in the following cases.
@@ -212,9 +211,9 @@ or city, to warn a driver
 that you are going to overtake them.
 <!-- Page: 153 -->
 - To warn other vehicles that you need
-to pass or park there because you are doing
+to pass or park there because you are carrying out
 a priority service.
-For example, when you take a seriously injured person
+For example, when you are taking a seriously injured person
 to hospital.
 
 ## Topic 8. Traffic signs
@@ -231,7 +230,7 @@ Types of signs
 - Traffic lights
 Vertical signs
 
-- Signs that warn of danger
+- Warning signs
 
 - Regulatory signs
 
@@ -254,7 +253,7 @@ In cases where there is
 a different instruction
 for each lane
 there will be road markings
-that show it.
+that indicate this.
 
 - All drivers and pedestrians
 must obey the instructions
@@ -262,11 +261,10 @@ of traffic signs.
 <!-- Page: 156 -->
 Which traffic signs must you obey first?
 1
-Signals and orders from traffic
-officers.
+Signals and orders from traffic officers.
 2
-Signs that show that
-the road has been changed
+Signs that indicate that
+the road has been modified
 temporarily for some reason
 and signs that warn of bends
 and obstacles.
@@ -277,15 +275,15 @@ Traffic lights.
 Watch video
 Signs on the right and left
 
-- You must obey vertical signs and traffic lights
+- You must obey the vertical signs and traffic lights
 that are on your right on the road.
 
-- When you want to turn left or go straight on
+- When you want to turn left or go straight ahead
 and there are no vertical signs or traffic lights on the right
 you must obey the signs that are on the left.
 
 - You must obey the signs on your left
-when you want to turn left or go straight on
+when you want to turn left or go straight ahead
 and there are vertical signs or traffic lights
 with different instructions on each side.
 <!-- Page: 157 -->
@@ -293,23 +291,19 @@ Contradictory signs
 Sometimes there are signs placed together,
 but they give different instructions.
 
-| Different signs Stop sign and | Which must you obey? Green traffic light |
+| Different signs | Which one must you obey? |
 | --- | --- |
-| green traffic light |  |
-| Stop sign and |  |
-|  | Stop sign |
-| give way sign |  |
-| Green traffic light and | You must obey both. |
-| no left turn sign | You can go straight on |
-|  | or turn right. |
+| STOP sign and traffic light on green | Traffic light on green |
+| STOP sign and give way sign | STOP sign |
+| Traffic light on green and no left turn sign | You must obey both. <br> You can go straight ahead or turn right. |
 
 Traffic officers
-Signals and orders from officers
+Signals and orders from traffic officers
 The signals given by traffic officers
 
-must always be followed.
+must always be obeyed.
 To give instructions they will use objects and clothing
-that can be seen from 150 metres away.
+that can be seen well from 150 metres away.
 Traffic officers will give instructions
 by the following means:
 
@@ -332,14 +326,13 @@ All drivers
 approaching the officer must stop.
 The officer’s arm or arms
 act as a barrier for vehicles
-that are approaching.
+approaching.
 This order must be obeyed
 until the officer gives another instruction,
 even if they lower their arms.
-Waves a
+Swings a
 red or yellow
-light
-with one arm
+light with one arm
 Drivers
 towards whom the officer directs the light must stop.
 Arm extended
@@ -352,48 +345,21 @@ from which the officer makes the arm signal
 must reduce the vehicle’s speed.
 <!-- Page: 159 -->
 Sound signals with a whistle
-Several short whistle blasts
-repeated
-Stop the vehicle.
-One long whistle blast Continue driving
-and keep going.
-Signals from a vehicle
-Red flag
-Vehicles cannot travel
-on that road.
-Green flag
-Vehicles can travel again
-on that road.
-Yellow flag
-Drivers and pedestrians must
-travel with great care
-because there is a possible danger
-on the road.
-Arm extended
-downwards and still
-You must stop
-on the right-hand side
-if the arm points at you.
-Police vehicle
-with a red or
-yellow flashing light
-and making sounds
-You must stop the vehicle
-on the right-hand side,
-in front of the police vehicle
-and stay inside the vehicle
-following all the officer’s instructions.
+
+
+| Several short, repeated whistle blasts One long whistle blast | Continue driving |
+| --- | --- |
+| Arm extended downwards and held still <br> Police vehicle with a flashing red or yellow light and emitting sounds | on the right-hand side for the drivers indicated by the arm. <br> You must stop the vehicle on the right-hand side, in front of the police vehicle, and stay inside the vehicle following all the officer’s instructions. |
 <!-- Page: 160 -->
 Temporary signs
 Panels
 with messages
 that change
-Roadworks
-signs
+Beacons
 Panels with messages that change
 They are panels placed on roads
 that change the information depending
-on traffic conditions.
+on traffic circumstances.
 They are used to:
 
 - Give information to drivers.
@@ -402,9 +368,9 @@ They are used to:
 
 - Give recommendations and instructions
 that must be followed.
-Roadworks signs
+Beacons
 They are lights, signs and devices
 to highlight roadworks.
-They show the direction you must follow
+They indicate the direction you must follow
 on a street or road
 and the obstacles you may find on them.

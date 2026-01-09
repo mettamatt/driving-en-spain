@@ -1,54 +1,22 @@
-<!-- Page: 40 -->
-What consequences are there if you do not insure
-the vehicle?
-
-- The vehicle cannot be driven.
-If a traffic officer stops you,
-they will immobilise the vehicle at that moment.
-
-- The owner of the vehicle has to pay
-the costs of the place where the vehicle
-is kept while it has no insurance.
-
-- The owner of the vehicle has to pay
-a fine.
-You must always carry in the vehicle
-the proof of payment for the insurance.
-This way you can show that the vehicle is insured.
-This proof will show the following information:
-
-- Name of the insurance company.
-
-- Vehicle registration number.
-
-- Insurance certificate.
-
-- Date when the insurance must be renewed.
-
-- Indication of what damage the insurance covers.
-Responsible people
-As a general rule, the person who commits
-an offence or infringement as a driver or pedestrian
-is the one who must pay the fine or the penalty.
 <!-- Page: 41 -->
 However, there are cases in which drivers
-are responsible for an offence or infringement,
+are responsible for a fault or offence,
 even if they did not cause the accident.
 These cases are:
 
 - Drivers and passengers who do not wear a helmet
-in vehicles where it is compulsory to wear one.
+in vehicles in which it is compulsory to wear it.
 
 - Drivers who carry minors
-in vehicles where it is not allowed
+in vehicles in which it is not allowed
 for children of that age to travel.
-When traffic offences or infringements
-are committed by a person under 18,
+When traffic faults or offences
+are committed by a person under 18 years old,
 the fine must be paid by their father, mother, or guardian.
-The person who is the registered keeper of a vehicle is responsible
-for offences or infringements related to:
+The person who is the vehicle owner is responsible
+for faults or offences related to:
 
-- The vehicle documents.
+- The vehicle documentation.
 
 - Not complying with the vehicle inspections.
 
@@ -94,11 +62,11 @@ that happen on the road.
 Also, you must have enough training
 to handle the vehicle
 and understand all traffic rules.
-Sight
+Eyesight
 Through our eyes we receive most
 of the information to drive well.
 Some of this information is:
-road condition, traffic signs,
+the condition of the road, traffic signs,
 distance to objects
 and the speed of other vehicles.
 To drive well it is necessary to see things
@@ -174,7 +142,7 @@ What can cause fatigue?
 - What the driver is like.
 What the road is like:
 
-- Road with a lot of traffic.
+- Road with heavy traffic.
 
 - The road surface is in poor condition.
 
@@ -188,7 +156,7 @@ What the vehicle is like:
 The suitable temperature is 23 degrees
 more or less.
 
-- You drive at night with little lighting.
+- You drive at night with poor lighting.
 
 - You drive in a vehicle in poor condition
 or that makes too much noise.
@@ -202,7 +170,7 @@ or you take very short breaks.
 
 - You drive fast for a long time.
 
-- You drive sleepy, after drinking alcohol
+- You drive when sleepy, after drinking alcohol,
 or you feel unwell.
 
 - You do long journeys and at night
@@ -222,16 +190,16 @@ These signs are:
 
 - You hear badly.
 
-- Feeling that your arms are numb.
+- A feeling of having numb arms.
 
-- Feeling of pressure in your head.
+- A feeling of pressure in your head.
 
 - You move a lot in the seat
 and change posture.
 <!-- Page: 48 -->
 - You make slower movements.
 
-- Feeling more nervous and irritable.
+- A feeling of being more nervous and irritable.
 
 - Difficulty making decisions
 about driving.
@@ -239,14 +207,14 @@ about driving.
 - You take longer to react.
 Being sleepy (drowsiness)
 Many road traffic accidents
-are related to driving while sleepy.
+are related to driving when sleepy.
 It is not necessary to fall completely asleep
 to have an accident for this reason.
 The symptoms of drowsiness appear
 before falling fully asleep.
 Drowsiness.
-A state in which you feel tired,
-heavy in the body, and sleepy.
+A state in which you have a feeling of tiredness,
+heaviness in the body, and sleepiness.
 Z Z Z
 <!-- Page: 49 -->
 What can cause drowsiness?
@@ -271,7 +239,7 @@ that you are suffering drowsiness
 and you must stop driving.
 These signs are:
 
-- Difficulty keeping your head straight,
+- Difficulty keeping your head upright,
 or keeping your eyes open.
 
 - Blurred vision.
@@ -281,14 +249,14 @@ or keeping your eyes open.
 - Losing concentration
 or having meaningless thoughts.
 
-- Getting distracted by anything.
+- Being distracted by anything.
 
 - Being restless or irritable.
 
 - Difficulty remembering the last kilometres
 you have travelled.
 
-- Drifting out of your lane.
+- Leaving your lane.
 
 - Not noticing traffic signs
 or the place where you must leave the road.
@@ -302,10 +270,10 @@ Effects of drowsiness:
 - Difficulty making decisions
 about driving.
 
-- Feeling that it is hard to make movements
+- Feeling that it is hard for you to make movements
 with your body or you make them more slowly.
 
-- Falling asleep for a few seconds without realising it.
+- Falling asleep for a few seconds without realising.
 <!-- Page: 51 -->
 How can you avoid fatigue and drowsiness?
 
@@ -318,7 +286,7 @@ or every 200 kilometres,
 even if you do not feel fatigue or drowsiness.
 
 - If you have a fatigue detector,
-follow what it tells you.
+obey what it tells you.
 It is a system that works through
 sensors and recognises if the person
 is very tired or about to fall asleep.
@@ -332,30 +300,30 @@ that happen outside the vehicle.
 Alcohol
 It is very dangerous to drink alcohol
 when you are going to drive, even if you drink a small amount.
-Alcohol spreads through your whole body
+Alcohol spreads throughout your body
 through the blood and affects, above all,
-the brain and sight.
+the brain and eyesight.
 Alcohol is the cause of many road traffic accidents.
 Blood alcohol level
-Blood alcohol is the total amount of alcohol
+Blood alcohol level is the total amount of alcohol
 in the blood after drinking.
-The blood alcohol level is the amount of alcohol
+The blood alcohol limit is the amount of alcohol
 in each litre of blood.
 It can be calculated in two ways:
 
 - Grams of alcohol in each litre of blood.
 
 - Milligrams of alcohol in each litre
-of air that we breathe out from the lungs when breathing.
+of air that we expel from the lungs when breathing.
 <!-- Page: 53 -->
-The permitted blood alcohol level
+The permitted blood alcohol limit
 depends on the type of vehicle
 and the driving licence.
-1.  For people who got
-their driving licence less than two years ago.
-And for vehicles that carry:
+1.  For people who have obtained
+the driving licence less than two years ago.
+And for vehicles that transport:
 
-- Goods with a weight over 3,500 kilos.
+- Goods with a weight greater than 3,500 kilos.
 
 - More than nine people.
 
@@ -365,19 +333,19 @@ And for vehicles that carry:
 
 - Dangerous loads.
 
-The permitted alcohol level is:
+The permitted blood alcohol limit is:
 
 - 0.15 milligrams of alcohol per litre of air.
 
 - 0.3 grams of alcohol per litre of blood.
 2.  For any other vehicle and driver,
-the permitted alcohol level is:
+the permitted blood alcohol limit is:
 
 - 0.25 milligrams of alcohol per litre of air.
 
 - 0.5 grams of alcohol per litre of blood.
-In any case, the only safe blood alcohol level
-for driving is 0.0, that is, not drinking alcohol.
+In any case, the only blood alcohol level
+that is safe for driving is 0.0, that is, not drinking alcohol.
 <!-- Page: 54 -->
 What factors influence the blood alcohol level?
 Alcohol does not affect all people
@@ -419,7 +387,7 @@ drinking alcohol.
 After that, the effects of alcohol go down
 very slowly.
 
-- The type of drink and the way you drink it.
+- The type of drink and the way of drinking it.
 Alcohol reaches the blood faster
 after drinking some drinks
 such as gin or whisky than after drinking
@@ -428,13 +396,13 @@ Also, alcohol reaches the blood faster
 when it is mixed with tonic or some soft drinks.
 
 - Sleeping after drinking.
-Alcohol is removed more slowly
+Alcohol is eliminated more slowly
 when we sleep.
-So, it is not safe to drive after
+For that reason, it is not safe to drive after
 drinking a lot of alcohol and sleeping a few hours.
 
 - The speed at which you drink.
-The body removes alcohol better
+The body eliminates alcohol better
 when you drink slowly than when you drink fast.
 
 - Drinking alcohol without eating.
@@ -443,8 +411,8 @@ reach the blood more slowly.
 
 - Age.
 Alcohol usually affects people
-under 18 and people
-over 65 more.
+under 18 years old and people
+over 65 years old more.
 <!-- Page: 56 -->
 - Personal circumstances.
 There are circumstances that can make
@@ -459,8 +427,42 @@ behaviour
 
 - You take more risks.
 
-- You commit more offences
+- You commit more faults
 that cause accidents.
 
 - You may treat other drivers
 in a more aggressive or impulsive way.
+<!-- Page: 57 -->
+On the way
+you see the surroundings
+
+- You see traffic signs
+and traffic lights worse.
+
+- You judge the distance
+to other vehicles worse.
+
+- Less ability
+to see what happens to one side
+and the other.
+
+- You are dazzled more
+by vehicle lights.
+
+- Possibility of being distracted
+by elements in the surroundings.
+On
+movements
+
+- Difficulty coordinating
+your body movements.
+On decision-
+making
+
+- You need more time
+to react.
+
+- Higher probability
+of making bad decisions
+or not knowing
+how to carry them out.

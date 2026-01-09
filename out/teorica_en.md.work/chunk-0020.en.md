@@ -1,58 +1,58 @@
 <!-- Page: 337 -->
 Speed limit plate
-It shows that the vehicle that has it cannot travel
+It indicates that the vehicle carrying it cannot travel
 at more kilometres per hour
 than the number shown on the plate.
-It is placed on the back of the vehicle.
+It is placed on the rear of the vehicle.
 
 Slow vehicle plate
-It shows that the vehicle that has it
+It indicates that the vehicle carrying it
 cannot travel faster
 than 40 kilometres per hour.
-It is placed on the back of the vehicle.
+It is placed on the rear of the vehicle.
 Long vehicle plate
-It shows that the vehicle that has it
+It indicates that the vehicle carrying it
 is more than 12 metres long.
-This plate is placed on the back of the vehicle.
+This plate is placed on the rear of the vehicle.
 It is rectangular, yellow, and with red edges.
 <!-- Page: 338 -->
-Plate for a vehicle that carries
+Plate for a vehicle carrying
 dangerous goods
-These plates can have numbers.
-The numbers at the top give information
+These plates may have numbers.
+The numbers at the top inform
 about the type of danger that this material can cause.
 For example, if it is toxic material or if it can burn.
-The numbers at the bottom show the material
+The numbers at the bottom indicate the material
 that the vehicle is carrying.
 
 New driver plate
-It shows that the driving licence of the person
-who is driving the vehicle is less than one year old.
+It indicates that the driving licence of the person
+driving the vehicle is less than one year old.
 This sign is placed on the rear window of the vehicle,
-in a place where it can be seen well.
+in a place where it can be seen clearly.
 <!-- Page: 339 -->
-Sign to show danger
-It shows that the vehicle is stopped
-on the road because of any emergency,
-because of a breakdown, or because the load it carries
+Sign to indicate danger
+It indicates that the vehicle is stopped
+on the road due to any emergency,
+due to a breakdown, or that the load it is carrying
 has fallen onto the road surface.
 It is a yellow sign that is placed
-on the highest part of the vehicle so that it can be seen well.
-Vehicle roadworthiness test sign
-Sticker that shows that the vehicle has passed
-the roadworthiness test and is in good condition
+on the highest part of the vehicle so that it can be seen clearly.
+Vehicle roadworthiness inspection sign
+Sticker that indicates that the vehicle has passed
+the roadworthiness inspection and is in good condition
 to drive.
-It also shows the date when it must have
-the next check.
-This sticker is placed on the right side of the windscreen
+It also indicates the date when it must have
+the next inspection.
+This sticker is placed on the right-hand side of the windscreen
 at the front of motor vehicles.
 On trailers and semi-trailers it is placed
-in a place where it can be seen well.
+in a place where it can be seen clearly.
 <!-- Page: 340 -->
 Escort warning sign
 for special transport
 Sign that a vehicle carries on the top
-to show that a special transport vehicle
+to indicate that a special transport vehicle
 is travelling nearby.
 For example, a combine harvester or an excavator.
 SPECIAL
@@ -87,20 +87,20 @@ The weather
 - Driving in heat
 <!-- Page: 342 -->
 The road
-On some road sections you must be
+On some stretches of road you must be
 more careful than on others when driving
-because more difficulties can appear.
+because more difficulties may appear.
 These places are:
 Bends
 Road
 works
 area
 Bends
-Bends are dangerous parts of the road
+Bends are dangerous stretches of road
 where you must drive more carefully.
-The reason is that, when you take a bend at speed,
+The reason is that, when taking a bend at speed,
 a force is created that can push the vehicle
-out of the bend and send it to the side it should not go to.
+out of the bend and send it towards the side it must not go to.
 <!-- Page: 343 -->
 Bends are more dangerous when:
 
@@ -109,23 +109,23 @@ Bends are more dangerous when:
 - The vehicle is carrying a lot of weight.
 
 - The vehicle is travelling very fast.
-In these cases, the vehicle can
-go straight on, as if there were no bend.
-So, it can leave the road
-or go into the opposite lane.
-Steps to take a bend well
+In those cases, the vehicle can
+continue straight on, as if there were no bend.
+Because of this, it can leave the road
+or enter the oncoming lane.
+Steps to take a bend properly
 Before entering the bend you must:
 
 - Reduce speed or brake
 if necessary.
 
 - Move as close as possible
-to the right edge of the carriageway.
+to the right-hand edge of the carriageway.
 In the bend you must:
 
 - Turn the steering wheel smoothly.
 
-- Do not accelerate or brake suddenly.
+- Do not accelerate or brake sharply.
 
 - Accelerate little by little.
 When leaving the bend you must:
@@ -147,16 +147,16 @@ Skid. To slide or slip on the road.
 When a vehicle skids
 it moves away from the direction it was going
 and goes to another side.
-A skid can happen because of:
+A skid can be caused by:
 
-- Driving very fast.
+- Driving too fast.
 
 - Making a sudden turn with the steering wheel.
 
 - Pressing the brake pedal very hard.
 
-- Having tyres
-or shock absorbers in bad condition.
+- Having the tyres
+or the shock absorbers in poor condition.
 
 - Distributing the load badly in the vehicle.
 <!-- Page: 345 -->
@@ -164,43 +164,30 @@ How can you make the vehicle
 stop skidding?
 
 
-| Type of vehicle | What What must you do? wheels skid? |
-| --- | --- |
-| Front-wheel drive. | Rear Do not brake. |
-| The engine power | Turn the steering wheel |
-| goes to the | towards the side that the |
-| front wheels | wheels move towards. |
-|  | Accelerate |
-|  | smoothly. |
-| Rear-wheel drive. | Rear Do not brake. |
-| The engine power | Stop accelerating |
-| goes to the | smoothly. |
-| rear wheels |  |
-|  | Turn the steering wheel |
-|  | towards the side |
-|  | that the |
-|  | rear wheels move towards. |
-| Rear-wheel drive | Front Stop accelerating. |
-|  | Straighten the steering wheel |
-|  | until the wheels |
-|  | stop skidding. |
+| Type of vehicle | Which wheels skid? | What must you do? |
+| --- | --- | --- |
+| Front-wheel drive. | Rear | Do not brake. |
+| The engine power goes to the front wheels |  | Turn the steering wheel towards the side the wheels are moving to. <br> Accelerate smoothly. |
+| Rear-wheel drive. | Rear | Do not brake. |
+| The engine power goes to the rear wheels |  | Stop accelerating smoothly. <br> Turn the steering wheel towards the side the rear wheels are moving to. |
+| Rear-wheel drive | Front | Stop accelerating. <br> Straighten the steering wheel until the wheels stop skidding. |
 <!-- Page: 346 -->
 Roadworks area
 Roadworks can be a danger.
 Whenever you drive on a road with roadworks,
 you must follow the instructions of the roadworks staff.
-To show that a road has roadworks
+To mark that a road has roadworks
 the following signs are used.
 
-- Vertical warning signs
-and signs that give information about the rules
+- Vertical danger signs
+and signs that inform you of the rules
 you must follow.
 These signs will have a yellow background.
 
 - Signs painted on the road,
-in yellow.
+yellow in colour.
 
-- Other signs that are only put up
+- Other signs that are only placed
 when there are roadworks.
 <!-- Page: 347 -->
 Driving at night
@@ -212,16 +199,16 @@ The reasons are:
 - The road is less well lit.
 
 - Distances, people,
-objects, and vehicles are harder to see.
+objects, and vehicles are seen worse.
 
 - Other vehicles can dazzle you
 with their lights.
-You must pay special attention when you go from an area
+You must pay special attention when going from an area
 that is well lit to another that is poorly lit.
-It takes your eyes a few seconds to get used
+It takes the eyes a few seconds to get used
 to the change in light.
 <!-- Page: 348 -->
-When driving at night you must be especially careful with:
+When driving at night you must take special care with:
 Speed
 Bends
 Dazzle
@@ -229,37 +216,37 @@ Overtaking
 Speed
 You must respect the speed limits
 and drive more slowly if you cannot see the road well.
-This way it will be easier to stop the vehicle
+In this way it will be easier to stop the vehicle
 if there is a danger or something unexpected.
 Dazzle
 When a vehicle dazzles you
 you cannot see the road well
 because too much light enters your eyes.
 Watch video
-What can you do
-to avoid dazzling other drivers?
+What can you do to
+avoid dazzling other drivers?
 
-- Keep the lights well adjusted.
-Dipped headlights may bother others
-because they are not well adjusted.
+- Keep the lights properly adjusted.
+Dipped headlights may bother
+because they are not properly adjusted.
 
-- Distribute the weight you carry
-in the vehicle well.
-Dipped headlights can point too high
+- Distribute the weight you are carrying
+in the vehicle properly.
+Dipped headlights may be too high
 and dazzle because there is too much weight
-at the back of the vehicle.
+at the rear of the vehicle.
 <!-- Page: 349 -->
 - Switch off the main beam
 and switch on dipped headlights
-when another vehicle comes towards you
+when another vehicle is coming towards you
 from any direction.
 When a vehicle dazzles you, reduce speed
-or even stop the car, taking the necessary
+or even stop the car taking the necessary
 safety precautions.
 Do not move into other lanes
 when reducing speed or stopping.
-You can use the right edge line as a guide.
-Do not use dark glasses or sunglasses at night.
+You can guide yourself by the line on the right-hand edge.
+Do not use dark or sunglasses at night.
 Other vehicles may dazzle you less,
 but you will see the road much worse.
 <!-- Page: 350 -->
@@ -278,17 +265,17 @@ the other driver.
 If another vehicle is overtaking you,
 keep the main beam on
 while they overtake you.
-These lights will light the road for both of you
-during the overtaking.
+Those lights will light up the road for both of you
+during the overtaking manoeuvre.
 <!-- Page: 352 -->
 Bends
 When two vehicles travelling in opposite directions
-meet at night on a bend,
-the vehicle that is travelling
+pass each other at night on a bend,
+the vehicle travelling
 on the inside of the bend
 is the one that must switch off the main beam
 and switch on dipped headlights.
-The reason is that its lights are the ones that light
+The reason is that its lights are the ones that light up
 the road directly
 and can dazzle the other driver.
 The driver travelling
@@ -296,8 +283,8 @@ on the outside of the bend
 can keep the main beam on
 because their lights shine off the road.
 They cannot dazzle other drivers.
-They should only change to dipped headlights
-if they see that at some point
+They must only change to dipped headlights
+if they see that at any moment
 they are dazzling another driver.
 <!-- Page: 353 -->
 The weather
@@ -309,10 +296,10 @@ Dust
 Wind
 Heat
 Driving in rain
-When it rains a lot it can be harder to drive
+When it rains heavily it can be more difficult to drive
 for the following reasons:
 
-- The road is harder to see.
+- The road is seen worse.
 
 - The tyres grip the road less.
 When this happens the vehicle needs
@@ -338,14 +325,14 @@ from the vehicle in front.
 - Reduce speed.
 Watch video
 You must be especially careful
-when the first drops of rain start to fall.
+when the first drops of water start to fall.
 These drops mix with dust, grease,
 and other dirt on the road, forming mud
 that can make the vehicle skid.
 When the wheels skid you must lift your foot
 off the accelerator, but without braking.
 Motorcycle riders must pay
-special attention to the road markings
+special attention to the road lines
 when it rains because they can slip on them.
 <!-- Page: 355 -->
 Aquaplaning
@@ -357,8 +344,8 @@ It is easier to aquaplane and lose control
 when the vehicle is travelling at high speed
 and when the tyres are very wide
 or very worn.
-So, the best way to prevent aquaplaning
-is to drive slowly in areas
+Therefore, the best way to prevent aquaplaning
+is to travel slowly in areas
 where there is water.
 After passing through that area, you must check
 that the brakes work well.
@@ -368,7 +355,7 @@ Driving in snow is more difficult
 for the following reasons:
 
 - The road, the signs,
-and the vehicles are harder to see.
+and the vehicles are seen worse.
 
 - The tyres grip the road less.
 When this happens, the vehicle needs
@@ -379,12 +366,12 @@ to drive in snow are:
 - Start the vehicle
 with the wheels straight.
 
-- Choose a gear
+- Choose a gear in the gearbox
 that allows the vehicle
 to start at a higher speed,
-but with low engine power.
+but with little engine power.
 Gearbox. Vehicle mechanism
-that converts the engine power
+that is responsible for converting the engine power
 into movement of the wheels.
 With the gearbox the driver can choose to go
 faster or slower and with more or less engine power.
@@ -394,26 +381,26 @@ and do not change gear suddenly.
 When going downhill
 you must do it more slowly than normal
 and choose low gears (first or second)
-to hold the vehicle back.
+so that they hold the vehicle back.
 
 - Reduce speed little by little.
 
-- Keep more safe distance
+- Keep a greater safe following distance
 from the other vehicles.
 
 - Use the brake as little as possible
 and do it smoothly.
 
-- Drive on top of the tracks
-made
-by other vehicles with their wheels.
+- Drive over the marks
+made by
+other vehicles with their wheels.
 When the sun comes out after it has snowed,
-it is a good idea to use sunglasses
+it is advisable to use sunglasses
 so that the light does not dazzle you.
-The R-412 sign shows that you must
-fit snow chains on the vehicle to keep
+The R-412 sign indicates that you are obliged
+to fit snow chains on the vehicle to continue
 driving in snow.
 The chains are fitted, at least,
-on the driven wheels.
+on the driving wheels.
 You must fit at least
 one chain on each side of the vehicle.

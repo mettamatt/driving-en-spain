@@ -1,53 +1,32 @@
 <!-- Page: 257 -->
 Type of vehicle
-
-- Two- or three-wheel mopeds.
-
+- Two- or three-wheeled mopeds.
 - Light quadricycles.
-
 - Vehicles for people with reduced mobility.
-
 - Cycles.
-Streets
-without kerbs,
-where the carriageway
-and the pavement are
-at the same height
-Streets
-with one lane
-in each direction
-Streets
-with several lanes
-in each direction
-20
-30
-45
+
+|  |  |  |
+| --- | --- | --- |
+| Streets without kerbs, where the carriageway and the pavement are at the same height | Streets with one lane in each direction | Streets with several lanes in each direction |
+| 20 | 30 | 45 |
+
 Type of vehicle
-
 - Personal mobility vehicles.
+- Special vehicles with trailer
 
-- Special vehicles with a trailer
 or semi-trailer.
-
 - Vehicles without brake lights.
-Streets
-without kerbs,
-where the carriageway
-and the pavement are
-at the same height
-Streets
-with one lane
-in each direction
-Streets
-with several lanes
-in each direction
-20
-25
-25
+
+|  |  |  |
+| --- | --- | --- |
+| Streets without kerbs, where the carriageway and the pavement are at the same height | Streets with one lane in each direction | Streets with several lanes in each direction |
+| 20 | 25 | 25 |
+
 The maximum speed for all vehicles
 on motorways and dual carriageways that are within a
 town or city is 80 kilometres per hour,
-if it is not signposted in another way.
+
+if it is not signed in another way.
 <!-- Page: 258 -->
 Minimum speed limits
 inside and outside towns and cities
@@ -64,14 +43,14 @@ the minimum speed allowed will be
 45 kilometres per hour.
 It is forbidden to drive below that speed,
 even if there are no other vehicles on the road.
-The only cases in which you can drive
+The only cases in which you may drive
 slower than the minimum speed allowed are:
 
 - When there is heavy traffic, the vehicle has
-a breakdown or the road is in poor condition.
+a breakdown, or the road is in poor condition.
 
 - When the vehicle is a cycle,
-is pulled by animals
+is being pulled by animals,
 or is a special vehicle.
 
 - In the case of vehicles that accompany
@@ -83,14 +62,14 @@ CYCLIST
 <!-- Page: 259 -->
 If your vehicle cannot reach the minimum speed
 and there is a risk of an accident,
-you must switch on the hazard lights.
+you must switch on the hazard warning lights.
 For example, if your vehicle has a breakdown
 and you have to drive slower than allowed.
 Why are speed limits necessary?
 Speed limits are set
 so that all vehicles can travel
 safely and in an easy and comfortable way.
-One of the conditions taken into account
+One of the conditions that is taken into account
 to set the speed
 is the type of road and its conditions.
 That is, the maximum speed
@@ -99,20 +78,20 @@ on that road.
 
 Inside towns and cities you must drive
 at less than 50 kilometres per hour.
-If you run over a pedestrian
+If you run over a pedestrian,
 they will have a better chance of surviving
-if the vehicle is going at a low speed.
+if the vehicle is travelling at a low speed.
 <!-- Page: 260 -->
-On roads that are not a motorway or dual carriageway
+On roads that are not a motorway or a dual carriageway
 you must not drive at more than 90 kilometres per hour
 so that accidents are less serious.
-On a motorway and dual carriageway there is a better chance
+On a motorway and a dual carriageway there is a better chance
 of surviving an accident when the vehicle
 travels at less than 120 kilometres per hour.
 Things that can happen if you drive very fast
 
 - It is harder to react to unexpected events.
-This means many mistakes are made
+This means that many mistakes are made
 that can cost people their lives.
 
 - You have less ability to see
@@ -128,20 +107,20 @@ as if you were going through a tunnel.
 30o
 
 - Driving fast for a long time
-can make you feel fatigue and aggression
+can make you feel fatigue and aggressiveness
 because you drive with more tension.
 
 - Driving very fast on a road
 in good condition can make you think
-you are going slower than you really are.
+that you are going at a lower speed than you really are.
 <!-- Page: 261 -->
 It is forbidden to hold speed competitions
 on any road,
-unless the authorities authorise it
+unless the authorities authorise them
 and take the necessary measures.
-The person who takes part in races
+A person who takes part in races
 that are not authorised
-will lose points from their driving licence.
+will lose points on their driving licence.
 Types of distance
 Reaction
 distance
@@ -151,12 +130,12 @@ Stopping
 distance
 Lateral
 separation
-Safety
+Safe following
 distance
 Reaction distance
 Space you travel with the vehicle
 from when you detect an unexpected event,
-such as an obstacle, a sign or a noise,
+such as an obstacle, a sign, or a noise,
 until you can react to the unexpected event.
 For example, the time that passes
 from when you see a red traffic light
@@ -165,11 +144,11 @@ A person’s normal reaction time
 to an unexpected event
 is usually 0.75 seconds, almost one second.
 Although this depends on their reflexes, their physical
-and psychological state and the environment they are in.
+and psychological state, and the environment they are in.
 <!-- Page: 262 -->
-The faster a vehicle goes
+The faster a vehicle is travelling
 the less reaction distance it will have
-because it will travel more distance in less time.
+because it will cover more distance in less time.
 Therefore, it will reach the danger sooner.
 The driver
 sees the traffic light
@@ -183,7 +162,7 @@ This distance can change
 for the following reasons:
 
 - Speed.
-The faster the vehicle goes
+The faster the vehicle is travelling
 the more space it will need to brake.
 
 - The load.
@@ -221,24 +200,24 @@ between two vehicles that pass each other
 or that drive side by side.
 There must always be enough separation
 between them to avoid any danger.
-You must keep more lateral separation distance
+You must keep a greater lateral separation distance
 from other vehicles when:
 
-- You drive fast.
+- You are driving fast.
 
 - The road is in poor condition.
 
 - Many vehicles pass yours.
 
-- There is rain, snow, fog, wind or smoke.
+- There is rain, snow, fog, wind, or smoke.
 Watch video
-Safety distance
+Safe following distance
 Minimum space you must leave
-from the vehicle in front
+from the vehicle in front of you
 so you do not crash in case of sudden
 and unexpected braking.
 <!-- Page: 265 -->
-You must leave more safety distance
+You must leave a greater safe following distance
 from the driver in front when:
 
 - You increase speed.
@@ -249,8 +228,8 @@ from the driver in front when:
 
 - You are not in good physical or psychological condition.
 You must keep a distance from other
-drivers that allows you to stop in case
-of sudden braking in the following cases:
+drivers that allows you to stop in case of
+sudden braking in the following cases:
 
 - Inside a town or city.
 
@@ -261,8 +240,8 @@ of sudden braking in the following cases:
 - When you cannot overtake
 because there are many vehicles.
 
-- When another vehicle signals that it is going to overtake.
-In places where you can overtake
+- When another vehicle signals to you that it is going to overtake.
+In places where you are allowed to overtake
 other vehicles you must leave enough distance
 to overtake or to allow
 another vehicle to overtake you comfortably.
@@ -274,7 +253,7 @@ and also leave a minimum separation of 50 metres
 from the rest of the vehicles.
 Bicycles are the only vehicles
 that can travel without keeping
-the safety distance
+the safe following distance
 between cyclist and cyclist.
 
 ## Topic 11. Manoeuvres
@@ -287,14 +266,14 @@ Safety rule R.S.M.
 
 - Safety rule when joining a road
 
-- Precautions when changing lane
+- Precautions when changing lanes
 Overtaking other vehicles
 
 - Which side must you overtake on?
 
 - Steps to follow to overtake another vehicle
 
-- Duties of the driver
+- Obligations of the driver
 who is being overtaken by another vehicle
 
 - When is overtaking forbidden?
@@ -339,24 +318,24 @@ Observe the road
 It means looking carefully at the traffic and the road
 directly, and by using the rear-view mirrors,
 before doing the manoeuvre.
-This way you will make sure you can make the movement
+This way you will make sure that you can make the movement
 at that moment.
 Warn about the manoeuvre
 After checking that there is no danger
 to do that manoeuvre, you must warn
-other drivers what you are going to do.
+other drivers about what you are going to do.
 <!-- Page: 269 -->
 You can warn them with the vehicle lights
 or with your arm.
 The signals you make with your arm
-are more valid than the ones you make with the lights,
-as long as you do them well
+have more validity than the ones you make with the lights,
+as long as you do them correctly
 and other drivers can see them.
-When you signal with the vehicle lights,
+When you make signals with the vehicle lights,
 these lights must be on
 for the whole time the manoeuvre lasts
-and you must switch them off the moment you finish.
-When you signal with your arm,
+and you must switch them off the moment you finish it.
+When you make signals with your arm,
 you must make the signal just before starting the manoeuvre,
 with enough time for
 other drivers to see it.
@@ -408,7 +387,7 @@ Do the manoeuvre
 After observing and signalling
 you can now do the manoeuvre.
 You must do it correctly,
-at the right speed
+at the appropriate speed,
 and without putting other vehicles or pedestrians in danger.
 Safety rule when joining a road
 Watch video
@@ -417,7 +396,7 @@ by the safety rule R.S.M. when joining a road
 with the vehicle.
 You must observe the road, always make sure
 that joining that road does not create
-a danger for other drivers
+a danger for other drivers,
 and warn about your manoeuvre with your arm or the lights.
 <!-- Page: 272 -->
 When doing the manoeuvre you have to:
@@ -428,16 +407,16 @@ without causing them danger.
 - Not be an obstacle for vehicles
 that are approaching you.
 
-- Go at the right speed.
+- Travel at the appropriate speed.
 When you have to give way to another vehicle
 while you are in the acceleration lane
 to join a road,
-stop at the start of the lane until the vehicle
-that is already on the road goes past.
+stop at the beginning of the lane until the vehicle
+that is already on the road passes by.
 Watch video
 Then join the lane that applies to you
 adapting to the speed of the other vehicles.
 All drivers travelling on a road
-have the duty to allow other vehicles
+have the obligation to allow other vehicles
 to join that road and, if they can,
 they must make the joining manoeuvre easier for them.

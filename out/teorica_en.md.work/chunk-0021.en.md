@@ -1,12 +1,12 @@
 <!-- Page: 358 -->
 Driving on ice
 Ice makes the wheels
-not able to grip the road
-and the vehicle skid a lot.
+unable to grip the road
+and the vehicle skids a lot.
 The precautions you must take
 to drive on ice
-are the same as to drive on snow.
-Drive slowly and keep a lot of safe distance
+are the same as for driving on snow.
+Drive slowly and keep a very large safe following distance
 from other vehicles
 because you will need more space to brake.
 There may be ice on the road,
@@ -19,14 +19,14 @@ in the following places:
 
 - On bridges and flyovers.
 
-- On speed humps.
+- In dips.
 
-- Where the P-34 or P319 signs are
-with a panel where the word Ice is written.
+- Where there are P-34 or P319 signs
+with a panel on which the word Ice is written.
 <!-- Page: 359 -->
-Ice can also stay
+Ice can also remain
 on the vehicle windows.
-In these situations,
+In those situations,
 before you start driving, you must:
 
 - Scrape the ice off all the windows,
@@ -38,11 +38,11 @@ Driving in fog
 Fog is very dangerous for driving
 for the following reasons:
 
-- You see the road, the signs
-and the vehicles worse.
+- The road, the signs
+and the vehicles are harder to see.
 
-- The tyres grip less
-to the road because the ground is wet.
+- The tyres grip the road less
+because the surface is damp.
 The precautions you must take
 to drive in fog are:
 
@@ -53,7 +53,7 @@ so that the windows do not mist up.
 
 - Drive slowly.
 
-- Keep a lot of safe distance
+- Keep a very large safe following distance
 from other vehicles.
 
 - Pay close attention to the signs
@@ -65,34 +65,34 @@ if it is not necessary.
 - Be more careful
 when you approach junctions.
 <!-- Page: 361 -->
-Driving with clouds of dust or smoke
-They are a danger because they do not let you see well
+Driving in clouds of dust or smoke
+They are a danger because they do not allow you to see well
 the road, the signs, or other vehicles.
 Also, they can appear suddenly.
-To drive with clouds of dust and smoke,
+To drive in clouds of dust and smoke,
 you must take the same precautions
-as to drive in fog.
-Driving with strong wind
-It is dangerous to drive with strong wind,
+as for driving in fog.
+Driving in strong wind
+It is dangerous to drive in strong wind,
 especially when it blows from the side,
 because it can make the vehicle lose control,
 roll over, or leave the road.
 Wind affects two-wheeled vehicles more
-and those that are towing a trailer.
+and those towing a trailer.
 <!-- Page: 362 -->
 Wind is more dangerous for driving
 in the following situations:
 
 - When you pass another vehicle.
 
-- When you overtake a vehicle that takes up
+- When overtaking a vehicle that takes up
 a lot of space.
 
-- When you pass in front of buildings, trees
+- When passing in front of buildings, trees
 and other objects that can cause
 the wind to appear suddenly.
 The precautions you must take
-to drive with strong side wind are:
+to drive in strong side wind are:
 
 - Drive more slowly.
 
@@ -101,25 +101,25 @@ and in the direction against the wind.
 
 - Keep the windows closed.
 
-- Keep in mind that they can fall
-trees, branches, or stones.
+- Bear in mind that
+trees, branches, or stones may fall.
 <!-- Page: 363 -->
 Driving in heat
 It is dangerous to drive in heat
 for the following reasons:
 
-- Sleepiness and tiredness appear sooner,
+- Sleepiness and fatigue appear sooner,
 which can cause distractions and mistakes.
 
 - You may need more time to react
 to unexpected events.
 
-- Aggressiveness may increase
-towards other drivers.
+- Aggressiveness
+towards other drivers may increase.
 The precautions you must take
 to drive on a very hot day are:
 
-- Use the vehicle air conditioning
+- Use the vehicle’s air conditioning
 and keep it at a temperature
 between 20 and 23 degrees.
 
@@ -129,7 +129,7 @@ between 20 and 23 degrees.
 
 - Pay more attention
 when you drive after eating
-because you may get sleepy.
+because you may become sleepy.
 
 - Wear light-coloured, light, loose clothing.
 
@@ -153,7 +153,7 @@ Vehicle systems
 - Suspension system
 
 - Braking system
-Wheel and tyre check
+Wheel and tyre checks
 <!-- Page: 366 -->
 Vehicle systems
 What are they?
@@ -202,9 +202,9 @@ and when you drive on very dusty tracks.
 <!-- Page: 368 -->
 Electrical system
 What is its function?
-To give energy to the car so that it switches on,
-the engine can start and work
-other elements such as the lights or the horn.
+To provide energy to the car so that it switches on,
+the engine can start and work,
+and other elements such as the lights or the horn work.
 This system has several parts:
 Battery
 Ignition
@@ -214,15 +214,15 @@ circuit
 Lighting
 circuit
 Battery
-It provides the energy needed
+Provides the energy needed
 to start the engine.
-It also brings energy to the rest of the vehicle
-when it is needed.
-The battery must be kept clean, dry
+It also supplies energy to the rest of the vehicle
+when necessary.
+The battery must be kept clean, dry,
 and well fitted in its place.
 <!-- Page: 369 -->
 Ignition circuit
-It is responsible for the spark
+It is responsible for producing the spark
 of electricity needed
 so that the air and fuel
 turn into energy
@@ -230,19 +230,19 @@ and the vehicle starts to work.
 This spark of electricity is produced
 in an engine part called a spark plug.
 To keep the ignition circuit
-in good condition you must check the condition
+in good condition, you must check the condition
 of the spark plugs and change them when necessary.
 You must also check that the engine
 is in good condition.
 Charging circuit
-It is responsible for carrying the electric current
+It is responsible for supplying electric current
 to the battery and to all the systems that need it
 while the vehicle engine is running.
 Watch video
 The part that allows the vehicle
 to produce electricity and store it in the battery
 is called the alternator.
-The alternator is moved by a belt.
+The alternator is driven by a belt.
 <!-- Page: 370 -->
 You must check from time to time
 that this belt is in good condition
@@ -253,27 +253,27 @@ that allow the vehicle lights
 to be switched on.
 Watch video
 It is important to check the lighting system.
-You must change the bulbs that give light
-when they shine less.
+You must change the bulbs
+when they give less light.
 <!-- Page: 371 -->
 Lubrication system
 What is its function?
-To distribute oil to all parts
+To distribute oil to all the parts
 of the vehicle engine to create a layer
 that covers the engine parts to protect them
 and prevent them from rubbing against each other.
 The oils used for vehicles
 are special substances that prevent
 the vehicle parts from wearing out more.
-The instruments that control the oil
+The instruments that monitor the oil
 in the lubrication system are:
 
 - Dipstick.
-It shows how much oil there is in the engine.
+It indicates how much oil there is in the engine.
 <!-- Page: 372 -->
 - Pressure gauge or warning light.
-It controls the oil pressure in the engine.
-The oil must have the right pressure
+It monitors the oil pressure in the engine.
+The oil must have the correct pressure
 to be distributed well throughout the engine
 and cover all its parts.
 Pressure gauge
@@ -292,23 +292,11 @@ The oil level must be
 between the minimum and maximum marks.
 <!-- Page: 373 -->
 Types of oils
-Depending on
-where they come from
-Depending
-on their thickness
-Depending on where they come from
-Type of oil
-How is it made?
-Mineral
-From petroleum.
-Nowadays it is used very little.
-Synthetic
-It is made in a laboratory
-by mixing substances
-from petroleum and from other materials.
-Semi-synthetic
-A mix of mineral
-and synthetic oils.
+
+
+| Depending on where they come from | Depending on their thickness |
+| --- | --- |
+| Depending on where they come from <br> Type of oil <br> Mineral <br> Synthetic <br> Semi-synthetic | How is it obtained? <br> From petroleum. <br> Nowadays it is used very little. <br> It is made in a laboratory by mixing substances from petroleum and from other materials. <br> A mixture of mineral and synthetic oils. |
 <!-- Page: 374 -->
 Why are synthetic oils used more?
 Because they have the following advantages:
@@ -319,26 +307,26 @@ Because they have the following advantages:
 when it is very cold.
 
 - They protect the engine better because
-they are thicker and less runny
+they are thicker and less liquid
 than mineral oils.
 
 - Less oil is needed.
 
 - It lasts longer.
-Therefore, you have to change
-the vehicle oil fewer times.
+Therefore, you must change
+the vehicle oil less often.
 Depending on their thickness
-Oil is more runny when it heats up
+Oil is more liquid when it heats up
 and thicker when it is cold.
 That is why it is better to use an oil
-that is more runny when the temperature is low.
+that is more liquid when the temperature is low.
 This way it will circulate better through the engine
 when starting the vehicle,
 even if it is very cold.
 <!-- Page: 375 -->
-On the other hand, when the engine is hot
+However, when the engine is hot
 it is better to use a thicker oil.
-If it stays too runny it will not cover well
+If it is too liquid it will not cover well
 the engine parts.
 To avoid these problems
 there are oils that adapt well to cold and heat.
@@ -352,33 +340,33 @@ very high temperatures without being damaged.
 <!-- Page: 376 -->
 To top up the vehicle with oil
 you must lift the engine cover
-and pour the oil through the cap that is there.
+and pour the oil through the cap that is in that place.
 From time to time it is necessary to change the oil
 and the filter.
 To change it, the vehicle must be level
 and the engine must be stopped and warm.
 You must avoid the oil falling on the ground
 because it is very polluting.
-If oil falls while you top up the vehicle,
+If oil spills while you top up the vehicle,
 you must collect it.
 When a bluish white smoke comes out
 through the exhaust pipe it means
 that the vehicle has too much oil.
 Cooling system
 What is its function?
-To make sure the engine stays
+To ensure that the engine stays
 at a good temperature so it can keep working
 and to prevent its parts from wearing out
-and breaking due to too much heat.
+and breaking due to excess heat.
 Without this system, the engine would heat up
-very quickly when working and would break down.
+very quickly when running and would break down.
 <!-- Page: 377 -->
 A liquid called coolant
 passes through the engine parts and absorbs the heat
 so that it stays cool.
 Then this liquid goes to a part called the radiator.
 There it cools down again and returns to the engine
-pushed by a water pump.
+driven by a water pump.
 You must check that the belts
 that drive the water pump
 are in good condition
@@ -386,7 +374,7 @@ and that the whole cooling circuit works well.
 Watch video
 You must also check
 that the vehicle has enough coolant.
-It must stay between the minimum
+It must be kept between the minimum
 and maximum marks when the engine is cold.
 White smoke may come out of the exhaust pipe.
 That smoke is water vapour.
@@ -398,24 +386,24 @@ a broken part or a fault
 if the white smoke comes out when the vehicle
 has been running for a while
 and the vehicle is hot.
-At the start of winter it is important
+At the beginning of winter it is important
 to check that the coolant
-is in good condition and will not freeze.
+is in good condition and is not going to freeze.
 If the vehicle is in a very cold place
 during winter, the liquid can freeze
 and break the engine or the cooling system.
 <!-- Page: 379 -->
 Transmission system
 What is its function?
-To bring the engine power to the wheels
+To transmit the engine power to the wheels
 so that the vehicle can move.
-The engine of a vehicle can drive
+A vehicle engine can drive
 some wheels or others.
-Depending on which wheels get the drive,
+Depending on which wheels are driven,
 the vehicle can be:
 Which wheels
-get the drive
-from the engine?
+does the engine
+drive?
 Front-wheel drive To the front ones.
 Rear-wheel
 drive

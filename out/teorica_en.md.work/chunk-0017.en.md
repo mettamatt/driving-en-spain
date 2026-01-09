@@ -1,19 +1,19 @@
 <!-- Page: 289 -->
-You cannot make a U-turn
-if you make drivers
-who come behind you or from the opposite direction
-slow down,
-or you can be a danger to them.
+You must not make a U-turn
+if you force drivers
+who are coming behind you or coming towards you
+to reduce their speed,
+or you may be a danger to them.
 In those cases, you must stop on the hard shoulder on your right
-and wait until it is safe to turn
+and wait until it is safe to make the turn
 to make a U-turn.
 If there is not enough hard shoulder or it is not a safe place,
 you must continue driving until you find a place
 where you can make a U-turn.
-Situations where it is forbidden
+Situations in which it is prohibited
 to make a U-turn
 
-- Bends and crests where you cannot see well.
+- Bends and changes of gradient where you cannot see well.
 
 - When there is fog or heavy rain.
 
@@ -22,113 +22,100 @@ to make a U-turn
 - In tunnels.
 
 - On motorways and dual carriageways.
-You can do it in places prepared for it.
+Yes, you can do it in places prepared for it.
 
 - On one-way carriageways and roads.
 
-- In all places where overtaking is forbidden,
+- In all places where overtaking is prohibited,
 except where there is a sign
-that says you can make a U-turn.
+that indicates that you can make a U-turn.
 <!-- Page: 290 -->
 Reversing
 Watch video
-It is forbidden to drive in reverse
+It is prohibited to drive in reverse
 on any road or track.
-You can only drive in reverse
+You may only drive in reverse
 in the following cases:
 
-- When doing manoeuvres to park the vehicle.
+- When carrying out manoeuvres to park the vehicle.
 
 - When it is not possible to drive forwards
-or to change direction or make a U-turn.
+or make a change of direction or a U-turn.
 For example, to get out of a street closed
-because of roadworks.
-In these two cases you must not drive backwards
+due to roadworks.
+In these two cases you must not reverse
 more than 15 metres
-and you must not reverse into a junction.
+and you must not enter a junction of roads or tracks in reverse.
 You must drive at a very low speed
 while you are reversing.
 <!-- Page: 291 -->
 Before you start reversing
-you must make sure there is no danger
-for other drivers and pedestrians.
+you must make sure that there is no danger
+to other drivers and pedestrians.
 You have to stop the vehicle
 and stop reversing
 in any dangerous situation.
 For example:
 
-- Someone makes sound signals to you
+- Someone makes audible signals to you
 with their vehicle horn.
 
-- You notice another vehicle coming closer,
+- You notice that another vehicle is approaching,
 a person, or an animal.
 
 - On motorways and dual carriageways reversing
-is always forbidden.
+is always prohibited.
 Stopping the vehicle
 Watch video
 It may be necessary to stop the vehicle
 while you are driving for the following reasons.
 
 - An emergency.
-For example, a crash, a breakdown,
+For example, an accident, a breakdown,
 or one of the passengers feels unwell.
 
 - There are many vehicles on the road
-and traffic jams happen.
+and traffic jams occur.
 
-- Instructions from signs or traffic officers
+- Indication from road signs or traffic officers
 who ask you to stop.
 <!-- Page: 292 -->
-On motorways, dual carriageways, and enclosed places
+On motorways, dual carriageways, and in enclosed places
 or places where you cannot see well,
 you must switch on the hazard warning lights and sidelights
 whenever you have to stop the vehicle.
-Stopping the vehicle because of an emergency
+Stopping the vehicle due to an emergency
 Vehicles that have an accident or breakdown
-can be in the following situations.
+can be seen in the following situations.
 
-| Situation The vehicle is still working, | What to do? If the vehicle weighs less than 3,500 kilos, drive |
+| Situation | What to do? |
 | --- | --- |
-| but it cannot reach | on the right hard shoulder. |
-| the necessary speed | If there is no hard shoulder, |
-| on that road | place the vehicle as far as possible |
-| and it blocks traffic. | to the right of the road. |
-|  | If you are on a motorway |
-|  | or dual carriageway, |
-|  | take the first exit. |
-| The vehicle works, | Leave the road |
-| but you need | by the first exit |
-| a recovery service | using the right hard shoulder. |
-| The vehicle cannot | Park the vehicle on the right hard shoulder |
-| keep driving | of the road |
-|  | or in the place where it gets in the way |
-|  | least for the other drivers. |
-|  | (For example, the left hard shoulder |
-|  | or the central reservation). |
+| The vehicle is still working, but it cannot reach the necessary speed on that road and it obstructs traffic. | If the vehicle weighs less than 3,500 kilos, drive on the hard shoulder on the right. <br> If there is no hard shoulder, place the vehicle as far to the right of the road as possible. <br> If you are on a motorway or dual carriageway, take the first exit. |
+| The vehicle works, but you need a breakdown assistance service | Leave the road at the first exit using the right hard shoulder. |
+| The vehicle cannot continue driving | Park the vehicle on the right hard shoulder of the road or in the place where it obstructs the other drivers the least. <br> (For example, the left hard shoulder or the central reservation). |
 | Watch video |  |
 <!-- Page: 293 -->
 People travelling in a vehicle
-that cannot keep driving must get out
+that cannot continue driving must get out
 of the vehicle and go to a safe place.
 Before getting out of the vehicle, they must put on
-the yellow vests that all drivers must carry
-in their vehicles.
+the yellow high-visibility vests that all drivers
+must carry in their vehicles.
 If there is no safe place,
 they must stay inside the vehicle
 with the seat belt fastened.
 You must switch on the hazard warning lights
-to show that there is a vehicle stopped on the road.
+to indicate that there is a vehicle stopped on the road.
 It is also compulsory to place on top of the car
 the emergency warning light (orange light).
 If you want, you can place the warning triangles.
 They are placed 50 metres from the vehicle.
-One at the front and one at the back,
-on the right side of the road, and they must be seen
+One at the front and another at the back,
+on the right side of the road, and they must be visible
 from 100 metres away.
 Vehicles that pick up and tow
 broken-down vehicles must be prepared
-for roadside assistance (for example, recovery trucks).
+for roadside assistance (for example, recovery vehicles).
 Not just any vehicle can do it.
 <!-- Page: 294 -->
 Stopping and parking
@@ -139,58 +126,58 @@ for less than two minutes.
 When stopping, the driver does not leave the vehicle.
 And if they do, they stay close to it.
 Parking
-The vehicle stays still
+The vehicle stays without moving
 for more than two minutes.
-The driver can leave the vehicle
-and go somewhere else.
+The driver may leave the vehicle
+and go to another place.
 Where can you stop and park?
 Watch video
 On roads outside towns and cities,
-you must stop and park on the right side
+you must stop and park on the right-hand side
 of the road, leaving the hard shoulder free,
-as much as possible.
+as far as possible.
 <!-- Page: 295 -->
-On roads and streets inside towns and cities
-you can park on the carriageway and on the hard shoulder.
+On roads and streets within towns and cities
+you may park on the carriageway and on the hard shoulder.
 When the road is two-way,
 the vehicle must stop or park on the right.
 When the road is one-way
-you can do it on the right or on the left.
-How should you position the vehicle?
+you may do it on the right or on the left.
+How should the vehicle be positioned?
 As a general rule, you must stop and park
 the vehicle in a line parallel to the edge of the carriageway.
 You must always check that your vehicle
-lets other vehicles use the rest of the space.
+allows other vehicles to use the rest of the space.
 What must you do before leaving the vehicle?
 Drivers of a motor vehicle
 or moped must:
 
-- Stop the engine and switch off the system
+- Stop the engine and disconnect the system
 that allows the vehicle to move.
 
 - Apply the parking brake.
 
-- Leave it in first gear
+- Leave first gear engaged
 if you park on an uphill slope.
 
-- Leave it in reverse gear if you park
+- Leave reverse gear engaged if you park
 on a downhill slope.
 
-- Put it in park
+- Select the parking position
 if the vehicle is automatic.
 <!-- Page: 296 -->
 Drivers of vehicle combinations,
-also have to leave their vehicle well secured
+in addition, have to leave their vehicle properly secured
 when they park on a slope.
 Watch video
 They can do it in 2 ways:
-1.  By placing suitable wheel chocks.
-You cannot use stones
-or other items.
-Chock. Wedge that is placed between the vehicle
-and the road so the vehicle does not move.
-2.  By resting one of the front wheels
-against the kerb.
+1.  Placing suitable wheel chocks.
+Stones
+or other objects must not be used.
+Chock. Wedge placed between the vehicle
+and the road so that the vehicle does not move.
+2.  Resting one of the front wheels
+against the kerb of the pavement.
 
 On uphill slopes,
 the wheel turns towards the centre of the carriageway.
@@ -198,7 +185,7 @@ On downhill slopes,
 the wheel turns outwards.
 <!-- Page: 297 -->
 Dangerous stops and parking
-There are different situations where it is dangerous
+There are different situations in which it is dangerous
 to stop the vehicle or park it.
 What are these situations?
 
@@ -215,7 +202,7 @@ to rejoin the road.
 
 - When people or animals cannot enter or leave
 their homes or any other place
-because a vehicle blocks them.
+because a vehicle prevents it.
 
 - When vehicles cannot use a dropped kerb
 that is signposted.
@@ -223,17 +210,17 @@ that is signposted.
 - When a vehicle is an obstacle
 so that people with physical disabilities
 can enter or leave the road
-using the places prepared for it.
+via the areas prepared for this.
 <!-- Page: 298 -->
 When a vehicle stops or parks in places
-that are used to control traffic.
+that are used to regulate traffic.
 For example, traffic islands.
-When a vehicle stops another vehicle
-from turning where the sign says.
+When a vehicle prevents another vehicle
+from being able to turn where the sign indicates.
 Parking is considered dangerous when:
 
 - A vehicle is parked in a loading
-and unloading area at times when it is not allowed.
+and unloading area at times when it is not permitted.
 
 - A vehicle is parked double-parked
 and the driver has left.
@@ -242,7 +229,7 @@ and the driver has left.
 For example, a bus stop.
 
 - A vehicle parks in places
-where there is a sign that forbids parking.
+where there is a sign that prohibits parking.
 
 - A vehicle parks in a place
 reserved for emergency and security services.
@@ -250,44 +237,44 @@ For example, ambulances.
 
 - A vehicle parks in the middle of the carriageway.
 <!-- Page: 299 -->
-Where is it forbidden to stop and park?
-It is forbidden to stop and park in:
+Where is it prohibited to stop and park?
+It is prohibited to stop and park:
 
-- Bends and crests where you cannot see well.
+- On bends and changes of gradient where visibility is poor.
 
-- Tunnels.
+- In tunnels.
 
-- Level crossings, pedestrian crossings,
+- At level crossings, pedestrian crossings,
 and cyclist crossings.
 
-- Lanes or parts of roads reserved
+- In lanes or parts of roads reserved
 for other vehicles.
 
-- Junctions or near them
+- At junctions or near them
 when you do not allow other vehicles to turn.
 
-- On tram tracks or very close to them.
+- On tram rails or very close to them.
 
-- Places where the parked vehicle
-does not let you see the signs.
+- In places where the parked vehicle
+does not allow road signs to be seen.
 
-- Motorways or dual carriageways.
-You can only stop or park
+- On motorways or dual carriageways.
+You may only stop or park
 in rest areas or service areas.
 <!-- Page: 300 -->
 - Lanes and areas reserved for buses,
 taxis, or bicycles.
 
 - Areas reserved for people with disabilities.
-You can stop, but not park:
+You may stop, but not park:
 
 - In loading and unloading areas.
 
-- On pavements, walkways, and other areas
+- On pavements, promenades, and other areas
 where pedestrians pass.
 For two-wheeled vehicles,
-as long as it is regulated by the local council
-and they do not get in the way of pedestrians.
+as long as it is regulated by the municipality
+and they do not obstruct pedestrians.
 
 - In front of dropped kerbs where there is
 a dropped kerb sign.
@@ -296,10 +283,10 @@ a dropped kerb sign.
 
 - In places where a permit is needed
 to park at certain times
-or for a set time.
-You can park if you have the permit that allows it.
+or for a certain period of time.
+You may park if you have the authorisation that allows it.
 
-## Topic 12. Priority rules for driving
+## Topic 12. Right-of-way rules for driving
 <!-- Page: 301 -->
 Contents
 Giving way to other vehicles
@@ -309,12 +296,12 @@ Giving way to other vehicles
 - Rules for giving way
 in specific places
 
-- Priority for cyclists,
+- Right of way for cyclists,
 pedestrians, and animals
 
-- Priority for vehicles
+- Right of way for vehicles
 in emergency service
-Priority in narrow sections
+Right of way in narrow sections
 
 - Narrow sections with signs
 
@@ -332,9 +319,9 @@ inside a tunnel
 Giving way to other vehicles
 General rules
 To give way to another vehicle
-that has priority to go, you must:
+that has right of way you must:
 
-- Reduce speed little by little
+- Reduce speed gradually
 so that the driver of the other vehicle
 realises that you are giving way.
 
@@ -355,19 +342,19 @@ even if they come from a narrow road
 or one in poor condition.
 <!-- Page: 303 -->
 At junctions without signs, there are some exceptions
-that you must keep in mind.
-They have priority:
+that you must take into account.
+They have right of way:
 
-- Vehicles that run on rails
-over those that drive on the road.
-For example, a tram has priority
+- Vehicles travelling on rails
+over those travelling on the road.
+For example, a tram has right of way
 over a car.
 
-- Vehicles that drive on a road
+- Vehicles travelling on a road
 that is paved
-over vehicles that go
+over vehicles travelling
 on an unpaved road.
-Pave. Cover the ground of roads and streets
+Pave. Cover the surface of roads and streets
 with asphalt and other materials
 that allow vehicles
 and people to pass more safely.

@@ -9,7 +9,7 @@
   "chunks": [
     {
       "index": 1,
-      "chars": 11429,
+      "chars": 11417,
       "expected_page_markers": [
         "<!-- Page: 1 -->",
         "<!-- Page: 2 -->",
@@ -40,7 +40,7 @@
     },
     {
       "index": 2,
-      "chars": 11235,
+      "chars": 11985,
       "expected_page_markers": [
         "<!-- Page: 25 -->",
         "<!-- Page: 26 -->",
@@ -56,15 +56,15 @@
         "<!-- Page: 36 -->",
         "<!-- Page: 37 -->",
         "<!-- Page: 38 -->",
-        "<!-- Page: 39 -->"
+        "<!-- Page: 39 -->",
+        "<!-- Page: 40 -->"
       ],
       "outfile": "chunk-0002.en.md"
     },
     {
       "index": 3,
-      "chars": 11630,
+      "chars": 11300,
       "expected_page_markers": [
-        "<!-- Page: 40 -->",
         "<!-- Page: 41 -->",
         "<!-- Page: 42 -->",
         "<!-- Page: 43 -->",
@@ -80,15 +80,15 @@
         "<!-- Page: 53 -->",
         "<!-- Page: 54 -->",
         "<!-- Page: 55 -->",
-        "<!-- Page: 56 -->"
+        "<!-- Page: 56 -->",
+        "<!-- Page: 57 -->"
       ],
       "outfile": "chunk-0003.en.md"
     },
     {
       "index": 4,
-      "chars": 11927,
+      "chars": 11994,
       "expected_page_markers": [
-        "<!-- Page: 57 -->",
         "<!-- Page: 58 -->",
         "<!-- Page: 59 -->",
         "<!-- Page: 60 -->",
@@ -103,16 +103,16 @@
         "<!-- Page: 69 -->",
         "<!-- Page: 70 -->",
         "<!-- Page: 71 -->",
-        "<!-- Page: 72 -->"
+        "<!-- Page: 72 -->",
+        "<!-- Page: 73 -->",
+        "<!-- Page: 74 -->"
       ],
       "outfile": "chunk-0004.en.md"
     },
     {
       "index": 5,
-      "chars": 11991,
+      "chars": 11973,
       "expected_page_markers": [
-        "<!-- Page: 73 -->",
-        "<!-- Page: 74 -->",
         "<!-- Page: 75 -->",
         "<!-- Page: 76 -->",
         "<!-- Page: 77 -->",
@@ -128,15 +128,15 @@
         "<!-- Page: 87 -->",
         "<!-- Page: 88 -->",
         "<!-- Page: 89 -->",
-        "<!-- Page: 90 -->"
+        "<!-- Page: 90 -->",
+        "<!-- Page: 91 -->"
       ],
       "outfile": "chunk-0005.en.md"
     },
     {
       "index": 6,
-      "chars": 11990,
+      "chars": 11723,
       "expected_page_markers": [
-        "<!-- Page: 91 -->",
         "<!-- Page: 92 -->",
         "<!-- Page: 93 -->",
         "<!-- Page: 94 -->",
@@ -151,15 +151,15 @@
         "<!-- Page: 103 -->",
         "<!-- Page: 104 -->",
         "<!-- Page: 105 -->",
-        "<!-- Page: 106 -->"
+        "<!-- Page: 106 -->",
+        "<!-- Page: 107 -->"
       ],
       "outfile": "chunk-0006.en.md"
     },
     {
       "index": 7,
-      "chars": 11907,
+      "chars": 11282,
       "expected_page_markers": [
-        "<!-- Page: 107 -->",
         "<!-- Page: 108 -->",
         "<!-- Page: 109 -->",
         "<!-- Page: 110 -->",
@@ -207,7 +207,7 @@
     },
     {
       "index": 9,
-      "chars": 11883,
+      "chars": 11553,
       "expected_page_markers": [
         "<!-- Page: 143 -->",
         "<!-- Page: 144 -->",
@@ -232,7 +232,7 @@
     },
     {
       "index": 10,
-      "chars": 11561,
+      "chars": 11670,
       "expected_page_markers": [
         "<!-- Page: 161 -->",
         "<!-- Page: 162 -->",
@@ -337,7 +337,7 @@
     },
     {
       "index": 14,
-      "chars": 11373,
+      "chars": 11489,
       "expected_page_markers": [
         "<!-- Page: 238 -->",
         "<!-- Page: 239 -->",
@@ -363,7 +363,7 @@
     },
     {
       "index": 15,
-      "chars": 11517,
+      "chars": 11610,
       "expected_page_markers": [
         "<!-- Page: 257 -->",
         "<!-- Page: 258 -->",
@@ -386,7 +386,7 @@
     },
     {
       "index": 16,
-      "chars": 11648,
+      "chars": 11730,
       "expected_page_markers": [
         "<!-- Page: 273 -->",
         "<!-- Page: 274 -->",
@@ -409,7 +409,7 @@
     },
     {
       "index": 17,
-      "chars": 11367,
+      "chars": 11297,
       "expected_page_markers": [
         "<!-- Page: 289 -->",
         "<!-- Page: 290 -->",
@@ -454,7 +454,7 @@
     },
     {
       "index": 19,
-      "chars": 11479,
+      "chars": 11581,
       "expected_page_markers": [
         "<!-- Page: 320 -->",
         "<!-- Page: 321 -->",
@@ -478,7 +478,7 @@
     },
     {
       "index": 20,
-      "chars": 11919,
+      "chars": 11866,
       "expected_page_markers": [
         "<!-- Page: 337 -->",
         "<!-- Page: 338 -->",
@@ -506,7 +506,7 @@
     },
     {
       "index": 21,
-      "chars": 11666,
+      "chars": 11734,
       "expected_page_markers": [
         "<!-- Page: 358 -->",
         "<!-- Page: 359 -->",
@@ -565,7 +565,7 @@
     },
     {
       "index": 23,
-      "chars": 11629,
+      "chars": 11613,
       "expected_page_markers": [
         "<!-- Page: 403 -->",
         "<!-- Page: 404 -->",
@@ -594,7 +594,7 @@
     },
     {
       "index": 24,
-      "chars": 11597,
+      "chars": 11941,
       "expected_page_markers": [
         "<!-- Page: 425 -->",
         "<!-- Page: 426 -->",
@@ -616,15 +616,15 @@
         "<!-- Page: 442 -->",
         "<!-- Page: 443 -->",
         "<!-- Page: 444 -->",
-        "<!-- Page: 445 -->"
+        "<!-- Page: 445 -->",
+        "<!-- Page: 446 -->"
       ],
       "outfile": "chunk-0024.en.md"
     },
     {
       "index": 25,
-      "chars": 11702,
+      "chars": 11697,
       "expected_page_markers": [
-        "<!-- Page: 446 -->",
         "<!-- Page: 447 -->",
         "<!-- Page: 448 -->",
         "<!-- Page: 449 -->",
@@ -643,16 +643,16 @@
         "<!-- Page: 462 -->",
         "<!-- Page: 463 -->",
         "<!-- Page: 464 -->",
-        "<!-- Page: 465 -->"
+        "<!-- Page: 465 -->",
+        "<!-- Page: 466 -->",
+        "<!-- Page: 467 -->"
       ],
       "outfile": "chunk-0025.en.md"
     },
     {
       "index": 26,
-      "chars": 5486,
+      "chars": 4961,
       "expected_page_markers": [
-        "<!-- Page: 466 -->",
-        "<!-- Page: 467 -->",
         "<!-- Page: 468 -->",
         "<!-- Page: 469 -->",
         "<!-- Page: 470 -->",

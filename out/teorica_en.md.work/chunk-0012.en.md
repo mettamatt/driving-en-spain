@@ -9,23 +9,23 @@ S-113 Caravans can park.
 <!-- Page: 194 -->
 S-114 You can stop to eat.
 S-115 From that place you can start
-a walking trip.
+a walking excursion.
 S-116 You can camp in that place
 with a tent and with a caravan.
 S-117 There is a youth hostel.
-S-118 There is a tourist office.
+S-118 There is a tourist information office.
 S-119 Area of a river where you need
-a special permit to fish.
+a special authorisation to fish.
 S-120 There is a national park.
 <!-- Page: 195 -->
 S-121 There are monuments to see and visit.
-S-122 Sign to show other services.
+S-122 Sign to indicate other services.
 S-123 Rest area to stop
 to rest.
 S-124 Area to park vehicles
 that connects with a train station.
 S-125 Area to park vehicles
-that connects with an underground train station.
+that connects with an underground station.
 S-126 Area to park vehicles
 that connects with a bus station.
 S-127 Service area within
@@ -35,36 +35,36 @@ petrol stations, restaurants and places
 to rest for a while.
 <!-- Page: 196 -->
 Direction signs
-S-200 Shows all the exits there are
+S-200 Indicates all the exits there are
 at the next roundabout.
-The exits painted in blue mean
+The exits shown in blue mean
 that they lead to a motorway or dual carriageway.
-S-222a Shows the direction of a road
+S-222a Indicates the direction of a road
 and the exits that lead to a motorway
 or dual carriageway.
-S-232 Shows where the entrance is
+S-232 Indicates where the entrance is
 to the motorway and at what distance.
-S-235a Shows which is the next exit
+S-235a Indicates which is the next exit
 within a motorway or dual carriageway
 and how far away it is.
-S-300 Shows the names of towns
+S-300 Indicates the names of towns
 and cities on a road
 and how far away that town or city is.
-S-301 Shows the names of towns
+S-301 Indicates the names of towns
 and cities on a motorway or dual carriageway
 and how far away that town or city is.
-S-322 Shows in which direction there is a
-cycle lane or cycle path and the distance
+S-322 Indicates in which direction there is a
+cycle route or cycle path and the distance
 to it.
-S-360 Shows what the number is
-of the road, the place that road goes to
+S-360 Indicates what the number is
+of the road, the place that road goes to,
 and the name of the town or city
-that is at the next exit
+at the next exit
 towards another road.
 <!-- Page: 197 -->
-S-368 Shows the number of the motorway
-or dual carriageway, where they go and the name
-of the town or city that is
+S-368 Indicates the number of the motorway
+or dual carriageway, where they go, and the name
+of the town or city
 at the next exit towards another road.
 Signs to classify roads
 S-400 European road.
@@ -74,113 +74,113 @@ S-410 Motorway or dual carriageway.
 S-410a Toll motorway.
 S-420 National road,
 of the Spanish State.
-S-430 More important road
+S-430 Most important road
 of an Autonomous Community.
-They are called regional roads
+They are called Autonomous Community roads
 of first level.
-S-440 Roads that link towns within
+S-440 Roads that connect towns within
 an Autonomous Community or are used
 to reach the first-level roads.
-They are called regional roads
+They are called Autonomous Community roads
 of second level.
-C-241 Roads that link
-small towns.
-They are called regional roads
+C-241 Roads that connect small
+towns.
+They are called Autonomous Community roads
 of third level.
 <!-- Page: 198 -->
-Signs that show where you are
+Signs that indicate where you are
 S-500 Entry to a town or city.
 S-510 Exit from a town or city.
-S-574 Shows the kilometre where you
+S-574 Indicates the kilometre where you
 are on a motorway or dual carriageway,
 and you will see them every 10 kilometres.
 That is, from the start of the motorway
 or dual carriageway it marks kilometre 10,
 kilometre 20, kilometre 30,
 until the end.
-S-574a Shows the kilometre
+S-574a Indicates the kilometre
 where you are on a road,
 and you will see them every 10 kilometres,
 the same as on the motorway and dual carriageway.
-S-574b Shows the kilometre where
+S-574b Indicates the kilometre where
 you are on a toll motorway,
 and you will see them every 10 kilometres,
 the same as the rest.
 
-S-575 Shows the kilometre where
-you are on a regional road,
+S-575 Indicates the kilometre where
+you are on an Autonomous Community road,
 and you will also see them every 10 kilometres.
-The colour matches
-the level of importance of the road.
+The colour corresponds
+to the level of importance of the road.
 Supplementary panels
-S-800 Shows the distance there is
+S-800 Indicates the distance there is
 from the sign to a danger or warning.
 <!-- Page: 199 -->
-S-810 Shows how long the dangerous
+S-810 Indicates how long the dangerous
 section is.
 For how many metres or kilometres
 there is danger.
 S-820 and S-821 These signs are placed
 below a prohibition sign.
-They show how many metres that prohibition lasts
+They indicate how many metres that prohibition lasts
 following the arrow.
-S-850 to S-853 Shows in which direction
-and way you can drive with priority.
+S-850 to S-853 Indicates in which direction
+and direction of travel you can drive with priority.
 It is placed next to sign R-3, which means
 road with priority.
 
 
 S-840 It is placed below the
-Give way sign.
-It shows the distance at which you must stop.
+give way sign.
+It indicates the distance at which you must stop.
 S-870 It is placed below another sign.
-It shows that the prohibition or warning
+It indicates that the prohibition or warning
 on the other sign only applies
 to the lane or slip road it points to.
 S-880 It is placed below another sign.
-It shows that the prohibition or warning
-on the other sign must only be followed
+It indicates that the prohibition or warning
+on the other sign must only be complied with
 by the vehicles shown on this sign.
 S-890 It is placed below another sign.
-It shows that the prohibition or warning
-on the other sign must be followed
+It indicates that the prohibition or warning
+on the other sign must be complied with
 when there is snow, rain or fog.
 S-960 There is an emergency telephone.
 <!-- Page: 200 -->
 S-980 There is an emergency exit.
-S-990 Shows where the emergency exit is
+S-990 Indicates where the emergency exit is
 in tunnels.
-Lines and markings on roads
-White lines and markings
+Lines and road markings
+Lines and white markings
 Continuous line
-This line forbids drivers to:
+This line prohibits drivers from:
 
-- Cross the line.
+- Crossing the line.
 
-- Drive on top of it.
+- Driving on it.
 
-- Drive to the left of the line
-when the road has two-way traffic.
-When the line is a bit wider than normal
-it shows that there is a special lane.
+- Driving to the left of the line
+when the road is two-way.
+When the line is a little wider than normal
+it indicates that there is a special lane.
 For example, a lane that only some vehicles
-can use.
+may use.
 <!-- Page: 201 -->
 Broken line
-This line forbids drivers
-to drive on top of it.
-You can only drive on top of it when the lane
+This line prohibits drivers
+from driving on it.
+You may only drive on it when the lane
 is less than three metres wide and it is necessary.
 When the gap between the broken lines
 is shorter than normal
-it means a continuous line is near
+it means that a continuous line is near
 or a dangerous situation.
 For example, a bend with poor visibility.
 When the gap between the lines is wider
-than normal it means there is a special lane nearby.
+than normal it means that a special lane is near.
 See video
-Broken line. Line made up of many smaller lines
-one after another, with empty spaces between them.
+Broken line. Line made up of many
+smaller lines in a row, with gaps between them.
 <!-- Page: 202 -->
 Double broken lines
 Double broken lines on both sides
@@ -188,123 +188,123 @@ of a lane mean that in this lane
 sometimes you can drive in one direction
 and other times in the other.
 There will be traffic lights in that lane or other means
-to show which direction you can drive
-and avoid accidents.
+to indicate in which direction you may drive
+and prevent accidents.
 Continuous and broken lines together
 In this case, each driver must only take into account
-the line that is closer to the side
+the line that is closest to the side
 they are driving on.
 <!-- Page: 203 -->
 Edge and parking lines
 Lines that mark where the road ends
 or places where you can park.
-They can be crossed or driven over.
+They may be crossed or driven on.
 Continuous transverse line
 All vehicles must stop
 at this type of line
-when the following signs show it:
-The signs that show that stopping is compulsory.
+when the following signs indicate it:
+The signs that indicate that it is compulsory to stop.
 
 - Pedestrian crossings.
 
 - Traffic lights.
 
-- Instructions from traffic officers.
+- The instructions of traffic officers.
 
-- Signs at a level crossing or movable bridge.
+- The signals at a level crossing or movable bridge.
 STOP
-In any case, the marking does not by itself make it compulsory.
+In any case, the marking does not by itself impose an obligation.
 Transverse line. Line that crosses the road
 across its width, instead of along it.
 <!-- Page: 204 -->
 Broken transverse line
 Vehicles must not cross it
 if they must give way to other vehicles
-following the priority rules
-and following the instructions
+following the right of way rules
+and obeying the indications
 shown by these signs:
 
 - Give way sign.
 
 - Green turning arrow of a traffic light.
 Pedestrian crossing
-Wide lines on the carriageway that show
+Wide lines on the carriageway that indicate
 that drivers must give way to pedestrians.
 <!-- Page: 205 -->
 Cycle crossing
 Broken and parallel lines on the carriageway
-that show that cyclists have priority
+that indicate that cyclists have priority
 to ride through that place.
-Stop sign written on the carriageway
+STOP sign written on the carriageway
 The driver must stop their vehicle
 before the stop line
-to give way to the drivers travelling
+to give way to drivers travelling
 on the carriageway they want to enter.
 STOP
 <!-- Page: 206 -->
 Speed limit sign written on the carriageway
-No vehicle must go at more kilometres per hour
+No vehicle must travel at more kilometres per hour
 than the number shown by the sign in that lane.
-You must follow that instruction until another sign
-says you can drive at another speed.
+You must follow that indication until another sign
+says that you may drive at another speed.
 Arrow to choose lane
 All drivers must follow the direction
 or one of the directions shown
-by the arrows in the lane they are using.
-If the signs allow it
-you can also change lane.
+by the arrows in the lane they are driving in.
+If the signs allow it,
+you may also change lane.
 End of lane arrow
-Warns that the lane you are in ends
-and shows you where you must go.
+Warns that the lane you are in is ending
+and indicates where you must go.
 <!-- Page: 207 -->
 Return to lane arrow
 Warns that a continuous line is coming
-and tells drivers that they must move
+and indicates to drivers that they must move
 as soon as possible to the right of the lane.
 Level crossing marking
 The letters P and N written on the ground
 with two lines in the shape of a cross
-show that there is a level crossing nearby.
+indicate that there is a level crossing nearby.
 Reserved lane or area
-Shows that that area or lane is reserved
+Indicates that that area or lane is reserved
 for certain vehicles to drive or stop.
 For example, buses and taxis.
 BUS
 <!-- Page: 208 -->
-Marking for the start of a reserved lane
-Shows where the reserved lane starts
+Start of reserved lane marking
+Indicates where the reserved lane begins
 for some vehicles.
-Cycle lane or cycle path marking
-Shows that that lane is reserved
-for bicycles to use.
-Zebra lines
-Forbids vehicles to drive in that area.
-Only vehicles that must use the hard shoulder
-can drive in that space.
+Cycle route or cycle path marking
+Indicates that that lane is reserved
+for bicycles to ride.
+Zebra markings
+Prohibits vehicles from driving in that area.
+Only vehicles that are obliged to drive
+on the hard shoulder may drive in that space.
 STOP
 <!-- Page: 209 -->
 Coloured lines and markings
 Yellow line with zigzag markings
-Shows that parking is forbidden in that area.
+Indicates that parking is prohibited in that area.
 Continuous yellow line
-Shows that stopping and parking are forbidden in that area.
+Indicates that stopping and parking are prohibited in that area.
 Broken yellow line
-Shows that parking is forbidden in that area.
+Indicates that parking is prohibited in that area.
 <!-- Page: 210 -->
 Marking made up of yellow squares
-Shows drivers that it is forbidden
+Indicates to drivers that it is prohibited
 to enter that area
-if they can end up stopped in it
-blocking traffic.
+if they could end up stopped in it
+obstructing traffic.
 White and red squares
-Area to do emergency braking.
+Area for emergency braking.
 It is the only reason why a vehicle
-can enter that area.
+may enter that area.
 <!-- Page: 211 -->
 Blue parking markings
-At some hours of the day
-you can only park for a limited time
-and you must pay.
+At some times of the day
+you may only park for a limited time
+and you have to pay.
 
 ## Topic 9. The road
 <!-- Page: 212 -->
@@ -315,18 +315,18 @@ The road for vehicles and pedestrians
 
 - Other areas of the road
 
-- Direction and way
+- Direction and direction of travel
 Types of road
 
 - Depending on where it is
 
 - Depending on its characteristics
 
-- Colours that show
+- Colours that indicate
 the condition of the road
 Lanes
 
-- Where should vehicles drive?
+- Where must vehicles drive?
 
 - Rules for using lanes
 
@@ -343,9 +343,9 @@ and dual carriageway
 The road for vehicles and pedestrians
 What is the road?
 A road is each street, road
-and path, public and private,
+and track, public and private,
 that vehicles and pedestrians
-can use.
+may use.
 Parts of the road for vehicles
 The parts of the road
 that matter to the driver are:
@@ -361,28 +361,28 @@ Within the roadway are the carriageway and the hard shoulder.
 <!-- Page: 214 -->
 Carriageway
 Part of the road
-where vehicles drive.
-The same road can have several carriageways.
+that vehicles drive on.
+The same road may have several carriageways.
 A narrow carriageway
 is one that measures
 less than 6.5 metres.
 Hard shoulder
 Paved area that is
 on both sides of the carriageway
-where most vehicles
-do not drive.
+that most vehicles
+do not drive on.
 Some roads do not have a hard shoulder.
-A road can have several roadways.
+A road may have several roadways.
 Lane
 It is one of the parts into which the carriageway
-can be divided.
+may be divided.
 Its width must allow
 a line of cars to travel.
-On the same carriageway there can be several lanes,
+On the same carriageway there may be several lanes,
 depending on how wide it is.
 They are usually separated
 by a white line.
-When the lane is
+When the lane measures
 less than 3 metres wide,
 it is called a narrow lane.
 <!-- Page: 215 -->
@@ -394,8 +394,8 @@ Section of the road
 that changes direction
 to the right
 or to the left.
-In some bends
+On some bends
 you cannot see the full width
 of the road.
-In that case it is called a bend
+In that case it is said to be a bend
 with reduced visibility.
