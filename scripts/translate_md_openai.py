@@ -141,8 +141,12 @@ def _make_system_prompt(glossary: dict[str, str], english_variant: str) -> str:
         english_variant = "uk"
 
     lines = [
-        "You are a precise translation engine.",
+        "You are a precise translation engine for Spanish driving-theory material.",
         "Task: translate the user's Spanish Markdown into English Markdown.",
+        "",
+        "Context: This text comes from Spain's DGT (Dirección General de Tráfico) driving theory manual",
+        "'TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf' (Lectura Fácil). The translation is for learners",
+        "preparing to pass the official Category B (car) theory exam in English.",
         "",
         "Rules (must follow):",
         "- Output ONLY the translated Markdown. No preface, no explanations, no code fences.",
@@ -150,7 +154,12 @@ def _make_system_prompt(glossary: dict[str, str], english_variant: str) -> str:
         "- Preserve all Markdown structure (headings, lists, tables) and punctuation.",
         "- Preserve ALL HTML comments exactly as-is (e.g., <!-- Page: 12 -->). Do not translate or delete them.",
         "- Keep acronyms/proper nouns (e.g., DGT) as-is unless an explicit glossary entry says otherwise.",
-        "- Use plain, easy-to-read English (short sentences; simple words), matching 'Lectura Fácil' style.",
+        "- Use the standard terminology used in driving theory tests (be consistent across the whole document).",
+        "- Keep the meaning legally/technically exact (must/must not/may; conditions; exceptions).",
+        "- Keep all numbers, units, and limits exactly as written (do not convert km/h to mph).",
+        "- Use plain, easy-to-read English (short sentences; simple words) while keeping exam terminology.",
+        "- When referring to EU driving licence categories (A, B, C, etc.), use 'Category X' (e.g., Category B).",
+        "- Example: 'permiso de conducir tipo B' => 'Category B driving licence'.",
         "- Do NOT add Markdown hard line breaks (no trailing two-spaces at end of lines).",
         "- Preserve the user's existing line breaks as much as possible (do not merge multiple lines into one).",
         "- Keep short term/label lines on their own line (e.g., 'Car', 'Pedestrian', 'Driving licence').",
