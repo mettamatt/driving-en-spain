@@ -772,7 +772,6 @@ cuando se reforma el vehículo,
 o si ha sufrido un accidente
 
 y la estructura se ha dañado.
-
 El titular del vehículo es la persona encargada
 de controlar que se pasan las inspecciones técnicas.
 
@@ -1712,7 +1711,6 @@ y en los mayores de 70 años.
 <!-- Page: 69 -->
 Causas de accidentes por distracción
 
-
 | Ditracciones relacionadas | Distracciones de la persona |
 | --- | --- |
 | con la carretera | que conduce |
@@ -2386,8 +2384,9 @@ Se puede actuar de distintas formas
 dependiendo de cuál es la circunstancia
 en la que fallan los frenos.
 
-| Problema Los frenos | Posible solución Soltar el pedal de freno |
+| Problema | Posible solución |
 | --- | --- |
+| Los frenos | Soltar el pedal de freno |
 | se calientan mucho | para que se enfríen. |
 | porque se han usado |  |
 | demasiado |  |
@@ -2462,8 +2461,9 @@ Esta cantidad de aire será la presión de inflado.
 ¿Qué pasa cuando la presión de inflado
 no es la correcta?
 
-| Presión de inflado menor a la recomendada El neumático se calienta, | Presión de inflado mayor a la recomendada El neumático tiene menos |
+| Presión de inflado menor a la recomendada | Presión de inflado mayor a la recomendada |
 | --- | --- |
+| El neumático se calienta, | El neumático tiene menos |
 | se deforma | contacto con el suelo. |
 | y se desgasta antes. |  |
 |  | Por lo tanto, se agarra |
@@ -3786,8 +3786,10 @@ Señales que se contradicen
 En ocasiones hay señales colocadas juntas,
 pero que dan indicaciones diferentes.
 
-| Señales diferentes Señal de Stop y | ¿Cuál debes obedecer? Semáforo en verde |
+| Señales diferentes | ¿Cuál debes obedecer? |
 | --- | --- |
+| Señal de Stop y |  |
+|  | Semáforo en verde |
 | semáforo en verde |  |
 | Señal de Stop y |  |
 |  | Señal de Stop |
@@ -7141,8 +7143,10 @@ Detener el vehículo por emergencia
 Los vehículos que sufran un accidente o avería
 se pueden ver en las siguientes situaciones.
 
-| Situación El vehículo sigue funcionando, | ¿Qué hacer? Si el vehículo pesa menos de 3.500 kilos, circular |
+| Situación | ¿Qué hacer? |
 | --- | --- |
+| El vehículo sigue | Si el vehículo pesa menos |
+| funcionando, | de 3.500 kilos, circular |
 | pero no puede alcanzar | por el arcén de la derecha. |
 | la velocidad necesaria | Si no hay arcén, coloca |
 | en esa carretera | el vehículo lo más posible |
@@ -8457,26 +8461,26 @@ o los amortiguadores en mal estado.
 deje de derrapar?
 
 
-| Tipo de vehículo | ¿Qué ¿Qué debes hacer? ruedas derrapan? |
-| --- | --- |
-| De tracción. | Traseras No frenar. |
-| La fuerza del motor | Girar el volante |
-| va a las ruedas | hacia el lado al que se |
-| delanteras | desplazan las ruedas. |
-|  | Acelerar |
-|  | de forma suave. |
-| De propulsión. | Traseras No frenar. |
-| La fuerza del motor | Dejar de acelerar |
-| va a las ruedas | de forma suave. |
-| traseras |  |
-|  | Girar el volante |
-|  | hacia el lado |
-|  | al que se desplazan |
-|  | las ruedas traseras. |
-| De propulsión | Delanteras Dejar de acelerar. |
-|  | Poner recto el volante |
-|  | hasta que las ruedas |
-|  | dejen de derrapar. |
+| Tipo de vehículo | ¿Qué ruedas derrapan? | ¿Qué debes hacer? |
+| --- | --- | --- |
+| De tracción. | Traseras | No frenar. |
+| La fuerza del motor |  | Girar el volante |
+| va a las ruedas |  | hacia el lado al que se |
+| delanteras |  | desplazan las ruedas. |
+|  |  | Acelerar |
+|  |  | de forma suave. |
+| De propulsión. | Traseras | No frenar. |
+| La fuerza del motor |  | Dejar de acelerar |
+| va a las ruedas |  | de forma suave. |
+| traseras |  |  |
+|  |  | Girar el volante |
+|  |  | hacia el lado |
+|  |  | al que se desplazan |
+|  |  | las ruedas traseras. |
+| De propulsión | Delanteras | Dejar de acelerar. |
+|  |  | Poner recto el volante |
+|  |  | hasta que las ruedas |
+|  |  | dejen de derrapar. |
 
 <!-- Page: 346 -->
 Zona de la carretera en obras
