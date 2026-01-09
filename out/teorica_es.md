@@ -98,7 +98,6 @@ vehículos
 con motor
 Ver vídeo
 Vehículos sin motor
-Vehículos sin motor
 Vehículo arrastrado por animales
 Ciclo y bicicleta
 Remolque
@@ -125,22 +124,21 @@ hace que la carga se reparta
 y que se pueda conducir mejor.
 
 <!-- Page: 8 -->
-Remolque ligero
-Remolque pesado
-Con carga pesa
-como máximo 750 kilos.
-Con carga puede pesar
-más de 750 kilos.
+| Remolque ligero | Remolque pesado |
+| --- | --- |
+| Con carga pesa | Con carga puede pesar |
+| como máximo 750 kilos. | más de 750 kilos. |
+
 Semirremolque
 Remolque que se une de forma directa
 a un vehículo con motor, sin eje.
-Semirremolque ligero
-Semirremolque
-no ligero
-Con carga pesa
-como máximo 750 kilos.
-Con carga puede pesar
-más de 750 kilos.
+
+
+| Semirremolque ligero | Semirremolque no ligero |
+| --- | --- |
+| Con carga pesa | Con carga puede pesar |
+| como máximo 750 kilos. | más de 750 kilos. |
+
 Vehículos a motor
 Vehículos que necesitan un motor para funcionar.
 Los vehículos a motor se clasifican en:
@@ -538,8 +536,6 @@ y asegura que cumple los requisitos para hacerlo.
 Tipos de permiso de conducir
 Debes conseguir un permiso u otro
 dependiendo del vehículo que vas a conducir:
-Ver vídeo
-Ver vídeo
 
 <!-- Page: 29 -->
 Tipo de
@@ -739,44 +735,44 @@ Después de 4 años,
 revisión cada 2 años.
 
 <!-- Page: 36 -->
-Vehículos de motor
-que pueden transportar
-hasta nueve pasajeros
-Primera revisión a los 4 años.
-Después de 4 años,
-revisión cada 2 años.
-Después de 10 años,
-revisión cada año.
-Vehículos de motor
-que pueden transportar
-mercancías con un peso
-de hasta 3,5 toneladas
-Primera revisión a los 2 años.
-Después de 2 años,
-revisión cada 2 años.
-Después de 6 años,
-revisión cada año.
-Después de 10 años,
-revisión cada 6 meses.
-Remolques para
-transportar mercancías
-o personas
-o para alojar personas
-Excepto la caravana
-remolcada
-Primera revisión al año.
-Hasta los 10 años revisión
-cada año.
-Después de 10 años,
-una vez cada 6 meses.
-Caravana remolcada
-Primera revisión a los 6 años.
-Después de 6 años,
-cada 2 años.
+| Column 1 | Column 2 |
+| --- | --- |
+|  | Primera revisión a los 4 años. |
+| Vehículos de motor | Después de 4 años, |
+| que pueden transportar | revisión cada 2 años. |
+| hasta nueve pasajeros |  |
+|  | Después de 10 años, |
+|  | revisión cada año. |
+|  | Primera revisión a los 2 años. |
+|  | Después de 2 años, |
+| Vehículos de motor |  |
+|  | revisión cada 2 años. |
+| que pueden transportar |  |
+|  | Después de 6 años, |
+| mercancías con un peso |  |
+|  | revisión cada año. |
+| de hasta 3,5 toneladas |  |
+|  | Después de 10 años, |
+|  | revisión cada 6 meses. |
+| Remolques para | Primera revisión al año. |
+| transportar mercancías | Hasta los 10 años revisión |
+| o personas | cada año. |
+| o para alojar personas |  |
+|  | Después de 10 años, |
+| Excepto la caravana |  |
+|  | una vez cada 6 meses. |
+| remolcada |  |
+|  | Primera revisión a los 6 años. |
+| Caravana remolcada |  |
+|  | Después de 6 años, |
+|  | cada 2 años. |
+
 También hay que pasar una inspección técnica
 cuando se reforma el vehículo,
 o si ha sufrido un accidente
+
 y la estructura se ha dañado.
+
 El titular del vehículo es la persona encargada
 de controlar que se pasan las inspecciones técnicas.
 
@@ -1037,7 +1033,6 @@ tarde más tiempo en reaccionar:
 
 - Poner poca atención a la conducción.
 !
-!
 Factores que influyen
 en el estado del conductor
 Estar cansado (fatiga)
@@ -1217,7 +1212,6 @@ para que pares el vehículo
 y no sufras un accidente.
 Sensor. Dispositivos que captan información de cosas
 que pasan fuera del vehículo.
-Ver vídeo
 
 <!-- Page: 52 -->
 Alcohol
@@ -1626,39 +1620,27 @@ de más depresión.
 <!-- Page: 65 -->
 ¿Qué medicamentos pueden ser
 peligrosos para conducir?
-Medicamento
-¿Para qué sirve?
-Posibles efectos
-Analgésicos
-Ayuda a que
-el dolor disminuya
-o desaparezca.
-Sueño.
-Vértigo.
-Falta
-de concentración.
-Antitusígenos
-Calmar la tos.
-Cambios.
-de humor.
-Pérdida
-de reflejos.
-Antihistamínicos Tratar las alergias. Sueño.
-Depresión.
-Pérdida
-de reflejos.
-Psicofármacos
-Tratar
-la depresión,
-la ansiedad
-y los trastornos
-del sueño.
-Sueño.
-Pérdida
-de reflejos.
-Mareos.
-Visión borrosa.
-Confusión.
+
+| Medicamento | ¿Para qué sirve? | Posibles efectos |
+| --- | --- | --- |
+| Analgésicos | Ayuda a que | Sueño. |
+|  | el dolor disminuya | Vértigo. |
+|  | o desaparezca. | Falta |
+|  |  | de concentración. |
+| Antitusígenos | Calmar la tos. | Cambios. |
+|  |  | de humor. |
+|  |  | Pérdida |
+|  |  | de reflejos. |
+| Antihistamínicos | Tratar las alergias. | Sueño. |
+|  |  | Depresión. |
+|  |  | Pérdida |
+|  |  | de reflejos. |
+| Psicofármacos | Tratar | Sueño. |
+|  | la depresión, | Pérdida |
+|  | la ansiedad | de reflejos. |
+|  | y los trastornos | Mareos. |
+|  | del sueño. | Visión borrosa. |
+|  |  | Confusión. |
 
 <!-- Page: 66 -->
 Alimentación
@@ -1729,39 +1711,38 @@ y en los mayores de 70 años.
 
 <!-- Page: 69 -->
 Causas de accidentes por distracción
-Ditracciones relacionadas
-con la carretera
-Distracciones de la persona
-que conduce
-Conocer bien la carretera
-y confiarse demasiado.
-Las señales están
-escondidas
-o no se ven bien
-por algún motivo.
-Situación de tráfico
-complicada
-con muchos vehículos,
-peatones
-y señales a las que atender.
-No se ve bien
-porque es de noche
-o porque deslumbran
-las luces de los otros coches.
-Sufrir fatiga o sueño.
-Sufrir estrés, ansiedad
-o depresión.
-Tener muchos años.
-Consumir alcohol, drogas
-o tomar medicamentos.
-Algunas conductas como:
-usar el móvil,
-encenderse un cigarro
-o usar el navegador GPS.
-Mirar un mapa,
-echar un insecto
-fuera del vehículo,
-comer o beber conduciendo.
+
+
+| Ditracciones relacionadas | Distracciones de la persona |
+| --- | --- |
+| con la carretera | que conduce |
+| Conocer bien la carretera | Sufrir fatiga o sueño. |
+| y confiarse demasiado. |  |
+|  | Sufrir estrés, ansiedad |
+| Las señales están | o depresión. |
+| escondidas |  |
+|  | Tener muchos años. |
+| o no se ven bien |  |
+| por algún motivo. |  |
+|  | Consumir alcohol, drogas |
+|  | o tomar medicamentos. |
+| Situación de tráfico |  |
+| complicada |  |
+|  | Algunas conductas como: |
+| con muchos vehículos, |  |
+|  | usar el móvil, |
+| peatones |  |
+|  | encenderse un cigarro |
+| y señales a las que atender. |  |
+|  | o usar el navegador GPS. |
+| No se ve bien |  |
+|  | Mirar un mapa, |
+| porque es de noche |  |
+|  | echar un insecto |
+| o porque deslumbran |  |
+|  | fuera del vehículo, |
+| las luces de los otros coches. |  |
+|  | comer o beber conduciendo. |
 
 <!-- Page: 70 -->
 Fumar en el vehículo
@@ -2404,33 +2385,25 @@ hasta que el vehículo se pare del todo.
 Se puede actuar de distintas formas
 dependiendo de cuál es la circunstancia
 en la que fallan los frenos.
-Problema
-Posible solución
-Los frenos
-se calientan mucho
-porque se han usado
-demasiado
-en poco tiempo.
-Soltar el pedal de freno
-para que se enfríen.
-Los frenos fallan cuando
-el vehículo baja
-una cuesta larga
-y muy inclinada.
-No acelerar.
-Reducir marchas
-para que el motor actúe
-como freno.
-Si no se pueden reducir
-marchas
-tirar de la palanca del freno
-de mano de forma suave.
-Otras ocasiones
-en las que fallan los frenos.
-Pisar y soltar el pedal
-varias veces.
-Así se reducirá la velocidad
-del vehículo.
+
+| Problema Los frenos | Posible solución Soltar el pedal de freno |
+| --- | --- |
+| se calientan mucho | para que se enfríen. |
+| porque se han usado |  |
+| demasiado |  |
+| en poco tiempo. |  |
+| Los frenos fallan cuando | No acelerar. |
+| el vehículo baja | Reducir marchas |
+| una cuesta larga | para que el motor actúe |
+| y muy inclinada. | como freno. |
+|  | Si no se pueden reducir |
+|  | marchas |
+|  | tirar de la palanca del freno |
+|  | de mano de forma suave. |
+| Otras ocasiones | Pisar y soltar el pedal |
+| en las que fallan los frenos. | varias veces. |
+|  | Así se reducirá la velocidad |
+|  | del vehículo. |
 
 <!-- Page: 97 -->
 Las ruedas
@@ -2456,7 +2429,6 @@ con unas características de calidad.
 En los neumáticos nuevos y que están
 en buenas condiciones se puede leer
 en un lateral cuáles son sus características.
-Ver vídeo
 Ver vídeo
 No deben tener ampollas, deformaciones o roturas.
 Tampoco debe estar despegada alguna de sus capas
@@ -2489,41 +2461,33 @@ Esta cantidad de aire será la presión de inflado.
 <!-- Page: 100 -->
 ¿Qué pasa cuando la presión de inflado
 no es la correcta?
-Presión de inflado menor
-a la recomendada
-Presión de inflado mayor
-a la recomendada
-El neumático se calienta,
-se deforma
-y se desgasta antes.
-Se gasta más combustible.
-El vehículo es menos
-estable.
-El vehículo tiene
-más riesgo de patinar
-cuando el suelo
-está mojado.
-Hay más posibilidad
-de que la rueda se reviente.
-El neumático tiene menos
-contacto con el suelo.
-Por lo tanto, se agarra
-menos a la carretera.
-Se desgasta más
-el centro del neumático
-que los lados.
-El vehículo vibra más
-porque los neumáticos
-no pueden absorber
-las piedrecillas
-y otros elementos.
-Por ejemplo, los baches
-que hay en la carretera.
-Los amortiguadores
-se estropean más.
+
+| Presión de inflado menor a la recomendada El neumático se calienta, | Presión de inflado mayor a la recomendada El neumático tiene menos |
+| --- | --- |
+| se deforma | contacto con el suelo. |
+| y se desgasta antes. |  |
+|  | Por lo tanto, se agarra |
+| Se gasta más combustible. | menos a la carretera. |
+| El vehículo es menos | Se desgasta más |
+| estable. | el centro del neumático |
+|  | que los lados. |
+| El vehículo tiene |  |
+| más riesgo de patinar | El vehículo vibra más |
+| cuando el suelo | porque los neumáticos |
+| está mojado. | no pueden absorber |
+|  | las piedrecillas |
+|  | y otros elementos. |
+|  | Por ejemplo, los baches |
+|  | que hay en la carretera. |
+|  | Los amortiguadores |
+|  | se estropean más. |
+| Hay más posibilidad |  |
+| de que la rueda se reviente. |  |
+
 Debes controlar la presión de los neumáticos
 de tu vehículo por lo menos una vez al mes.
 También debes llevar siempre una rueda de repuesto
+
 con la presión de inflado correcta.
 
 <!-- Page: 101 -->
@@ -2802,7 +2766,6 @@ para que te puedas mover con facilidad.
 El cinturón de seguridad tiene dos cintas
 que debes llevar en el lugar adecuado
 para que te protejan.
-Ver vídeo
 
 <!-- Page: 113 -->
 Cinta
@@ -3787,7 +3750,6 @@ que lo indiquen.
 - Todos los conductores y peatones
 deben obedecer las indicaciones
 de las señales de circulación.
-Ver vídeo
 
 <!-- Page: 156 -->
 ¿Qué señales de circulación debes obedecer primero?
@@ -3823,34 +3785,29 @@ con indicaciones distintas en cada lado.
 Señales que se contradicen
 En ocasiones hay señales colocadas juntas,
 pero que dan indicaciones diferentes.
-Señales diferentes
-¿Cuál debes obedecer?
-Señal de Stop y
-semáforo en verde
-Semáforo en verde
-Señal de Stop y
-señal de ceda el paso
-Señal de Stop
-Semáforo en verde y
-señal de prohibido girar
-a la izquierda
-Tienes que obedecer las dos.
-Puedes seguir de frente
-o girar a la derecha.
+
+| Señales diferentes Señal de Stop y | ¿Cuál debes obedecer? Semáforo en verde |
+| --- | --- |
+| semáforo en verde |  |
+| Señal de Stop y |  |
+|  | Señal de Stop |
+| señal de ceda el paso |  |
+| Semáforo en verde y | Tienes que obedecer las dos. |
+| señal de prohibido girar | Puedes seguir de frente |
+| a la izquierda | o girar a la derecha. |
+
 Los agentes de tráfico
 Señales y órdenes de los agentes
 Las señales que dan los agentes de tráfico
+
 hay que cumplirlas siempre.
 Para dar indicaciones usarán objetos y prendas
 que se vean bien a 150 metros de distancia.
 Los agentes de tráfico darán las indicaciones
 por los siguientes medios:
-Señales
-con el brazo
-Señales sonoras
-con un silbato
-Señales desde
-un vehículo
+
+| Señales con el brazo | Señales sonoras Señales desde con un silbato un vehículo |
+| --- | --- |
 
 <!-- Page: 158 -->
 Señales con el brazo
@@ -4977,7 +4934,6 @@ Las señales que indican que es obligatorio detenerse.
 
 - Las señales de un paso a nivel o puente móvil.
 STOP
-STOP
 En todo caso, la marca no obliga por sí sola.
 Línea transversal. Línea que cruza la carretera
 a lo ancho, en vez de hacerlo a lo largo.
@@ -5007,7 +4963,6 @@ El conductor debe parar su vehículo
 antes de la línea de detención
 para ceder el paso a los conductores que circulan
 por la calzada a la que quiere entrar.
-STOP
 STOP
 
 <!-- Page: 206 -->
@@ -5830,7 +5785,6 @@ para evitar peligros y accidentes de tráfico.
 2,2 segundos
 1,2 segundos
 30 metros
-30 metros
 50
 Km/h
 90
@@ -6174,8 +6128,6 @@ y autovía
 Carreteras
 Caminos
 Velocidad máxima
-Velocidad máxima
-Velocidad máxima
 45
 en autovía.
 Por autopista no
@@ -6198,7 +6150,6 @@ y autovía
 Carreteras
 Caminos
 Velocidad máxima
-Velocidad máxima
 No pueden
 circular
 45
@@ -6216,42 +6167,25 @@ el límite de velocidad es de 80 kilómetros por hora.
 Límite de velocidad máxima
 dentro de pueblos y ciudades
 Tipo de vehículo
-
 - Todos los vehículos en general
 Calles
-sin bordillos,
-donde la calzada
-y la acera están
-a la misma altura
-Calles
-con un solo carril
-para cada sentido
-Calles
-con varios carriles
-en cada sentido
-20
-30
-50
+
+| sin bordillos, donde la calzada y la acera están | Calles con un solo carril para cada sentido | Calles con varios carriles en cada sentido |
+| --- | --- | --- |
+| a la misma altura |  |  |
+| 20 | 30 | 50 |
+
 Tipo de vehículo
-
 - Vehículos que transportan mercancías peligrosas.
-
 - Vehículos especiales que no pueden alcanzar
+
 una velocidad de más de 60 kilómetros por hora.
 Calles
-sin bordillos,
-donde la calzada
-y la acera están
-a la misma altura
-Calles
-con un solo carril
-para cada sentido
-Calles
-con varios carriles
-en cada sentido
-20
-30
-40
+
+| sin bordillos, donde la calzada y la acera están | Calles con un solo carril para cada sentido | Calles con varios carriles en cada sentido |
+| --- | --- | --- |
+| a la misma altura |  |  |
+| 20 | 30 | 40 |
 
 <!-- Page: 257 -->
 Tipo de vehículo
@@ -7206,37 +7140,26 @@ siempre que tengas que detener el vehículo.
 Detener el vehículo por emergencia
 Los vehículos que sufran un accidente o avería
 se pueden ver en las siguientes situaciones.
-Situación
-¿Qué hacer?
-El vehículo sigue
-funcionando,
-pero no puede alcanzar
-la velocidad necesaria
-en esa carretera
-y obstaculiza el tráfico.
-Si el vehículo pesa menos
-de 3.500 kilos, circular
-por el arcén de la derecha.
-Si no hay arcén, coloca
-el vehículo lo más posible
-a la derecha de la carretera.
-Si vas en una autopista
-o autovía,
-sal por la primera salida.
-El vehículo funciona,
-pero necesitas
-un servicio de auxilio
-Sal de la carretera
-por la primera salida
-usando el arcén derecho.
-El vehículo no puede
-seguir circulando
-Aparca el vehículo en el arcén
-derecho de la carretera
-o en el lugar donde estorbe
-menos al resto de conductores.
-(Por ejemplo, el arcén izquierdo
-o la mediana).
+
+| Situación El vehículo sigue funcionando, | ¿Qué hacer? Si el vehículo pesa menos de 3.500 kilos, circular |
+| --- | --- |
+| pero no puede alcanzar | por el arcén de la derecha. |
+| la velocidad necesaria | Si no hay arcén, coloca |
+| en esa carretera | el vehículo lo más posible |
+| y obstaculiza el tráfico. | a la derecha de la carretera. |
+|  | Si vas en una autopista |
+|  | o autovía, |
+|  | sal por la primera salida. |
+| El vehículo funciona, | Sal de la carretera |
+| pero necesitas | por la primera salida |
+| un servicio de auxilio | usando el arcén derecho. |
+| El vehículo no puede | Aparca el vehículo en el arcén |
+| seguir circulando | derecho de la carretera |
+|  | o en el lugar donde estorbe |
+|  | menos al resto de conductores. |
+|  | (Por ejemplo, el arcén izquierdo |
+|  | o la mediana). |
+| Ver vídeo |  |
 
 <!-- Page: 293 -->
 Las personas que viajan en un vehículo
@@ -7553,7 +7476,6 @@ Rotondas
 Debes circular de la misma forma
 que en el resto de vías, según sean urbanas
 delimitadas o no, interurbanas, etcétera.
-Ver vídeo
 Ver vídeo
 Preferencia de paso para ciclistas,
 peatones y animales
@@ -8178,7 +8100,6 @@ sobresalir 1 metro.
 La carga puede sobresalir
 por delante y por detrás
 1/3 Máximo
-1/3 Máximo
 
 Vehículos
 que miden
@@ -8534,40 +8455,28 @@ o los amortiguadores en mal estado.
 <!-- Page: 345 -->
 ¿Cómo puedes hacer que el vehículo
 deje de derrapar?
-Tipo de vehículo
-¿Qué
-ruedas
-derrapan?
-¿Qué debes hacer?
-De tracción.
-La fuerza del motor
-va a las ruedas
-delanteras
-Traseras
-No frenar.
-Girar el volante
-hacia el lado al que se
-desplazan las ruedas.
-Acelerar
-de forma suave.
-De propulsión.
-La fuerza del motor
-va a las ruedas
-traseras
-Traseras
-No frenar.
-Dejar de acelerar
-de forma suave.
-Girar el volante
-hacia el lado
-al que se desplazan
-las ruedas traseras.
-De propulsión
-Delanteras
-Dejar de acelerar.
-Poner recto el volante
-hasta que las ruedas
-dejen de derrapar.
+
+
+| Tipo de vehículo | ¿Qué ¿Qué debes hacer? ruedas derrapan? |
+| --- | --- |
+| De tracción. | Traseras No frenar. |
+| La fuerza del motor | Girar el volante |
+| va a las ruedas | hacia el lado al que se |
+| delanteras | desplazan las ruedas. |
+|  | Acelerar |
+|  | de forma suave. |
+| De propulsión. | Traseras No frenar. |
+| La fuerza del motor | Dejar de acelerar |
+| va a las ruedas | de forma suave. |
+| traseras |  |
+|  | Girar el volante |
+|  | hacia el lado |
+|  | al que se desplazan |
+|  | las ruedas traseras. |
+| De propulsión | Delanteras Dejar de acelerar. |
+|  | Poner recto el volante |
+|  | hasta que las ruedas |
+|  | dejen de derrapar. |
 
 <!-- Page: 346 -->
 Zona de la carretera en obras
@@ -9654,8 +9563,6 @@ de los garajes.
 Los vehículos en la acera obligan a los peatones
 a andar por la carretera.
 BEEEP
-BEEEP
-BEEEP
 
 <!-- Page: 399 -->
 - No aparcar en los pasos de peatones.
@@ -9832,32 +9739,25 @@ o por faltas que cometen los conductores
 de los otros vehículos.
 
 <!-- Page: 408 -->
-Faltas que cometen
-los ciclistas
-Faltas que cometen
-los conductores
-de otros vehículos
-Distracciones.
-Circular en sentido
-contrario o prohibido.
-Hacer giros prohibidos.
-No respetar la señal
-de Stop o de preferencia
-para otros vehículos.
-Entrar a la carretera
-sin precaución.
-Distracciones.
-Conducir muy rápido.
-Adelantar cuando
-no deben.
-Hacer giros prohibidos.
+| Faltas que cometen | Faltas que cometen los conductores |
+| --- | --- |
+| Distracciones. | Distracciones. |
+| Circular en sentido | Conducir muy rápido. |
+| contrario o prohibido. |  |
+|  | Adelantar cuando |
+| Hacer giros prohibidos. | no deben. |
+| No respetar la señal | Hacer giros prohibidos. |
+| de Stop o de preferencia |  |
+| para otros vehículos. |  |
+| Entrar a la carretera |  |
+| sin precaución. |  |
+
 Para evitar el atropello a ciclistas
 los conductores de los demás vehículos deben:
-
 - Dejar espacio por delante hasta adelantarlos,
+
 así como dejar separación lateral suficiente
 cuando estamos adelantándolos.
-
 - No adelantar a otros vehículos
 si vienen ciclistas en sentido contrario.
 
@@ -9890,23 +9790,17 @@ por faltas que cometen
 los conductores del ciclomotor o motocicleta
 o por faltas que cometen
 los conductores de los otros vehículos.
-Faltas que cometen
-los conductores
-de motocicletas
-Faltas que cometen
-los conductores
-de otros vehículos
-Ocupar el carril
-de la carretera que va
-en sentido contrario.
-Distracciones.
-No respetar
-la preferencia de paso
-de las motocicletas.
-Ocupar el carril
-de la carretera que va
-en sentido contrario.
-Distracciones.
+
+
+| Faltas que cometen los conductores de motocicletas | Faltas que cometen los conductores de otros vehículos |
+| --- | --- |
+| Ocupar el carril | No respetar |
+| de la carretera que va | la preferencia de paso |
+| en sentido contrario. | de las motocicletas. |
+| Distracciones. | Ocupar el carril |
+|  | de la carretera que va |
+|  | en sentido contrario. |
+|  | Distracciones. |
 
 <!-- Page: 411 -->
 Para evitar los accidentes
@@ -10232,51 +10126,43 @@ es de entre 26 y 30 respiraciones por minuto.
 ¿Cómo actuar dependiendo de su reacción?
 
 <!-- Page: 427 -->
-Respira
-de forma normal
-No respira
-de forma normal
-Es señal de que el corazón
-funciona.
-Comprobar si tiene
-hemorragias, quemaduras
-o fracturas.
-Seguir a su lado hasta
-que lleguen los servicios
-de emergencias.
-Colocarle de lado si hay
-que dejarle solo para
-atender a otros heridos.
-Comenzar la reanimación
-cardiopulmonar,
-hasta que lleguen
-los servicios de emergencia,
-de la siguiente manera:
-
-- Coloca las dos manos
-con los dedos
-entrelazados
-encima del tórax
-de la persona
-que no respira.
-
-- Con los codos extendidos
-empuja las manos
-hacia arriba
-y hacia abajo unas
-100 veces por minuto.
-
-- Haz 2 ventilaciones
-boca a boca
-cada 30 compresiones
-en el tórax
-para que el aire entre
-en la boca del herido.
-Presionar
-30 veces
-Soplar
-2 veces
-Continuar así hasta que llegue la ayuda médica.
+| Respira | No respira |
+| --- | --- |
+| de forma normal | de forma normal |
+| Es señal de que el corazón | Comenzar la reanimación |
+| funciona. | cardiopulmonar, |
+|  | hasta que lleguen |
+| Comprobar si tiene |  |
+|  | los servicios de emergencia, |
+| hemorragias, quemaduras |  |
+|  | de la siguiente manera: |
+| o fracturas. |  |
+|  | ■Coloca las dos manos |
+| Seguir a su lado hasta |  |
+|  | con los dedos |
+| que lleguen los servicios |  |
+|  | entrelazados |
+| de emergencias. |  |
+|  | encima del tórax |
+| Colocarle de lado si hay |  |
+|  | de la persona |
+| que dejarle solo para |  |
+|  | que no respira. |
+| atender a otros heridos. |  |
+|  | ■Con los codos extendidos |
+|  | empuja las manos |
+|  | hacia arriba |
+|  | y hacia abajo unas |
+|  | 100 veces por minuto. |
+|  | ■Haz 2 ventilaciones |
+|  | boca a boca |
+|  | cada 30 compresiones |
+|  | en el tórax |
+|  | para que el aire entre |
+|  | en la boca del herido. |
+| Presionar | Soplar |
+| 30 veces | 2 veces |
+| Continuar así hasta que llegue la ayuda médica. |  |
 
 <!-- Page: 428 -->
 Conocer el estado de los heridos
@@ -10662,11 +10548,6 @@ de un vehículo muy grande.
 que vas a hacer
 durante el tiempo que sea necesario.
 STOP
-?
-?
-?
-?
-?
 ?
 
 <!-- Page: 446 -->
