@@ -13,11 +13,9 @@ __pycache__/
 
 # build artifacts
 out/**
-!out/teorica_es.md
-!out/teorica_en.md
-!out/teorica_en.pdf
-!out/teorica_en.md.work/
-!out/teorica_en.md.work/**
+!out/marker_es/
+!out/marker_es/**
+out/marker_es/**/*.html
 
 # source pdf (do not commit)
 TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf
