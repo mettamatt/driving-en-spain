@@ -38,6 +38,18 @@ class TestPdfExtractLayout(unittest.TestCase):
         lines = pdf_extract_to_md._extract_page_layout_rows(page)
         return "\n".join(lines)
 
+    def _first_table_block(self, text: str) -> list[str]:
+        lines = text.splitlines()
+        start = next((i for i, line in enumerate(lines) if line.startswith("|")), None)
+        if start is None:
+            return []
+        block: list[str] = []
+        for line in lines[start:]:
+            if not line.startswith("|"):
+                break
+            block.append(line)
+        return block
+
     def test_layout_extraction_page8_builds_tables(self) -> None:
         text = self._extract(8)
 
@@ -51,7 +63,11 @@ class TestPdfExtractLayout(unittest.TestCase):
 
         self.assertIn("| Problema | Posible solución |", text)
         self.assertNotIn("| Problema Los frenos |", text)
-        self.assertIn("| Los frenos | Soltar el pedal de freno |", text)
+        self.assertIn(
+            "Los frenos se calientan mucho porque se han usado demasiado en poco tiempo.",
+            text,
+        )
+        self.assertIn("Soltar el pedal de freno para que se enfríen.", text)
 
     def test_layout_extraction_page100_table_header_not_merged(self) -> None:
         text = self._extract(100)
@@ -82,6 +98,25 @@ class TestPdfExtractLayout(unittest.TestCase):
         # The PDF table has 3 columns; avoid collapsing the middle column.
         self.assertIn("| Tipo de vehículo | ¿Qué ruedas derrapan? | ¿Qué debes hacer? |", text)
         self.assertIn("| --- | --- | --- |", text)
+
+    def test_layout_extraction_page69_collapses_two_column_comparison(self) -> None:
+        text = self._extract(69)
+        table = self._first_table_block(text)
+
+        self.assertGreaterEqual(len(table), 3)
+        self.assertIn("Ditracciones relacionadas con la carretera", table[0])
+        self.assertIn("Distracciones de la persona que conduce", table[0])
+        # Comparison tables should collapse into a single body row.
+        self.assertEqual(len(table), 3)
+
+    def test_layout_extraction_page118_extracts_label_value_table(self) -> None:
+        text = self._extract(118)
+        self.assertIn("| Tipo de casco | Modelo integral.", text)
+        self.assertIn("| Cierre de las correas |", text)
+
+    def test_layout_extraction_page162_includes_luz_roja_fija_row(self) -> None:
+        text = self._extract(162)
+        self.assertIn("| Luz roja fija | Prohibido el paso. |", text)
 
 
 if __name__ == "__main__":

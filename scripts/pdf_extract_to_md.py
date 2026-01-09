@@ -255,11 +255,23 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
     def row_has_nonleft(r: _Row) -> bool:
         return any(c.strip() for c in r.cells[1:])
 
+    def first_alpha_is_upper(text: str) -> bool:
+        for ch in text.strip():
+            if ch.isalpha():
+                return ch.isupper()
+        return False
+
     def render_table(segment_rows: list[_Row]) -> list[str]:
         if not segment_rows:
             return []
 
         col_count = len(segment_rows[0].cells)
+
+        def first_alpha_is_lower(text: str) -> bool:
+            for ch in text.strip():
+                if ch.isalpha():
+                    return ch.islower()
+            return False
 
         def header_like(text: str) -> bool:
             t = text.strip()
@@ -269,13 +281,41 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
                 return False
             return True
 
+        def normalize_cell(text: str) -> str:
+            return _as_md_bullet(_normalize_line(text))
+
+        def append_piece(existing: str, addition: str) -> str:
+            addition = normalize_cell(addition)
+            if not addition:
+                return existing
+            if not existing:
+                return addition
+            sep = " " if first_alpha_is_lower(addition) else " <br> "
+            return existing + sep + addition
+
+        def looks_like_two_column_comparison(headers: list[str]) -> bool:
+            if col_count != 2:
+                return False
+            a, b = (headers[0].strip(), headers[1].strip())
+            if not a or not b:
+                return False
+            # In this PDF, many 2-column tables are actually side-by-side lists
+            # (comparisons) rather than row-aligned tables. Their headers tend to
+            # be longer phrases (e.g. "Presión de inflado ...").
+            return len(a) >= 20 and len(b) >= 20
+
+        def is_forced_continuation(text: str) -> bool:
+            # Some table cells start new visual lines with capitalized conjunctions like
+            # "Excepto ...", which are continuations of the same logical cell.
+            return text.strip().lower().startswith("excepto")
+
         # If the segment starts with single-column header labels (e.g., a right-column header
         # stacked above a left-column header), try to build a header row from the prefix rows
         # before the first multi-column content row.
         first_multi_idx = next((idx for idx, r in enumerate(segment_rows) if row_is_multi(r)), 0)
         if first_multi_idx > 0:
             header_parts: list[list[str]] = [[] for _ in range(col_count)]
-            for r in segment_rows[: min(first_multi_idx, 3)]:
+            for r in segment_rows[: min(first_multi_idx, 6)]:
                 for i, c in enumerate(r.cells):
                     c = c.strip()
                     if c and header_like(c):
@@ -285,7 +325,7 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
                 header_cells = merged
                 body = segment_rows[first_multi_idx:]
             else:
-                header_cells = [f"Column {i + 1}" for i in range(col_count)]
+                header_cells = [""] * col_count
                 body = segment_rows
         else:
             header_cells = list(segment_rows[0].cells)
@@ -293,14 +333,14 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
                 row_is_multi(segment_rows[0])
                 and all(header_like(c) for c in header_cells if c.strip())
             ):
-                header_cells = [f"Column {i + 1}" for i in range(col_count)]
+                header_cells = [""] * col_count
                 body = segment_rows
             else:
                 body = segment_rows[1:]
                 # Merge up to 2 additional header rows if they are close and header-like.
                 merged = header_cells[:]
                 used = 1
-                header_row_max_gap = typical_gap * 1.1
+                header_row_max_gap = typical_gap * 2.2
                 for r in segment_rows[1:3]:
                     # Use a strict threshold here: body rows are frequently "label-like"
                     # (short, no trailing punctuation), so merging must only happen for
@@ -308,6 +348,12 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
                     if r.y - segment_rows[used - 1].y > header_row_max_gap:
                         break
                     if any(c.strip() and not header_like(c) for c in r.cells):
+                        break
+                    # Continuation header lines in this PDF are usually fragments that start
+                    # with lowercase letters (e.g. "a la recomendada", "con la carretera").
+                    # This avoids accidentally absorbing the first body row, which typically
+                    # starts a sentence and is capitalized.
+                    if not any(first_alpha_is_lower(c) for c in r.cells if c.strip()):
                         break
                     for i, c in enumerate(r.cells):
                         c = c.strip()
@@ -317,15 +363,69 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
                 header_cells = merged
                 body = segment_rows[used:]
 
+        body_rows: list[tuple[str, ...]] = []
+        if looks_like_two_column_comparison(header_cells):
+            acc = [""] * col_count
+            for r in body:
+                for i, c in enumerate(r.cells):
+                    acc[i] = append_piece(acc[i], c)
+            if any(c.strip() for c in acc):
+                body_rows = [tuple(acc)]
+        else:
+            current: list[str] | None = None
+            prev_body_y: float | None = None
+            for r in body:
+                cells = [normalize_cell(c) for c in r.cells]
+                if not any(c.strip() for c in cells):
+                    continue
+                if current is None:
+                    current = [""] * col_count
+
+                gap = 0.0 if prev_body_y is None else (r.y - prev_body_y)
+                if (
+                    not cells[0].strip()
+                    and any(c.strip() for c in cells[1:])
+                    and current[0].strip()
+                    and any(c.strip() for c in current[1:])
+                ):
+                    first_other = next((c for c in cells[1:] if c.strip()), "")
+                    # If a right-column block appears to start before its left-column label
+                    # (common with vertically-centered tables), split into a new logical row.
+                    if (
+                        first_other
+                        and first_other.lower().startswith("primera")
+                        and gap > typical_gap * 1.4
+                    ):
+                        body_rows.append(tuple(current))
+                        current = [""] * col_count
+
+                first = cells[0]
+                if first and not first_alpha_is_lower(first) and current[0].strip():
+                    # If other columns clearly continue (start with lowercase), this is more
+                    # likely a wrapped line inside the current logical row than a new row.
+                    if is_forced_continuation(first) or any(
+                        c.strip() and first_alpha_is_lower(c) for c in cells[1:]
+                    ):
+                        pass
+                    else:
+                        body_rows.append(tuple(current))
+                        current = [""] * col_count
+
+                for i, c in enumerate(cells):
+                    if c:
+                        current[i] = append_piece(current[i], c)
+                prev_body_y = r.y
+
+            if current is not None and any(c.strip() for c in current):
+                body_rows.append(tuple(current))
+
         lines: list[str] = []
         lines.append(
             "| " + " | ".join(_escape_md_table_cell(c) for c in header_cells) + " |"
         )
         lines.append("| " + " | ".join(["---"] * col_count) + " |")
-        for r in body:
-            lines.append(
-                "| " + " | ".join(_escape_md_table_cell(c) for c in r.cells) + " |"
-            )
+        for r_cells in body_rows:
+            lines.append("| " + " | ".join(_escape_md_table_cell(c) for c in r_cells) + " |")
         return lines
 
     out: list[str] = []
@@ -346,7 +446,27 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
             i += 1
             continue
 
-        if r.y < 40.0 or not row_has_nonleft(r):
+        starts_table = r.y >= 40.0 and row_has_nonleft(r)
+        if (
+            not starts_table
+            and r.y >= 40.0
+            and row_nonempty_cols(r) == [0]
+            and (label := r.cells[0].strip())
+            and len(label) <= 80
+            and not label.endswith(".")
+            and not label.endswith(":")
+            and first_alpha_is_upper(label)
+            and not any(p in label for p in ("?", "¿", "!", "¡"))
+            and i + 1 < len(rows)
+            and row_has_nonleft(rows[i + 1])
+            and (rows[i + 1].y - r.y) <= typical_gap * 2.0
+        ):
+            # Some table rows have a left-column label on one line and the right-column
+            # text on the following line (often due to vertical centering around images).
+            # Include the label as a prefix row so it can be paired during consolidation.
+            starts_table = True
+
+        if r.y < 40.0 or not starts_table:
             # Plain line(s).
             for cell in r.cells:
                 s = _normalize_line(cell)
@@ -459,7 +579,9 @@ def _extract_pages_pymupdf_layout(pdf_path: Path) -> list[PageText]:
     # Heuristic thresholds (tuned for this PDF): classify a page as \"layout-heavy\" if it has
     # a meaningful second column and a noticeable amount of row pairing.
     BIN = 10
-    SEP_MIN = 140
+    # Many 2-column tables in this PDF use a relatively narrow left label column.
+    # Using too-large a separation threshold misses those pages (e.g., pages 118/162).
+    SEP_MIN = 90
     ROW_BIN = 8
 
     for i in range(doc.page_count):
