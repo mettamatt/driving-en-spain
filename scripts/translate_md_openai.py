@@ -16,6 +16,7 @@ from markdown_postprocess import postprocess_markdown
 
 
 PAGE_MARKER_RE = re.compile(r"<!--\s*Page:\s*(\d+)\s*-->")
+MD_IMAGE_RE = re.compile(r"!\[[^\]]*]\(([^)]+)\)")
 
 
 @dataclass(frozen=True)
@@ -23,6 +24,7 @@ class Chunk:
     index: int  # 1-based
     text: str
     expected_page_markers: list[str]
+    expected_image_paths: list[str]
 
 
 def _maybe_unquote(value: str) -> str:
@@ -117,7 +119,22 @@ def _build_chunks(segments: list[str], max_chars: int) -> list[Chunk]:
             return
         text = "\n".join(s.rstrip() for s in current).rstrip() + "\n"
         expected = [f"<!-- Page: {n} -->" for n in PAGE_MARKER_RE.findall(text)]
-        chunks.append(Chunk(index=len(chunks) + 1, text=text, expected_page_markers=expected))
+
+        image_paths: list[str] = []
+        for raw_path in MD_IMAGE_RE.findall(text):
+            # Allow optional titles: ![](path "title")
+            p = (raw_path or "").strip().split()[0].strip()
+            if p:
+                image_paths.append(p)
+
+        chunks.append(
+            Chunk(
+                index=len(chunks) + 1,
+                text=text,
+                expected_page_markers=expected,
+                expected_image_paths=image_paths,
+            )
+        )
         current = []
         current_len = 0
 
@@ -152,6 +169,7 @@ def _make_system_prompt(glossary: dict[str, str], english_variant: str) -> str:
         "- Output ONLY the translated Markdown. No preface, no explanations, no code fences.",
         "- Do NOT summarize, omit, or add any content.",
         "- Preserve all Markdown structure (headings, lists, tables) and punctuation.",
+        "- Preserve all Markdown images exactly as-is (e.g., ![](_page_123_Picture_4.jpeg)). Do not delete or rewrite them.",
         "- Preserve all HTML tags and attributes exactly as-is (e.g., <br>, <span id=\"...\">). Do not translate or remove them.",
         "- Preserve ALL HTML comments exactly as-is (e.g., <!-- Page: 12 -->). Do not translate or delete them.",
         "- Keep acronyms/proper nouns (e.g., DGT) as-is unless an explicit glossary entry says otherwise.",
@@ -192,6 +210,11 @@ def _make_system_prompt(glossary: dict[str, str], english_variant: str) -> str:
 
 def _validate_markers(expected: list[str], output: str) -> list[str]:
     missing = [m for m in expected if m not in output]
+    return missing
+
+
+def _validate_image_paths(expected: list[str], output: str) -> list[str]:
+    missing = [p for p in expected if p not in output]
     return missing
 
 
@@ -332,7 +355,8 @@ def main(argv: list[str]) -> int:
     markdown = in_md.read_text(encoding="utf-8")
     if not PAGE_MARKER_RE.search(markdown):
         print(
-            "[warn] No <!-- Page: N --> markers found. For best reliability, run the extractor with --page-markers.",
+            "[warn] No <!-- Page: N --> markers found. For best reliability, re-extract with "
+            "scripts/marker_extract_to_md.py (default behaviour includes page markers).",
             file=sys.stderr,
         )
     segments = _split_into_page_segments(markdown)
@@ -367,6 +391,7 @@ def main(argv: list[str]) -> int:
                     "index": c.index,
                     "chars": len(c.text),
                     "expected_page_markers": c.expected_page_markers,
+                    "expected_image_paths": c.expected_image_paths,
                     "outfile": f"chunk-{c.index:04d}.en.md",
                 }
                 for c in chunks
@@ -397,7 +422,29 @@ def main(argv: list[str]) -> int:
     for c in chunks:
         out_chunk = workdir / f"chunk-{c.index:04d}.en.md"
         if out_chunk.exists() and not args.force:
-            translated_chunks.append(out_chunk.read_text(encoding="utf-8"))
+            existing = out_chunk.read_text(encoding="utf-8")
+
+            missing = _validate_markers(c.expected_page_markers, existing)
+            if missing:
+                msg = "\n".join(missing[:10])
+                raise SystemExit(
+                    "ERROR: Existing chunk output is missing expected page markers.\n"
+                    f"Chunk: {out_chunk}\n"
+                    f"Missing ({len(missing)}):\n{msg}\n\n"
+                    "Tip: re-run with --force and consider a smaller --max-chars (e.g., 8000)."
+                )
+
+            missing_images = _validate_image_paths(c.expected_image_paths, existing)
+            if missing_images:
+                msg = "\n".join(missing_images[:10])
+                raise SystemExit(
+                    "ERROR: Existing chunk output is missing expected image references.\n"
+                    f"Chunk: {out_chunk}\n"
+                    f"Missing ({len(missing_images)}):\n{msg}\n\n"
+                    "Tip: re-run with --force and consider a smaller --max-chars (e.g., 8000)."
+                )
+
+            translated_chunks.append(existing)
             print(f"[skip] chunk {c.index:04d} (exists)")
             continue
 
@@ -421,6 +468,15 @@ def main(argv: list[str]) -> int:
                 "ERROR: Model output is missing expected page markers.\n"
                 f"Missing ({len(missing)}):\n{msg}\n\n"
                 "Tip: re-run with a smaller --max-chars (e.g., 8000) and/or a larger --max-output-tokens."
+            )
+
+        missing_images = _validate_image_paths(c.expected_image_paths, out_text)
+        if missing_images:
+            msg = "\n".join(missing_images[:10])
+            raise SystemExit(
+                "ERROR: Model output is missing expected image references.\n"
+                f"Missing ({len(missing_images)}):\n{msg}\n\n"
+                "Tip: re-run with a smaller --max-chars (e.g., 8000)."
             )
 
         out_chunk.write_text(out_text, encoding="utf-8")
