@@ -2,10 +2,10 @@
 
 ## Project Structure & Module Organization
 - `scripts/` holds the Python tooling:
-  - `pdf_extract_to_md.py` extracts text from the source PDF into Spanish Markdown.
+  - `marker_extract_to_md.py` extracts the source PDF into Spanish Markdown via `marker-pdf` (includes images).
   - `translate_md_openai.py` translates Markdown to English via the OpenAI API in resumable chunks.
   - `markdown_postprocess.py` post-processes Markdown (paragraph reflow + a few known table conversions).
-- `out/` stores generated Markdown outputs (e.g., `out/teorica_es.md`). Treat as build artifacts.
+- `out/` stores generated Markdown outputs. The checked-in marker outputs live under `out/marker_es/...`.
 - `TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf` is the source document.
 - `.env`/`env.example` contain translation credentials and model config.
 
@@ -15,31 +15,31 @@ Set up a virtual environment and install dependencies:
 python3 -m venv .venv
 . .venv/bin/activate
 python -m pip install -U pip
-python -m pip install pymupdf pypdf openai
+python -m pip install marker-pdf openai
 ```
-Extract Spanish Markdown (with page markers for safer translation):
+Extract Spanish Markdown (marker; includes images and page markers):
 ```sh
-python scripts/pdf_extract_to_md.py \
+python scripts/marker_extract_to_md.py \
   TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf \
-  out/teorica_es.md \
-  --page-markers
+  out/marker_es \
+  --disable-ocr
 ```
 Translate to English (uses `.env` or exported vars):
 ```sh
-python scripts/translate_md_openai.py out/teorica_es.md out/teorica_en.md
-```
-Optional HTML export (if `pandoc` is installed):
-```sh
-pandoc out/teorica_en.md -o out/teorica_en.html
+python scripts/translate_md_openai.py \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md \
+  --output-style preserve
 ```
 
 ## Coding Style & Naming Conventions
 - Python 3 scripts; follow PEP 8 with 4‑space indentation.
-- Use clear, descriptive names for new scripts and outputs (e.g., `teorica_es.md`).
+- Use clear, descriptive names for new scripts and outputs.
 - Keep generated files in `out/` and avoid committing large intermediates unless necessary.
 
 ## Testing Guidelines
-- No automated test suite is present. If you add tests, place them under a `tests/` directory and document how to run them.
+- A small `unittest` regression suite lives under `tests/`.
+- Run it with: `python -m unittest discover -s tests`.
 
 ## Commit & Pull Request Guidelines
 - No git history or commit convention is available in this repository. If you introduce one, document it here.

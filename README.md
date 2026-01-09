@@ -1,23 +1,24 @@
 # Driving Theory (Spain) → English (Markdown)
 
 Small, practical toolchain for:
-1) extracting text from a Spanish driving theory PDF into Markdown, then
+1) extracting a Spanish driving theory PDF into Markdown (with images), then
 2) translating that Markdown into English via the OpenAI API, in resumable chunks.
 
 This repo is optimized for the source document:
 `TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf`.
 
 Notes:
-- `out/teorica_en.md` is checked in so most users can just read the final result.
-- `out/teorica_en.pdf` is checked in as a ready-to-read PDF export.
-- `out/teorica_en.md.work/` (manifest + chunk outputs) is checked in so developers can rebuild/post-process without re-translating.
+- The marker-based English output (with images) is checked in under `out/marker_es/...`.
+- The marker-based Spanish output (with images) is also checked in under `out/marker_es/...`.
+- The translation workdir (manifest + per-chunk outputs) is checked in so developers can rebuild/post-process without re-translating.
 - Other generated files under `out/` are still treated as build artifacts (they’re gitignored by default).
 - The PDF is gitignored; you must obtain it separately and place it in the repo root.
 - This is not official material and not legal/learning advice — verify against current DGT sources.
+- Marker has licensing constraints (GPL code + restricted weights); review before any commercial use.
 
 ## What’s in here
 
-- `scripts/pdf_extract_to_md.py` → extract PDF text into Spanish Markdown (optionally with page markers).
+- `scripts/marker_extract_to_md.py` → extract PDF to Spanish Markdown via `marker-pdf` (includes images).
 - `scripts/translate_md_openai.py` → translate Markdown to English via the OpenAI API in resumable chunks.
 - `scripts/markdown_postprocess.py` → post-process Markdown (paragraph reflow + a few known table conversions). This is called automatically by `translate_md_openai.py`.
 
@@ -28,13 +29,13 @@ Optional utilities:
 
 ## Outputs (checked in)
 
-- English (Markdown): [`out/teorica_en.md`](out/teorica_en.md)
-- English (PDF): [`out/teorica_en.pdf`](out/teorica_en.pdf)
-- Spanish (Markdown): [`out/teorica_es.md`](out/teorica_es.md)
+- English (Markdown + images): [`out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md`](out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md)
+- Spanish (Markdown + images): [`out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md`](out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md)
 
 ## Requirements
 
 - Python 3.10+
+- `marker-pdf` (downloads model weights; GPU optional)
 - A working OpenAI API key (for translation)
 
 ## Quickstart
@@ -45,44 +46,10 @@ Optional utilities:
 python3 -m venv .venv
 . .venv/bin/activate
 python -m pip install -U pip
-python -m pip install pymupdf pypdf openai
+python -m pip install marker-pdf openai
 ```
 
-### 2) Extract Spanish Markdown (ignores text inside images)
-
-```sh
-. .venv/bin/activate
-python scripts/pdf_extract_to_md.py \
-  TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf \
-  out/teorica_es.md \
-  --page-markers
-```
-
-`--page-markers` adds invisible `<!-- Page: N -->` comments. The translator uses these as “anchors” so chunked translation is safer and easier to validate.
-
-Useful extractor flags:
-- `--start-page N` / `--end-page N` to extract a subset
-- `--backend pymupdf|pypdf` (PyMuPDF is usually better)
-- `--layout-aware-tables` (experimental; PyMuPDF only) to preserve some multi-column tables as Markdown tables
-
-### Optional: extract with images (marker-pdf)
-
-If you want embedded images, better layout handling, and optional OCR, try `marker-pdf`.
-
-Notes:
-- First run downloads several GB of model weights.
-- In some sandboxed environments, marker's default cache location under `~/Library/Caches` is not writable.
-  `scripts/marker_extract_to_md.py` defaults caches into `out/.cache/` to avoid this.
-- Marker has licensing constraints (GPL code + restricted weights); review before any commercial use.
-
-Install:
-
-```sh
-. .venv/bin/activate
-python -m pip install marker-pdf
-```
-
-Convert (writes a folder under the output dir, containing the `.md` plus extracted images):
+### 2) Extract Spanish Markdown (with images) using marker
 
 ```sh
 . .venv/bin/activate
@@ -92,14 +59,15 @@ python scripts/marker_extract_to_md.py \
   --disable-ocr
 ```
 
-Translate (write the English output into the same folder as the images so relative image links keep working):
+This writes a folder under `out/marker_es/` containing:
+- `TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md` (Spanish Markdown)
+- extracted images like `_page_123_Picture_4.jpeg`
 
-```sh
-. .venv/bin/activate
-python scripts/translate_md_openai.py \
-  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md \
-  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md
-```
+`marker_extract_to_md.py` also rewrites marker’s pagination into `<!-- Page: N -->` comments so the translator can use them as “anchors”.
+
+Notes:
+- First run downloads several GB of model weights.
+- On Apple Silicon, some parts of marker (notably table recognition) may fall back to CPU.
 
 ### 3) Translate to English with OpenAI
 
@@ -112,12 +80,15 @@ export OPENAI_ENGLISH_VARIANT="uk"         # uk | us | international
 export OPENAI_MD_OUTPUT_STYLE="paragraphs" # paragraphs | preserve
 
 . .venv/bin/activate
-python scripts/translate_md_openai.py out/teorica_es.md out/teorica_en.md
+python scripts/translate_md_openai.py \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md \
+  --output-style preserve
 ```
 
 Resuming:
 - If it stops mid-run, re-run the same command.
-- Per-chunk outputs and a manifest are written to `out/teorica_en.md.work/` (by default); completed chunks are skipped.
+- Per-chunk outputs and a manifest are written to `<out_md>.work/` (by default); completed chunks are skipped.
 
 ## Configuration
 
@@ -145,21 +116,20 @@ Create a `glossary.json` mapping Spanish → preferred English:
 Then run:
 
 ```sh
-python scripts/translate_md_openai.py out/teorica_es.md out/teorica_en.md --glossary-json glossary.json
+python scripts/translate_md_openai.py \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md \
+  --output-style preserve \
+  --glossary-json glossary.json
 ```
 
 ## Optional: estimate chunking (no API calls)
 
 ```sh
-python scripts/translate_md_openai.py out/teorica_es.md out/teorica_en.md --dry-run
-```
-
-## Optional: convert Markdown → HTML
-
-If you have `pandoc` installed:
-
-```sh
-pandoc out/teorica_en.md -o out/teorica_en.html
+python scripts/translate_md_openai.py \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md \
+  --dry-run
 ```
 
 ## Tests
@@ -174,10 +144,7 @@ python -m unittest discover -s tests
 ## Troubleshooting
 
 - Missing `<!-- Page: N -->` markers during translation:
-  - Re-extract with `scripts/pdf_extract_to_md.py --page-markers`.
+  - Re-extract with `scripts/marker_extract_to_md.py` (default behaviour includes page markers).
   - Or translate with smaller chunks: `--max-chars 8000` (and/or raise `--max-output-tokens`).
 - Want to restart translation from scratch:
-  - Delete `out/teorica_en.md.work/`, or re-run with `--force`.
-- This repo does not do OCR:
-  - If the PDF contains scanned images of text, you’ll need an OCR step before these scripts can help.
-  - Alternatively, try the optional `marker-pdf` pipeline above (it supports OCR).
+  - Delete `<out_md>.work/`, or re-run with `--force`.
