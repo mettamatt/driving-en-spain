@@ -58,6 +58,7 @@ python scripts/pdf_extract_to_md.py \
 Useful extractor flags:
 - `--start-page N` / `--end-page N` to extract a subset
 - `--backend pymupdf|pypdf` (PyMuPDF is usually better)
+- `--layout-aware-tables` (experimental; PyMuPDF only) to preserve some multi-column tables as Markdown tables
 
 ### 3) Translate to English with OpenAI
 
@@ -118,6 +119,15 @@ If you have `pandoc` installed:
 
 ```sh
 pandoc out/teorica_en.md -o out/teorica_en.html
+```
+
+## Tests
+
+This repo has a small regression test suite for Markdown post-processing.
+
+```sh
+. .venv/bin/activate
+python -m unittest discover -s tests
 ```
 
 ## Troubleshooting
