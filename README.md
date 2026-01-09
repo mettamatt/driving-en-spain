@@ -65,6 +65,42 @@ Useful extractor flags:
 - `--backend pymupdf|pypdf` (PyMuPDF is usually better)
 - `--layout-aware-tables` (experimental; PyMuPDF only) to preserve some multi-column tables as Markdown tables
 
+### Optional: extract with images (marker-pdf)
+
+If you want embedded images, better layout handling, and optional OCR, try `marker-pdf`.
+
+Notes:
+- First run downloads several GB of model weights.
+- In some sandboxed environments, marker's default cache location under `~/Library/Caches` is not writable.
+  `scripts/marker_extract_to_md.py` defaults caches into `out/.cache/` to avoid this.
+- Marker has licensing constraints (GPL code + restricted weights); review before any commercial use.
+
+Install:
+
+```sh
+. .venv/bin/activate
+python -m pip install marker-pdf
+```
+
+Convert (writes a folder under the output dir, containing the `.md` plus extracted images):
+
+```sh
+. .venv/bin/activate
+python scripts/marker_extract_to_md.py \
+  TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf \
+  out/marker_es \
+  --disable-ocr
+```
+
+Translate (write the English output into the same folder as the images so relative image links keep working):
+
+```sh
+. .venv/bin/activate
+python scripts/translate_md_openai.py \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md
+```
+
 ### 3) Translate to English with OpenAI
 
 Set credentials either by exporting env vars, or by creating a `.env` file (see `env.example`). The translation script auto-loads `.env` from the repo root.
@@ -144,3 +180,4 @@ python -m unittest discover -s tests
   - Delete `out/teorica_en.md.work/`, or re-run with `--force`.
 - This repo does not do OCR:
   - If the PDF contains scanned images of text, you’ll need an OCR step before these scripts can help.
+  - Alternatively, try the optional `marker-pdf` pipeline above (it supports OCR).
