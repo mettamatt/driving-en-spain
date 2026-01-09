@@ -187,7 +187,9 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
     col_bins = [b for b, _w in weight_by_bin.most_common()]
     col_starts: list[float] = []
     for b in col_bins:
-        if total_weight and weight_by_bin[b] / total_weight < 0.08:
+        # Allow smaller columns (e.g. a narrow middle column of short labels).
+        # Too-high a cutoff can collapse 3-column tables into 2 columns.
+        if total_weight and weight_by_bin[b] / total_weight < 0.07:
             continue
         if all(abs(b - s) >= min_sep for s in col_starts):
             col_starts.append(float(b))
@@ -227,7 +229,10 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
             row_y0.append(f.y0)
 
     gaps = [float(b - a) for a, b in zip(row_y0, row_y0[1:]) if b - a > 0]
-    gaps_sorted = sorted(gaps)
+    # Ignore tiny gaps which are often baseline jitter across columns, not real
+    # row spacing. These tiny gaps can skew the "typical" gap down and cause
+    # heuristics (like header merging) to misfire.
+    gaps_sorted = sorted(g for g in gaps if g >= 4.0)
     typical_gap = _median(gaps_sorted[: max(1, len(gaps_sorted) // 2)], default=15.0)
 
     rows: list[_Row] = []
@@ -295,8 +300,12 @@ def _extract_page_layout_rows(page: "fitz.Page") -> list[str]:
                 # Merge up to 2 additional header rows if they are close and header-like.
                 merged = header_cells[:]
                 used = 1
+                header_row_max_gap = typical_gap * 1.1
                 for r in segment_rows[1:3]:
-                    if r.y - segment_rows[used - 1].y > typical_gap * 1.6:
+                    # Use a strict threshold here: body rows are frequently "label-like"
+                    # (short, no trailing punctuation), so merging must only happen for
+                    # truly adjacent header continuation lines.
+                    if r.y - segment_rows[used - 1].y > header_row_max_gap:
                         break
                     if any(c.strip() and not header_like(c) for c in r.cells):
                         break
