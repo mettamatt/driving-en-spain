@@ -152,6 +152,7 @@ def _make_system_prompt(glossary: dict[str, str], english_variant: str) -> str:
         "- Output ONLY the translated Markdown. No preface, no explanations, no code fences.",
         "- Do NOT summarize, omit, or add any content.",
         "- Preserve all Markdown structure (headings, lists, tables) and punctuation.",
+        "- Preserve all HTML tags and attributes exactly as-is (e.g., <br>, <span id=\"...\">). Do not translate or remove them.",
         "- Preserve ALL HTML comments exactly as-is (e.g., <!-- Page: 12 -->). Do not translate or delete them.",
         "- Keep acronyms/proper nouns (e.g., DGT) as-is unless an explicit glossary entry says otherwise.",
         "- Use the standard terminology used in driving theory tests (be consistent across the whole document).",
