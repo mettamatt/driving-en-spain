@@ -9,7 +9,7 @@ is failing:
 
 - It takes a lot of effort to move the steering wheel.
 
-- The tyres may have low
+- It may be that the tyres have low
 pressure and need more air.
 
 - The steering wheel is too loose.
@@ -36,7 +36,7 @@ called progressive.
 Progressive power steering helps you turn
 the steering wheel very easily when the vehicle is going slowly
 and makes it a bit harder
-when the vehicle is travelling faster.
+when the vehicle is travelling at higher speed.
 This makes it easier to control the vehicle.
 <!-- Page: 382 -->
 Suspension system
@@ -60,8 +60,8 @@ when braking.
 - The vehicle sways from side to side
 or leans a lot when taking a bend.
 
-- You notice bumps
-or wind too much.
+- You feel bumps
+or the wind too much.
 
 - The tyres wear out very quickly.
 
@@ -117,10 +117,10 @@ What should you check?
 - That there is brake fluid
 in the vehicle’s reservoir.
 And that it is between the minimum
-and maximum marks and that it is in good condition.
+and maximum values and that it is in good condition.
 <!-- Page: 386 -->
 - That the pads or the shoes are not
-worn and are well fixed.
+worn and are well secured.
 
 - That the tyres are well inflated,
 with the pressure they need.
@@ -179,7 +179,7 @@ Risk factors
 Most road traffic accidents
 can be avoided.
 Some circumstances of the driver, the vehicle,
-the road and the surroundings mean that there is
+the road and the environment mean that there is
 more risk of having an accident.
 The circumstances that make a person
 have more risk of having an accident
@@ -210,7 +210,7 @@ Vehicle
 fault
 The brakes fail.
 A tyre
-gets a puncture.
+punctures.
 Between 4 and 13
 out of every 100.
 Watch video
@@ -224,7 +224,7 @@ that they are in good condition and will not blow out.
 Accidents can also be avoided
 by reducing speed and leaving
 more safe distance from the vehicle
-in front on a road with rain.
+in front on a road in the rain.
 Where and when are there more road traffic accidents?
 
 - Most fatal accidents
@@ -243,7 +243,7 @@ December and summer.
 
 - There are more accidents at weekends
 and on public holidays.
-Especially in the early hours of the morning.
+Especially in the early morning hours.
 
 - During the day, most accidents
 happen at the times people go to and leave
@@ -267,7 +267,7 @@ Material
 Medical and
 healthcare
 costs
-Spending on
+Costs in
 security
 resources
 Human
@@ -281,7 +281,7 @@ and the environment.
 Spending on medical and healthcare resources
 A lot of staff and money must be invested
 to give first aid to the injured,
-treatment, rehabilitation and the changes
+treatment, rehabilitation and the adaptations
 that each injured person needs.
 <!-- Page: 394 -->
 Spending on security resources
@@ -289,7 +289,7 @@ A lot of staff and money must also be invested
 in the work that police officers and firefighters do
 at accidents.
 Also, each accident means extra costs
-that insurance companies and organisations
+that insurance companies and the organisations
 that provide services to the injured
 have to pay.
 For all these reasons, the World Health
@@ -307,9 +307,9 @@ of people are more likely to have
 an accident.
 These groups of people are called
 risk groups.
-Within these risk groups, we must tell the difference
-between the risk that pedestrians face
-and the risk that drivers face.
+Within these risk groups we must distinguish
+between the risk pedestrians face
+and the risk drivers face.
 <!-- Page: 396 -->
 Pedestrians
 When a vehicle runs over a pedestrian,
@@ -327,7 +327,7 @@ the following precautions:
 
 - Cross when the traffic light is green.
 
-- Walk in the allowed spaces
+- Walk in the permitted spaces
 on roads and hard shoulders.
 <!-- Page: 397 -->
 - Wait on the pavement to cross.
@@ -360,7 +360,7 @@ crosses while talking on a mobile phone.
 They may be distracted.
 
 - Pay attention to pedestrians who walk
-near places for parties
+near places with parties
 and entertainment.
 
 - Take special care at the exit
@@ -369,8 +369,6 @@ of garages.
 - Do not park the vehicle on the pavement.
 Vehicles on the pavement force pedestrians
 to walk on the road.
-BEEEP
-BEEEP
 BEEEP
 <!-- Page: 399 -->
 - Do not park on pedestrian crossings.
@@ -417,8 +415,8 @@ Older people
 The main problems that many older people
 have as pedestrians are:
 
-- The noise in the surroundings does not let them hear
-a vehicle when it comes closer.
+- The noise in the environment does not let them hear
+a vehicle when it is coming closer.
 
 - They may have difficulty knowing
 how fast a vehicle is coming.

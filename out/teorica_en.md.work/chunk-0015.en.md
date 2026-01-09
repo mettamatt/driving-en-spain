@@ -45,9 +45,9 @@ in each direction
 25
 25
 The maximum speed for all vehicles
-on motorways and dual carriageways that are inside a
+on motorways and dual carriageways that are within a
 town or city is 80 kilometres per hour,
-if it is not signed in another way.
+if it is not signposted in another way.
 <!-- Page: 258 -->
 Minimum speed limits
 inside and outside towns and cities
@@ -86,12 +86,11 @@ and there is a risk of an accident,
 you must switch on the hazard lights.
 For example, if your vehicle has a breakdown
 and you have to drive slower than allowed.
-Why are speed limits
-necessary?
+Why are speed limits necessary?
 Speed limits are set
 so that all vehicles can travel
 safely and in an easy and comfortable way.
-One of the conditions that is taken into account
+One of the conditions taken into account
 to set the speed
 is the type of road and its conditions.
 That is, the maximum speed
@@ -113,7 +112,7 @@ travels at less than 120 kilometres per hour.
 Things that can happen if you drive very fast
 
 - It is harder to react to unexpected events.
-This means that many mistakes are made
+This means many mistakes are made
 that can cost people their lives.
 
 - You have less ability to see
@@ -129,7 +128,7 @@ as if you were going through a tunnel.
 30o
 
 - Driving fast for a long time
-can make you feel tired and aggressive
+can make you feel fatigue and aggression
 because you drive with more tension.
 
 - Driving very fast on a road
@@ -140,7 +139,7 @@ It is forbidden to hold speed competitions
 on any road,
 unless the authorities authorise it
 and take the necessary measures.
-A person who takes part in races
+The person who takes part in races
 that are not authorised
 will lose points from their driving licence.
 Types of distance
@@ -156,7 +155,7 @@ Safety
 distance
 Reaction distance
 Space you travel with the vehicle
-from when you notice an unexpected event,
+from when you detect an unexpected event,
 such as an obstacle, a sign or a noise,
 until you can react to the unexpected event.
 For example, the time that passes
@@ -198,20 +197,20 @@ such as the tyres.
 On a wet surface the vehicle may need
 more braking distance.
 
-- The condition of the road.
+- The road conditions.
 
 - Characteristics of the driver.
 For example, age, physical or psychological state.
 <!-- Page: 263 -->
 Stopping distance
 Space you travel with the vehicle
-from when you notice an obstacle
+from when you detect an obstacle
 until you stop the vehicle completely.
 For example, the time that passes
 from when you see a red traffic light
 until you stop the vehicle completely.
 Stopping distance is the sum
-of reaction distance and braking distance.
+of the reaction distance and the braking distance.
 Reaction distance
 Braking distance
 Stopping distance
@@ -286,12 +285,12 @@ Safety rule R.S.M.
 - Steps of the safety rule R.S.M.
 (Rear-view mirror, Signal and Manoeuvre)
 
-- Safety rule when entering a road
+- Safety rule when joining a road
 
 - Precautions when changing lane
 Overtaking other vehicles
 
-- Which side should you overtake on?
+- Which side must you overtake on?
 
 - Steps to follow to overtake another vehicle
 
@@ -299,11 +298,11 @@ Overtaking other vehicles
 who is being overtaken by another vehicle
 
 - When is overtaking forbidden?
-Changing direction and turning around
+Change of direction and U-turn
 
-- Changing direction
+- Change of direction
 
-- Turning around
+- U-turn
 Reversing
 Stopping the vehicle
 Stopping and parking
@@ -340,7 +339,7 @@ Observe the road
 It means looking carefully at the traffic and the road
 directly, and by using the rear-view mirrors,
 before doing the manoeuvre.
-This way you will make sure you can do the movement
+This way you will make sure you can make the movement
 at that moment.
 Warn about the manoeuvre
 After checking that there is no danger
@@ -353,23 +352,22 @@ The signals you make with your arm
 are more valid than the ones you make with the lights,
 as long as you do them well
 and other drivers can see them.
-When you make signals with the vehicle lights,
+When you signal with the vehicle lights,
 these lights must be on
-during the whole time the manoeuvre lasts
-and you must switch them off the moment you finish it.
-When you make signals with your arm,
+for the whole time the manoeuvre lasts
+and you must switch them off the moment you finish.
+When you signal with your arm,
 you must make the signal just before starting the manoeuvre,
 with enough time for
 other drivers to see it.
 <!-- Page: 270 -->
-How should you indicate the manoeuvre with your arm?
+How must you indicate the manoeuvre with your arm?
 Manoeuvre
 Arm movement
-Lane
-change,
+Lane change,
 change
 of direction
-or turning around
+or U-turn
 To move the vehicle
 to
 the left:
@@ -392,14 +390,14 @@ Arm movements
 up and down
 with short
 and quick movements.
-How should you indicate the manoeuvre with the lights?
+How must you indicate the manoeuvre with the lights?
 Manoeuvre
 Lights
 Lane change, change
 of direction
-or turning around
-Switch on the indicator
-on the side you are going to move to.
+or U-turn
+Switch on the direction indicator
+on the side you are going to move towards.
 Reversing
 Switch on the reversing light.
 Braking
@@ -412,13 +410,13 @@ you can now do the manoeuvre.
 You must do it correctly,
 at the right speed
 and without putting other vehicles or pedestrians in danger.
-Safety rule when entering a road
+Safety rule when joining a road
 Watch video
 It is very important to follow the steps set out
-by the safety rule R.S.M. when entering a road
+by the safety rule R.S.M. when joining a road
 with the vehicle.
 You must observe the road, always make sure
-that your entry onto that road does not create
+that joining that road does not create
 a danger for other drivers
 and warn about your manoeuvre with your arm or the lights.
 <!-- Page: 272 -->
@@ -428,18 +426,18 @@ When doing the manoeuvre you have to:
 without causing them danger.
 
 - Not be an obstacle for vehicles
-that are coming towards you.
+that are approaching you.
 
 - Go at the right speed.
 When you have to give way to another vehicle
 while you are in the acceleration lane
-to enter a road,
+to join a road,
 stop at the start of the lane until the vehicle
 that is already on the road goes past.
 Watch video
-Then enter the lane that applies to you
+Then join the lane that applies to you
 adapting to the speed of the other vehicles.
-All drivers who travel on a road
+All drivers travelling on a road
 have the duty to allow other vehicles
-to enter that road and, if they can,
-they must make the entry manoeuvre easier for them.
+to join that road and, if they can,
+they must make the joining manoeuvre easier for them.

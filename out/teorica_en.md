@@ -5,10 +5,9 @@
 <!-- Page: 1 -->
 
 Manual for the
-
-Category B licence in
-
-Easy Read
+Category B
+Driving Licence in
+Easy Reading
 
 <!-- Page: 2 -->
 
@@ -19,18 +18,18 @@ Industrial Estate “Las Nieves”
 
 28935 Móstoles (Madrid)
 
-«Any form of reproduction, public communication, or transformation of this work can only be done if its source is stated, except where the law provides an exception. Contact CEDRO (Spanish Centre for Reprographic Rights) if you need to photocopy or scan any part of this work (www.conlicencia.com; 91 702 19 70 / 93 272 04 47)» Catalogue of Publications of the General State Administration (CPAGE) https://cpage.mpr.gob.es/
+«Any form of reproduction, public communication, or transformation of this work can only be done if its source is stated, except for an exception provided by law. Contact CEDRO (Spanish Centre for Reprographic Rights) if you need to photocopy or scan any part of this work (www.conlicencia.com; 91 702 19 70 / 93 272 04 47)» Catalogue of Publications of the General State Administration (CPAGE) https://cpage.mpr.gob.es/
 
 NIPO: 128250063
 
-Published by the Ministry of the Interior - Directorate-General for Traffic Based on the content of: This logo identifies materials that follow the international guidelines of the IFLA (International Federation of Library Associations and Institutions) and Inclusion Europe in language, content, and format, to make them easier to understand. It is awarded by the Easy Read Association (www.lecturafacil.net). This document has been adapted and validated following the UNE 153101:2018 EX Easy Read standard. Easy Read adaptation: María Peralta and Laia Vidal (Easy Read Association) Validation: Cristina Casanova, Fernando Covas and Elisenda Copons (+Tu, Support Foundation).
+Published by the Ministry of the Interior - Directorate-General for Traffic Based on the content of: This logo identifies materials that follow the international guidelines of IFLA (International Federation of Library Associations and Institutions) and Inclusion Europe for language, content, and format, to make them easier to understand. It is awarded by the Easy Reading Association (www.lecturafacil.net). This document has been adapted and validated following the UNE 153101:2018 EX Easy Reading standard. Easy Reading adaptation: María Peralta and Laia Vidal (Easy Reading Association) Validation: Cristina Casanova, Fernando Covas and Elisenda Copons (+Tu, Support Foundation).
 
 ## GENERAL INDEX
 
 <!-- Page: 3 -->
 
 Topic 1. Definitions
-Topic 2. Documents
+Topic 2. Documentation
 Topic 3. The driver's condition
 Topic 4. Duties of drivers and pedestrians
 Topic 5. Safety devices in the vehicle
@@ -49,7 +48,7 @@ Topic 15. Vehicle mechanics and maintenance
 Topic 16. Road traffic accidents
 Topic 17. Preventive and efficient driving
 
-Points annex. The points-based driving licence
+Points appendix. The points-based driving licence
 
 <!-- Page: 4 -->
 
@@ -64,7 +63,7 @@ Definitions related to vehicles
 
 - Motor vehicles
 
-- Other types of motor vehicles
+- Other types of vehicles with an engine
 
 Definitions related to people
 
@@ -84,12 +83,12 @@ Definitions related to vehicles
 
 Vehicle
 
-Device prepared to travel on roads, streets, roads, and land of all kinds.
+Device prepared to travel on roads, streets, roads, and all kinds of land.
 
 Types of vehicles
 
 1. Vehicles without an engine
-2. Vehicles with an engine
+2. Motor vehicles
 3. Other vehicles with an engine
 
 Watch video
@@ -118,38 +117,33 @@ Axle. Bar that goes through an object and helps it move and turn. In a trailer, 
 
 <!-- Page: 8 -->
 
-Light trailer
-Heavy trailer
-
-With load it weighs a maximum of 750 kilos.
-
-With load it can weigh more than 750 kilos.
+| Light trailer | Heavy trailer |
+| --- | --- |
+| With load it weighs | With load it can weigh |
+| at most 750 kilos. | more than 750 kilos. |
 
 Semi-trailer
 
 Trailer that is attached directly to a motor vehicle, without an axle.
 
-Light semi-trailer
-
-Non-light semi-trailer
-
-With load it weighs a maximum of 750 kilos.
-
-With load it can weigh more than 750 kilos.
+| Light semi-trailer | Non-light semi-trailer |
+| --- | --- |
+| With load it weighs | With load it can weigh |
+| at most 750 kilos. | more than 750 kilos. |
 
 Motor vehicles
 
 Vehicles that need an engine to work. Motor vehicles are classified into:
 
-- Motor vehicles They are used to carry people and things. They are also used to move or tow other vehicles.
+- Motor cars They are used to carry people and things. They are also used to move or tow other vehicles.
 
 <!-- Page: 9 -->
 
-- Special vehicles They are used to do certain jobs or services. Some have their own engine and others are towed. For example, excavators to move earth and tractors to work in the countryside. There are different types of motor vehicles and special vehicles:
+- Special vehicles They are used to do certain jobs or services. Some have their own engine and others are towed. For example, excavators to move earth and tractors to work in the countryside. There are different types of motor cars and special vehicles:
 
-Motor vehicles
+Motor cars
 
-Two-wheeled motorcycles
+Motorcycles with two wheels
 
 Motorcycles with sidecar
 Three-wheeled vehicles
@@ -157,7 +151,7 @@ Heavy quadricycle (or quadricycle)
 Car
 Pick-up
 Car-derived van
-Adaptable mixed-use vehicle
+Adaptable dual-purpose vehicle
 Bus / Coach
 Trolleybus
 Lorry
@@ -180,17 +174,17 @@ Towed machine
 
 <!-- Page: 11 -->
 
-Motor vehicles
+Motor cars
 Motorcycles
 Watch video
 
-Two-wheeled vehicles that must meet at least one of these two features related to engine capacity and speed:
+Two-wheeled vehicles that must meet at least one of these two characteristics related to engine capacity and speed:
 
-- If it is petrol, have an engine capacity greater than 50 cubic centimetres or, what is the same, 0.05 litres.
+- If it is petrol, have an engine with a capacity greater than 50 cubic centimetres or, what is the same, 0.05 litres.
 
 - Reach a speed greater than 45 kilometres per hour.
 
-Engine capacity. Measure used to calculate the power of an engine. The more engine capacity an engine has, the greater its power will be.
+Engine capacity. A measure used to calculate the power of an engine. The more capacity an engine has, the greater its power.
 
 Engine capacity is measured in litres or in cubic centimetres.
 
@@ -198,19 +192,19 @@ Engine capacity is measured in litres or in cubic centimetres.
 
 Motorcycles with sidecar
 
-They are three-wheeled motorcycles that have a seat at the side for another person to sit. They must meet the same features of engine capacity and speed as two-wheeled motorcycles.
+They are three-wheeled motorcycles that have a seat at the side for another person to sit. They must meet the same characteristics of engine capacity and speed as two-wheeled motorcycles.
 
 Three-wheeled vehicle
 
-Vehicle with three symmetrical wheels that must meet the same features of engine capacity and speed as two-wheeled motorcycles and sidecars.
+Vehicle with three symmetrical wheels that must meet the same characteristics of engine capacity and speed as two-wheeled motorcycles and sidecars.
 
 <!-- Page: 13 -->
 
 Heavy quadricycle
 
-Four-wheeled motor vehicle that meets these features:
+Four-wheeled motor car that meets these characteristics:
 
-- With load and passengers it weighs a maximum of 450 kilos if it carries people or 600 kilos if it carries goods.
+- With load and passengers it weighs at most 450 kilos if it carries people or 600 kilos if it carries goods.
 
 - The maximum power the engine can have is 15 kilowatts.
 
@@ -218,25 +212,25 @@ Kilowatt. Unit used to measure the maximum power a device can have.
 
 Car
 
-Motor vehicle used to carry people. It has at least four wheels. It can have a maximum of nine seats, counting the driver's seat.
+Motor car used to carry people. It has at least four wheels. It can have up to nine seats, counting the driver's seat.
 
 <!-- Page: 14 -->
 
 Car-derived van
 
-Motor vehicle with the body of a car, but used to carry goods instead of people. It only has one row of seats to leave more space for goods.
+Motor car with the body of a car, but used to carry goods instead of people. It only has one row of seats to leave more space for goods.
 
-Body. Structure that gives shape to the motor vehicle.
+Body. Structure that gives shape to the motor car.
 
 Pick up
 
-Vehicle in which the seats for people and the load area are separated into two different spaces. With load and passengers it weighs a maximum of 3,500 kilos.
+Vehicle in which the seats for people and the load area are separated into two different spaces. With load and passengers it weighs at most 3,500 kilos.
 
 <!-- Page: 15 -->
 
-Adaptable mixed-use vehicle
+Adaptable dual-purpose vehicle
 
-Vehicle used to carry people or goods. The seats can be put in or taken out depending on the use you want to give the vehicle. A maximum of nine people can travel in it.
+Vehicle used to carry people or goods. The seats can be put in or taken out depending on the use you want to give the vehicle. Up to nine people can travel in it.
 
 Bus or coach
 
@@ -252,7 +246,7 @@ Watch video
 
 It has two parts:
 
-- The cab. Space with seats where passengers and the driver travel. It can have a maximum of nine seats.
+- The cab. Space with seats where the passengers and the driver travel. It can have up to nine seats.
 
 - Rest of the lorry. Space that is at the back. It is the place where the goods travel.
 
@@ -268,7 +262,7 @@ Vehicle used to tow the semi-trailer.
 
 Combination of vehicles
 
-Motor vehicle made up of a motor vehicle and a trailer or semi-trailer attached or joined to it.
+Motor car made up of a motor vehicle and a trailer or semi-trailer attached or joined to it.
 
 Watch video
 
@@ -279,7 +273,7 @@ There are three types of combinations of vehicles:
 <!-- Page: 18 -->
 
 2. Articulated vehicle. The semi-trailer is attached to the motor vehicle, without an axle.
-3. Euromodular configuration. Attached vehicles that have at least 6 axles in their wheels. The axles connect the wheels to each other and help them turn.
+3. Euromodular configuration. Attached vehicles that have at least 6 axles on their wheels. The axles connect the wheels to each other and help them turn.
 
 Special vehicles
 Quad ATV
@@ -294,7 +288,7 @@ Vehicle with four wheels or more that has a very large engine. It is used to car
 
 Watch video
 
-The tractor is used mainly in field work (agricultural tractor) and in construction (works tractor).
+The tractor is used mainly for field work (agricultural tractor) and in construction (works tractor).
 
 Motor cultivator
 
@@ -315,9 +309,9 @@ There are two types:
 
 <!-- Page: 21 -->
 
-Other types of motor vehicles
+Other types of vehicles with an engine
 
-Some vehicles that have an engine are not considered motor vehicles because they have special features.
+Some vehicles that have an engine are not considered motor vehicles because they have special characteristics.
 
 Vehicles not considered motor vehicles
 Tram
@@ -331,17 +325,17 @@ Personal mobility vehicle
 
 Tram
 
-It works through rails placed in the road or in the street.
+It runs on rails placed in the road or in the street.
 
 <!-- Page: 22 -->
 
 Moped
 
-Vehicles with two, three, or four wheels. They have low-power engines. The maximum speed they reach is 45 kilometres per hour. A maximum of two people can travel on mopeds.
+Vehicles with two, three, or four wheels. They have low-power engines. The maximum speed they reach is 45 kilometres per hour. Up to two people can travel on mopeds.
 
 Vehicles for people with reduced mobility
 
-They are made for use by people who have a physical disability. The maximum speed they reach is 45 kilometres per hour. It weighs a maximum of 350 kilos.
+They are made for use by people who have a physical disability. The maximum speed they reach is 45 kilometres per hour. It weighs at most 350 kilos.
 
 <!-- Page: 23 -->
 
@@ -399,23 +393,23 @@ Driving licence
 
 - New drivers
 
-- When must you renew your category B driving licence?
+- When must you renew your type B driving licence?
 
-Vehicle registration document
+Vehicle registration certificate
 
-- Which vehicles must have a vehicle registration document?
+- Which vehicles must have a vehicle registration certificate?
 
-- What information appears on the vehicle registration document?
+- What information appears on the vehicle registration certificate?
 
-Roadworthiness test certificate (ITV)
+Vehicle roadworthiness inspection card (ITV)
 
-- Which vehicles must have the roadworthiness test certificate?
+- Which vehicles must have the roadworthiness inspection card?
 
-- What information appears on the roadworthiness test certificate?
+- What information appears on the roadworthiness inspection card?
 
-- When must you take your vehicle for the roadworthiness test (ITV)?
+- When must you have your vehicle roadworthiness inspection (ITV)?
 
-- Roadworthiness test results
+- Results of the roadworthiness inspection
 
 Compulsory third-party liability insurance
 
@@ -439,9 +433,9 @@ Documents
 
 Driving licence
 
-Vehicle registration document
+Vehicle registration certificate
 
-Roadworthiness test certificate
+Roadworthiness inspection card
 
 Third-party liability insurance
 
@@ -449,21 +443,19 @@ Watch video
 
 You must always carry these documents in the vehicle when you drive to show them to the authorities who are responsible for monitoring traffic. These documents must be the originals. You can also present a photocopy of the documents that is certified by an official public body. For example, the town hall, the police or a notary.
 
-To certify. An official body confirms that the copy of the document is genuine
+Certify. An official body confirms that the copy of the document is genuine
 
 <!-- Page: 28 -->
 
-When you need to adapt the vehicle to drive, you must ask for a special permit and make the necessary changes to the vehicle. For example, fitting controls on the steering wheel for people who have a disability in their legs and find it hard to use the car pedals. We are going to learn about the 4 documents needed that a driver must have, what they are for and how they are used.
+When you need to adapt the vehicle to drive, you must apply for a special permit and make the necessary changes to the vehicle. For example, fitting controls on the steering wheel for people who have a disability in their legs and find it hard to use the car pedals. We are going to learn about the 4 documents needed that a driver must have, what they are for and how they are used.
 
 Driving licence
 
-Document that authorises a person to drive and makes sure they meet the requirements to do so.
+Document that authorises a person to drive and confirms that they meet the requirements to do so.
 
 Types of driving licence
 
 You must get one licence or another depending on the vehicle you are going to drive:
-
-Watch video
 
 <!-- Page: 29 -->
 
@@ -471,7 +463,7 @@ Watch video
 | Type of licence | Vehicles you can drive | Minimum age to drive |
 | --- | --- | --- |
 | AM | Mopeds with two or three wheels and light quadricycles. Vehicles for people with reduced mobility. | 15 years |
-| A1 | Motorcycles with a maximum engine size of 125 cubic centimetres and a maximum power of 11 kilowatts. Motor tricycles with a maximum power of 15 kilowatts. | 16 years |
+| A1 | Motorcycles with a maximum engine capacity of 125 cubic centimetres and a maximum power of 11 kilowatts. Motor tricycles with a maximum power of 15 kilowatts. | 16 years |
 | A2 | Motorcycles with a maximum power of 35 kilowatts. | 18 years |
 | A | Motorcycles and tricycles with any type of engine and power. | 20 years |
 
@@ -480,36 +472,36 @@ Watch video
 
 | Type of licence | Vehicles you can drive | Minimum age to drive |
 | --- | --- | --- |
-| B | Mopeds. Vehicles for people with reduced mobility. Cars that can carry up to nine passengers. Special agricultural vehicles. Special non-agricultural vehicles that reach a maximum speed of 40 kilometres per hour and do not weigh more than 3,500 kilos. Combination of vehicles when the trailer does not carry a weight over 750 kilos. | 18 years |
+| B | Mopeds. Vehicles for people with reduced mobility. Cars that can carry up to nine passengers. Special agricultural vehicles. Special vehicles that are not agricultural that reach a maximum speed of 40 kilometres per hour and do not weigh more than 3,500 kilos. Combination of vehicles when the trailer does not carry a weight greater than 750 kilos. | 18 years |
 | B+E | Combination of vehicles. The trailer can carry a load of up to 3,500 kilos. | 18 years |
 
 <!-- Page: 31 -->
 
 Points-based driving licence
 
-When you get your driving licence you are given 8 points. You will lose some of these points or all of them if you commit a serious or very serious offence. For example, using your mobile while driving. You can get the points back after some time by doing a re-education course for driving. This course lasts 12 hours.
+When you get your driving licence you are given 8 points. You will lose some of these points or all of them if you commit a serious or very serious offence. For example, using your mobile while driving. You can get the points back after some time by doing a driver re-education course. This course lasts 12 hours.
 
 New drivers
 
 A person who gets a driving licence is called a new driver during the first year.
 
-New drivers must display in the car a green rectangular plate with a white letter L. This plate is placed on the rear window at the back of the car. It must be clearly visible so that other drivers know that car is being driven by a new driver.
+New drivers must display in the car a green rectangular plate with a white letter L. This plate is placed on the rear window at the back of the car. It must be clearly visible so that other drivers know that the car is driven by a new driver.
 
 <!-- Page: 32 -->
 
-When must you renew your category B driving licence?
+When must you renew your type B driving licence?
 
 - Every 10 years if you are under 65.
 
 - Every 5 years if you are over 65. You must apply to renew the licence before it expires. You must also apply again for the driving licence if you lose it, it is stolen, or any of your personal details change. For example, your address.
 
-Vehicle registration document
+Vehicle registration certificate
 
-Document that confirms that a vehicle has a number plate and is authorised to be on the road.
+Document that confirms that a vehicle has a number plate and is authorised to be driven on the road.
 
 <!-- Page: 33 -->
 
-Which vehicles must have a vehicle registration document?
+Which vehicles must have a vehicle registration certificate?
 
 - All motor vehicles.
 
@@ -517,17 +509,17 @@ Which vehicles must have a vehicle registration document?
 
 - Trailers and semi-trailers that can carry more than 750 kilos.
 
-Number plate. A set of letters and numbers that identify vehicles.
+Number plate. Set of letters and numbers that identify vehicles.
 
 Each vehicle has a different number plate that is stamped on a metal plate and placed on the vehicle.
 
-What information appears on the vehicle registration document?
+What information appears on the vehicle registration certificate?
 
 - First name, surname, and address of the vehicle owner.
 
 - Vehicle number plate and the date it was registered.
 
-- Number of seats in the vehicle.
+- Number of seats the vehicle has.
 
 - Use of the vehicle. That is, whether it is used to carry people or goods.
 
@@ -535,14 +527,14 @@ What information appears on the vehicle registration document?
 
 <!-- Page: 34 -->
 
-They must do it no later than 15 days after the change. They must also report if they sell or hand over the vehicle to another person. In this case, they have 10 days to report it. The person who buys or receives the vehicle must apply for the vehicle registration document to be renewed in their name.
+They must do it no later than 15 days after the change. They must also report if they sell or hand over the vehicle to another person. In this case, they have 10 days to report it. The person who buys or receives the vehicle must apply for the vehicle registration certificate to be renewed in their name.
 
 Watch video
-Roadworthiness test certificate (ITV)
+Vehicle roadworthiness inspection card (ITV)
 
 Document that shows that a vehicle has no faults and is in good condition to work.
 
-Which vehicles must have the roadworthiness test certificate?
+Which vehicles must have the roadworthiness inspection card?
 
 - All motor vehicles.
 
@@ -550,7 +542,7 @@ Which vehicles must have the roadworthiness test certificate?
 
 - All trailers and semi-trailers.
 
-What information appears on the roadworthiness test certificate?
+What information appears on the roadworthiness inspection card?
 
 - Vehicle characteristics.
 
@@ -558,45 +550,69 @@ What information appears on the roadworthiness test certificate?
 
 <!-- Page: 35 -->
 
-When must you take your vehicle for the roadworthiness test (ITV)? To know when each vehicle must be checked, you must take into account what type of vehicle it is, how old it is and what it is for: whether it is a car, a special vehicle...
+When must you have your vehicle roadworthiness inspection (ITV)? To know when each vehicle must be checked, you must take into account what type of vehicle it is, how old it is, and what it is used for: whether it is a car, a special vehicle...
 
 Types of vehicle
 
-When to take the roadworthiness test (ITV)
+When to have the roadworthiness inspection (ITV)
 
-Two-wheeled mopeds First test at 3 years. After 3 years, a test every 2 years.
+Two-wheel mopeds First inspection at 3 years. After 3 years, inspection every 2 years.
 
-Three-wheeled mopeds and light quadricycles
+Three-wheel mopeds and light quadricycles
 
-Motorcycles, three-wheeled vehicles and heavy quadricycles
+Motorcycles, three-wheel vehicles and heavy quadricycles
 
 Quads
 
-First test at 4 years. After 4 years, a test every 2 years.
+First inspection at 4 years. After 4 years, inspection every 2 years.
 
 <!-- Page: 36 -->
 
-Motor vehicles that can carry up to nine passengers First test at 4 years. After 4 years, a test every 2 years. After 10 years, a test every year.
+| Column 1 | Column 2 |
+| --- | --- |
+|  | First inspection at 4 years. |
+| Motor vehicles | After 4 years, |
+| that can carry | inspection every 2 years. |
+| up to nine passengers |  |
+|  | After 10 years, |
+|  | inspection every year. |
+|  | First inspection at 2 years. |
+|  | After 2 years, |
+| Motor vehicles |  |
+|  | inspection every 2 years. |
+| that can carry |  |
+|  | After 6 years, |
+| goods with a weight |  |
+|  | inspection every year. |
+| of up to 3.5 tonnes |  |
+|  | After 10 years, |
+|  | inspection every 6 months. |
+| Trailers to | First inspection at 1 year. |
+| carry goods | Up to 10 years inspection |
+| or people | every year. |
+| or to accommodate people |  |
+|  | After 10 years, |
+| Except the towed |  |
+|  | once every 6 months. |
+| caravan |  |
+|  | First inspection at 6 years. |
+| Towed caravan |  |
+|  | After 6 years, |
+|  | every 2 years. |
 
-Motor vehicles that can carry goods with a weight of up to 3.5 tonnes First test at 2 years. After 2 years, a test every 2 years. After 6 years, a test every year. After 10 years, a test every 6 months.
+You must also have a roadworthiness inspection when the vehicle is modified, or if it has had an accident
 
-Trailers to carry goods or people or to house people
+and the structure has been damaged.
 
-Except the towed caravan First test at 1 year.
-
-Up to 10 years, a test every year. After 10 years, once every 6 months.
-
-Towed caravan
-
-First test at 6 years. After 6 years, every 2 years. You must also take a roadworthiness test when the vehicle is modified, or if it has had an accident and the structure has been damaged. The vehicle owner is the person responsible for making sure the roadworthiness tests are done.
+The vehicle owner is the person responsible for making sure the roadworthiness inspections are done.
 
 <!-- Page: 37 -->
 
-Roadworthiness test results
+Results of the roadworthiness inspection
 
 When the vehicle is in good condition, the ITV technicians:
 
-- Write on the roadworthiness test certificate that the vehicle is OK and the date of the next test.
+- Write on the roadworthiness inspection card that the vehicle is fine and the date of the next inspection.
 
 - Give you a sticker. You must place it inside the vehicle, on the right side of the windscreen.
 
@@ -606,11 +622,11 @@ When the vehicle is in good condition, the ITV technicians:
 
 - You must take it to a garage to be repaired.
 
-- Once repaired, you must take it for a new test to check that it can be driven again.
+- Once repaired, you must take it for a new inspection to check that it can be driven on the road again.
 
 Compulsory third-party liability insurance
 
-People who have a motor vehicle must take out and pay for insurance. This insurance is to protect other people, objects or vehicles if you have an accident. This insurance is called third-party liability insurance.
+People who have a motor vehicle must take out and pay for insurance. This insurance is to protect other people, objects, or vehicles if you have an accident. This insurance is called third-party liability insurance.
 
 <!-- Page: 38 -->
 
@@ -624,7 +640,7 @@ All motor vehicles if the owner lives in Spain, except:
 
 - Motorised toys.
 
-Other vehicles that do not need third-party liability insurance are trailers, semi-trailers and towed machines that cannot carry more than 750 kilos. What does compulsory insurance cover?
+Other vehicles that do not need third-party liability insurance are trailers, semi-trailers, and towed machines that cannot carry more than 750 kilos. What does compulsory insurance cover?
 
 - Damage that your vehicle causes to an object. For example, repairing a street lamp if you crash into it.
 
@@ -634,11 +650,11 @@ Other vehicles that do not need third-party liability insurance are trailers, se
 
 What does compulsory insurance not cover?
 
-- Injuries that in an accident are suffered by the driver of the insured vehicle. For example, it does not pay medical costs for a driver who loses a leg in an accident.
+- Injuries that in an accident are suffered by the driver of the insured vehicle. For example, it does not pay the medical costs of a driver who loses a leg in an accident.
 
-- Damage suffered by objects that are inside the car of the person driving.
+- Damage suffered by objects that are inside the car of the person who is driving.
 
-- Damage that the accident causes to the objects of the insured person, the person driving, or their family members. For example, it does not cover repairing the door of a garage that a driver breaks when entering the home of their brother.
+- Damage that the accident causes to the objects of the insured person, the person who is driving, or their family members. For example, it does not cover repairing the door of a garage that a driver breaks when entering the home of their brother.
 
 - Damage to people who are not wearing a helmet if it is compulsory to wear one.
 
@@ -646,17 +662,17 @@ What does compulsory insurance not cover?
 
 <!-- Page: 40 -->
 
-What are the consequences of not insuring the vehicle?
+What consequences are there if you do not insure the vehicle?
 
 - The vehicle cannot be driven. If a traffic officer stops you, they will immobilise the vehicle at that moment.
 
-- The vehicle owner must pay the costs of the place where the vehicle is kept while it has no insurance.
+- The owner of the vehicle has to pay the costs of the place where the vehicle is kept while it has no insurance.
 
-- The vehicle owner must pay a fine. You must always carry in the vehicle the proof of payment for the insurance. This way you can show that the vehicle is insured. This proof will show the following information:
+- The owner of the vehicle has to pay a fine. You must always carry in the vehicle the proof of payment for the insurance. This way you can show that the vehicle is insured. This proof will show the following information:
 
 - Name of the insurance company.
 
-- Vehicle number plate.
+- Vehicle registration number.
 
 - Insurance certificate.
 
@@ -666,19 +682,19 @@ What are the consequences of not insuring the vehicle?
 
 Responsible people
 
-As a general rule, the person who commits an offence or infringement as a driver or pedestrian is the one who must pay the fine or penalty.
+As a general rule, the person who commits an offence or infringement as a driver or pedestrian is the one who must pay the fine or the penalty.
 
 <!-- Page: 41 -->
 
-However, there are cases in which drivers are responsible for a fault or offence, even if they did not cause the accident. These cases are:
+However, there are cases in which drivers are responsible for an offence or infringement, even if they did not cause the accident. These cases are:
 
 - Drivers and passengers who do not wear a helmet in vehicles where it is compulsory to wear one.
 
-- Drivers who carry under-age people in vehicles where it is not allowed for children of that age to travel. When traffic faults or offences are committed by a person under 18 years old, the fine must be paid by their father, mother, or guardian. The person who is the registered keeper of a vehicle is responsible for faults or offences related to:
+- Drivers who carry minors in vehicles where it is not allowed for children of that age to travel. When traffic offences or infringements are committed by a person under 18, the fine must be paid by their father, mother, or guardian. The person who is the registered keeper of a vehicle is responsible for offences or infringements related to:
 
 - The vehicle documents.
 
-- Not keeping up with the vehicle inspections.
+- Not complying with the vehicle inspections.
 
 - The condition the vehicle is in.
 
@@ -689,11 +705,11 @@ However, there are cases in which drivers are responsible for a fault or offence
 Contents
 Physical and psychological condition of the driver
 
-Factors that affect the condition of the driver
+Factors that influence the condition of the driver
 
 - Fatigue
 
-- Sleepiness
+- Drowsiness
 
 - Alcohol
 
@@ -721,7 +737,7 @@ You must be in good physical and psychological condition to drive. There are man
 
 Also, you must have enough training to handle the vehicle and understand all traffic rules.
 
-Eyesight
+Sight
 
 Through our eyes we receive most of the information to drive well. Some of this information is: road condition, traffic signs, distance to objects and the speed of other vehicles. To drive well it is necessary to see things in front of you, to the sides, and behind.
 
@@ -739,11 +755,11 @@ But some factors make you see less:
 
 Mood
 
-Changes in mood can make you lose concentration and cause a road traffic accident. For example, having a big argument while you are driving or receiving very sad news before driving can change your mood.
+Changes in mood can make you lose concentration and cause a road traffic accident. For example, having a strong argument while you are driving or receiving very sad news before driving can change your mood.
 
 Reaction time
 
-It is the time between hearing or seeing something and reacting. For example, the time between seeing a red traffic light and stopping the car. In normal conditions, the reaction time of a person who is driving is between half a second and one second.
+It is the time that passes between hearing or seeing something and reacting. For example, the time that passes between when you see a red traffic light and you stop the car. In normal conditions, the reaction time of a person who is driving is between half a second and one second.
 
 <!-- Page: 45 -->
 
@@ -771,13 +787,13 @@ Factors that make a person take longer to react:
 
 - Paying little attention to driving. !
 
-Factors that affect the condition of the driver
+Factors that influence the condition of the driver
 
 Being tired (fatigue)
 
 It is one of the main risks that can cause accidents on the road. Fatigue can be physical or psychological.
 
-Physical fatigue produces a feeling of tiredness and psychological fatigue makes it harder to concentrate.
+Physical fatigue produces a feeling of tiredness and psychological fatigue makes it harder for you to concentrate.
 
 <!-- Page: 46 -->
 
@@ -791,17 +807,17 @@ What can cause fatigue?
 
 - What the driver is like. What the road is like:
 
-- Road with heavy traffic.
+- Road with a lot of traffic.
 
 - The road surface is in poor condition.
 
 - You do not know the road.
 
-- Weather difficulties: rain, fog, snow or too much heat. What the vehicle is like:
+- Difficult weather: rain, fog, snow or too much heat. What the vehicle is like:
 
-- Too much heat inside the vehicle. The right temperature is 23 degrees more or less.
+- Too much heat inside the vehicle. The suitable temperature is 23 degrees more or less.
 
-- You drive at night with poor lighting.
+- You drive at night with little lighting.
 
 - You drive in a vehicle in poor condition or that makes too much noise.
 
@@ -815,13 +831,13 @@ What the driver is like:
 
 - You drive fast for a long time.
 
-- You drive sleepy, after drinking alcohol, or you feel unwell.
+- You drive sleepy, after drinking alcohol or you feel unwell.
 
 - You do long journeys and at night when you are not used to doing them.
 
 - You have had your driving licence for a short time.
 
-- You drive with your body in a bad posture. What are the symptoms of fatigue? There are some signs that warn you that you are suffering from fatigue and you must stop driving. These signs are:
+- You drive with your body in a bad posture. What are the symptoms of fatigue? There are some signs that warn you that you are suffering fatigue and you must stop driving. These signs are:
 
 - Difficulty concentrating on the road.
 
@@ -845,15 +861,15 @@ What the driver is like:
 
 - You take longer to react.
 
-Being sleepy (sleepiness)
+Being sleepy (drowsiness)
 
-Many road traffic accidents are related to driving while sleepy. You do not need to fall completely asleep to have an accident for this reason. The symptoms of sleepiness appear before falling fully asleep. Sleepiness. A state in which you feel tired, heavy in the body, and sleepy.
+Many road traffic accidents are related to driving while sleepy. It is not necessary to fall completely asleep to have an accident for this reason. The symptoms of drowsiness appear before falling fully asleep. Drowsiness. A state in which you feel tired, heavy in the body, and sleepy.
 
 Z Z Z
 
 <!-- Page: 49 -->
 
-What can cause sleepiness?
+What can cause drowsiness?
 
 - Sleeping fewer hours than usual.
 
@@ -867,9 +883,9 @@ What can cause sleepiness?
 
 - Having illnesses related to sleep.
 
-- Driving at dawn or at midday, after eating. What are the symptoms of sleepiness? There are some signs that warn you that you are suffering from sleepiness and you must stop driving. These signs are:
+- Driving at dawn or at midday, after eating. What are the symptoms of drowsiness? There are some signs that warn you that you are suffering drowsiness and you must stop driving. These signs are:
 
-- Difficulty keeping your head upright, or keeping your eyes open.
+- Difficulty keeping your head straight, or keeping your eyes open.
 
 - Blurred vision.
 
@@ -879,7 +895,7 @@ What can cause sleepiness?
 
 - Losing concentration or having meaningless thoughts.
 
-- Being distracted by anything.
+- Getting distracted by anything.
 
 - Being restless or irritable.
 
@@ -889,29 +905,27 @@ What can cause sleepiness?
 
 - Not noticing traffic signs or the place where you must leave the road.
 
-- Driving very close to the vehicle in front of yours. Effects of sleepiness:
+- Driving very close to the vehicle in front of yours. Effects of drowsiness:
 
 - Taking longer than normal to react.
 
 - Difficulty making decisions about driving.
 
-- Feeling that it is hard to make movements with your body, or you make them more slowly.
+- Feeling that it is hard to make movements with your body or you make them more slowly.
 
-- Falling asleep for a few seconds without noticing.
+- Falling asleep for a few seconds without realising it.
 
 <!-- Page: 51 -->
 
-How can you avoid fatigue and sleepiness?
+How can you avoid fatigue and drowsiness?
 
 - Stop the vehicle in a safe place when you feel the first symptoms and sleep for 20 or 30 minutes.
 
-- Rest for 20 or 30 minutes every two hours or every 200 kilometres, even if you do not feel fatigue or sleepiness.
+- Rest for 20 or 30 minutes every two hours or every 200 kilometres, even if you do not feel fatigue or drowsiness.
 
-- If you have a fatigue detector follow what it tells you. It is a system that works through sensors and recognises if the person is very tired or about to fall asleep. In those cases it warns you by a light, sound, or vibration in the steering wheel so that you stop the vehicle and do not have an accident.
+- If you have a fatigue detector, follow what it tells you. It is a system that works through sensors and recognises if the person is very tired or about to fall asleep. In those cases it warns you by a light, sound, or vibration in the steering wheel so that you stop the vehicle and do not have an accident.
 
 Sensor. Devices that capture information about things that happen outside the vehicle.
-
-Watch video
 
 <!-- Page: 52 -->
 
@@ -919,7 +933,7 @@ Alcohol
 
 It is very dangerous to drink alcohol when you are going to drive, even if you drink a small amount.
 
-Alcohol spreads through your whole body through the blood and affects, above all, the brain and eyesight. Alcohol is the cause of many road traffic accidents.
+Alcohol spreads through your whole body through the blood and affects, above all, the brain and sight. Alcohol is the cause of many road traffic accidents.
 
 Blood alcohol level
 
@@ -927,7 +941,7 @@ Blood alcohol is the total amount of alcohol in the blood after drinking. The bl
 
 - Grams of alcohol in each litre of blood.
 
-- Milligrams of alcohol in each litre of air that we breathe out from the lungs.
+- Milligrams of alcohol in each litre of air that we breathe out from the lungs when breathing.
 
 <!-- Page: 53 -->
 
@@ -954,13 +968,13 @@ The permitted alcohol level is:
 
 - 0.25 milligrams of alcohol per litre of air.
 
-- 0.5 grams of alcohol per litre of blood. In any case, the only blood alcohol level that is safe for driving is 0.0, that is, not drinking alcohol.
+- 0.5 grams of alcohol per litre of blood. In any case, the only safe blood alcohol level for driving is 0.0, that is, not drinking alcohol.
 
 <!-- Page: 54 -->
 
-What factors affect the blood alcohol level?
+What factors influence the blood alcohol level?
 
-Alcohol does not affect all people in the same way. The factors that affect the blood alcohol level are:
+Alcohol does not affect all people in the same way. The factors that influence the blood alcohol level are:
 
 Amount of alcohol
 
@@ -1010,7 +1024,7 @@ Food helps alcohol reach the blood more slowly.
 
 - Age.
 
-Alcohol usually affects people more under 18 years old and people over 65 years old.
+Alcohol usually affects people under 18 and people over 65 more.
 
 <!-- Page: 56 -->
 
@@ -1024,29 +1038,29 @@ On behaviour
 
 - You take more risks.
 
-- You commit more faults that cause accidents.
+- You commit more offences that cause accidents.
 
 - You may treat other drivers in a more aggressive or impulsive way.
 
 <!-- Page: 57 -->
 
-On the way you see the surroundings
+In the way you see your surroundings
 
-- You see traffic signs and traffic lights worse.
+- You see road signs and traffic lights worse.
 
-- You judge the distance to other vehicles worse.
+- You judge the distance worse to other vehicles.
 
-- Less ability to see what happens to one side and the other.
+- Less ability to see what happens on one side and the other.
 
-- You are more dazzled by vehicle lights.
+- You get dazzled more by vehicle lights.
 
-- Possibility of being distracted by elements in the surroundings. On movements
+- Possibility of getting distracted by things in the surroundings. In movements
 
-- Difficulty coordinating your body movements. On decision making
+- Difficulty coordinating your body movements. In making decisions
 
 - You need more time to react.
 
-- Higher chance of making bad decisions or not knowing how to carry them out.
+- More chance of making bad decisions or not knowing how to carry them out.
 
 <!-- Page: 58 -->
 
@@ -1054,7 +1068,7 @@ Other drugs
 
 Taking drugs before driving is very dangerous.
 
-One in every 10 people who die in a road traffic accident had taken drugs before driving. It is forbidden to drive any type of vehicle when a person has taken drugs and they are still in their body. You can only drive after taking substances prescribed by the doctor and that do not affect driving. How do drugs affect driving?
+One in every 10 people who die in a road traffic accident had taken drugs before driving. It is forbidden to drive any type of vehicle when a person has taken drugs and they are still in their body. You can only drive after taking substances prescribed by the doctor and that do not affect driving. How do drugs harm driving?
 
 All drugs are dangerous and it is forbidden to drive when you have taken them. But each one produces effects that are different, and these are the cause of the danger.
 
@@ -1095,7 +1109,7 @@ Ecstasy
 
 - Losing concentration.
 
-- Suffering depression or anxiety.
+- Having depression or anxiety.
 
 - Feeling tired when the effects of the drug wear off.
 
@@ -1115,13 +1129,13 @@ Amphetamines
 
 - Having little sense of danger.
 
-- Delayed tiredness and sleep. This can cause the person to suddenly feel very tired and fall asleep without meaning to when the effect of the drug wears off.
+- Having delayed tiredness and sleep. This can cause the person to suddenly feel very tired and fall asleep without meaning to when the effect of the drug wears off.
 
 <!-- Page: 60 -->
 
 Tests to detect alcohol and drugs
 
-Driving after drinking or taking drugs is forbidden and punished by law. The person who does it will have to pay a fine and may even go to prison. To know if a person who is driving has taken alcohol or drugs, they are given a test. What does the test involve? To detect if a person has drunk alcohol the traffic officer asks them to blow into a device that measures the amount of alcohol in their blood. If the test is positive or the person shows signs of having drunk the test is repeated to confirm it. To detect if a person has taken drugs a saliva sample is taken and the sample is put into a device.
+Driving after drinking or taking drugs is forbidden and punished by law. The person who does it will have to pay a fine and may even go to prison. To know if a person who is driving has taken alcohol or drugs, a test is done. What does the test involve? To detect if a person has drunk alcohol the traffic officer asks them to blow into a device that measures the amount of alcohol in the blood. If the test is positive or the person shows signs of having drunk the test is repeated to confirm it. To detect if a person has taken drugs a saliva sample is taken and the sample is put into a device.
 
 <!-- Page: 61 -->
 
@@ -1131,13 +1145,13 @@ Test results
 
 If the alcohol or drug tests are positive, the person who is driving will have committed a very serious offence. The consequences are:
 
-- Paying a fine.
+- Pay a fine.
 
-- Losing between 4 and 6 points from the driving licence.
+- Lose between 4 and 6 points from the driving licence.
 
 - Possibility of losing the driving licence for a period of time.
 
-- Possibility of going to prison if they have put at risk the lives of other people. The traffic police officer can forbid the person to continue driving. They will leave the car immobilised until the effects of the alcohol or drugs wear off.
+- Possibility of going to prison if they have put at risk the lives of other people. The traffic police officer can forbid the person to continue driving. They will leave the car immobilised until the effects of alcohol or drugs wear off.
 
 <!-- Page: 62 -->
 
@@ -1149,13 +1163,13 @@ Who must take the alcohol and drug detection tests? People who are driving a veh
 
 - Are reported for breaking a traffic rule or committing some other offence.
 
-- Go through a checkpoint to prevent the use of alcohol and drugs.
+- Go through a checkpoint to prevent alcohol and drug use.
 
 Pedestrians must also take the test if their behaviour could cause a road traffic accident. The law imposes fines and penalties on people who refuse to take these tests when security officers ask them to.
 
 Illnesses and medicines
 
-Some illnesses and medicines make the person lose abilities to drive safely. When you have an illness or take medicine you must always ask the doctors if you can drive. It is also important to go to the Medical Centre for Driver Medical Checks. There they will tell you if it is safe to drive with the medicine you are taking.
+Some illnesses and medicines make the person lose abilities to drive safely. When you have an illness or take medicine you must always ask the doctors if you can drive. It is also important to go to the Medical Centre for Driver Assessment. There they will tell you if it is safe to drive with the medicine you are taking.
 
 <!-- Page: 63 -->
 
@@ -1192,7 +1206,7 @@ Respiratory allergy
 
 - Do not do long journeys driving.
 
-- Wear sunglasses. The sun, many times, makes you sneeze.
+- Use sunglasses. The sun, many times, makes you sneeze.
 
 - Do not drive at dawn or in damp areas.
 
@@ -1210,7 +1224,7 @@ Depression
 
 - Do not take drugs or alcohol to improve depression.
 
-- Take only the medicine that the doctor has prescribed for you.
+- Take only the medicine that the doctor has prescribed.
 
 - Put yourself in the hands of specialists and follow the treatment.
 
@@ -1220,46 +1234,38 @@ Depression
 
 What medicines can be dangerous for driving?
 
-Medicine
-
-What is it for?
-
-Possible effects
-Painkillers
-
-Helps pain to reduce or go away. Sleepiness. Vertigo.
-
-Lack of concentration.
-
-Cough suppressants
-
-Calm a cough.
-
-Mood changes.
-
-Loss of reflexes.
-
-Antihistamines Treat allergies. Sleepiness. Depression.
-
-Loss of reflexes.
-
-Psychotropic medicines
-
-Treat depression, anxiety and sleep disorders. Sleepiness.
-
-Loss of reflexes. Dizziness. Blurred vision. Confusion.
+| Medicine | What is it for? | Possible effects |
+| --- | --- | --- |
+| Painkillers | Helps | Sleepiness. |
+|  | the pain decrease | Vertigo. |
+|  | or go away. | Lack |
+|  |  | of concentration. |
+| Cough suppressants | Calm the cough. | Mood. |
+|  |  | changes. |
+|  |  | Loss |
+|  |  | of reflexes. |
+| Antihistamines | Treat allergies. | Sleepiness. |
+|  |  | Depression. |
+|  |  | Loss |
+|  |  | of reflexes. |
+| Psychotropic medicines | Treat | Sleepiness. |
+|  | depression, | Loss |
+|  | anxiety | of reflexes. |
+|  | and sleep | Dizziness. |
+|  | disorders. | Blurred vision. |
+|  |  | Confusion. |
 
 <!-- Page: 66 -->
 
 Food
 
-Eating a large amount and foods that are hard to digest before driving can cause sleepiness and tiredness. On the other hand, eating too little can cause dizziness. The best thing is to have several light meals instead of one very heavy one. It is also recommended to wait a while (between 15 and 20 minutes) after finishing eating before driving. It is important to drink water or juices so that the body is hydrated and to have less chance of feeling sleepy or tired.
+Eating a large amount and foods that are hard to digest before driving can cause sleepiness and tiredness. On the other hand, eating too little can cause dizziness. The best thing is to have several light meals instead of one very heavy one. It is also recommended to wait a while (between 15 and 20 minutes) after finishing eating before driving. It is important to drink water or juices so that the body is hydrated and you have less chance of feeling sleepy or tired.
 
 Suitable clothing
 
 You must wear comfortable clothes when you drive. Very tight clothing will not let you move well. In winter, you must take off your coat before you start driving.
 
-Footwear must be comfortable and light to use the pedals better. It is not advisable to drive with high-heeled shoes, flip-flops, or shoes with very thick soles.
+Footwear has to be comfortable and light to use the pedals better. It is not advisable to drive with high-heeled shoes, flip-flops, or shoes with very thick soles.
 
 <!-- Page: 67 -->
 
@@ -1270,13 +1276,13 @@ You must pay special attention to the clothes you wear when you ride a motorcycl
 
 Bodywork. Metal part that covers most parts of a vehicle. The most suitable clothing to ride a motorcycle is:
 
-- Leather suit or a similar material. This suit must fit your body well.
+- A leather suit or a similar material. This suit must fit your body well.
 
 - Leather gloves with protection.
 
 - Strong boots that support the foot and ankle.
 
-- Wear bright and striking colours.
+- Wear bright and eye-catching colours.
 
 <!-- Page: 68 -->
 
@@ -1284,7 +1290,7 @@ Accidents due to distractions
 
 Distractions while driving happen when the person who is driving looks at something that happens inside or outside the vehicle and that has nothing to do with driving. For example, picking up the mobile phone or looking at a shop window. When are accidents due to distractions more common?
 
-- In young drivers between 18 and 25 years old and in those over 70 years old.
+- In young drivers aged 18 to 25 and in people over 70.
 
 - When there are several people inside the vehicle.
 
@@ -1292,7 +1298,7 @@ Distractions while driving happen when the person who is driving looks at someth
 
 - On weekend trips and during the day.
 
-- On roads more than in the city.
+- On roads more than in towns.
 
 - On motorways and dual carriageways.
 
@@ -1300,19 +1306,36 @@ Distractions while driving happen when the person who is driving looks at someth
 
 Causes of accidents due to distraction
 
-Distractions related to the road
-
-Distractions of the person who is driving
-
-Knowing the road well and being too confident. The signs are hidden or cannot be seen well for some reason.
-
-Complicated traffic situation with many vehicles, pedestrians and signs to pay attention to.
-
-Not seeing well because it is night or because the lights of other cars dazzle you. Suffering tiredness or sleepiness.
-
-Suffering stress, anxiety or depression. Being very old.
-
-Drinking alcohol, taking drugs or taking medicines. Some behaviours such as: using the mobile phone, lighting a cigarette or using the GPS sat nav. Looking at a map, throwing an insect out of the vehicle, eating or drinking while driving.
+| Distractions related | Distractions of the person |
+| --- | --- |
+| to the road | who is driving |
+| Knowing the road well | Feeling tired or sleepy. |
+| and being too confident. |  |
+|  | Feeling stress, anxiety |
+| The signs are | or depression. |
+| hidden |  |
+|  | Being very old. |
+| or cannot be seen well |  |
+| for some reason. |  |
+|  | Drinking alcohol, taking drugs |
+|  | or taking medicines. |
+| Traffic situation |  |
+| complicated |  |
+|  | Some behaviours such as: |
+| with many vehicles, |  |
+|  | using the mobile phone, |
+| pedestrians |  |
+|  | lighting a cigarette |
+| and signs to pay attention to. |  |
+|  | or using the GPS sat nav. |
+| You cannot see well |  |
+|  | Looking at a map, |
+| because it is night |  |
+|  | throwing an insect |
+| or because you are dazzled |  |
+|  | out of the vehicle, |
+| by the lights of other cars. |  |
+|  | eating or drinking while driving. |
 
 <!-- Page: 70 -->
 
@@ -1334,7 +1357,7 @@ The reasons are:
 
 Using the mobile phone
 
-It can be very useful to have a mobile phone in the car in case there is a breakdown or emergency. But using it badly can cause accidents. The risk of an accident when using the mobile in the vehicle is four times higher than when it is not used.
+It can be very useful to carry a mobile phone in the car in case there is a breakdown or emergency. But using it badly can cause accidents. The risk of an accident when using the mobile in the vehicle is four times higher than when it is not used.
 
 <!-- Page: 71 -->
 
@@ -1356,9 +1379,9 @@ However, hands-free devices are also dangerous because the person who is driving
 
 Recommendations for using the mobile and the hands-free device
 
-- Stop the vehicle in a safe place when you need to make a call. Drive again only when the call ends.
+- Stop the vehicle in a safe place when you need to make a call. Only continue driving when the call ends.
 
-- When you talk through the hands-free tell the other person that you are driving.
+- When you talk through the hands-free device tell the other person that you are driving.
 
 - Do not have conversations that last more than one minute.
 
@@ -1368,23 +1391,23 @@ Recommendations for using the mobile and the hands-free device
 
 GPS sat navs
 
-It is a system that calculates the route from one place to another in real time. It helps you to find your way and to know where you have to go. If you make a mistake, the GPS sat nav calculates the route again and tells you again where you must go.
+It is a system that calculates the route from one place to another in real time. It helps you find your way and know where you have to go. If you make a mistake, the GPS sat nav calculates the route again and tells you again where you must go.
 
 <!-- Page: 73 -->
 
 Tips to use the GPS sat nav well:
 
-- Set up the device before you start driving. Do not do it while you drive.
+- Set up the device before you start driving. Do not do it while you are driving.
 
 - Keep it fixed in one place. So it does not move or roll around the vehicle.
 
 - Put it in a place where you can see it without taking your eyes off the road.
 
-- Put it in a place that allows the airbags to open if necessary.
+- Put it in a place that allows the airbags to open if needed.
 
 Watch video
 
-Airbag. Safety device that is placed in the front of a car and on the sides to protect passengers in case of an accident.
+Airbag. Safety device that is placed in the front part of a car and on the sides to protect passengers in case of an accident.
 
 ## Topic 4. Duties of drivers and pedestrians
 
@@ -1416,40 +1439,42 @@ Road safety depends on drivers and also on pedestrians.
 
 Watch video
 
-That is why it is necessary that all people work together by respecting others and travelling in an orderly way when we are walking or in any vehicle. To achieve this, it is important that we follow all the instructions and duties set by the law. For example, it is forbidden to throw objects and materials onto the road or leave them abandoned. Especially objects that can damage the road, make it hard for vehicles to pass or cause an accident.
+That is why it is necessary for everyone to work together by respecting others and travelling in an orderly way when we are walking or in any vehicle. To achieve this, it is important that we follow all the instructions and duties set by the law. For example, it is forbidden to throw objects and materials onto the road or leave them abandoned. Especially objects that can damage the road, make it hard for vehicles to pass, or cause an accident.
 
 <!-- Page: 76 -->
 
 Duties of drivers
 General duties
 
-When you drive a vehicle you must not get distracted to prevent harm or accidents. In this way, you will avoid dangers for you, for the people travelling with you, those travelling in other vehicles and pedestrians. In particular, you must pay attention to pedestrians, especially children, older people, people who cannot see or who use a wheelchair.
+When you drive a vehicle you must not get distracted, to prevent harm or accidents. In this way, you will avoid danger for you, for the people travelling with you, those travelling in other vehicles, and pedestrians. In particular, you must pay attention to pedestrians, especially children, older people, people who cannot see, or who use a wheelchair.
 
 Watch video
 
 It is forbidden for all drivers:
 
-- To drive a vehicle that gives off more noise, gases or fumes than allowed.
+- To drive a vehicle that gives off more noise, gases, or smoke than allowed.
 
-- To keep the vehicle doors open or open them before it has fully stopped.
+- To keep the vehicle doors open or open them before the vehicle has fully stopped.
 
 - To open the doors and get out of the vehicle before making sure there is no danger for you or for other vehicles and pedestrians. For example, it is dangerous to open the car door without looking because at that moment a bicycle may pass in front and you can cause an accident.
 
 <!-- Page: 77 -->
 
-- To use headphones connected to the mobile phone or another device to listen to music or any kind of sound. Only the use of some headphones is allowed, specific ones in the helmet of motorcycles and mopeds when the headphones are used as GPS navigators.
+- To use headphones connected to a mobile phone or another device to listen to music or any kind of sound.
+
+Only the use of some specific headphones in the helmet of motorcycles and mopeds is allowed when the headphones are used as GPS sat navs.
 
 Watch video
 
 - To use the mobile phone. You can use it through hands-free devices.
 
-- To put fuel into the vehicle when the engine is running, the lights are on or the radio is on.
+- To put fuel in the vehicle when the engine is running, the lights are on, or the radio is on.
 
-Everything must be switched off or disconnected to put fuel into the vehicle.
+Everything must be switched off or disconnected to put fuel in the vehicle.
 
 Watch video
 
-Fuel. Material that when mixed with oxygen gives off heat. Many vehicles need fuel to work. For example, petrol.
+Fuel. Material that, when it combines with oxygen, gives off heat. Many vehicles need fuel to work. For example, petrol.
 
 <!-- Page: 78 -->
 
@@ -1459,28 +1484,30 @@ Defensive driving A way of driving in which the person is alert to predict what 
 
 Unsafe zone
 
-Space where unexpected things can happen because of other drivers and pedestrians. For example, a child runs out into the road after a ball or a bicycle crosses in front of your vehicle suddenly. These unexpected things can happen in front, behind and at the sides of your vehicle.
+Space where unexpected things can happen because of other drivers and pedestrians. For example, a child runs out into the road after a ball or a bicycle crosses in front of your vehicle suddenly. These unexpected things can happen in front, behind, and to the sides of your vehicle.
 
 Watch video
 Two- or three-wheeled vehicles
 
-These vehicles are seen less, are less stable and are also more fragile than other cars. That is why their passengers are more likely to suffer injuries in accidents. Which vehicles are these?
+These vehicles are less visible, less stable, and also more fragile than other cars.
 
-- Motorcycles and motorcycles with a sidecar.
+So, their passengers are more likely to be injured in accidents. Which vehicles are these?
 
-- Three-wheeled vehicles, quads and heavy quadricycles.
+- Motorcycles and motorcycles with sidecar.
+
+- Three-wheeled vehicles, quads, and heavy quadricycles.
 
 - Mopeds.
 
 <!-- Page: 79 -->
 
-Whenever you travel in these vehicles as a driver or passenger you must wear the safety helmet properly fastened and fitted to your head. When you ride a bicycle at night or if it is hard to see for another reason, you have to switch on the vehicle lights and wear a piece of clothing or an object that shines and can be seen from a distance of 150 metres. You must wear this bright item if you are the driver and also if you travel as a passenger. Some two- or three-wheeled vehicles must have a seat belt. In those cases, you have to fasten it. In vehicles with a seat belt you do not need to wear a helmet.
+Whenever you travel in these vehicles as a driver or passenger you must wear a safety helmet properly fastened and fitted to your head. When you ride a bicycle at night or if it is hard to see for another reason, you must switch on the vehicle lights and wear a piece of clothing or an object that shines and can be seen from a distance of 150 metres. You must wear this bright item if you are the rider and also if you travel as a passenger. Some two- or three-wheeled vehicles must have a seat belt. In those cases, you must fasten it. In vehicles with a seat belt you do not need to wear a helmet.
 
 <!-- Page: 80 -->
 
 Special vehicles
 
-Vehicles that enter the roads to do works or provide a special service must have a yellow light switched on while they do improvement work or road maintenance. When they work on motorways or dual carriageways they must switch on the yellow light from when they enter the motorway or dual carriageway until they reach their destination. This light is so that other drivers know the vehicle is there. They do not have priority to go through or overtake. The maximum speed these vehicles can travel at is 40 kilometres per hour.
+Vehicles that go onto the roads to do works or provide a special service must have a yellow light switched on while they do improvement works or road maintenance. When they work on motorways or dual carriageways they must switch on the yellow light from when they enter the motorway or dual carriageway until they reach their destination. This light is so that other drivers know the vehicle is there. They do not have priority to go first or overtake. The maximum speed these vehicles can travel at is 40 kilometres per hour.
 
 <!-- Page: 81 -->
 
@@ -1489,17 +1516,17 @@ General duties
 
 When walking in towns and cities When walking on the road When crossing the road When walking in towns and cities
 
-- Walk on the pavement and not on the road whenever you can. This rule must also be followed by pedestrians who use skates, skateboards or other similar devices that are not electric.
+- Walk on the pavement and not on the road whenever you can. This rule must also be followed by pedestrians who use roller skates, skateboards, or other similar devices that are not electric.
 
-- Always keep to the right, in the city and on the road, when you pull or push a bicycle or a two-wheeled moped, handcarts or a similar device.
+- Always keep to the right, in town and on the road, when you pull or push a bicycle or a two-wheeled moped, handcarts, or a similar device.
 
 People who use a wheelchair must also keep to the right.
 
 <!-- Page: 82 -->
 
-- People who carry a very large object or a small vehicle without an engine can walk on the carriageway if the hard shoulder or the pavement are narrow and get in the way of pedestrians.
+- People who carry a very large object or a small vehicle without an engine may walk on the carriageway if the verge or the pavement is narrow and gets in the way of pedestrians.
 
-Hard shoulder. Sides of the road that can be on the right and on the left. On the right one only some vehicles can travel, such as, for example, mopeds.
+Verge. Sides of the road that can be on the right and on the left. On the right one only some vehicles can travel, such as, for example, mopeds.
 
 Watch video
 
@@ -1507,11 +1534,11 @@ When walking on the road
 
 - On roads that are outside towns or cities you must always walk on the left side of the road. Unless it is safer to walk on the right.
 
-- At night you must wear a light-up or bright item that can be seen from a distance of 150 metres. For example, a high-visibility vest, a light-up wristband…
+- At night you must wear a light-up or reflective item that can be seen from a distance of 150 metres. For example, a high-visibility vest that reflects light, a light-up wristband…
 
 <!-- Page: 83 -->
 
-- Groups of people must walk in single file, one behind the other. The people at the front must carry a white or yellow light that shines and the people at the back must carry a red light that also shines. This way drivers will be able to know where the line of pedestrians starts and ends.
+- Groups of people must walk in single file, one behind the other. The people at the front must carry a white or yellow light that shines, and the people at the back must carry a red light that shines too. This way drivers will be able to know where the line of pedestrians starts and ends.
 
 Watch video
 
@@ -1527,9 +1554,9 @@ When crossing the road or the street
 
 Personal mobility vehicles
 
-Electric scooters, electric unicycles other personal mobility vehicles are forbidden to travel on:
+Electric scooters, electric unicycles, other personal mobility vehicles are forbidden to travel on:
 
-Unicycle. Vehicle that has only one wheel joined to the seat by means of a metal bar.
+Unicycle. Vehicle that has only one wheel attached to the seat by means of a metal bar.
 
 - Pavements and pedestrian areas.
 
@@ -1541,15 +1568,15 @@ Unicycle. Vehicle that has only one wheel joined to the seat by means of a metal
 
 - Roads that are outside the town or city.
 
-What duties do you have if you drive these vehicles?
+What duties do you have if you ride these vehicles?
 
-- You cannot use headphones while you drive.
+- You cannot use headphones while riding.
 
-- You cannot use the mobile phone while you drive.
+- You cannot use the mobile phone while riding.
 
-- You must take alcohol and drug tests when an officer asks you to, like the rest of drivers.
+- You must take alcohol and drug tests when an officer asks you to, like other drivers.
 
-- You must wear bright and light-up clothing if you drive at night or in places where it is hard to see.
+- You must wear bright and light-up clothing if you ride at night or in places where it is hard to see.
 
 - You must wear a helmet when the law requires it.
 
@@ -1559,13 +1586,13 @@ What duties do you have if you drive these vehicles?
 
 Animals on the road
 
-Livestock, animals that carry materials or those that transport people, may only travel on the road when there are no other paths to go from one place to another. They must always be guided by a person over 18 years old.
+Livestock, animals that carry loads, or animals that transport people, may only travel on the road when there are no other paths to get from one place to another. They must always be guided by a person over 18 years old.
 
-Livestock and pack animals will always go on the right hard shoulder. When there is no hard shoulder they will go close to the right edge of the road. Animals that go in a herd or flock will also go on the right side of the road, taking up as little space as possible.
+Livestock and pack animals must always go on the right-hand verge. When there is no verge they must go close to the right edge of the road. Animals that go in a herd or flock must also go on the right side of the road, taking up as little space as possible.
 
 No animal may travel on motorways or dual carriageways.
 
-Livestock. Group of animals raised by people to produce meat, milk, wool and other products. For example, cows, sheep, goats and pigs.
+Livestock. Group of animals raised by people to produce meat, milk, wool, and other products. For example, cows, sheep, goats, and pigs.
 
 ## Topic 5. Safety devices in the vehicle
 
@@ -1581,7 +1608,7 @@ Active safety elements
 
 - Brakes
 
-- Wheels
+- Tyres
 
 - Other active safety elements
 
@@ -1601,7 +1628,7 @@ Passive safety elements
 
 The importance of the vehicle in road traffic accidents For a vehicle to be safe and have less risk of having accidents it must meet two requirements:
 
-1. Follow the inspection programme and the compulsory maintenance for each vehicle.
+1. Follow the inspection programme and mandatory maintenance for each vehicle.
 2. Have a good safety system.
 
 Most new vehicles have safety systems that help make the vehicle safer and have fewer accidents. But the reality is that new vehicles have the same number of accidents as older vehicles. This can happen for two reasons:
@@ -1620,22 +1647,22 @@ Passive safety
 Watch video
 Active safety
 
-Vehicle elements designed to prevent accidents. The driver has to use them for them to work. For example, brakes, wheels and the lighting system.
+Vehicle elements designed to prevent accidents. The driver has to use them for them to work. For example, brakes, tyres, and the lighting system.
 
 <!-- Page: 89 -->
 
 Passive safety
 
-Elements that help passengers and other users suffer less harm in an accident. They work automatically. For example, seat belt, airbag and head restraint.
+Elements that help passengers and other users suffer less harm in an accident. They work automatically. For example, seat belt, airbag, and head restraint.
 
 Active safety elements
 Lighting systems
 
-They are the different lights in the vehicle. They let you see what is around you and let pedestrians and drivers of other vehicles see you when it is night or it is hard to see. Thanks to the lighting system you can light up roads and streets to see nearby dangers and act in time. It is very important to use the lights well by switching on the right ones and switching off the ones you do not need. Some lights can dazzle other drivers when they are used wrongly.
+These are the different lights on the vehicle. They let you see what is around you and let pedestrians and drivers of other vehicles see you when it is night or visibility is poor. Thanks to the lighting system you can light up roads and streets to see nearby dangers and act in time. It is very important to use the lights well by switching on the right ones and switching off the ones you do not need. Some lights can dazzle other drivers when they are used wrongly.
 
 <!-- Page: 90 -->
 
-Today’s vehicles have new lighting systems to protect more. These new lighting systems are:
+Today’s vehicles have new lighting systems to give more protection. These new lighting systems are:
 
 Xenon and bi-xenon lamps
 
@@ -1645,7 +1672,7 @@ Adaptive lights
 
 Xenon and bi-xenon lamps
 
-Headlights that light up the road with a strong bluish-white light, more like natural light than the headlights used before. They light up the road better, help the driver see further ahead and reduce eye strain.
+Headlights that light up the road with a strong light with a bluish white colour, more similar to natural light than the headlights used before. They light up the road better, help the driver see further ahead, and reduce eye strain.
 
 Also, they dazzle other drivers less than other lights.
 
@@ -1653,19 +1680,19 @@ Xenon. Gas used in some lighting systems.
 
 <!-- Page: 91 -->
 
-Automatic lighting activation
+Automatic activation of lights
 
 System that measures the light outside and switches the lights on or off automatically so that the vehicle can be seen better.
 
 Adaptive lights
 
-System that adjusts the strength of the lights and where they shine depending on what is needed at each moment. It does this taking into account: the distance to the vehicle coming in the opposite lane, the type of road you are driving on and the speed your vehicle is travelling at. Adaptive lights are divided into two types of lights:
+System that adjusts the brightness of the lights and where they shine depending on what is needed at each moment. It does this by taking into account: the distance to the vehicle coming in the opposite lane, the type of road you are driving on and the speed your vehicle is travelling at. Adaptive lights are divided into two types of lights:
 
-1. Cornering lights. They switch on when you turn the steering wheel to show the side your vehicle is going to turn to. This light helps you see better on bends.
+1. Cornering lights. They switch on when you turn the steering wheel to show the side your vehicle is going to turn towards. This light helps you see better on bends.
 
-At roundabouts it lets other drivers know where you are going to turn.
+At roundabouts it allows other drivers to know where you are going to turn.
 
-Roundabout. Circular square that is a junction between streets.
+Roundabout. Circular area that is a junction between streets.
 
 <!-- Page: 92 -->
 
@@ -1675,13 +1702,11 @@ System to switch on vehicle lights that light up more of the road when there is 
 
 <!-- Page: 93 -->
 
-Brakes
-
-Brakes are responsible for reducing the speed of the vehicle until it stops completely. A vehicle’s brakes do not usually fail. But sometimes it does happen and this can cause a serious accident.
+The brakes The brakes are responsible for reducing the speed of the vehicle until it stops completely. A vehicle’s brakes do not usually fail. But sometimes it does happen and this can cause a serious accident.
 
 Watch video
 
-What safety systems are there in brakes?
+What safety systems are there in the brakes?
 
 Engine brake
 
@@ -1693,13 +1718,13 @@ Emergency braking warning (EBD)
 
 Engine brake
 
-System used to reduce the speed at which a vehicle is travelling without using the wheel brake. It works when you stop accelerating and, in this way, the engine is the one that holds the vehicle back. If you drive in low gears (1st or 2nd) the engine slows the vehicle more. It is recommended to use engine braking when going down long hills.
+System used to reduce the speed a vehicle is travelling at without using the wheel brake. It works when you stop accelerating and, in this way, the engine holds the vehicle back. If you drive in low gears (1st or 2nd) the engine slows the vehicle more. It is recommended to use engine braking when going down long hills.
 
 <!-- Page: 94 -->
 
 Anti-lock braking system (ABS)
 
-Device that prevents the wheels from locking when braking. This system is very important because it helps you keep control of the vehicle and to brake in less space. The more weight there is in the vehicle the harder it is for the wheels to lock when braking. For example, it will be harder for the wheel of your motorcycle to lock when you have a passenger with you.
+Device that prevents the wheels from locking when braking. This system is very important because it helps you keep control of the vehicle and to brake in less distance. The more weight there is in the vehicle the harder it is for the wheels to lock when braking. For example, it will be harder for the wheel of your motorcycle to lock when you have a passenger with you.
 
 Autonomous emergency braking (AEB)
 
@@ -1707,13 +1732,13 @@ System that calculates, through a radar, the distance there is and should be bet
 
 Watch video
 
-Radar. System that can detect where an object is, for example another car, and how fast it is going.
+Radar. System that can detect where an object is, for example another car, and what speed it is travelling at.
 
 <!-- Page: 95 -->
 
 Emergency braking warning (EBD)
 
-System that warns the driver of a vehicle that the vehicle in front has to do an emergency brake. When the driver in front presses the brake firmly and quickly the brake lights of their vehicle flash. In this way, the system warns the driver behind so they have more time to brake and try not to crash into them. How are brakes used? To brake safely and in a controlled way it is necessary to:
+System that warns the driver of a vehicle that the vehicle in front has to do an emergency brake. When the driver in front presses the brake firmly and quickly the brake lights of their vehicle flash. In this way, the system warns the driver behind so they have more time to brake and try not to crash into them. How are the brakes used? To brake safely and in a controlled way it is necessary to:
 
 1. Brake gently, little by little and with enough time.
 2. Take into account the condition of the road. When it is not in good condition, you must brake more gently and with more time.
@@ -1721,45 +1746,48 @@ System that warns the driver of a vehicle that the vehicle in front has to do an
 
 <!-- Page: 96 -->
 
-To do an emergency stop in a vehicle without ABS, you must press the brake pedal hard and fully until you notice that the wheel starts to lock. Then lift your foot off the brake a little to prevent the wheels from locking. But do not stop braking. To do an emergency stop in a vehicle with ABS, you must press the brake pedal hard and fully until the vehicle stops completely. What to do when the brakes fail? You can act in different ways depending on what the situation is in which the brakes fail.
+To do an emergency stop in a vehicle without ABS, you must press the brake pedal hard and fully until you notice the wheel starts to lock. Then lift your foot off the brake a little to prevent the wheels from locking. But do not stop braking. To do an emergency stop in a vehicle with ABS, you must press the brake pedal hard and fully until the vehicle stops completely. What to do when the brakes fail? You can act in different ways depending on the situation in which the brakes fail.
 
-Problem
-Possible solution
-
-The brakes get very hot because they have been used too much in a short time.
-
-Release the brake pedal so they can cool down. The brakes fail when the vehicle goes down a long and very steep hill. Do not accelerate.
-
-Change down gears so the engine acts as a brake. If you cannot change down gears pull the handbrake lever gently.
-
-Other times when the brakes fail.
-
-Press and release the pedal several times. This will reduce the speed of the vehicle.
+| Brake problem | Possible solution |
+| --- | --- |
+| The brakes | Release the brake pedal |
+| get very hot | so they cool down. |
+| because they have been used |  |
+| too much |  |
+| in a short time. |  |
+| The brakes fail when | Do not accelerate. |
+| the vehicle goes down | Change down gears |
+| a long hill | so the engine acts |
+| and very steep. | as a brake. |
+|  | If you cannot change down |
+|  | gears |
+|  | pull the handbrake lever |
+|  | gently. |
+| Other times | Press and release the pedal |
+| when the brakes fail. | several times. |
+|  | This will reduce the speed |
+|  | of the vehicle. |
 
 <!-- Page: 97 -->
 
-Wheels
-
-The wheels of a vehicle are made up of two parts:
+The wheels A vehicle’s wheels are made up of two parts:
 
 1. Rim. Metal part in the shape of a circle that is the inner part of the wheel.
-2. Tyre. Elastic rubber part that is placed around the rim. A piece of rubber is elastic when it can be stretched. When you stop stretching it, it returns to its original size.
+2. Tyre. Elastic rubber part that is fitted around the rim. A piece of rubber is elastic when it can be stretched. When you stop stretching it, it returns to its original size.
 
 Watch video
 
-The rim and the tyre of a wheel must be compatible with each other so that the tyre fits well on the rim.
+The rim and the tyre of a wheel must be compatible with each other so that the tyre fits well on the rim. The tyres
 
-Tyres
-
-Tyre faults are a common cause of road accidents. That is why it is very important that they meet quality characteristics.
+Tyre faults are a common cause of road traffic accidents. That is why it is very important that they meet certain quality features.
 
 <!-- Page: 98 -->
 
-On new tyres that are in good condition you can read on the side what their characteristics are.
+On new tyres that are in good condition you can read on the side what their features are.
 
 Watch video
 
-They must not have blisters, deformations, or tears. Nor should any of their layers be coming loose or have exposed cords or cracks. The part of the tyre that is in contact with the road is called the tread. The tread of cars must have grooves with at least 1.6 millimetres of depth.
+They must not have blisters, deformations or tears. Nor should any of their layers be coming loose or have exposed wires or cracks. The part of the tyre that is in contact with the road is called the tread. The tread of cars must have grooves of at least 1.6 millimetres deep.
 
 <!-- Page: 99 -->
 
@@ -1782,19 +1810,40 @@ Tyres are inflated with air so that they are more resistant and support the load
 
 What happens when the inflation pressure is not correct?
 
-Inflation pressure lower than recommended
+| Inflation pressure lower than recommended | Inflation pressure higher than recommended |
+| --- | --- |
+| The tyre gets hot, | The tyre has less |
+| deforms | contact with the ground. |
+| and wears out sooner. |  |
+|  | Therefore, it grips |
+| More fuel is used. | the road less. |
+| The vehicle is less | It wears more |
+| stable. | in the centre of the tyre |
+|  | than on the sides. |
+| The vehicle has |  |
+| more risk of skidding | The vehicle vibrates more |
+| when the ground | because the tyres |
+| is wet. | cannot absorb |
+|  | small stones |
+|  | and other elements. |
+|  | For example, potholes |
+|  | on the road. |
+|  | The shock absorbers |
+|  | get damaged more. |
+| There is more chance |  |
+| that the tyre will burst. |  |
 
-Inflation pressure higher than recommended The tyre gets hot, deforms and wears out sooner. More fuel is used. The vehicle is less stable. The vehicle has more risk of skidding when the ground is wet. There is more chance that the tyre will burst. The tyre has less contact with the ground.
+You must check the tyre pressure of your vehicle at least once a month. You must also always carry a spare wheel
 
-Therefore, it grips the road less. The centre of the tyre wears more than the sides. The vehicle vibrates more because the tyres cannot absorb small stones and other elements. For example, potholes in the road. The shock absorbers get damaged more. You must check the tyre pressure of your vehicle at least once a month. You must also always carry a spare wheel with the correct inflation pressure.
+with the correct inflation pressure.
 
 <!-- Page: 101 -->
 
 Tyre wear
 
-The rubber of tyres can wear out due to rubbing against the road. For that reason, you must change the tyres of your vehicle every five years, even if they are in good condition.
+The rubber on tyres can wear out because of rubbing against the road. For that reason, you must change the tyres of your vehicle every five years, even if they are in good condition.
 
-Tyre rubber can wear out earlier for these reasons:
+Tyre rubber can wear out sooner for these reasons:
 
 - Driving in a rough or aggressive way.
 
@@ -1814,13 +1863,13 @@ Tyre rubber can wear out earlier for these reasons:
 
 <!-- Page: 102 -->
 
-What should you do when a tyre gets a puncture? The steps you must take if a tyre gets a puncture while you are driving are:
+What should you do when a tyre gets punctured? The steps you must take if a tyre gets punctured while you are driving are:
 
 - Reduce speed slowly until you stop the vehicle. Do not stop suddenly.
 
 - Secure the vehicle in a safe place. Off the road and off the hard shoulder if possible.
 
-- Change the punctured wheel for the spare one. Some vehicles have other systems to be able to keep driving and there are vehicles that have a wheel that only serves to get you to the nearest garage. It is called a space-saver wheel. You can travel about 200 kilometres with this wheel at a maximum speed of 80 kilometres per hour.
+- Change the punctured wheel for the spare. Some vehicles have other systems so they can keep driving and there are vehicles that have a wheel that is only used to get you to the nearest garage. It is called a space-saver wheel. You can travel about 200 kilometres with this wheel at a maximum speed of 80 kilometres per hour.
 
 Watch video
 
@@ -1828,7 +1877,7 @@ Watch video
 
 Wheel balancing
 
-Wheel balancing consists of putting weight on the rims so that the wheels support the weight and the load of the vehicle. This balance is very important so that the wheels turn well.
+Wheel balancing means adding weight to the rims so that the wheels support the weight and load of the vehicle. This balance is very important so that the wheels turn properly.
 
 Wheels can lose balance for these reasons:
 
@@ -1866,21 +1915,21 @@ Adaptive cruise control
 
 Traction control
 
-Safety system that identifies if one wheel is turning faster than the others and brakes it so it does not skid. This system helps to keep the stability of the vehicle on bends, when going up a hill or when it is raining.
+Safety system that identifies if one wheel is turning faster than the others and brakes it so it does not skid. This system helps keep the vehicle stable on bends, when going up a hill or when it is raining.
 
 Electronic stability control
 
-Safety system that helps the vehicle to follow the path set by the steering wheel and not to drift when it does not turn as much as the driver asks or turns too much. This system helps you keep control of the vehicle in dangerous situations. For example, when avoiding an obstacle or when taking a bend.
+Safety system that helps the vehicle to follow the path set by the steering wheel and not drift when it does not turn as much as the driver asks or turns too much. This system helps you keep control of the vehicle in dangerous situations. For example, when avoiding an obstacle or when taking a bend.
 
 <!-- Page: 105 -->
 
 Speed limiters
 
-System that allows you to choose the maximum speed that your vehicle can reach. When you activate the speed limiter, the vehicle will not go above the speed chosen by the driver.
+System that allows you to choose the maximum speed your vehicle can reach. When you activate the speed limiter, the vehicle will not go above the speed chosen by the driver.
 
 Cruise control
 
-System that helps you keep the speed you choose to drive without needing to press the pedals to speed up or slow down. For example, driving all the time at 100 kilometres per hour on the motorway. This system is activated from the steering wheel. It switches off when you accelerate or brake. Then you have to choose the speed again and activate it.
+System that helps you keep the speed you choose to drive without needing to press the pedals to speed up or slow down. For example, driving all the time at 100 kilometres per hour on the motorway. This system is activated from the steering wheel. It is deactivated when you accelerate or brake. Then you have to choose the speed again and activate it.
 
 Adaptive cruise control
 
@@ -1888,11 +1937,11 @@ As well as helping to control speed, this system helps you keep the distance fro
 
 <!-- Page: 106 -->
 
-Your vehicle will reduce speed or brake if you do not keep that distance and you get too close to the vehicle in front.
+Your vehicle will slow down or brake if you do not keep that distance and you get too close to the vehicle in front.
 
 Passive safety elements
 
-The chassis and the bodywork The chassis is the internal structure of the vehicle on which all the parts that make it up are placed. It is the skeleton of the vehicle and cannot be seen at first glance. The bodywork is the external metal structure that covers the vehicle. In the event of an accident, the chassis and the bodywork deform and protect the vehicle so that the passengers inside suffer less damage.
+The chassis and the bodywork The chassis is the internal structure of the vehicle on which all the parts that make it up are fitted. It is the skeleton of the vehicle and cannot be seen at first glance. The bodywork is the external metal structure that covers the vehicle. In the event of an accident, the chassis and the bodywork deform and protect the vehicle so that the passengers inside suffer less damage.
 
 Rigid passenger compartment
 Deformable parts
@@ -1901,21 +1950,21 @@ The seat belt What is it for? To protect all the people travelling in a vehicle 
 
 <!-- Page: 107 -->
 
-Wearing the seat belt correctly means that a person has double the chance of surviving an accident. In fact, there have been fewer deaths from road accidents since the seat belt exists. For a seat belt to be useful and safe it must meet quality requirements and be well attached to the vehicle bodywork. It must be checked from time to time and taken to the garage to be repaired or replaced if it has any damage. Who must wear a seat belt?
+Wearing the seat belt correctly means a person has double the chances of surviving an accident. In fact, there are fewer deaths from road accidents since the seat belt exists. For a seat belt to be useful and safe it must meet the quality requirements and be well fixed to the vehicle body. You must check it from time to time and take it to the garage so they repair it or change it if it has any damage. Who must wear the seat belt?
 
-All people travelling in a vehicle that has seat belts installed.
+All people who travel in a vehicle that has seat belts fitted.
 
 Drivers must do it and also passengers on all roads and streets.
 
 <!-- Page: 108 -->
 
-There are some exceptions where drivers are not required to wear a seat belt, although it is recommended that they always wear it. These exceptions can only be applied when the vehicle is travelling within a town or city. Never when travelling on roads, dual carriageways, or motorways. Exceptions:
+There are some exceptions where drivers are not required to wear the seat belt, although it is recommended that they always wear it. These exceptions can only apply when the vehicle travels within a town or city. Never when it travels on roads, dual carriageways or motorways. Exceptions:
 
 - Drivers who are parking moving the vehicle backwards.
 
 - Taxi drivers who are on duty.
 
-- Children who are less than 135 centimetres tall and travel in a taxi that does not have child safety systems. In those cases, the children will travel in the back seats and will fasten the seat belt that is on the seat.
+- Children who are under 135 centimetres tall and travel in a taxi that does not have child safety systems. In those cases, the children will travel in the back seats and will fasten the seat belt that is on the seat.
 
 - Delivery drivers who have to get out continuously of the vehicle to collect and deliver orders.
 
@@ -1923,23 +1972,23 @@ There are some exceptions where drivers are not required to wear a seat belt, al
 
 <!-- Page: 109 -->
 
-- Driving school instructors who take a learner and are in charge of the additional controls of the vehicle.
+- Driving instructors who take a learner and are in charge of the additional controls of the vehicle.
 
 Only people who cannot wear it for medical reasons or disability can travel without a seat belt in any situation or on any road. These people must carry a medical certificate that explains the reasons.
 
 Seat belts for children
 
-Children who are less than 135 centimetres tall must use a different safety system, more suitable for them. They are called child restraint systems and they are adapted to each child’s height and weight. It is best for the child to try the child restraint system before starting to use it to check that it fits their size and is comfortable.
+Children who are under 135 centimetres tall must use a different safety system, more suitable for them. They are called child restraint systems and they are adapted to each child’s height and weight. It is best for the child to try the child restraint system before starting to use it to check that it fits their size and is comfortable.
 
 <!-- Page: 110 -->
 
 To fit a child restraint system in a vehicle you must take into account the following recommendations:
 
-- Do not install the child seat in a seat that has an airbag in front of it.
+- Do not fit the child seat in a seat that has an airbag in front.
 
-- For small children, place the child seat facing the opposite direction to the vehicle’s travel. That is, facing backwards. It is safer.
+- For small children, fit the child seat facing the opposite direction to the vehicle’s travel. That is, facing backwards. It is safer.
 
-- Place the child seat in the centre rear seat. This way they will be more protected in case there is an accident from either side.
+- Fit the child seat in the centre rear seat. This way the child will be more protected in case there is an accident from either side.
 
 Watch video
 
@@ -1951,15 +2000,13 @@ Children may only travel in the front seat when:
 
 - The vehicle has no rear seats.
 
-- All the rear seats are occupied by other children.
+- All rear seats are occupied by other children.
 
-- The child restraint systems cannot be installed in the rear seats. On buses, children who are less than 135 centimetres tall and are three years old or more must also use child restraint systems.
+- The child restraint systems cannot be fitted in the rear seats. On buses, children who are under 135 centimetres tall and are three years old or more must also use child restraint systems.
 
 <!-- Page: 112 -->
 
-If there are none, they will have to fasten the seat belt on the seat, as long as it is suitable for their height and weight. How do you fasten the seat belt? You must wear the seat belt properly fastened and fitted to the body. It must not be too loose or too tight so that you can move easily. The seat belt has two straps that you must wear in the right place so that they protect you.
-
-Watch video
+If there are none, they will have to fasten the seat belt that is on the seat, as long as it is suitable for their height and weight. How do you fasten the seat belt? You must wear the seat belt properly fastened and adjusted to the body. It must not be too loose or too tight so that you can move easily. The seat belt has two straps that you must wear in the right place so that they protect you.
 
 <!-- Page: 113 -->
 
@@ -1979,17 +2026,17 @@ WRONG
 
 RIGHT
 
-After fastening your seat belt pull it slightly upwards to check that it fits well. Check that it is not caught or twisted in any part.
+After fastening your seat belt pull it slightly upwards to check that it is well adjusted. Check that it is not caught or twisted in any of its parts.
 
 <!-- Page: 114 -->
 
 The submarining effect This effect happens when in an accident the body slides down, under the belt. This happens because the seat is tilted backwards and the belt is badly positioned. To prevent this you must:
 
-- Fasten your seat belt properly.
+- Fasten the seat belt properly.
 
-- Check that the seat belt is well fitted to the body.
+- Check that the seat belt is well adjusted to the body.
 
-- Do not place towels, cushions, or covers on the seat that could make you slip.
+- Do not place towels, cushions or covers on the seat that could make you slip.
 
 - Have a correct driving posture, without tilting the seat too far back.
 
@@ -1997,7 +2044,7 @@ Submarining effect
 
 Airbags
 
-What are they? A safety device that is a bag of air that inflates inside the vehicle in case of an accident to protect passengers.
+What are they? A safety device that consists of an air bag that inflates inside the vehicle in case of an accident to protect passengers.
 
 <!-- Page: 115 -->
 
@@ -2007,13 +2054,13 @@ Airbags are placed at the front of the vehicle and on the sides. What are they f
 
 - To prevent people from hitting violently against any part of the vehicle.
 
-- To protect people’s face and eyes from broken glass and other items that come loose because of the accident. Precautions when using airbags:
+- To protect people’s face and eyes from broken glass and other elements that come loose because of the accident. Precautions when using airbags:
 
 - Always use the seat belt so that the impact against the airbag is smaller.
 
 - Place your chest at a distance of at least 25 centimetres from the steering wheel so that the front airbag does not hit you when it inflates.
 
-- Switch off the front passenger airbag if you are going to place a child seat in that seat.
+- Switch off the front passenger seat airbag if you are going to place a child seat in that seat.
 
 <!-- Page: 116 -->
 
@@ -2027,9 +2074,9 @@ The helmet
 
 Head injuries are the main cause of death in accidents in two-wheeled vehicles. Three out of ten people who have an accident in a two-wheeled vehicle save their life because they wear a helmet. What does the helmet do in an accident?
 
-- It protects the head from impacts against the ground, other vehicles, or road elements.
+- It protects the head from impacts against the ground, other vehicles or road elements.
 
-- It prevents stones, metal, or other sharp objects from entering the head
+- It prevents stones, metal pieces or other sharp objects from entering the head
 
 - It spreads the force of the impact over the whole helmet so that it does not concentrate on just one point of the head. This prevents serious injuries.
 
@@ -2128,7 +2175,7 @@ It is used to control the amount of fuel that goes into the vehicle’s engine. 
 Watch video
 Brake pedal
 
-It is used to reduce speed or stop the vehicle. The brake pedal acts on all the wheels of the car. This pedal is pressed with the right foot and you must press it gently.
+It is used to reduce speed or stop the vehicle. The brake pedal acts on all the wheels of the car. This pedal is pressed with the right foot and you must press it smoothly.
 
 <!-- Page: 122 -->
 
@@ -2150,7 +2197,7 @@ Watch video
 
 How should you hold the steering wheel?
 
-- With both hands. You should only let go with one hand for just long enough to operate other car controls.
+- With both hands. You should only let go with one hand for just long enough to operate other controls in the car.
 
 - On the outside. You must never hold the steering wheel on the inside.
 
@@ -2166,7 +2213,7 @@ A system that brakes the rear wheels of the vehicle and makes the vehicle stay s
 
 Controls of motorcycles
 
-Motorcycles have the same controls as other motor vehicles. But they are in a different place and are used differently.
+Motorcycles have the same controls as other motor vehicles. But they are placed in a different place and are used differently.
 
 Watch video
 
@@ -2174,7 +2221,7 @@ With the left hand Clutch. It works by squeezing a lever. Control to make sounds
 
 With the right hand Front brake. Lever to brake the front wheel.
 
-Accelerator. It is on the handlebar and is activated by twisting the grip.
+Accelerator. It is on the handlebar and is activated by turning the grip.
 
 <!-- Page: 125 -->
 
@@ -2192,7 +2239,7 @@ It is necessary to see well everything that is around the vehicle so that drivin
 
 <!-- Page: 126 -->
 
-Which vehicle parts help you see better?
+What parts of the vehicle help you see better?
 
 Windscreen wipers
 Windscreen washers
@@ -2208,12 +2255,12 @@ Do not use the windscreen wiper when the glass is dry because it can scratch it.
 
 Windscreen washers
 
-A device that sprays a jet of liquid onto the glass so that the windscreen wiper can clean better. There are special liquids that work as windscreen washer fluid, although you can use water mixed with a little detergent. It is important to check that the tank where the windscreen washer is has liquid and refill it when it is running low.
+A device that sprays a jet of liquid onto the windscreen so that the windscreen wiper can clean better. There are special liquids that work as windscreen washer fluid, although you can use water mixed with a little detergent. It is important to check that the tank where the washer fluid is has liquid and top it up when it is running low.
 
 Watch video
 Heated rear window
 
-Lines that you can see on the rear window of the vehicle. They remove the ice and the mist that form on this glass so that you can see well.
+Lines that you can see on the rear window of the vehicle. They remove ice and mist that form on this window so that you can see well.
 
 Rear-view mirrors
 
@@ -2223,7 +2270,7 @@ Mirrors that allow the driver to see better what happens at the sides and behind
 
 Rear-view mirrors in cars, vans and lorries
 
-Cars, vans and lorries that can carry up to 3,500 kilos in weight must have the following rear-view mirrors:
+Cars, vans and lorries that can carry up to 3,500 kilos must have the following rear-view mirrors:
 
 - A mirror outside the vehicle, on the left side.
 
@@ -2237,7 +2284,7 @@ You can fit sun blinds on the rear side windows of the vehicle only when both ex
 
 Rear-view mirrors on motorcycles
 
-Motorcycles that travel at less than 100 kilometres per hour must have one mirror on the left side of the vehicle.
+Motorcycles that travel at less than 100 kilometres per hour must have a mirror on the left side of the vehicle.
 
 <!-- Page: 129 -->
 
@@ -2245,11 +2292,11 @@ Motorcycles that travel at more than 100 kilometres per hour must have two mirro
 
 Rear-view mirrors on two-wheeled mopeds
 
-These vehicles must have one mirror compulsory on the left side of the moped. The mirror on the right side is optional.
+These vehicles must have one compulsory mirror on the left side of the moped. The mirror on the right side is optional.
 
 Rules for driving in a comfortable and safe way
 
-Having a good driving position helps to avoid tiredness and makes driving safer. Sitting in a good position in front of the steering wheel helps you respond better and faster to unexpected situations. Driving too close to the steering wheel causes tiredness because you have to strain your body more to make movements.
+Having a good driving posture helps to avoid tiredness and makes driving safer. Sitting in a good posture in front of the steering wheel helps you respond better and faster to unexpected situations. Driving too close to the steering wheel causes tiredness because you have to strain your body more to make movements.
 
 Driving too far from the steering wheel forces you to lean forwards to reach the controls and to lift your back off the seat backrest. This can be dangerous.
 
@@ -2257,7 +2304,7 @@ Driving too far from the steering wheel forces you to lean forwards to reach the
 
 Your head must be above the steering wheel. If this is not possible because you are not tall enough, you can use a suitable support firmly fixed to the seat, bearing in mind that it cannot be a cushion or similar.
 
-Rules for driving cars, vans and lorries Before you start driving you must check that: The seat and the backrest are well adjusted The mirrors are well positioned The seat belt is well fastened The seat and the backrest are well adjusted when:
+Rules for driving cars, vans and lorries Before you start driving you must check that: The seat and the backrest are well adjusted The rear-view mirrors are well positioned The seat belt is well fastened The seat and the backrest are well adjusted when:
 
 - You can reach the pedals well and you can press them fully without straining your ankles.
 
@@ -2275,13 +2322,13 @@ Rules for driving cars, vans and lorries Before you start driving you must check
 
 <!-- Page: 132 -->
 
-- Looking at the mirrors on the sides, you can see the road, the vehicles coming from behind and the ones at your sides. By turning your neck a little you can see a part of the left rear of your vehicle. If you find that the mirrors are badly set while you are driving, you must stop the vehicle and set them correctly. To do this, try to stop in a flat and straight place. The seat belt is well fastened
+- Looking at the mirrors at the sides, you can see the road, the vehicles coming from behind and the ones at your sides. By turning your neck a little you can see a part of the left rear of your vehicle. If you find that the mirrors are badly set while you are driving, you must stop the vehicle and set them correctly. To do this, try to stop in a flat and straight place. The seat belt is well fastened
 
 Once you have done these checks fasten your seat belt properly before you start driving.
 
 Rules for riding motorcycles
 
-- Keep a natural position with your body. Do not force your posture.
+- Keep a natural body position. Do not force your posture.
 
 - Lean your body just enough to reach the handlebars.
 
@@ -2289,13 +2336,13 @@ Rules for riding motorcycles
 
 - Keep your arms and hands relaxed. This will help you avoid tiredness.
 
-- When the motorcycle starts moving put your feet on the footrests. Do not leave them hanging.
+- When the motorcycle starts moving put your feet on the footrests. Do not let them hang down.
 
-- Lean your body a little to take bends. Do not lean too much, like professional riders in races.
+- Lean your body a little to take bends. Do not lean too much, like professional riders do in races.
 
 Watch video
 
-Which postures are not suitable for riding a motorcycle?
+What postures are not suitable for riding a motorcycle?
 
 - Leaning your body too much.
 
@@ -2309,7 +2356,7 @@ Systems that help you drive safely
 
 Traffic sign recognition system
 
-(TSR) It detects speed limit signs on the road so that the person driving can reduce the vehicle speed if needed. In some vehicles the system shows the number that matches the maximum speed the vehicle can travel at. This number appears on the instrument panel. In other vehicles, as well as warning, the system reduces the speed by itself when the driver is going faster than they should.
+(TSR) It detects speed limit signs on the road so that the person driving can reduce the vehicle’s speed if needed. In some vehicles the system shows the number that matches the maximum speed the vehicle can travel at. This number appears on the instrument panel. In other vehicles, as well as warning, the system reduces the speed by itself when the driver is going faster than they should.
 
 Instrument panel. A set of indicators in front of the driver that give information about the condition and operation of the vehicle.
 
@@ -2317,7 +2364,7 @@ Instrument panel. A set of indicators in front of the driver that give informati
 
 Lane departure warning (LDW)
 
-This system warns the driver when they make an unexpected lane change because they are distracted or because they have fallen asleep. The system warns by a light on the instrument panel, a sound, or by making the driver’s seat or the steering wheel vibrate.
+This system warns the driver when they make an unexpected lane change because they are distracted or because they have fallen asleep. The system warns by means of a light on the instrument panel, a sound, or by making the driver’s seat or the steering wheel vibrate.
 
 Watch video
 Lane keeping assist (LKA)
@@ -2341,13 +2388,13 @@ Finding a place to park, showing what is around the vehicle, or turning the stee
 
 Hill start assist system
 
-This system helps the vehicle not roll backwards when the driver moves off on a very steep slope. Or when the driver moves their foot from the brake to the accelerator to continue driving on a slope.
+This system helps the vehicle not roll backwards when the driver moves off on a very steep hill. Or when the driver moves their foot from the brake to the accelerator to continue driving on a hill.
 
 <!-- Page: 138 -->
 
 Rear cross traffic alert system (RCTA)
 
-This system warns the driver if there are other vehicles behind when reversing. For example, when leaving a parking space. The system will make a sound when it sees that there is a vehicle behind that is too close and there may be a risk of a crash.
+This system warns the driver if there are other vehicles behind when reversing. For example, when leaving a parking space. The system will make a sound when it sees that there is a vehicle behind that is too close and there may be a risk of a collision.
 
 ## Topic 7. Vehicle lighting system
 
@@ -2383,7 +2430,7 @@ Vehicle lights
 
 - Reversing light
 
-Audible warnings
+Audible signals
 
 <!-- Page: 140 -->
 
@@ -2395,11 +2442,11 @@ General rules for using the vehicle lights When must you switch on the vehicle l
 
 - You drive in a reversible lane Reversible lane. A lane that is sometimes open in one direction and other times in the opposite direction.
 
-- You drive in an additional lane or one that goes in the opposite direction to the one it normally has. For example, an additional lane is added or the direction of a lane is changed for a time because of roadworks or because of an accident in that area. Additional lane. A new lane that is opened temporarily because of roadworks, queues, an accident…
+- You drive in an extra lane or one that goes in the opposite direction to the one it normally has. For example, an extra lane is added or the direction of a lane is changed for a time because of roadworks or because of an accident in that area. Extra lane. A new lane that is opened temporarily because of roadworks, queues, an accident…
 
 <!-- Page: 141 -->
 
-If some lights break while you are driving, you must reduce the car’s speed and switch on the lights that work, even if they are less bright. When you reach a lit area, you must park the vehicle and not continue driving until the lighting system is repaired. A road is considered poorly lit when:
+If some lights break while you are driving, you must reduce the car’s speed and switch on the lights that work, even if they are less visible. When you reach a lit area, you must park the vehicle and not continue driving until the lighting system is repaired. A road is considered poorly lit when:
 
 - You cannot read the number plate of the vehicle in front from 10 metres away.
 
@@ -2424,7 +2471,7 @@ Vehicle lights
 
 Position lights
 
-They are used so that the vehicle can be seen well and so that people know how wide it is. There are position lights at the front, at the rear and on the sides of the vehicle.
+They help the vehicle be seen well and show how wide it is. There are position lights at the front, at the rear and on the sides of the vehicle.
 
 Watch video
 
@@ -2432,13 +2479,13 @@ What colour are the position lights? The front lights are white. The rear lights
 
 - When you drive at night.
 
-- When you go through a tunnel.
+- When going through a tunnel.
 
 - On dark days when there is little natural light for driving. When the vehicle is moving, the position lights always switch on with another type of lights.
 
 Watch video
 
-The position lights are only switched on by themselves, without another type of lights, when the car is stopped because of some circumstance.
+The position lights are only switched on by themselves, without any other type of lights, when the car is stopped because of some circumstance.
 
 <!-- Page: 143 -->
 
@@ -2446,13 +2493,13 @@ For example, a car that has to stop because of a breakdown on a poorly lit road.
 
 Parking light
 
-It is used when a vehicle has to stop in an area that is poorly lit. It can be used instead of the sidelights. They are placed at the front and at the back of the vehicle. They are the same colours as the sidelights.
+It is used when a vehicle has to stop in an area that is poorly lit. It can be used instead of the sidelights. They are fitted at the front and at the back of the vehicle. They are the same colours as the sidelights.
 
-Outline marker lights
+Marker lights
 
-They are used to show clearly the total width of the vehicle. They are two front lights and two rear lights that are placed on the outer edges of the vehicle, in the highest area, so that they can be seen well. They are used in the same cases as the sidelights.
+They are used to show clearly what the total width of the vehicle is. They are two front lights and two rear lights that are fitted on the outer edges of the vehicle, in the highest area, so they can be seen well. They are used in the same cases as the sidelights.
 
-Outline. Width of a vehicle
+Loading gauge. Width of a vehicle
 
 Watch video
 
@@ -2464,7 +2511,7 @@ Which vehicles must have them? It is compulsory for cars, trailers and semi-trai
 
 Main beam or full beam
 
-It is used to light a long distance in front of the vehicle that is driving on the road. This light is compulsory for all cars and optional for mopeds. It is a powerful white light that can dazzle other vehicles.
+It is used to light a long distance in front of the vehicle travelling on the road. This light is compulsory for all cars and optional for mopeds. It is a powerful white light that can dazzle other vehicles.
 
 Watch video
 
@@ -2478,11 +2525,11 @@ When is it used? On roads that are outside towns or cities. It is compulsory to 
 
 - Inside towns and cities.
 
-- When the vehicle is stopped. You can use the main beam to warn other drivers of a danger. You do this by switching the lights on and off in an intermittent way so as not to dazzle.
+- When the vehicle is stopped. You can use the main beam to warn other drivers of a danger. You do this by switching the lights on and off intermittently so you do not dazzle.
 
 Dipped beam or passing beam
 
-It is used to light the road in front of the vehicle without dazzling or bothering the drivers of other vehicles. It is white.
+It is used to light the road in front of the vehicle without dazzling or bothering drivers of other vehicles. It is white.
 
 <!-- Page: 146 -->
 
@@ -2490,19 +2537,21 @@ It is compulsory for:
 
 - Cars: they must have two lights.
 
-- Two- and three-wheel mopeds: they must have one or two lights.
+- Two- and three-wheeled mopeds: they must have one or two lights.
 
-Motorcycles, three-wheel vehicles and heavy quadricycles can have one or two. When is it compulsory to use it? At night, on all types of roads, inside and outside towns and cities. During the day, it is used when driving through tunnels or through temporary lanes that are put in place because of roadworks, accidents or other circumstances.
+Motorcycles, three-wheeled vehicles and heavy quadricycles can have one or two. When is it compulsory to use it? At night, on all types of roads, inside and outside towns and cities. During the day, it is used when driving through tunnels or on temporary lanes that are put in place because of roadworks, accidents or other circumstances.
 
 <!-- Page: 147 -->
 
-These lights must also be used when:
+You must also use these lights when:
 
 - The vehicle does not have main beam.
 
 - You drive at less than 40 kilometres per hour.
 
-- There is a chance that you could dazzle the drivers of other vehicles when you switch on the main beam. Motorcycles must always have the dipped beam on during the day when they travel on any street or road.
+- There is a chance that you could dazzle drivers of other vehicles when you switch on the main beam.
+
+Motorcycles must always have dipped beam on during the day when they travel on any street or road.
 
 Watch video
 Fog lights
@@ -2513,14 +2562,14 @@ They are used to see the road better in fog, snow, heavy rain and smoke. There a
 
 How are they used?
 
-Front fog lights are used with the sidelights. You can also use them at the same time as the main beam and the dipped beam.
+Front fog lights are used with the sidelights. You can also use them at the same time as main beam and dipped beam.
 
-Rear fog lights you must only use in cases of great need, when the weather and visibility conditions are very bad. They can be switched on at the same time as the main beam and dipped beam and the front fog lights.
+Rear fog lights must only be used when there is a great need, when the weather and visibility conditions are very bad. They can be switched on at the same time as main and dipped beam and the front fog lights.
 
 Watch video
 Reflector
 
-It is a device that reflects external light from other vehicles. It is used so that the vehicle can be seen. This type of lights are on the front, rear and side of the vehicle. Reflectors must be:
+It is a device that reflects external light from other vehicles. It is used so the vehicle can be seen. These reflectors are on the front, rear and side of the vehicle. Reflectors must be:
 
 - White at the front.
 
@@ -2536,22 +2585,22 @@ Trailers and semi-trailers must have them in a triangular shape at the rear.
 
 Direction indicator
 
-It is used to warn that a vehicle is going to turn and move to the right or to the left. You must switch it on whenever you are going to change direction, direction of travel, or change lane. You have to switch it off when you finish that movement. Its light is yellow and flashes. It is compulsory for all motor vehicles, trailers and semi-trailers.
+It is used to warn that a vehicle is going to turn and move to the right or to the left. You must switch it on whenever you are going to change direction, change direction of travel, or change lane. You must switch it off when you finish that movement. Its light is yellow and flashes. It is compulsory for all motor vehicles, trailers and semi-trailers.
 
 Watch video
 Hazard warning lights
 
-They warn that the vehicle has a problem and can be a danger to other vehicles that are on the road. To show the hazard warning lights all the vehicle’s direction indicators are switched on. These lights are compulsory for cars, their trailers and semi-trailers.
+They warn that the vehicle has a problem and may be a danger to other vehicles that are on the road. To show the hazard warning lights all the vehicle’s direction indicators are switched on. These lights are compulsory for cars, their trailers and semi-trailers.
 
 <!-- Page: 150 -->
 
 Watch video
 
-When are they used? They are used in the following cases both by day and by night.
+When are they used? They are used in the following cases both during the day and at night.
 
-- When a vehicle has a breakdown and cannot reach the minimum speed that you must drive at on that road.
+- When a vehicle has a breakdown and cannot reach the minimum speed that must be driven on that road.
 
-- When a vehicle is making an emergency journey. For example, taking to hospital a woman who is about to give birth.
+- When a vehicle is making an emergency journey. For example, taking a woman to hospital who is about to give birth.
 
 - To warn that another vehicle is stopped because of a problem or an emergency on any road or in a tunnel.
 
@@ -2561,18 +2610,18 @@ When are they used? They are used in the following cases both by day and by nigh
 
 Brake light
 
-It shows that the vehicle is braking. The driver must warn with these lights whenever they are going to brake the vehicle, even if it is for a short time. For example, stopping at a red traffic light. Its light is a strong red and they are placed at the back of the vehicle. It is compulsory for all cars, mopeds, trailers and semi-trailers.
+It shows that the vehicle is braking. The driver must warn with these lights whenever they are going to brake the vehicle, even for a short time. For example, stopping at a red traffic light. Their light is bright red and they are fitted at the back of the vehicle. It is compulsory for all cars, mopeds, trailers and semi-trailers.
 
 Watch video
 Third brake light
 
-It is a single light that is placed at the back of the vehicle, above the brake lights. It switches on at the same time as the brake lights and is the same colour. This light is optional for cars. Motorcycles cannot have it.
+It is a single light that is fitted at the back of the vehicle, above the brake lights. It switches on at the same time as the brake lights and is the same colour. This light is optional for cars. Motorcycles cannot have it.
 
 <!-- Page: 152 -->
 
 Reversing light
 
-It lights the road from the back of the vehicle to warn that the vehicle is going to move backwards. They are one or two white lights that switch on automatically when the vehicle starts to go backwards. This light is compulsory for all cars, except motorcycles, which are not allowed to have it. It is optional for three-wheel vehicles and heavy quadricycles.
+It lights the road from the back of the vehicle to warn that the vehicle is going to travel backwards. It is one or two white lights that switch on automatically when the vehicle starts to go backwards. This light is compulsory for all cars, except motorcycles, which are not allowed to have it. It is optional for three-wheeled vehicles and heavy quadricycles.
 
 Watch video
 Audible warnings
@@ -2604,7 +2653,7 @@ Types of signs
 
 Vertical signs
 
-- Warning signs
+- Signs that warn of danger
 
 - Regulatory signs
 
@@ -2627,15 +2676,13 @@ General rules
 
 - All drivers and pedestrians must obey the instructions of traffic signs.
 
-Watch video
-
 <!-- Page: 156 -->
 
 Which traffic signs must you obey first?
 
 1
 
-Signs and orders from traffic officers.
+Signals and orders from traffic officers.
 
 2
 
@@ -2660,32 +2707,27 @@ Contradictory signs
 
 Sometimes there are signs placed together, but they give different instructions.
 
-Different signs
-
-Which one must you obey?
-
-Stop sign and traffic light on green
-
-Traffic light on green
-
-Stop sign and give way sign
-
-Stop sign
-
-Traffic light on green and no left turn sign You have to obey both. You can go straight on or turn right.
+| Different signs Stop sign and | Which must you obey? Green traffic light |
+| --- | --- |
+| green traffic light |  |
+| Stop sign and |  |
+|  | Stop sign |
+| give way sign |  |
+| Green traffic light and | You must obey both. |
+| no left turn sign | You can go straight on |
+|  | or turn right. |
 
 Traffic officers
-Signs and orders from traffic officers
+Signals and orders from officers
 
-The signs given by traffic officers must always be followed. To give instructions they will use objects and clothing that can be seen from 150 metres away.
+The signals given by traffic officers
+
+must always be followed. To give instructions they will use objects and clothing that can be seen from 150 metres away.
 
 Traffic officers will give instructions by the following means:
 
-Arm signals
-
-Sound signals with a whistle
-
-Signals from a vehicle
+| Arm signals | Sound signals Signals from with a whistle a vehicle |
+| --- | --- |
 
 <!-- Page: 158 -->
 
@@ -2693,13 +2735,13 @@ Arm signals
 
 Arm raised vertically
 
-All drivers approaching the officer must stop. When this signal is made at a junction drivers who were already inside the junction can continue driving.
+All drivers approaching the officer must stop. When this signal is made at a junction drivers who were already inside the junction may continue.
 
 Arm or arms extended horizontally
 
 All drivers approaching the officer must stop. The officer’s arm or arms act as a barrier for vehicles that are approaching. This order must be obeyed until the officer gives another instruction, even if they lower their arms.
 
-Swings a red or yellow light with one arm
+Waves a red or yellow light with one arm
 
 Drivers towards whom the officer directs the light must stop.
 
@@ -2713,22 +2755,22 @@ Sound signals with a whistle
 
 Several short whistle blasts repeated Stop the vehicle.
 
-One long whistle blast Start driving again and continue driving.
+One long whistle blast Continue driving and keep going.
 
 Signals from a vehicle
 Red flag
 
-Vehicles cannot drive on that road.
+Vehicles cannot travel on that road.
 
 Green flag
 
-Vehicles can drive again on that road.
+Vehicles can travel again on that road.
 
 Yellow flag
 
 Drivers and pedestrians must travel with great care because there is a possible danger on the road.
 
-Arm extended downwards and fixed You must stop on the right-hand side drivers at whom the arm points.
+Arm extended downwards and still You must stop on the right-hand side if the arm points at you.
 
 Police vehicle with a red or yellow flashing light and making sounds You must stop the vehicle on the right-hand side, in front of the police vehicle and stay inside the vehicle following all the officer’s instructions.
 
@@ -2736,11 +2778,11 @@ Police vehicle with a red or yellow flashing light and making sounds You must st
 
 Temporary signs
 
-Panels with changing messages
+Panels with messages that change
 
 Roadworks signs
 
-Panels with changing messages
+Panels with messages that change
 
 They are panels placed on roads that change the information depending on traffic conditions. They are used to:
 
@@ -2756,17 +2798,17 @@ They are lights, signs and devices to highlight roadworks. They show the directi
 
 <!-- Page: 161 -->
 
-Temporary direction panel It forbids entry and tells you which way you must go.
+Temporary direction panel It bans entry and tells you which way you must go.
 
 Small flags and cones
 
-They forbid passing through them and through the space between each flag or cone.
+They ban entry through them and through the space between each flag or cone.
 
 Steady red light
 
 The road is closed to traffic.
 
-Steady or flashing yellow lights They forbid passing through the space between the lights.
+Steady or flashing amber lights They ban entry through the space between the lights.
 
 Permanent direction panels
 
@@ -2792,7 +2834,7 @@ For some vehicles
 
 Traffic lights for pedestrians
 
-Their indications are for pedestrians.
+Their signals are for pedestrians.
 
 Not for drivers
 
@@ -2802,11 +2844,15 @@ Steady red light
 
 No entry.
 
-One or two flashing red lights It forbids entry for a time. They are placed before a level crossing or a bridge.
+One or two flashing red lights
 
-Steady yellow light It forbids entry like the steady red light. But it does allow vehicles to go through if they cannot stop for safety reasons.
+No entry for a period of time. They are placed before a level crossing or a bridge.
 
-One or two flashing yellow lights They make you give way to vehicles coming from the right and from the left. Also to pedestrians. Steady green light It allows vehicles to go through and it also gives them priority at the junction.
+Steady amber light
+
+No entry the same as a steady red light. But it does allow vehicles to go through if they cannot stop for safety reasons.
+
+One or two flashing amber lights You must give way to vehicles coming from the right and from the left. Also to pedestrians. Steady green light Allows vehicles to go through and also gives them priority at the junction.
 
 <!-- Page: 163 -->
 
@@ -2814,11 +2860,11 @@ Black arrow
 
 The vehicle can only go towards the side shown by the arrow.
 
-Also, you must obey the colour behind the arrow. For example, do not go through if it is red.
+Also, you must follow the meaning of the colour behind the arrow. For example, do not go through if it is red.
 
 Green arrow
 
-It allows vehicles to go forward in the direction shown by the arrow. You must do it carefully, watching for pedestrians crossing the road and vehicles entering that lane.
+It allows vehicles to go forward in the direction shown by the arrow. You must do it carefully watching for pedestrians crossing the road and vehicles entering that lane.
 
 Watch video
 
@@ -2838,26 +2884,26 @@ Green light in the shape of a downward arrow You are allowed to drive in that la
 
 Drivers must obey the rest of the signs in that lane.
 
-White or yellow light in the shape of a downward arrow It tells drivers that they must move to the lane shown by the arrow because the lane they are in now is going to close.
+White or amber light in the shape of a downward arrow It tells drivers that they must move to the lane shown by the arrow because the lane they are in now is going to close.
 
 Traffic lights for some vehicles
 Traffic lights for cycles and mopeds
 
-A cycle is shown on the traffic light. Their indications do not apply to other vehicles.
+A cycle is shown on the traffic light. Their signals do not apply to other vehicles.
 
-Traffic lights for trams, buses and other vehicles They have a white line on a black circular background. Their indications do not apply to cars.
+Traffic lights for trams, buses and other vehicles They have a white line on a black circular background. Their signals do not apply to cars.
 
 <!-- Page: 165 -->
 
 Vertical signs
 
-They are plates with information that stay fixed on posts or other structures on the road and in the streets.
+They are plates with information that stay fixed on posts or other road structures and on streets.
 
 Vertical signs depending on what their function is:
 
-1. They warn of dangers
-2. They order or forbid
-3. They inform and guide Remember… A route is the place where you travel, it can be a street, a road, or a track. The carriageway is the part of the route where vehicles travel.
+1. Warn of dangers
+2. Make you do something or ban something
+3. Inform and guide Remember… A road is the place where you travel, it can be a street, a road, or a track. The carriageway is the part of the road where vehicles travel.
 
 <!-- Page: 166 -->
 
@@ -2869,9 +2915,9 @@ P-1. Priority to go through.
 
 Vehicles on that road have priority to go through before vehicles coming from side roads or streets.
 
-P-1a Priority to go through before vehicles coming from the road on the right.
+P-1a Priority to go through before vehicles coming on the road from the right.
 
-P-1b Priority to go through before vehicles coming from the road on the left.
+P-1b Priority to go through before vehicles coming on the road from the left.
 
 P-1c Priority to go through before vehicles that want to enter that road from the right.
 
@@ -2885,21 +2931,21 @@ Nearby there is a junction or a section of road with traffic lights to control t
 
 P-4 Roundabout.
 
-Vehicles can only turn in the direction of the arrows. P-5 Opening bridge. There is a bridge nearby that can be raised or turned. When it is raised or turned, traffic is stopped and vehicles must wait. P-6 Tram crossing.
+Vehicles can only go round in the direction of the arrows. P-5 Movable bridge. There is a bridge nearby that can be raised or turned. When it is raised or turned, traffic is stopped and vehicles have to wait. P-6 Tram crossing.
 
-Danger because nearby there is a junction with a tram line that has priority to go through. P-7 Level crossing with barriers nearby. A level crossing is the place where train tracks cross a path or road. On the road, before you reach the train track, you will find a barrier. P-8 Level crossing without barriers nearby. There will be no barrier separating the road you are travelling on and the train track. P-9a and P-10a There is a level crossing, opening bridge, or quay about 300 metres away. P-9b and P-10b There is a level crossing, opening bridge, or quay about 200 metres away. P-9c and P-10c There is a level crossing, opening bridge, or quay about 100 metres away.
+Danger because nearby there is a junction with a tram line that has priority to go through. P-7 Level crossing with barriers nearby. A level crossing is the place where the train tracks cross a path or road. On the road, before you reach the train track, you will find a barrier. P-8 Level crossing without barriers nearby. There will be no barrier separating the road you are travelling on and the train track. P-9a and P-10a There is a level crossing, movable bridge, or quay about 300 metres away. P-9b and P-10b There is a level crossing, movable bridge, or quay about 200 metres away. P-9c and P-10c There is a level crossing, movable bridge, or quay about 100 metres away.
 
 <!-- Page: 168 -->
 
 P-11 Level crossing without barriers
 
-In that same place.
+At that same place.
 
-P-11a Level crossing without barriers where there is more than one train track. In that same place.
+P-11a Level crossing without barriers where there is more than one train track. At that same place.
 
 P-12 Airport
 
-Danger from unexpected noises that aircraft can cause. P-13a Dangerous bend to the right. P-13b Dangerous bend to the left. P-14a Several dangerous bends nearby. The first goes to the right. P-14b Several dangerous bends nearby. The first goes to the left. P-15 Uneven surface. There are humps, dips, or the road is in poor condition. Humps are parts of the road that slope upwards and stick out to make vehicles reduce speed. Dips are also parts of the road, they are potholes or trenches in the road. P-15a There are humps in the road. P-15b There are dips in the road.
+Danger from unexpected noises that aircraft can cause. P-13a Dangerous bend to the right. P-13b Dangerous bend to the left. P-14a Several dangerous bends nearby. The first goes to the right. P-14b Several dangerous bends nearby. The first goes to the left. P-15 Uneven road surface. There are humps, dips, or the road is in poor condition. Humps are parts of the road that slope upwards and stick up to make vehicles reduce speed. Dips are also parts of the road, they are potholes or trenches in the road. P-15a There are humps in the road. P-15b There are dips in the road.
 
 <!-- Page: 169 -->
 
@@ -2907,21 +2953,23 @@ P-16a Very steep downhill slope. P-16b Very steep uphill slope. P-17 The carriag
 
 P-17a The carriageway becomes narrower on the right.
 
-P-17b The carriageway becomes narrower on the left. P-18 Roadworks. P-19 Slippery carriageway. P-20 Pedestrians.
+P-17b The carriageway becomes narrower on the left. P-18 Roadworks. P-19 Slippery road. P-20 Pedestrians.
 
 Careful, you are coming to a place where there are often pedestrians. P-21 There are children near that place. For example, the exit of a school.
 
 <!-- Page: 170 -->
 
-P-22 Place where cyclists often go or cross. P-23 Place where domestic animals may often go. For example, cows, sheep...
+P-22 Place where cyclists often go or cross.
 
-P-24 Place where animals in the wild may cross.
+P-23 Place where domestic animals may often go. For example, cows, sheep...
 
-P-25 Vehicles can travel in both directions.
+P-24 Place where animals running free may cross.
+
+P-25 Vehicles may travel in both directions.
 
 P-26 There may be stones or other obstacles on the road because it is an area where objects fall. For example, a road below a mountain.
 
-P-27 The road ends at the quay of a port or at a watercourse. P-28 Small stones jump up from the road surface, called gravel.
+P-27 The road ends at the quay of a port or at a water current. P-28 Small stones jump up from the road surface, called loose chippings.
 
 <!-- Page: 171 -->
 
@@ -2939,7 +2987,7 @@ Regulatory signs
 
 They are signs that tell drivers and pedestrians about their duties, limits, and bans on the road.
 
-Regulatory signs placed next to or above the sign that shows the name of the town or city mean that you must follow that rule in the whole town or city. For example, a circular sign with the number 40 above the name of a town means that it is forbidden to drive at more than 40 kilometres per hour in the whole town. If the circular sign is before or after, it means that you cannot drive at more than 40 kilometres per hour on that section, until you find another sign.
+Regulatory signs placed next to or above the sign that shows the name of the town or city mean that you must follow that rule in the whole town or city. For example, a circular sign with the number 40 above the name of a town means it is forbidden to drive at more than 40 kilometres per hour in the whole town. If the circular sign is before or after, it means you cannot drive at more than 40 kilometres per hour on that section, until you find another sign.
 
 40
 JACA
@@ -2952,27 +3000,27 @@ The names of regulatory signs start with the letter R and there are different ty
 
 Priority signs
 
-R-1 Give way. You must give way to all vehicles already travelling on the road you want to enter or that are in the lane you want to go into. R-2 Stop. You must stop the vehicle and let vehicles already travelling on the road you want to enter go through. R-3 Priority road. While you are on that road you have priority to go through at junctions before drivers who reach the junction from another road. R-4 End of priority road. The road you are travelling on stops having more priority than other roads.
+R-1 Give way. You must give way to all vehicles already travelling on the road you want to enter or that are in the lane you want to go into. R-2 Stop. You must stop the vehicle and let vehicles already travelling on the road you want to enter go through. R-3 Priority road. While you are on that road you have priority to go through at junctions before drivers arriving at the junction from another road. R-4 End of priority road. The road you are travelling on stops having more priority than other roads.
 
-R-5 Do not enter a narrow passage if, when you go through it, you obstruct vehicles coming towards you.
+R-5 Do not enter a narrow passage if, when you go through it, you block vehicles coming towards you.
 
 R-6 You have priority to go through a narrow passage before vehicles coming in the opposite direction.
 
 <!-- Page: 174 -->
 
-Signs that forbid entry
+Signs that ban entry
 
-R-100 No traffic. It forbids all vehicles in any direction. R-101 No entry. It forbids entry to all types of vehicles.
+R-100 No traffic. It bans all vehicles in any direction. R-101 No entry. It bans entry to all types of vehicles.
 
-Vehicles may be travelling in the opposite direction to you because this ban may only be in one direction. R-102 No entry for motor vehicles. Mopeds can enter. R-103 No entry for motor vehicles. Two-wheeled motorcycles, without a sidecar, can enter. R-104 No entry for motorcycles.
+Vehicles may be travelling in the opposite direction to you because this ban may only be in one direction. R-102 No entry for motor vehicles. Mopeds can enter. R-103 No entry for motor vehicles. Two-wheeled motorcycles without a sidecar can enter. R-104 No entry for motorcycles.
 
 R-105 No entry for mopeds and vehicles for people with reduced mobility.
 
-R-106 No entry for vehicles that carry goods, even if they do not carry much load. For example, vans and lorries.
+R-106 No entry for vehicles carrying goods, even if they do not carry much load. For example, vans and lorries.
 
 <!-- Page: 175 -->
 
-R-107 No entry for vehicles that carry goods and can carry a load in tonnes greater than the number shown on the sign. These vehicles are forbidden to enter, even if they are empty at that time.
+R-107 No entry for vehicles carrying goods and that can carry a load in tonnes greater than the number shown on the sign. These vehicles are not allowed to enter, even if they are empty at that time.
 
 R-108 No entry for vehicles carrying dangerous goods.
 
@@ -2996,11 +3044,11 @@ R-117 No entry for animals ridden by people.
 
 Signs that limit passage
 
-R-200 You must stop the vehicle at the place where it is placed to comply with the signs in each case. For example, a toll booth on the motorway or a police checkpoint.
+R-200 You must stop the vehicle where it is placed to comply with the signs in each case. For example, a toll booth on the motorway or a police checkpoint.
 
 R-201 No entry for vehicles carrying a load that weighs more than the number of tonnes shown on the sign.
 
-R-202 No entry for vehicles with an axle load greater than the number of tonnes shown on the sign. In this case, vehicles cannot pass if they have an axle load greater than 2.4 tonnes.
+R-202 No entry for vehicles with an axle weight greater than the number of tonnes shown on the sign. In this case, vehicles cannot go through if they have an axle weight greater than 2.4 tonnes.
 
 <!-- Page: 177 -->
 
@@ -3012,7 +3060,7 @@ R-205 No entry for vehicles that are higher than the size shown on the sign.
 
 Other prohibition or restriction signs
 
-R-300 Minimum distance from the vehicle in front. You must keep from the vehicle in front the metres of distance shown on the sign. R-301 Maximum permitted speed. You must not drive faster, in kilometres per hour, than the speed shown on the sign. This applies until you see another sign for end of speed limit, end of prohibitions, or another sign for maximum speed. R-302 No right turn.
+R-300 Minimum distance from the vehicle in front. You must keep, from the vehicle in front, the metres of distance shown on the sign. R-301 Maximum permitted speed. You must not drive faster, in kilometres per hour, than the speed shown on the sign. This applies until you see another sign for end of speed limit, end of prohibitions, or another sign for maximum speed. R-302 No right turn.
 
 R-303 No left turn and no U-turn.
 
@@ -3034,7 +3082,7 @@ R-308c No parking on that side of the carriageway for the first 15 days of each 
 
 R-308d No parking on that side of the carriageway between day 16 and the last day of each month. You can stop, but not park.
 
-R-308e No parking in front of a dropped kerb. Dropped kerbs are spaces in the street reserved so that some vehicles can enter their garages, homes, or shops. R-309 Limited-time parking area. The driver must show the time when they parked the vehicle.
+R-308e No parking in front of a dropped kerb. Dropped kerbs are spaces in the street reserved so that some vehicles can enter their garages, homes, or shops. R-309 Limited-duration parking area. The driver must show the time when they parked the vehicle.
 
 R-310 Remember that you should only make sounds and horn beeps with the vehicle when they are needed to avoid accidents.
 
@@ -3066,9 +3114,7 @@ R-404 Cars must use that carriageway.
 
 Motorcycles without a sidecar are not required to.
 
-R-405 Motorcycles without a sidecar must use that carriageway.
-
-R-406 Lorries, vans and light vans must use that carriageway. R-407a Road reserved only for bicycles. No one else may use this road. R-407b Road reserved only for mopeds. No one else may use this road.
+R-405 Motorcycles without a sidecar must use that carriageway. R-406 Lorries, vans, and light vans must use that carriageway. R-407a Road reserved only for bicycles. No one else may use this road. R-407b Road reserved only for mopeds. No one else may use this road.
 
 <!-- Page: 182 -->
 
@@ -3078,7 +3124,7 @@ R-409 People riding an animal must use that path. No one else may use that path.
 
 R-410 Pedestrians must use that path. No one else may use that path. R-411 Minimum speed.
 
-Vehicles must travel at least at the speed shown on the sign. You cannot drive more slowly. You must follow this rule until you find another sign that allows you to drive at a lower speed.
+Vehicles must drive at least at the speed shown on the sign. You cannot drive more slowly. You must follow this rule until you find another sign that allows you to drive at a lower speed.
 
 R-412 You must fit snow chains on the vehicle to continue driving. R-413 You must switch on dipped headlights. You must keep them on until another sign tells you that you can switch them off.
 
@@ -3090,7 +3136,9 @@ R-415 Vehicles carrying more than 1,000 litres of products that can pollute wate
 
 R-416 Vehicles carrying explosive material or material that can catch fire must use that road.
 
-R-418 Lane only for vehicles that have an electronic toll device. The electronic toll is an electronic device that is placed on the windscreen and that recognises your vehicle number plate so that the motorway barrier opens automatically.
+R-418 Lane only for vehicles that have an electronic toll device.
+
+Electronic toll is an electronic device that is placed on the windscreen and that recognises your vehicle’s number plate so that the motorway barrier opens automatically.
 
 Signs that end the prohibition or the obligation R-500 End of all prohibitions. It shows the place from which all prohibitions end. R-501 End of speed limit. You can go faster. R-502 End of no overtaking. You can overtake other vehicles.
 
@@ -3100,7 +3148,7 @@ Lorries can overtake other vehicles.
 
 <!-- Page: 184 -->
 
-R-504 End of limited parking area. Vehicles can park in that place. R-505 End of road reserved for bicycles. R-506 End of minimum speed. You can drive more slowly than the speed shown on the sign.
+R-504 End of limited parking area. Vehicles can park in that place. R-505 End of road reserved for bicycles. R-506 End of minimum speed. You can drive more slowly than the sign shows.
 
 Signs that give information of interest
 
@@ -3110,15 +3158,15 @@ General information signs
 
 S-1 Place where a motorway begins. S-1a Place where a dual carriageway begins. S-2 Place where a motorway ends. S-2a Place where a dual carriageway ends.
 
-S-3 Start of a road reserved for cars.
+S-3 Start of a road reserved for cars to use.
 
 <!-- Page: 185 -->
 
-S-4 End of a road reserved for cars. S-5 A tunnel begins. S-6 End of the tunnel. S-7 Recommended maximum speed. It recommends the maximum speed you should always drive at on that road. S-8 End of recommended maximum speed. The stretch of road ends where it is recommended to drive at that speed or more slowly. S-9 Recommended speeds. It recommends driving between those two speeds shown on the sign. S-10 End of recommended speeds. It shows the place from which it is not recommended to keep driving at those speeds.
+S-4 End of a road reserved for cars. S-5 A tunnel begins. S-6 End of the tunnel. S-7 Recommended maximum speed. It recommends the maximum speed that you should always drive at on that road. S-8 End of recommended maximum speed. The stretch of road ends where it is recommended to drive at that speed or more slowly. S-9 Recommended speeds. It recommends driving between those two speeds shown on the sign. S-10 End of recommended speeds. It shows the place from which it is not recommended to keep driving at those speeds.
 
 <!-- Page: 186 -->
 
-S-11 One-way carriageway. They show the direction in which vehicles must travel on that road. They also ban U-turns (turning round). The arrows show the number of lanes S-12 One-way section of carriageway. It shows that on that section of street or road you must travel in the direction the arrow points. It is forbidden to do it in the other direction. S-13 Pedestrian crossing. S-15a No through road.
+S-11 One-way carriageway. They show the direction in which vehicles must travel on that road. They also ban U-turns (turning round). The arrows show the number of lanes S-12 Stretch of one-way carriageway. It shows that on that stretch of street or road you must travel in the direction the arrow points. It is forbidden to do it in the other direction. S-13 Pedestrian crossing. S-15a No through road.
 
 Vehicles can only leave that carriageway by the same place they entered. S-16 Emergency stopping area. It shows an area where vehicles can pull off and stop when the brakes fail. S-17 Place where vehicles can park.
 
@@ -3128,11 +3176,11 @@ S-18 Taxi rank. S-19 Bus stop. Mountain pass. Road that crosses a mountain. S-21
 
 Green. All vehicles can drive. But lorries that can carry more than 3,500 kilos cannot overtake other vehicles.
 
-Yellow. Cars and buses must drive at a maximum speed of 60 kilometres per hour.
+Yellow. Cars and coaches must drive at a maximum speed of 60 kilometres per hour.
 
 Lorries that can carry more than 3,500 kilos and articulated lorries cannot pass.
 
-Red. Vehicles must use chains and drive at a maximum speed of 30 kilometres per hour. Lorries and buses cannot pass. Black, with the word CLOSED.
+Red. Vehicles must use chains and drive at a maximum speed of 30 kilometres per hour. Lorries and coaches cannot pass. Black, with the word CLOSED.
 
 No vehicle can pass on that road.
 
@@ -3148,7 +3196,7 @@ S-25 You can make a U-turn using a road that is higher or lower.
 
 S-26 a There is a motorway, dual carriageway, or road for cars exit in 300 metres. S-26 b There is a motorway, dual carriageway, or road for cars exit in 200 metres. S-26 c There is a motorway, dual carriageway, or road for cars exit in 100 metres.
 
-S-27 There is a roadside emergency post to ask for help in case of an accident or breakdown. S-28 Area with priority for pedestrians. You must not drive faster than 20 kilometres per hour. S-30 Area where pedestrians can walk. You must not drive faster than 30 kilometres per hour.
+S-27 There is an emergency help point on the road to ask for help in case of an accident or breakdown. S-28 Area with priority for pedestrians. You must not drive faster than 20 kilometres per hour. S-30 Area where pedestrians can walk. You must not drive faster than 30 kilometres per hour.
 
 S-31 End of the area with priority for pedestrians. You can drive at more than 30 kilometres per hour. S-32 Electronic toll.
 
@@ -3161,7 +3209,7 @@ S-33 There is a path reserved for pedestrians and bicycles, separated from motor
 Signs that give information about lanes
 S-50a, S-50b, S-50c, S-50d and S-50e
 
-Only vehicles that travel at that speed or faster may use the lanes marked with a number.
+In the lanes marked with a number, only vehicles that travel at that speed or faster may use them.
 
 S-51 Lane reserved for buses.
 
@@ -3171,7 +3219,7 @@ It warns that a lane can no longer be used and shows the lane you can continue i
 
 <!-- Page: 191 -->
 
-S-53c Road that changes from two lanes to three lanes. It also shows the maximum speed you can drive in each one.
+S-53c Road that changes from having two lanes to having three lanes. It also shows the maximum speed you can drive in each one.
 
 S-60a. On a two-lane road it shows that the left lane is going to move to the left.
 
@@ -3183,11 +3231,11 @@ S-61b. On a three-lane road it shows that the right lane is going to move to the
 
 Signs that give information about services
 
-S-100 First aid post where you can get emergency treatment.
+S-100 First aid post where you can get urgent treatment.
 
 <!-- Page: 192 -->
 
-S-101 Place where there are ambulances to help and take people injured in traffic accidents.
+S-101 Place where there are ambulances to treat and take injured people in road traffic accidents.
 
 S-102 Place where you can have the vehicle checked. S-103 There is a vehicle repair workshop. S-104 There is a telephone.
 
@@ -3215,33 +3263,33 @@ S-123 Rest area to stop to rest.
 
 S-124 Area to park vehicles that connects with a train station.
 
-S-125 Area to park vehicles that connects with a lower train station.
+S-125 Area to park vehicles that connects with an underground train station.
 
 S-126 Area to park vehicles that connects with a bus station.
 
-S-127 Service area inside a motorway or dual carriageway. In service areas there are usually petrol stations, restaurants and places to rest for a while.
+S-127 Service area within a motorway or dual carriageway. In service areas there are usually petrol stations, restaurants and places to rest for a while.
 
 <!-- Page: 196 -->
 
 Direction signs
 
-S-200 Shows all the exits there are at the next roundabout. The exits painted blue mean that they lead to a motorway or dual carriageway.
+S-200 Shows all the exits there are at the next roundabout. The exits painted in blue mean that they lead to a motorway or dual carriageway.
 
 S-222a Shows the direction of a road and the exits that lead to a motorway or dual carriageway.
 
 S-232 Shows where the entrance is to the motorway and at what distance.
 
-S-235a Shows which is the next exit on a motorway or dual carriageway and how far away it is.
+S-235a Shows which is the next exit within a motorway or dual carriageway and how far away it is.
 
 S-300 Shows the names of towns and cities on a road and how far away that town or city is.
 
 S-301 Shows the names of towns and cities on a motorway or dual carriageway and how far away that town or city is. S-322 Shows in which direction there is a cycle lane or cycle path and the distance to it.
 
-S-360 Shows what the number is of the road, the place that road goes to, and the name of the town or city at the next exit towards another road.
+S-360 Shows what the number is of the road, the place that road goes to and the name of the town or city that is at the next exit towards another road.
 
 <!-- Page: 197 -->
 
-S-368 Shows the number of the motorway or dual carriageway, where they go to, and the name of the town or city at the next exit towards another road.
+S-368 Shows the number of the motorway or dual carriageway, where they go and the name of the town or city that is at the next exit towards another road.
 
 Signs to classify roads
 
@@ -3277,13 +3325,13 @@ S-800 Shows the distance there is from the sign to a danger or warning.
 
 S-810 Shows how long the dangerous section is. For how many metres or kilometres there is danger.
 
-S-820 and S-821 These signs are placed under a prohibition sign. They show how many metres that prohibition lasts following the arrow.
+S-820 and S-821 These signs are placed below a prohibition sign. They show how many metres that prohibition lasts following the arrow.
 
 S-850 to S-853 Shows in which direction and way you can drive with priority. It is placed next to sign R-3, which means road with priority.
 
-S-840 It is placed under the
+S-840 It is placed below the
 
-Give way sign. It shows the distance at which you must stop. S-870 It is placed under another sign. It shows that the prohibition or warning on the other sign only applies to the lane or slip road it points to. S-880 It is placed under another sign. It shows that the prohibition or warning on the other sign only has to be followed by the vehicles shown on this sign. S-890 It is placed under another sign. It shows that the prohibition or warning on the other sign must be followed when there is snow, rain or fog. S-960 There is an emergency telephone.
+Give way sign. It shows the distance at which you must stop. S-870 It is placed below another sign. It shows that the prohibition or warning on the other sign only applies to the lane or slip road it points to. S-880 It is placed below another sign. It shows that the prohibition or warning on the other sign must only be followed by the vehicles shown on this sign. S-890 It is placed below another sign. It shows that the prohibition or warning on the other sign must be followed when there is snow, rain or fog. S-960 There is an emergency telephone.
 
 <!-- Page: 200 -->
 
@@ -3311,7 +3359,7 @@ This line forbids drivers to drive on top of it. You can only drive on top of it
 
 See video
 
-Broken line. Line made up of many smaller lines in a row, with empty spaces between them.
+Broken line. Line made up of many smaller lines one after another, with empty spaces between them.
 
 <!-- Page: 202 -->
 
@@ -3327,7 +3375,7 @@ In this case, each driver must only take into account the line that is closer to
 
 Edge and parking lines
 
-Lines that mark where the road ends or places where you can park. You can cross them or drive on them.
+Lines that mark where the road ends or places where you can park. They can be crossed or driven over.
 
 Continuous transverse line
 
@@ -3359,23 +3407,23 @@ Vehicles must not cross it if they must give way to other vehicles following the
 
 Pedestrian crossing
 
-Wide lines on the road that show that drivers must give way to pedestrians.
+Wide lines on the carriageway that show that drivers must give way to pedestrians.
 
 <!-- Page: 205 -->
 
 Cycle crossing
 
-Broken and parallel lines on the road that show that cyclists have priority to ride through that place.
+Broken and parallel lines on the carriageway that show that cyclists have priority to ride through that place.
 
-Stop sign written on the road
+Stop sign written on the carriageway
 
-The driver must stop their vehicle before the stop line to give way to drivers travelling on the road they want to enter.
+The driver must stop their vehicle before the stop line to give way to the drivers travelling on the carriageway they want to enter.
 
 STOP
 
 <!-- Page: 206 -->
 
-Speed limit sign written on the road
+Speed limit sign written on the carriageway
 
 No vehicle must go at more kilometres per hour than the number shown by the sign in that lane. You must follow that instruction until another sign says you can drive at another speed.
 
@@ -3385,13 +3433,13 @@ All drivers must follow the direction or one of the directions shown by the arro
 
 End of lane arrow
 
-It warns that the lane you are in ends and shows you where you must go.
+Warns that the lane you are in ends and shows you where you must go.
 
 <!-- Page: 207 -->
 
 Return to lane arrow
 
-It warns that a continuous line is coming and tells drivers that they must move as soon as possible to the right of the lane.
+Warns that a continuous line is coming and tells drivers that they must move as soon as possible to the right of the lane.
 
 Level crossing marking
 
@@ -3399,23 +3447,23 @@ The letters P and N written on the ground with two lines in the shape of a cross
 
 Reserved lane or area
 
-It shows that that area or lane is reserved for certain vehicles to drive or stop. For example, buses and taxis.
+Shows that that area or lane is reserved for certain vehicles to drive or stop. For example, buses and taxis.
 
 BUS
 
 <!-- Page: 208 -->
 
-Marking for the start of a reserved lane It shows where the reserved lane starts for some vehicles.
+Marking for the start of a reserved lane
+
+Shows where the reserved lane starts for some vehicles.
 
 Cycle lane or cycle path marking
 
-It shows that that lane is reserved for bicycles to use.
+Shows that that lane is reserved for bicycles to use.
 
-Zebra markings
+Zebra lines
 
-It forbids vehicles to drive in that area.
-
-Only vehicles that must use the hard shoulder can drive in that space.
+Forbids vehicles to drive in that area. Only vehicles that must use the hard shoulder can drive in that space.
 
 STOP
 
@@ -3424,31 +3472,31 @@ STOP
 Coloured lines and markings
 Yellow line with zigzag markings
 
-It shows that parking is forbidden in that area.
+Shows that parking is forbidden in that area.
 
 Continuous yellow line
 
-It shows that stopping and parking are forbidden in that area.
+Shows that stopping and parking are forbidden in that area.
 
 Broken yellow line
 
-It shows that parking is forbidden in that area.
+Shows that parking is forbidden in that area.
 
 <!-- Page: 210 -->
 
 Marking made up of yellow squares
 
-It tells drivers that it is forbidden to enter that area if they could end up stopped in it blocking traffic.
+Shows drivers that it is forbidden to enter that area if they can end up stopped in it blocking traffic.
 
 White and red squares
 
-Area to do an emergency stop. It is the only reason why a vehicle can enter that area.
+Area to do emergency braking. It is the only reason why a vehicle can enter that area.
 
 <!-- Page: 211 -->
 
 Blue parking markings
 
-At some times of the day you can only park for a limited time and you must pay.
+At some hours of the day you can only park for a limited time and you must pay.
 
 ## Topic 9. The road
 
@@ -3468,9 +3516,9 @@ Types of road
 
 - Depending on where it is
 
-- Depending on its features
+- Depending on its characteristics
 
-- Colours that show the state of the road
+- Colours that show the condition of the road
 
 Lanes
 
@@ -3490,29 +3538,29 @@ Driving on motorways and dual carriageways
 
 <!-- Page: 213 -->
 
-The road for vehicles and pedestrians What is the road? A road is each street, road and track, public and private, where vehicles and pedestrians can travel.
+The road for vehicles and pedestrians What is the road? A road is each street, road and path, public and private, that vehicles and pedestrians can use.
 
 Parts of the road for vehicles
 
 The parts of the road that matter to the driver are:
 
 Lane
-Carriageway platform
+Roadway
 Carriageway
 Hard shoulder
-Carriageway platform
+Roadway
 
-It is the whole area of the road that vehicles can use to drive and to stop. Within the carriageway platform are the carriageway and the hard shoulder.
+It is the whole area of the road that vehicles can use to drive and to stop. Within the roadway are the carriageway and the hard shoulder.
 
 <!-- Page: 214 -->
 
 Carriageway
 
-Part of the road where vehicles travel. The same road can have several carriageways. A narrow carriageway is one that is less than 6.5 metres.
+Part of the road where vehicles drive. The same road can have several carriageways. A narrow carriageway is one that measures less than 6.5 metres.
 
 Hard shoulder
 
-Paved area that is on both sides of the carriageway where most vehicles do not travel. Some roads do not have a hard shoulder. A road can have several carriageway platforms.
+Paved area that is on both sides of the carriageway where most vehicles do not drive. Some roads do not have a hard shoulder. A road can have several roadways.
 
 Lane
 
@@ -3555,7 +3603,7 @@ Part of the road prepared so that vehicles can stop when their brakes fail. When
 
 Junction
 
-Place where several roads, streets, or tracks cross.
+Place where several roads, streets or tracks cross.
 
 Roundabout
 
@@ -3563,7 +3611,7 @@ Junction where there is a circular structure in the centre and vehicles must dri
 
 Level crossing
 
-Place where a road or track and the railway tracks cross.
+Place where a road or track crosses the railway tracks.
 
 <!-- Page: 219 -->
 
@@ -3591,13 +3639,13 @@ Cycle track
 
 There is a space separating the cycle route and the road.
 
-Cycle path Route located in parks, gardens, and woods where only pedestrians and cycles can travel.
+Cycle path Route located in parks, gardens and woods where only pedestrians and cycles can travel.
 
 <!-- Page: 221 -->
 
 Pedestrian area
 
-Part of the road reserved for pedestrians. The pavement, the walkway, and the refuge are considered pedestrian areas. The refuge is a pedestrian area located on the carriageway that vehicles cannot enter. For example, an area to wait between two pedestrian crossings.
+Part of the road reserved for pedestrians. The pavement, the walkway and the refuge are considered pedestrian areas. The refuge is a pedestrian area located on the carriageway that vehicles cannot enter. For example, an area to stop between two pedestrian crossings.
 
 Built-up area
 
@@ -3606,14 +3654,14 @@ Places where there are buildings. That is, towns and cities. On the roads enteri
 <!-- Page: 222 -->
 
 Watch video
-Direction and sense
+Direction and way
 Direction
 
-Straight or curved line that links two places.
+Straight or curved line that joins two places.
 
-Sense
+Way
 
-The two options, outward and return, that can be used to go in the same direction. For example, two cars that go on the same road, one in the outward lane and the other in the return lane, go in the same direction, but in a different sense. There are one-way roads and others where you can drive in both senses, in different lanes.
+The two options, outward and return, that can be used to go in the same direction. For example, two cars that go on the same road, one in an outward lane and the other in the return lane, go in the same direction, but in a different way. There are one-way roads and others where you can drive in both ways, in different lanes.
 
 Exit
 Entry
@@ -3630,7 +3678,7 @@ Types of road
 Depending on where it is
 Urban road
 
-Streets and tracks within the built-up area.
+Streets and tracks inside the built-up area.
 
 Interurban road
 
@@ -3638,7 +3686,7 @@ Roads and tracks outside the built-up area.
 
 Through road
 
-Road that goes through a built-up area.
+Road that passes through a built-up area.
 
 <!-- Page: 224 -->
 
@@ -3652,9 +3700,9 @@ It is a road where only motor vehicles can drive and it must meet the following 
 
 - You can only enter through prepared and authorised access points.
 
-- No railway, tramway, or path crosses it, and no other road crosses it.
+- No railway line, tramway or path crosses it, and no other road crosses it.
 
-- It has separate carriageways so that vehicles drive in one sense or the other. Motorways can be toll roads. That is, you have to pay to drive on them.
+- It has separate carriageways so that vehicles travel in one way or the other. Motorways can be toll roads. That is, you have to pay to drive on them.
 
 <!-- Page: 225 -->
 
@@ -3666,7 +3714,7 @@ Road that has the same characteristics as the motorway with two main differences
 
 - It has more access roads.
 
-- You do not have to pay to drive.
+- You do not have to pay to drive on it.
 
 Road for motor vehicles
 
@@ -3676,11 +3724,11 @@ Road where only motor vehicles can drive. It has a single carriageway. As on mot
 
 Conventional road
 
-These are all the roads that do not meet the characteristics of motorways, dual carriageways, and roads for motor vehicles.
+These are all roads that do not meet the characteristics of motorways, dual carriageways and roads for motor vehicles.
 
 Service road or service lane
 
-It is a road that runs parallel to the main road and links this road with houses, petrol stations, and other properties.
+It is a road that runs parallel to the main road and links this road with houses, petrol stations and other properties.
 
 Colours that show the state of the road
 
@@ -3694,7 +3742,7 @@ You cannot reach the maximum speed allowed on that road.
 
 Yellow
 
-There are stops and queues of vehicles or traffic is slow in some sections.
+There are stops and queues of vehicles or traffic is slow on some sections.
 
 Red
 
@@ -3708,15 +3756,15 @@ The road is closed and you cannot drive.
 
 Lanes
 
-Where should vehicles drive? They must drive on the right and as close as possible to the edge of the carriageway, especially on bends and changes of crest with reduced visibility.
+Where should vehicles drive? They must drive on the right and as close as possible to the edge of the carriageway, especially on bends and crests with reduced visibility.
 
 Watch video
 
-You must always keep free the part of the carriageway that belongs to the opposite sense. On roads with two carriageways, vehicles must use the carriageway on their right. On roads with three carriageways, the middle one can have one or two senses and the side ones one sense only.
+You must always keep clear the part of the carriageway for the opposite way. On roads with two carriageways, vehicles must use the carriageway on their right. On roads with three carriageways, the middle one can have one or two ways and the side ones one way only.
 
 <!-- Page: 228 -->
 
-When you find on the road refuges or traffic islands, you must drive on the right-hand side of the refuge or traffic island. If the road has only one sense you can drive on either side of the refuge or traffic island.
+When you find on the road refuges or traffic islands, you must drive on the right-hand side of the refuge or traffic island. If the road has only one way you can drive on either side of the refuge or traffic island.
 
 <!-- Page: 229 -->
 
@@ -3731,35 +3779,39 @@ Where should you drive?
 
 Two-way and with two lanes On the right.
 
-Two-way and with three lanes On the right. You must never use the left lane. The centre lane is only used to overtake and to change direction to the left.
+Two-way and with three lanes On the right.
+
+Never use the left lane. The centre lane is only used to overtake and to change direction to the left.
 
 <!-- Page: 230 -->
 
-Within towns or cities
+Inside towns or cities
 
-Motor vehicles and special vehicles can drive in the lane they prefer on roads with two lanes going in the same sense and separated by a white line.
+Motor vehicles and special vehicles can use the lane they prefer on roads and streets with two lanes going in the same way and separated by a white line.
 
 Watch video
 
-In these cases you must keep in mind that:
+In these cases you must take into account that:
 
-- You should only leave that lane to change direction, park, or overtake another vehicle.
+- You should only leave that lane to change direction, park or overtake another vehicle.
 
-- You must not block the way or be an obstacle for other vehicles. When the lanes are not separated by a white line, all drivers must drive on the right. Other vehicles, such as cycles, mopeds, or vehicles for people with reduced mobility, must always drive on the right, even if there is a separation line between lanes.
+- You must not block the way or be an obstacle for other vehicles. When the lanes are not separated by a white line all drivers must drive on the right.
+
+Other vehicles, such as cycles, mopeds or vehicles for people with reduced mobility must always drive on the right, even if there is a line separating lanes.
 
 <!-- Page: 231 -->
 
 Outside towns or cities
 
-On roads with two lanes going in the same sense, motor vehicles and special vehicles that with load can weigh more than 3,500 kilos will drive in the lane on their right. They may use the lane on their left when the road or traffic conditions make it advisable and as long as they do not hinder other drivers.
+On roads with two lanes going in the same way, motor vehicles and special vehicles that with load can weigh more than 3,500 kilos will drive in the lane on their right. They may use the lane on their left when the road or traffic conditions make it advisable and as long as they do not hinder other drivers.
 
 Watch video
 
-On roads with three or more lanes going in the same sense, some vehicles have the obligation to always go in the right lane and they are forbidden to use other lanes. These vehicles that must drive in the right lane may use the lane next to it, but cannot use any more, and under the same conditions
+On roads with three or more lanes going in the same way, some vehicles have the obligation to always use the right lane and are forbidden to use other lanes. These vehicles that must drive in the right lane may use the one next to it, and may not use any more, and under the same conditions
 
 as the previous point. These vehicles are:
 
-- Lorries, vans, and special vehicles that with load can weigh more than 3,500 kilos.
+- Lorries, vans and special vehicles that with load can weigh more than 3,500 kilos.
 
 - Vehicle combinations that are more than seven metres long.
 
@@ -3767,7 +3819,7 @@ as the previous point. These vehicles are:
 
 Reserved lanes
 
-High occupancy vehicles (HOV)
+High occupancy vehicles (VAO)
 
 Bus and taxi For manoeuvres
 
@@ -3779,19 +3831,19 @@ Lane reserved for the bus
 
 Driving in that lane is forbidden for the other vehicles.
 
-Taxis can drive there when the word TAXI is written in the lane. This lane will be separated from the other lanes by a wide white line.
+Taxis can drive when the word TAXI is written in the lane. This lane will be separated from the other lanes by a wide white line.
 
 <!-- Page: 233 -->
 
-Lane for high occupancy vehicles (HOV)
+Lane for high occupancy vehicles (VAO)
 
 For a motor vehicle to be a high occupancy vehicle it must meet three requirements:
 
 1. It can only carry people.
-2. It cannot weigh more than 3,500 kilos.
-3. The number of people travelling in the vehicle is the one shown in the HOV lane signs. The following vehicles can also drive in this lane:
+2. It cannot carry more than 3,500 kilos.
+3. The number of people travelling in the vehicle is the one shown in the VAO lane signs. The following vehicles can also use this lane:
 
-- Motorcycles, cars, or adaptable mixed vehicles when they meet the three requirements needed for HOV motor vehicles (see previous paragraph).
+- Motorcycles, cars or adaptable mixed vehicles when they meet the three requirements needed for VAO motor vehicles (see previous paragraph).
 
 - Vehicles for people with disabilities even if only the driver is travelling.
 
@@ -3813,11 +3865,11 @@ Entry lane (acceleration) For vehicles that want to enter a road.
 
 Exit lane (deceleration) For vehicles that want to leave a road. You must take a series of precautions when entering this lane:
 
-- Move into the lane closest to the exit.
+- Move into the lane closest to the exit lane.
 
 - Enter the exit lane as soon as possible.
 
-- Drive more slowly within this lane.
+- Drive more slowly in this lane.
 
 - Pay attention to the conditions of the new road you are joining. For example, when changing from a dual carriageway to another road where you must drive more slowly.
 
@@ -3832,13 +3884,13 @@ Opposite to the usual
 Additional
 Reversible lanes
 
-They are lanes where you can drive in one sense or the other, depending on the circumstances. They are marked with broken white lines on both sides of the lane.
+These are lanes where you can drive in one way or the other, depending on the circumstances. They are marked with broken white lines on both sides of the lane.
 
 All drivers must use dipped headlights when driving in this lane, day and night.
 
 <!-- Page: 236 -->
 
-Lanes that go in the opposite sense to the usual one They can be set up when there are many vehicles that want to go in the same sense of the road. This means there are fewer traffic jams and vehicles can drive better.
+Lanes that go opposite to the usual way They can be put in place when there are many vehicles that want to go in the same way on the road. This means there are fewer traffic jams and vehicles can drive better.
 
 Only motorcycles and cars can use these lanes. How should you drive in these lanes?
 
@@ -3848,15 +3900,15 @@ Only motorcycles and cars can use these lanes. How should you drive in these lan
 
 - Without changing into other lanes. Not even to overtake.
 
-Vehicles that are in the lane next to it, in the normal sense of the road, must take the same precautions.
+Vehicles in the lane next to it, in the normal way of the road, must take the same precautions.
 
 <!-- Page: 237 -->
 
-Lanes can also be set up in the opposite sense to the normal one when road works are being done. In that case, all vehicles authorised to drive on a road with road works can drive in that lane.
+Lanes can also be put in place opposite to the normal way when road works are being done. In that case, all vehicles authorised to drive on a road with road works can use that lane.
 
 Additional lanes
 
-On carriageways with two senses of traffic, using the hard shoulders, they are sometimes set up when there are many vehicles on the same road so that there is one more lane to drive in. They are marked with bollard signs. How should you drive in these lanes?
+On carriageways with two ways of traffic, using the hard shoulders, they are sometimes put in place when there are many vehicles on the same road so that there is one more lane to drive in. They are marked with bollard signs. How should you drive in these lanes?
 
 - Carefully, so you do not move or drive over the bollard signs.
 
@@ -3883,7 +3935,7 @@ The hard shoulder If there is no road, or part of it, that is meant for them to 
 
 - Cycles.
 
-- Vehicles following cyclists.
+- Vehicles that follow cyclists.
 
 - Mopeds.
 
@@ -3891,7 +3943,7 @@ The hard shoulder If there is no road, or part of it, that is meant for them to 
 
 - Special vehicles that, when loaded, do not weigh more than 3,500 kilos.
 
-- Vehicles for people with difficulty moving. When the road has no hard shoulder or it is not possible to travel on it, these vehicles may use only the essential part of the lane.
+- Vehicles for people with difficulty moving. When the road has no hard shoulder or you cannot travel on it, these vehicles may use only the essential part of the lane.
 
 <!-- Page: 239 -->
 
@@ -3899,7 +3951,7 @@ Bicycle riders can leave the hard shoulder and travel on the right-hand part of 
 
 See video
 
-All vehicles travelling on the hard shoulder must do so in single file, one behind the other. Except bicycle riders, who may ride two abreast in the same line. But on stretches with no visibility, and when there is heavy traffic, they must also ride in single file, one behind the other.
+All vehicles that travel on the hard shoulder must do so in single file, one behind the other. Except bicycle riders, who may ride two abreast in the same line. But on stretches with no visibility, and when there is heavy traffic, they must also ride in single file, one behind the other.
 
 Vehicles that must travel on the hard shoulder may not overtake other vehicles when the overtaking:
 
@@ -3907,13 +3959,13 @@ Vehicles that must travel on the hard shoulder may not overtake other vehicles w
 
 <!-- Page: 240 -->
 
-- Needs a space of more than 200 metres to overtake.
+- Needs more than 200 metres to overtake.
 
 Bicycle riders may overtake other vehicles without following these two rules.
 
 Travelling on motorways and dual carriageways
 
-The following may not travel on motorways or dual carriageways:
+They cannot travel on motorways or dual carriageways:
 
 - Pedestrians.
 
@@ -3931,18 +3983,18 @@ Bicycle riders who are over 14 years old may travel on the hard shoulder of the 
 
 <!-- Page: 241 -->
 
-On toll motorways you must go through the booths prepared to collect the entry ticket to the motorway or to pay when leaving. These booths have a traffic light or green arrow when they are open and a traffic light or red cross when they are closed.
+On toll motorways you must go through the booths prepared to collect the ticket to enter the motorway or to pay when leaving. These booths have a traffic light or green arrow when they are open and a traffic light or red cross when they are closed.
 
 See video
 Emergencies on the motorway and dual carriageway
 
-Vehicles that have to travel more slowly on the motorway or dual carriageway due to a breakdown must leave this road at the first exit they come to. A vehicle that has to stop because of an emergency must do so on the hard shoulder or in the central reservation. To ask for help you can use the nearest emergency phone.
+Vehicles that have to travel more slowly on the motorway or dual carriageway due to a breakdown must leave this road at the first exit they find. A vehicle that has to stop because of an emergency must do so on the hard shoulder or on the central reservation. To ask for help you can use the nearest emergency phone.
 
 People travelling in the broken-down or crashed vehicle must not walk on the road.
 
 <!-- Page: 242 -->
 
-When a vehicle has an accident or a breakdown, another vehicle that is authorised must remove it from the road to do so. For example, a tow truck.
+When a vehicle has an accident or a breakdown, another vehicle must remove it from the road, one that is authorised to do so. For example, a tow truck.
 
 ## Topic 10. Speed and distances
 
@@ -3969,7 +4021,7 @@ General speed
 
 - Minimum speed limits inside and outside towns and cities
 
-- Why are speed limits necessary?
+- Why are speed limits needed?
 
 Types of distance
 
@@ -4006,17 +4058,17 @@ Appropriate speed
 
 Maximum speed
 
-Maximum permitted speed that a vehicle can reach on the road it is travelling on. When the vehicle goes faster than the maximum permitted speed, it is travelling with excess speed. For example, it is excess speed to travel at a speed of 100 kilometres per hour on a road where the maximum permitted speed is 90 kilometres per hour.
+Maximum permitted speed that a vehicle can reach on the road it is travelling on. When the vehicle goes faster than the maximum permitted speed, it is speeding. For example, it is speeding to travel at a speed of 100 kilometres per hour on a road where the maximum permitted speed is 90 kilometres per hour.
 
 <!-- Page: 245 -->
 
 Minimum speed
 
-Minimum speed at which a vehicle must travel on the road it is travelling on. When a vehicle travels at a speed lower than the permitted one, it has an abnormally reduced speed. For example, it is an abnormally reduced speed to drive at 40 kilometres per hour on a motorway where the minimum permitted speed is 60 kilometres per hour.
+Minimum speed that a vehicle must travel at on the road it is travelling on. When a vehicle travels at a speed lower than the permitted one, it has an abnormally reduced speed. For example, it is an abnormally reduced speed to drive at 40 kilometres per hour on a motorway where the minimum permitted speed is 60 kilometres per hour.
 
 Inappropriate speed
 
-Speed that is within the permitted limits but is not suitable because of the driver’s condition, the weather, the state of the road, or the circumstances of the vehicle. For example, driving at a speed of 70 kilometres per hour on a road where there are ice patches and the vehicle can skid. That speed would be appropriate in normal circumstances. But in that case it is an excessive speed because there is ice on the road.
+Speed that is within the permitted limits but is not suitable because of the driver’s condition, the weather, the state of the road, or the vehicle’s circumstances. For example, driving at a speed of 70 kilometres per hour on a road where there are ice patches and the vehicle may skid. That speed would be appropriate in normal circumstances. But in that case it is an excessive speed because there is ice on the road.
 
 <!-- Page: 246 -->
 
@@ -4024,11 +4076,9 @@ Driving at an inappropriate or excessive speed is one of the main causes of road
 
 Appropriate speed
 
-Speed that is within the permitted limits and that is suitable for the weather conditions, the road, the circumstances of the vehicle and the driver’s condition.
+Speed that is within the permitted limits and that is suitable for the weather conditions, the road, the vehicle’s circumstances and the driver’s condition. The appropriate speed allows you to control the vehicle better if something unexpected happens.
 
-Appropriate speed makes it possible to control the vehicle better in unexpected situations.
-
-People are more likely to die in a road traffic accident when the vehicle is travelling at excessive speed than when it is travelling at an appropriate speed. What must you take into account to travel at an appropriate speed? You must always respect the speed limits. But you must also take into account the circumstances at each moment. These circumstances are:
+People are more likely to die in a road traffic accident when the vehicle is travelling at excessive speed than when it is travelling at an appropriate speed. What must you take into account to travel at an appropriate speed? You must always respect speed limits. But you must also take into account the circumstances at each moment. These circumstances are:
 
 - Your physical and psychological condition. For example, if you are very tired.
 
@@ -4036,7 +4086,7 @@ People are more likely to die in a road traffic accident when the vehicle is tra
 
 - The characteristics of the vehicle and the load you are carrying. It is better to drive more slowly when you are carrying a lot of weight in the vehicle.
 
-- The state of the road. You must go more slowly if the road has speed bumps or is badly surfaced.
+- The state of the road. You must go more slowly if the road has speed bumps or has poor surfacing.
 
 - The traffic situation. You must drive more slowly when there is heavy traffic.
 
@@ -4074,9 +4124,9 @@ See video
 
 See video
 
-- When approaching narrow places or places where visibility is poor.
+- When approaching narrow places or places where you cannot see well.
 
-- When meeting another vehicle when the circumstances do not allow it to be done very safely. For example, when you meet a lorry on a bend on a narrow road.
+- When passing an oncoming vehicle when the circumstances do not allow it to be done very safely. For example, when you pass a lorry on a bend on a narrow road.
 
 - When you are dazzled by the lights of another vehicle.
 
@@ -4118,7 +4168,7 @@ Type of vehicle
 
 - Buses.
 
-- Car-derived vehicles.
+- Car-derived vans.
 
 - Adaptable mixed vehicles.
 
@@ -4135,7 +4185,7 @@ Type of vehicle
 
 - Lorries.
 
-- Articulated tractor units.
+- Tractor units.
 
 - Vans.
 
@@ -4158,7 +4208,7 @@ Type of vehicle
 
 - Heavy quadricycles.
 
-- Special vehicles that can reach 60 kilometres per hour on flat ground.
+- Special vehicles that can reach 60 kilometres per hour on level ground.
 
 
 | Road type | Max speed (km/h) | Min speed (km/h) |
@@ -4181,9 +4231,10 @@ Motorway and dual carriageway
 
 Roads
 Tracks
+
 Maximum and minimum speed
 
-May not travel
+Maximum and minimum speed They cannot travel
 
 25
 Types of vehicle
@@ -4193,7 +4244,7 @@ Types of vehicle
 
 | Road type | Speed limit |
 | --- | --- |
-| Motorway and dual carriageway | May not travel |
+| Motorway and dual carriageway | Maximum and minimum speed They cannot travel |
 | Roads | 40 |
 | Tracks | 30 |
 
@@ -4204,7 +4255,7 @@ Types of vehicle
 
 | Road type | Speed limit |
 | --- | --- |
-| Motorway and dual carriageway | 45 on dual carriageways. On motorways they may not travel. |
+| Motorway and dual carriageway | 45 on a dual carriageway. On a motorway they cannot travel. |
 | Roads | 45 |
 | Tracks | 30 |
 
@@ -4223,7 +4274,7 @@ Type of vehicle
 
 | Road type | Speed limit |
 | --- | --- |
-| Motorway and dual carriageway | May not travel |
+| Motorway and dual carriageway | They cannot travel |
 | Roads | 45 |
 | Tracks | 30 |
 
@@ -4237,25 +4288,26 @@ Type of vehicle
 
 - All vehicles in general
 
+Streets
 
-| Street type | Max speed (km/h) |
-| --- | --- |
-| Streets without kerbs, where the carriageway and the pavement are at the same height | 20 |
-| Streets with one lane in each direction | 30 |
-| Streets with several lanes in each direction | 50 |
+| without kerbs, where the carriageway and the pavement are | Streets with one lane in each direction | Streets with several lanes in each direction |
+| --- | --- | --- |
+| at the same level |  |  |
+| 20 | 30 | 50 |
 
 Type of vehicle
 
 - Vehicles that carry dangerous goods.
+- Special vehicles that cannot reach
 
-- Special vehicles that cannot reach a speed of more than 60 kilometres per hour.
+a speed of more than 60 kilometres per hour.
 
+Streets
 
-| Street type | Max speed (km/h) |
-| --- | --- |
-| Streets without kerbs, where the carriageway and the pavement are at the same height | 20 |
-| Streets with one lane in each direction | 30 |
-| Streets with several lanes in each direction | 40 |
+| without kerbs, where the carriageway and the pavement are | Streets with one lane in each direction | Streets with several lanes in each direction |
+| --- | --- | --- |
+| at the same level |  |  |
+| 20 | 30 | 40 |
 
 <!-- Page: 257 -->
 
@@ -4293,7 +4345,7 @@ Streets with several lanes in each direction
 20
 25
 
-The maximum speed for all vehicles on motorways and dual carriageways that are inside a town or city is 80 kilometres per hour, if it is not signed in another way.
+The maximum speed for all vehicles on motorways and dual carriageways that are within a town or city is 80 kilometres per hour, if it is not signposted in another way.
 
 <!-- Page: 258 -->
 
@@ -4314,11 +4366,11 @@ CYCLIST
 
 <!-- Page: 259 -->
 
-If your vehicle cannot reach the minimum speed and there is a risk of an accident, you must switch on the hazard lights. For example, if your vehicle has a breakdown and you have to drive slower than allowed.
+If your vehicle cannot reach the minimum speed and there is a risk of an accident, you must switch on the hazard lights. For example, if your vehicle has a breakdown and you have to drive slower than allowed. Why are speed limits necessary?
 
-Why are speed limits necessary?
+Speed limits are set so that all vehicles can travel safely and in an easy and comfortable way.
 
-Speed limits are set so that all vehicles can travel safely and in an easy and comfortable way. One of the conditions that is taken into account to set the speed is the type of road and its conditions. That is, the maximum speed at which you can drive safely on that road.
+One of the conditions taken into account to set the speed is the type of road and its conditions. That is, the maximum speed at which you can drive safely on that road.
 
 Inside towns and cities you must drive at less than 50 kilometres per hour. If you run over a pedestrian they will have a better chance of surviving if the vehicle is going at a low speed.
 
@@ -4326,17 +4378,17 @@ Inside towns and cities you must drive at less than 50 kilometres per hour. If y
 
 On roads that are not a motorway or dual carriageway you must not drive at more than 90 kilometres per hour so that accidents are less serious. On a motorway and dual carriageway there is a better chance of surviving an accident when the vehicle travels at less than 120 kilometres per hour. Things that can happen if you drive very fast
 
-- It is harder to react to unexpected events. This means that many mistakes are made that can cost people their lives.
+- It is harder to react to unexpected events. This means many mistakes are made that can cost people their lives.
 
 - You have less ability to see what happens at the sides. This effect is called tunnel vision because you only see what is in front of you, as if you were going through a tunnel. 0 km/h 65 km/h 130 km/h 180o 70o 30o
 
-- Driving fast for a long time can make you feel tired and aggressive because you drive with more tension.
+- Driving fast for a long time can make you feel fatigue and aggression because you drive with more tension.
 
 - Driving very fast on a road in good condition can make you think you are going slower than you really are.
 
 <!-- Page: 261 -->
 
-It is forbidden to hold speed competitions on any road, unless the authorities authorise it and take the necessary measures. A person who takes part in races that are not authorised will lose points from their driving licence.
+It is forbidden to hold speed competitions on any road, unless the authorities authorise it and take the necessary measures. The person who takes part in races that are not authorised will lose points from their driving licence.
 
 Types of distance
 
@@ -4352,7 +4404,7 @@ Safety distance
 
 Reaction distance
 
-Space you travel with the vehicle from when you notice an unexpected event, such as an obstacle, a sign or a noise, until you can react to the unexpected event. For example, the time that passes from when you see a red traffic light until you press the brake. A person’s normal reaction time to an unexpected event is usually 0.75 seconds, almost one second. Although this depends on their reflexes, their physical and psychological state and the environment they are in.
+Space you travel with the vehicle from when you detect an unexpected event, such as an obstacle, a sign or a noise, until you can react to the unexpected event. For example, the time that passes from when you see a red traffic light until you press the brake. A person’s normal reaction time to an unexpected event is usually 0.75 seconds, almost one second. Although this depends on their reflexes, their physical and psychological state and the environment they are in.
 
 <!-- Page: 262 -->
 
@@ -4371,7 +4423,7 @@ Space the vehicle travels from when you press the brake until it stops completel
 
 - The weather. On a wet surface the vehicle may need more braking distance.
 
-- The condition of the road.
+- The road conditions.
 
 - Characteristics of the driver. For example, age, physical or psychological state.
 
@@ -4379,9 +4431,9 @@ Space the vehicle travels from when you press the brake until it stops completel
 
 Stopping distance
 
-Space you travel with the vehicle from when you notice an obstacle until you stop the vehicle completely. For example, the time that passes from when you see a red traffic light until you stop the vehicle completely.
+Space you travel with the vehicle from when you detect an obstacle until you stop the vehicle completely. For example, the time that passes from when you see a red traffic light until you stop the vehicle completely.
 
-Stopping distance is the sum of reaction distance and braking distance.
+Stopping distance is the sum of the reaction distance and the braking distance.
 
 Reaction distance
 Braking distance
@@ -4444,13 +4496,13 @@ Safety rule R.S.M.
 
 - Steps of the safety rule R.S.M. (Rear-view mirror, Signal and Manoeuvre)
 
-- Safety rule when entering a road
+- Safety rule when joining a road
 
 - Precautions when changing lane
 
 Overtaking other vehicles
 
-- Which side should you overtake on?
+- Which side must you overtake on?
 
 - Steps to follow to overtake another vehicle
 
@@ -4458,11 +4510,11 @@ Overtaking other vehicles
 
 - When is overtaking forbidden?
 
-Changing direction and turning around
+Change of direction and U-turn
 
-- Changing direction
+- Change of direction
 
-- Turning around
+- U-turn
 
 Reversing
 Stopping the vehicle
@@ -4501,7 +4553,7 @@ Do the manoeuvre
 
 Observe the road
 
-It means looking carefully at the traffic and the road directly, and by using the rear-view mirrors, before doing the manoeuvre. This way you will make sure you can do the movement at that moment.
+It means looking carefully at the traffic and the road directly, and by using the rear-view mirrors, before doing the manoeuvre. This way you will make sure you can make the movement at that moment.
 
 Warn about the manoeuvre
 
@@ -4509,16 +4561,16 @@ After checking that there is no danger to do that manoeuvre, you must warn other
 
 <!-- Page: 269 -->
 
-You can warn them with the vehicle lights or with your arm. The signals you make with your arm are more valid than the ones you make with the lights, as long as you do them well and other drivers can see them. When you make signals with the vehicle lights, these lights must be on during the whole time the manoeuvre lasts and you must switch them off the moment you finish it. When you make signals with your arm, you must make the signal just before starting the manoeuvre, with enough time for other drivers to see it.
+You can warn them with the vehicle lights or with your arm. The signals you make with your arm are more valid than the ones you make with the lights, as long as you do them well and other drivers can see them. When you signal with the vehicle lights, these lights must be on for the whole time the manoeuvre lasts and you must switch them off the moment you finish. When you signal with your arm, you must make the signal just before starting the manoeuvre, with enough time for other drivers to see it.
 
 <!-- Page: 270 -->
 
-How should you indicate the manoeuvre with your arm?
+How must you indicate the manoeuvre with your arm?
 
 Manoeuvre
 Arm movement
 
-Lane change, change of direction or turning around To move the vehicle to the left: arm horizontal with the hand extended downwards. To move the vehicle to the right:
+Lane change, change of direction or U-turn To move the vehicle to the left: arm horizontal with the hand extended downwards. To move the vehicle to the right:
 
 Arm bent upwards with the hand extended also upwards.
 
@@ -4528,14 +4580,14 @@ Arm extended horizontally with the palm of the hand facing backwards.
 
 Braking
 
-Arm movements up and down with short and quick movements. How should you indicate the manoeuvre with the lights?
+Arm movements up and down with short and quick movements. How must you indicate the manoeuvre with the lights?
 
 Manoeuvre
 Lights
 
-Lane change, change of direction or turning around
+Lane change, change of direction or U-turn
 
-Switch on the indicator on the side you are going to move to.
+Switch on the direction indicator on the side you are going to move towards.
 
 Reversing
 
@@ -4551,10 +4603,10 @@ Do the manoeuvre
 
 After observing and signalling you can now do the manoeuvre. You must do it correctly, at the right speed and without putting other vehicles or pedestrians in danger.
 
-Safety rule when entering a road
+Safety rule when joining a road
 Watch video
 
-It is very important to follow the steps set out by the safety rule R.S.M. when entering a road with the vehicle. You must observe the road, always make sure that your entry onto that road does not create a danger for other drivers and warn about your manoeuvre with your arm or the lights.
+It is very important to follow the steps set out by the safety rule R.S.M. when joining a road with the vehicle. You must observe the road, always make sure that joining that road does not create a danger for other drivers and warn about your manoeuvre with your arm or the lights.
 
 <!-- Page: 272 -->
 
@@ -4562,23 +4614,23 @@ When doing the manoeuvre you have to:
 
 - Give way to other vehicles without causing them danger.
 
-- Not be an obstacle for vehicles that are coming towards you.
+- Not be an obstacle for vehicles that are approaching you.
 
-- Go at the right speed. When you have to give way to another vehicle while you are in the acceleration lane to enter a road, stop at the start of the lane until the vehicle that is already on the road goes past.
+- Go at the right speed. When you have to give way to another vehicle while you are in the acceleration lane to join a road, stop at the start of the lane until the vehicle that is already on the road goes past.
 
 Watch video
 
-Then enter the lane that applies to you adapting to the speed of the other vehicles.
+Then join the lane that applies to you adapting to the speed of the other vehicles.
 
-All drivers who travel on a road have the duty to allow other vehicles to enter that road and, if they can, they must make the entry manoeuvre easier for them.
+All drivers travelling on a road have the duty to allow other vehicles to join that road and, if they can, they must make the joining manoeuvre easier for them.
 
 <!-- Page: 273 -->
 
-Above all, for large vehicles that carry many people and are at a marked stop. For example, a bus that is at its stop picking up passengers and must re-enter the road. To make it easier for these vehicles to enter, vehicles that are already driving must:
+Above all, for large vehicles in which many people travel and that are at a marked stop. For example, a bus that is at its stop picking up passengers and must re-enter the road. To make it easier for these vehicles to enter, vehicles that are already driving must:
 
 - Move to one side to leave them more space, when possible.
 
-- Reduce speed and even stop to let the vehicle leave the marked stop, when this happens inside a town or city.
+- Reduce speed and even stop to let the vehicle leave the marked stop, when this happens within a town or city.
 
 Precautions when changing lane
 Watch video
@@ -4598,7 +4650,7 @@ Overtaking other vehicles
 
 Overtaking is the manoeuvre of passing other vehicles that are travelling more slowly. Which side do vehicles overtake on? You overtake on the left side of the vehicle you want to overtake in prohibited areas. There are some exceptions where you can overtake on the right side.
 
-- To overtake a tram that is travelling in the central part of a road with two-way traffic.
+- To overtake a tram that is travelling in the central area of a road with two-way traffic.
 
 - When the driver you want to overtake
 
@@ -4608,7 +4660,7 @@ is clearly indicating that they want to change direction to the left or stop on 
 
 Watch video
 
-You can also overtake on the right inside a town or city when the carriageway has at least two lanes going in the same direction and they are separated by a white line painted on the road. There are some situations that are not considered overtaking, even if you pass the other vehicle. These situations are allowed and are:
+You can also overtake on the right within a town or city when the carriageway has at least two lanes going in the same direction and they are separated by a white line painted on the road. There are some situations that are not considered overtaking, even if you pass the other vehicle. These situations are allowed and are:
 
 - Roads with traffic jams, full of vehicles.
 
@@ -4639,7 +4691,7 @@ How to act?
 
 Two-way roads and three lanes separated by broken white lines
 
-Overtaking is done in the centre lane as long as it is not occupied by another driver travelling in the opposite direction. Roads with two, or more, lanes in the same direction You can use the lane on the left to overtake. The driver can continue their journey in the lane on the left if they keep overtaking. But they must return to the right one if another vehicle comes that is travelling faster than them.
+Overtaking is done in the middle lane as long as it is not occupied by another driver travelling in the opposite direction. Roads with two, or more, lanes in the same direction You can use the lane on the left to overtake. The driver can continue their journey in the lane on the left if they keep overtaking. But they must return to the one on the right if another vehicle comes travelling faster than them.
 
 Steps to follow to overtake another vehicle
 Preparation
@@ -4666,7 +4718,7 @@ Checks before overtaking
 
 You must check that:
 
-- The driver you are going to overtake has or has not signalled with the lights or their arm that they are going to move towards the side you are going to overtake on. If they have signalled, you must wait for them to do their manoeuvre before overtaking.
+- The driver you are going to overtake has or has not signalled with the lights or their arm that they are going to move to the side on which you are going to overtake them. If they have signalled, you must wait for them to do their manoeuvre before overtaking.
 
 - You can return to your lane after overtaking without risk to other vehicles.
 
@@ -4674,21 +4726,21 @@ You must check that:
 
 - Signal with the vehicle lights.
 
-- Use the vehicle horn. This can only be done outside towns and cities.
+- Use the vehicle horn. You can only do this outside towns and cities.
 
 <!-- Page: 279 -->
 
 Overtake
 
-To overtake you must increase the vehicle’s speed. But you must not go over the maximum permitted speed limit. To overtake a moped or a cycle, inside or outside built-up areas, you must:
+To overtake you must increase the vehicle’s speed. But you must not exceed the maximum speed limit allowed. To overtake a moped or a cycle, inside or outside built-up areas, you must:
 
 - Keep a separation of at least one and a half metres from the moped or the cycle.
 
-- Move into the lane to your left to overtake. Do not overtake in the same lane as the moped or cycle. On roads outside built-up areas, you must also leave a separation of at least one and a half metres in these cases:
+- Move into the lane to your left to overtake. Do not overtake in the same lane in which the moped or cycle is travelling. On roads outside built-up areas, you must also leave a separation of at least one and a half metres in these cases:
 
-- When you drive a two-wheeled vehicle and you want to overtake any other vehicle.
+- When you are driving a two-wheeled vehicle and you want to overtake any other vehicle.
 
-- When you drive any vehicle and you want to overtake people, animals, motorcycles, vehicles stopped on the road and vehicles that are doing assistance work. For example, ambulances or recovery vehicles at least, one and a half metres, on inter-urban roads.
+- When you are driving any vehicle and you want to overtake people, animals, motorcycles, vehicles stopped on the road and vehicles that are doing assistance work. For example, ambulances or breakdown trucks at least one and a half metres, on inter-urban roads.
 
 <!-- Page: 280 -->
 
@@ -4696,23 +4748,23 @@ In the rest of the cases, you must leave enough space between your vehicle and t
 
 End of overtaking
 
-When you have finished overtaking, you must switch on the correct lights to show that you are going to return to the lane you were driving in. Then you have to return to your lane as soon as possible and without forcing other drivers to change their speed.
+When you have finished overtaking, you must switch on the correct lights to indicate that you are going to return to the lane you were driving in. Then you have to return to your lane as soon as possible and without forcing other drivers to change their speed.
 
 <!-- Page: 281 -->
 
-Duties of the driver who is being overtaken by another vehicle
+Obligations of the driver being overtaken by another vehicle
 
 - Allow the other driver to overtake you and make the manoeuvre easier for them. It is forbidden to increase speed at that moment.
 
 Watch video
 
-- Place your vehicle at the right edge of the lane without moving onto the hard shoulder.
+- Position your vehicle at the right edge of the lane without moving onto the hard shoulder.
 
 - Reduce speed if any dangerous situation arises while the other vehicle is overtaking you.
 
 - Allow the vehicle that has overtaken to return to its lane.
 
-- Drivers of very large or heavy vehicles who cannot move to the right of the lane must reduce speed and indicate to the driver behind that they can overtake. This signal can be made with the arm extended and moving the palm of the hand backwards and forwards. It can also be done by switching on the right indicator of the vehicle.
+- Drivers of very large or heavy vehicles that cannot move to the right of the lane must reduce speed and indicate to the driver behind that they can overtake. This indication can be made with the arm extended and moving the palm of the hand backwards and forwards. It can also be done by switching on the vehicle’s right indicator.
 
 <!-- Page: 282 -->
 
@@ -4726,7 +4778,7 @@ ahead. Except if the lanes are marked and you do not have to move into the oppos
 
 - When the road has crests and there is not good visibility.
 
-- When there is fog, heavy rain or the sun dazzles and does not let you see well.
+- When there is fog, heavy rain or the sun dazzles and you cannot see well.
 
 - Behind a vehicle that is also overtaking and does not let you see the road ahead.
 
@@ -4779,7 +4831,7 @@ To change direction with the vehicle, you must make sure that vehicles coming in
 
 <!-- Page: 285 -->
 
-When they are very close or coming very fast, you cannot change direction. If the change of direction is to the left, but you cannot see well, you cannot do it either. If there is a suitable place on the road such as a turning bay or something similar, the change must be done there, but if there is a sign, you must follow what the sign says. How should you change direction?
+When they are very close or coming very fast, you cannot change direction. If the change of direction is to the left, but you cannot see well, you also cannot do it. If on the road there is a suitable place such as a turning bay or a similar element, the change must be done there, but if there is a sign, you must follow what the sign indicates. How should you change direction?
 
 Watch video
 
@@ -4791,7 +4843,7 @@ When the change of direction is to the right you must move as close as possible 
 
 - Next to the white line separating lanes when the carriageway is two-way. When there is no white separation line you must position yourself as close as possible to the opposite lane, but without crossing into it.
 
-- In the centre lane when the road is two-way and has three lanes separated by white lines. When turning to change direction, you must go through the centre of the junction and leave it on your left.
+- In the middle lane when the road is two-way and has three lanes separated by white lines. When turning to change direction, you must pass through the centre of the junction and leave it to your left.
 
 <!-- Page: 287 -->
 
@@ -4800,14 +4852,14 @@ You must not cross it diagonally.
 Well done Badly done
 Watch video
 
-On inter-urban roads, two-wheeled cycles and mopeds that want to turn to change direction to the left must position themselves on the right of the lane and off the carriageway if possible, and wait until it is safe to turn. They must also go through the centre of the junction.
+On inter-urban roads, two-wheeled cycles and mopeds that want to turn to change direction to the left must position themselves on the right of the lane and off the carriageway if possible, and wait until it is safe to turn. They must also pass through the centre of the junction.
 
 Turning round
 Watch video
 
-Turning round means making a U-turn to keep travelling on the same road or path, but in the other direction. You can turn round at a roundabout or a turning bay on the road.
+Turning round means making a U-turn to continue travelling on the same road or path, but in the other direction. You can turn round at a roundabout or a turning bay on the road.
 
-Turning bay. A half-circle shaped diversion in the road to change direction or turn round.
+Turning bay. A half-circle shaped slip road on the road to change direction or to turn round.
 
 <!-- Page: 288 -->
 
@@ -4815,7 +4867,7 @@ The turning round manoeuvre must be done with a single turn of the vehicle and w
 
 <!-- Page: 289 -->
 
-You cannot make a U-turn if you make drivers who come behind you or from the opposite direction slow down, or you can be a danger to them. In those cases, you must stop on the hard shoulder on your right and wait until it is safe to turn to make a U-turn. If there is not enough hard shoulder or it is not a safe place, you must keep going until you find a place where you can make a U-turn.
+You cannot make a U-turn if you make drivers who come behind you or from the opposite direction slow down, or you can be a danger to them. In those cases, you must stop on the hard shoulder on your right and wait until it is safe to turn to make a U-turn. If there is not enough hard shoulder or it is not a safe place, you must continue driving until you find a place where you can make a U-turn.
 
 Situations where it is forbidden to make a U-turn
 
@@ -4831,7 +4883,7 @@ Situations where it is forbidden to make a U-turn
 
 - On one-way carriageways and roads.
 
-- In all places where it is forbidden to overtake, except where there is a sign that says you can make a U-turn.
+- In all places where overtaking is forbidden, except where there is a sign that says you can make a U-turn.
 
 <!-- Page: 290 -->
 
@@ -4842,13 +4894,13 @@ It is forbidden to drive in reverse on any road or track. You can only drive in 
 
 - When doing manoeuvres to park the vehicle.
 
-- When it is not possible to drive forwards or to change direction or make a U-turn. For example, to get out of a street closed because of roadworks. In these two cases you must not reverse more than 15 metres and you must not reverse into a junction of roads or streets. You must drive at a very low speed while you are reversing.
+- When it is not possible to drive forwards or to change direction or make a U-turn. For example, to get out of a street closed because of roadworks. In these two cases you must not drive backwards more than 15 metres and you must not reverse into a junction. You must drive at a very low speed while you are reversing.
 
 <!-- Page: 291 -->
 
 Before you start reversing you must make sure there is no danger for other drivers and pedestrians. You have to stop the vehicle and stop reversing in any dangerous situation. For example:
 
-- Someone makes sound signals with their vehicle horn.
+- Someone makes sound signals to you with their vehicle horn.
 
 - You notice another vehicle coming closer, a person, or an animal.
 
@@ -4857,11 +4909,11 @@ Before you start reversing you must make sure there is no danger for other drive
 Stopping the vehicle
 Watch video
 
-It may be necessary to stop the vehicle while you drive for the following reasons.
+It may be necessary to stop the vehicle while you are driving for the following reasons.
 
-- An emergency. For example, an accident, a breakdown, or one of the passengers feels unwell.
+- An emergency. For example, a crash, a breakdown, or one of the passengers feels unwell.
 
-- There are many vehicles on the road and there are traffic jams.
+- There are many vehicles on the road and traffic jams happen.
 
 - Instructions from signs or traffic officers who ask you to stop.
 
@@ -4873,15 +4925,29 @@ Stopping the vehicle because of an emergency
 
 Vehicles that have an accident or breakdown can be in the following situations.
 
-Situation
-
-What to do? The vehicle keeps working, but it cannot reach the speed needed on that road and it blocks traffic. If the vehicle weighs less than 3,500 kilos, drive on the hard shoulder on the right. If there is no hard shoulder, put the vehicle as far as possible to the right of the road. If you are on a motorway or dual carriageway, take the first exit. The vehicle works, but you need a recovery service
-
-Leave the road at the first exit using the right hard shoulder. The vehicle cannot keep driving Park the vehicle on the right hard shoulder of the road or in the place where it gets in the way least for other drivers. (For example, the left hard shoulder or the central reservation).
+| Situation The vehicle is still working, | What to do? If the vehicle weighs less than 3,500 kilos, drive |
+| --- | --- |
+| but it cannot reach | on the right hard shoulder. |
+| the necessary speed | If there is no hard shoulder, |
+| on that road | place the vehicle as far as possible |
+| and it blocks traffic. | to the right of the road. |
+|  | If you are on a motorway |
+|  | or dual carriageway, |
+|  | take the first exit. |
+| The vehicle works, | Leave the road |
+| but you need | by the first exit |
+| a recovery service | using the right hard shoulder. |
+| The vehicle cannot | Park the vehicle on the right hard shoulder |
+| keep driving | of the road |
+|  | or in the place where it gets in the way |
+|  | least for the other drivers. |
+|  | (For example, the left hard shoulder |
+|  | or the central reservation). |
+| Watch video |  |
 
 <!-- Page: 293 -->
 
-People travelling in a vehicle that cannot keep driving must get out of the vehicle and go to a safe place. Before getting out of the vehicle, they must put on the yellow high-visibility vests that all drivers must carry in their vehicles. If there is no safe place, they must stay inside the vehicle with the seat belt fastened. You must switch on the hazard warning lights to show that there is a vehicle stopped on the road. It is also compulsory to place on top of the car the emergency warning light (orange light). If you want, you can place the warning triangles. They are placed 50 metres from the vehicle. One at the front and one at the back, on the right side of the road, and they must be seen from 100 metres away.
+People travelling in a vehicle that cannot keep driving must get out of the vehicle and go to a safe place. Before getting out of the vehicle, they must put on the yellow vests that all drivers must carry in their vehicles. If there is no safe place, they must stay inside the vehicle with the seat belt fastened. You must switch on the hazard warning lights to show that there is a vehicle stopped on the road. It is also compulsory to place on top of the car the emergency warning light (orange light). If you want, you can place the warning triangles. They are placed 50 metres from the vehicle. One at the front and one at the back, on the right side of the road, and they must be seen from 100 metres away.
 
 Vehicles that pick up and tow broken-down vehicles must be prepared for roadside assistance (for example, recovery trucks). Not just any vehicle can do it.
 
@@ -4891,11 +4957,11 @@ Stopping and parking
 Difference between stopping and parking
 Stopping
 
-Leaving the vehicle stopped for less than two minutes. When stopping, the driver does not leave the vehicle. And if they leave, they stay close to it.
+Leaving the vehicle stopped for less than two minutes. When stopping, the driver does not leave the vehicle. And if they do, they stay close to it.
 
 Parking
 
-The vehicle stays without moving for more than two minutes. The driver can leave the vehicle and go somewhere else. Where can you stop and park?
+The vehicle stays still for more than two minutes. The driver can leave the vehicle and go somewhere else. Where can you stop and park?
 
 Watch video
 
@@ -4903,7 +4969,7 @@ On roads outside towns and cities, you must stop and park on the right side of t
 
 <!-- Page: 295 -->
 
-On roads and streets inside towns and cities you can park on the carriageway and on the hard shoulder. When the road is two-way, the vehicle must stop or park on the right. When the road is one-way you can do it on the right or on the left. How do you position the vehicle? As a general rule, you must stop and park the vehicle in a line parallel to the edge of the carriageway. You must always check that your vehicle lets other vehicles use the rest of the space. What must you do before leaving the vehicle?
+On roads and streets inside towns and cities you can park on the carriageway and on the hard shoulder. When the road is two-way, the vehicle must stop or park on the right. When the road is one-way you can do it on the right or on the left. How should you position the vehicle? As a general rule, you must stop and park the vehicle in a line parallel to the edge of the carriageway. You must always check that your vehicle lets other vehicles use the rest of the space. What must you do before leaving the vehicle?
 
 Drivers of a motor vehicle or moped must:
 
@@ -4911,25 +4977,25 @@ Drivers of a motor vehicle or moped must:
 
 - Apply the parking brake.
 
-- Leave first gear engaged if you park on an uphill slope.
+- Leave it in first gear if you park on an uphill slope.
 
-- Leave reverse gear engaged if you park on a downhill slope.
+- Leave it in reverse gear if you park on a downhill slope.
 
 - Put it in park if the vehicle is automatic.
 
 <!-- Page: 296 -->
 
-Drivers of vehicle combinations, also, have to leave their vehicle well secured when they park on a slope.
+Drivers of vehicle combinations, also have to leave their vehicle well secured when they park on a slope.
 
 Watch video
 
 They can do it in 2 ways:
 
-1. Putting the correct wheel chocks. You cannot use stones or other items.
+1. By placing suitable wheel chocks. You cannot use stones or other items.
 
-Chock. Wedge put between the vehicle and the road so the vehicle does not move.
+Chock. Wedge that is placed between the vehicle and the road so the vehicle does not move.
 
-2. Resting one of the front wheels against the kerb.
+2. By resting one of the front wheels against the kerb.
 
 On uphill slopes, the wheel turns towards the centre of the carriageway. On downhill slopes, the wheel turns outwards.
 
@@ -4947,11 +5013,11 @@ There are different situations where it is dangerous to stop the vehicle or park
 
 - When vehicles cannot use a dropped kerb that is signposted.
 
-- When a vehicle is an obstacle so that people with physical disabilities cannot enter or leave the road using the areas prepared for this.
+- When a vehicle is an obstacle so that people with physical disabilities can enter or leave the road using the places prepared for it.
 
 <!-- Page: 298 -->
 
-When a vehicle stops or parks in places used to control traffic. For example, traffic islands. When a vehicle stops another vehicle from turning where the sign says. Parking is considered dangerous when:
+When a vehicle stops or parks in places that are used to control traffic. For example, traffic islands. When a vehicle stops another vehicle from turning where the sign says. Parking is considered dangerous when:
 
 - A vehicle is parked in a loading and unloading area at times when it is not allowed.
 
@@ -4977,7 +5043,7 @@ Where is it forbidden to stop and park? It is forbidden to stop and park in:
 
 - Lanes or parts of roads reserved for other vehicles.
 
-- Junctions or near them when you do not let other vehicles turn.
+- Junctions or near them when you do not allow other vehicles to turn.
 
 - On tram tracks or very close to them.
 
@@ -4993,13 +5059,13 @@ Where is it forbidden to stop and park? It is forbidden to stop and park in:
 
 - In loading and unloading areas.
 
-- On pavements, walkways, and other areas where pedestrians walk. For two-wheeled vehicles, as long as it is regulated by the local council and they do not get in the way of pedestrians.
+- On pavements, walkways, and other areas where pedestrians pass. For two-wheeled vehicles, as long as it is regulated by the local council and they do not get in the way of pedestrians.
 
 - In front of dropped kerbs where there is a dropped kerb sign.
 
 - Double-parked.
 
-- In places where you need a permit to park at certain times or for a set time. You can park if you have the permit that allows it.
+- In places where a permit is needed to park at certain times or for a set time. You can park if you have the permit that allows it.
 
 ## Topic 12. Priority rules for driving
 
@@ -5016,15 +5082,15 @@ Giving way to other vehicles
 
 - Priority for vehicles in emergency service
 
-Priority in narrow places
+Priority in narrow sections
 
-- Narrow places with signs
+- Narrow sections with signs
 
-- Narrow places without signs
+- Narrow sections without signs
 
-- Narrow places on a slope
+- Narrow sections on a slope
 
-Crossing level crossings and moveable bridges
+Crossing level crossings and movable bridges
 Crossing tunnels and underpasses
 
 - Rules for stopping the vehicle inside a tunnel
@@ -5038,7 +5104,7 @@ General rules
 
 To give way to another vehicle that has priority to go, you must:
 
-- Reduce speed little by little so that the driver of the other vehicle realises you are giving way.
+- Reduce speed little by little so that the driver of the other vehicle realises that you are giving way.
 
 - Stay stopped or drive slowly until the other driver has passed and you can drive without danger.
 
@@ -5051,27 +5117,27 @@ Junctions with signs
 Roundabout
 Junctions without signs
 
-At junctions without signs you must give way to vehicles coming from your right, even if they come from a narrow road or a road in poor condition.
+At junctions without signs you must give way to vehicles coming from your right, even if they come from a narrow road or one in poor condition.
 
 <!-- Page: 303 -->
 
 At junctions without signs, there are some exceptions that you must keep in mind. They have priority:
 
-- Vehicles that travel on rails before those that travel on the road. For example, a tram has priority before a car.
+- Vehicles that run on rails over those that drive on the road. For example, a tram has priority over a car.
 
-- Vehicles that travel on a road that is paved before vehicles that go on an unpaved road.
+- Vehicles that drive on a road that is paved over vehicles that go on an unpaved road.
 
 Pave. Cover the ground of roads and streets with asphalt and other materials that allow vehicles and people to pass more safely.
 
-- Vehicles that are already inside a roundabout before those that want to enter the roundabout.
+- Vehicles that are already inside a roundabout over those that want to enter the roundabout.
 
-- Vehicles that are already on a motorway before those that want to enter that motorway.
+- Vehicles that are already on a motorway over those that want to enter that motorway.
 
 <!-- Page: 304 -->
 
 Junctions with signs
 
-At junctions with signs you must always follow the instructions shown by that sign. When there are no lines that show which is the entry to that junction, you must wait and give way from the place where you can best see the junction and the vehicles coming to it. You must never enter a junction, a pedestrian crossing or a cycle crossing if you think your vehicle will get stuck in the middle of the junction or the crossing, blocking traffic. For example, you must not enter a pedestrian crossing when there are vehicles right in front that will not let you pass. In that case, you must wait before the pedestrian crossing. If you are stopped at a junction with traffic lights and your vehicle is an obstacle for other drivers, you must leave the junction in any way possible, to continue on the road you wanted to take, as long as no vehicles are coming towards you.
+At junctions with signs you must always follow the instructions shown by that sign. When there are no lines that show which is the entry to that junction, you must wait and give way from the place where you can best see the junction and the vehicles arriving at it. You must never enter a junction, a pedestrian crossing or a cyclist crossing if you think your vehicle will get stuck in the middle of the junction or the crossing, interrupting traffic. For example, you must not enter a pedestrian crossing when there are vehicles right in front that will not let you pass. In that case, you must wait before the pedestrian crossing. If you are stopped at a junction with traffic lights and your vehicle is an obstacle for other drivers, you must leave the junction in any way possible, to continue on the road you wanted to take, as long as no vehicles are coming towards you.
 
 <!-- Page: 305 -->
 
@@ -5085,26 +5151,28 @@ Right of way for cyclists, pedestrians and animals
 
 Cyclists
 
-Cyclists have priority to go in the following situations:
+Cyclists have right of way in the following situations:
 
-- When they are riding in a cycle lane, a cycle crossing or a well-signed hard shoulder.
+- When they are riding in a cycle lane, a cyclist crossing or a well-signposted hard shoulder.
 
 <!-- Page: 306 -->
 
 - When another vehicle wants to turn right or left and there are cyclists nearby.
 
-- When cyclists are riding in a group and one of them has already entered a junction. The other vehicles must wait until the whole group of cyclists has passed.
+- When cyclists are riding in a group and one of them has already entered a junction.
+
+Other vehicles must wait until the whole group of cyclists has passed.
 
 Pedestrians
 Watch video
 
-Pedestrians have priority to go in the following situations.
+Pedestrians have right of way in the following situations.
 
 - At pedestrian crossings, on pavements and in other pedestrian areas.
 
 - When a vehicle is going to turn to enter another road where pedestrians are crossing.
 
-- When a vehicle crosses a hard shoulder where pedestrians are walking and they have no other place to go because there are no pavements.
+- When a vehicle crosses a hard shoulder where pedestrians are walking who have no other place to go because there are no pavements.
 
 - When a vehicle needs to cross
 
@@ -5114,27 +5182,27 @@ a pedestrian area. For example, the pavement that a car must cross when leaving 
 
 Drivers must also give way to:
 
-- An organised group of people who all go together for a purpose. For example, a group of children on a trip with their school.
+- An organised group of people who all go together with a purpose. For example, a group of children on a trip with their school.
 
 - People getting on or off public transport at the stop. For example, people getting off the bus, up to the nearest pedestrian area.
 
 Animals
 
-Animals have priority to go in the following situations.
+Animals have right of way in the following situations.
 
-- On drovers’ roads where there is a sign for “Domestic animals crossing”. And below it a sign that says drovers’ road.
+- On drovers' roads where there is a sign for “Domestic animals crossing”. And below it a sign that says drovers' road.
 
-Drovers’ road. A path made so that animals can go along it.
+Drovers' road. A path created so that animals can pass along it.
 
 <!-- Page: 308 -->
 
 - When a vehicle is going to turn to enter another road where animals are crossing.
 
-- When a vehicle crosses a hard shoulder where animals are moving and they have no other place to go because there is no drovers’ road.
+- When a vehicle crosses a hard shoulder where animals are moving that have no other place to go because there is no drovers' road.
 
-Right of way for vehicles in emergency service
+Right of way for emergency service vehicles
 
-Which vehicles are prepared to do emergency services?
+Which vehicles are prepared to provide emergency services?
 
 - Police cars.
 
@@ -5142,63 +5210,62 @@ Which vehicles are prepared to do emergency services?
 
 - Civil protection and rescue vehicles.
 
-- Ambulances and other vehicles for medical assistance. When these vehicles are on an emergency service, they must warn that they are coming by switching on the siren and the lights made for this. In these cases, these vehicles have priority on all roads (streets and roads).
+- Ambulances and other vehicles for medical assistance. When these vehicles are on an emergency call, they must warn of their arrival by switching on the siren and the lights made for this. In these cases, these vehicles have priority on all roads (streets and roads).
 
 All other vehicles and pedestrians must give way to them.
 
 <!-- Page: 309 -->
 
-The following vehicles also have priority:
+The following vehicles also have right of way:
 
 - Maintenance teams that repair the road.
 
-- Roadside assistance vehicles when they are going to help vehicles that have broken down or had an accident.
+- Roadside assistance vehicles when they are going to help vehicles that have had a breakdown or an accident.
 
-Drivers of vehicles prepared to do emergency services can drive faster than the speed limit and do not have the duty to obey signs. The only signs they must obey are those given by traffic officers. They must make sure they do not put pedestrians or vehicles in danger when going through a junction or going through a red traffic light. On the motorway and dual carriageway they can change direction, change the direction of travel, reverse and enter the central reservation when they can make sure that there is no danger for other vehicles.
+Drivers of vehicles prepared to provide emergency services can drive faster than the permitted speed and do not have the obligation to obey signs. The only signs they must obey are those given by traffic officers. They must make sure they do not put pedestrians or vehicles in danger when passing through a junction or going through a red traffic light. On the motorway and dual carriageway they can change direction, change the direction of travel, reverse and enter the central reservation when they can ensure that there is no danger for other vehicles.
 
 <!-- Page: 310 -->
 
-How should you act when there are vehicles doing emergency services? All vehicles must make it easier for them to pass as soon as they hear the siren or see the lights. They will move to the right and stop if necessary.
+How should you act when there are vehicles providing emergency services? All vehicles must make it easier for them to pass as soon as they hear the siren or see the lights. They will move to the right and stop if necessary.
 
 Pedestrians will keep the road clear and wait on the pavement.
 
-Any vehicle doing an emergency service
-
+Any vehicle providing an emergency service
 Watch video
 
-In some situations drivers of vehicles that are not prepared to do emergency services must ask for priority from other vehicles because of some situation. For example, they are taking a person who is very ill to hospital or a woman about to give birth. In these cases, the driver of the vehicle can warn about the emergency situation in the following ways:
+In some circumstances drivers of vehicles that are not prepared to provide emergency services must ask for priority from other vehicles because of some situation. For example, they are taking a very ill person to hospital or a woman about to give birth. In these cases, the driver of the vehicle can warn of the emergency situation in the following ways:
 
 - Sounding the vehicle horn intermittently.
 
 <!-- Page: 311 -->
 
-- Switching on the vehicle’s hazard lights.
+- Switching on the vehicle hazard lights.
 
 - Waving a handkerchief through the window. The driver must obey the traffic rules. Especially at junctions. Other drivers must let them pass.
 
 Right of way in narrow sections
 Narrow sections with signs
 
-You must always follow the rules shown by vertical signs, traffic lights or traffic officers when going along a road or path that is very narrow.
+You must always follow the rules shown by vertical signs, traffic lights or traffic officers when passing along a road or path that is very narrow.
 
 Narrow sections without signs
 
-If there are no signs to pass through a narrow section, the vehicle that entered first has priority in the narrow section.
+If there are no signs for passing through a narrow section, the vehicle that entered the narrow section first has right of way.
 
 <!-- Page: 312 -->
 
-If there is doubt about which vehicle entered first, vehicles with more difficulty doing manoeuvres will have priority.
+If there is doubt about which vehicle entered first, vehicles with more difficulty manoeuvring have priority.
 
 Which vehicles have priority to pass through a narrow section? The order of priority of vehicles is as follows:
 
-1. Special vehicles that exceed the weight and size set by the rules that regulate vehicles.
+1. Special vehicles that exceed the weight and dimensions set by the rules that regulate vehicles.
 2. Vehicle combinations.
-3. Vehicles pulled by animals.
-4. Motorhomes and cars pulling a trailer that weighs less than 750 kilos.
+3. Animal-drawn vehicles.
+4. Motor caravans and cars towing a trailer that weighs less than 750 kilos.
 5. Buses.
 6. Lorries, articulated lorries and vans.
 7. Cars and car-derived vehicles.
-8. Heavy quadricycles, light quadricycles and special vehicles that have the weight and size set by the rules that regulate vehicles.
+8. Heavy quadricycles, light quadricycles and special vehicles that have the weight and dimensions set by the rules that regulate vehicles.
 9. Three-wheeled mopeds, motorcycles with sidecar and other three-wheeled vehicles.
 10. Motorcycles, two-wheeled mopeds and bicycles.
 
@@ -5208,13 +5275,13 @@ When they are vehicles of the same type or there are doubts about which one shou
 
 - The vehicle that has to reverse for a longer distance.
 
-- When the distance to reverse is the same, the vehicle that is wider, longer or can carry more load will have priority to go. The lorry can go first. The car has to reverse. The bus can go first. The lorry has to reverse.
+- When the reversing distance is the same, the vehicle that is wider, longer or can carry more load has priority to pass. The lorry can go first. The car has to reverse. The bus can go first. The lorry has to reverse.
 
 <!-- Page: 314 -->
 
 Narrow sections on a slope
 
-On steep slopes, the vehicle going uphill has priority to go, unless it has a safe place to stop closer than the other vehicle. If there is doubt, the same rule will be followed as in narrow sections that are not on a slope. The car has priority. The lorry must reverse.
+On steep slopes, the vehicle going uphill has priority to pass, unless it has a safe place to stop closer than the other vehicle. If there is doubt, the same rule will be followed as in narrow sections that are not on a slope. The car has priority. The lorry must reverse.
 
 Crossing level crossings and movable bridges
 
@@ -5234,7 +5301,7 @@ You cannot cross the level crossing or movable bridge when:
 
 Crossing tunnels and underpasses
 
-No vehicle can enter a tunnel when at the tunnel entrance there is a traffic light that forbids entry.
+No vehicle may enter a tunnel when at the tunnel entrance there is a traffic light that forbids entry.
 
 Watch video
 
@@ -5242,7 +5309,7 @@ Inside the tunnel you must keep a distance of at least 100 metres from the vehic
 
 Vehicles that can carry a weight greater than 3,500 kilos must keep a distance of 150 metres from the vehicle in front (or 6 seconds).
 
-Rules for stopping the vehicle inside a tunnel When there is heavy traffic and vehicles cannot move forward inside a tunnel, all passengers must stay inside the vehicle. The driver must switch off the engine and keep the sidelights on. When braking, they will switch on for a moment the hazard lights so that other drivers can see them.
+Rules for stopping the vehicle inside a tunnel When there is heavy traffic and vehicles cannot move forward inside a tunnel, all passengers must stay inside the vehicle. The driver must switch off the engine and keep on the sidelights. When braking, they will switch on for a moment the hazard lights so that other drivers can see them.
 
 <!-- Page: 317 -->
 
@@ -5250,21 +5317,21 @@ Emergencies inside a tunnel
 
 When a driver has to stop the vehicle inside a tunnel because of an emergency, the steps they must follow are:
 
-- Switch off the engine, keep the sidelights and hazard lights on so that other drivers can see the vehicle.
+- Switch off the engine, keep on the sidelights and the hazard lights so that other drivers can see the vehicle.
 
 - Take the vehicle to the nearest area reserved for emergencies. If there is no emergency area, they must move it as close as possible to the right edge of the road.
 
-- Switch on and place the warning light, if you have one, or if not place the warning triangles on the carriageway.
+- Switch on and place the warning light, if you have one, or otherwise place the warning triangles on the road that indicate danger.
 
 - Ask for help through the nearest emergency post inside the tunnel and follow the instructions you are given.
 
 - All the people travelling in the vehicle must leave it and go to the nearest refuge or exit.
 
-- When the vehicle can be moved, despite the breakdown, drive until you leave the tunnel or reach the nearest emergency area.
+- When the vehicle can move, despite the breakdown, drive until you leave the tunnel or reach the nearest emergency area.
 
 <!-- Page: 318 -->
 
-If there is a fire inside a tunnel, drivers of vehicles must follow these steps:
+If there is a fire inside a tunnel, drivers of vehicles must follow the following steps:
 
 - Move the vehicle to the right to let emergency vehicles pass.
 
@@ -5290,13 +5357,13 @@ Rules for carrying people, animals and loads
 
 - Carrying loads
 
-Permitted sizes for vehicles and loads
+Permitted dimensions for vehicles and loads
 
-- Permitted sizes for vehicles
+- Permitted dimensions for vehicles
 
-- Permitted sizes for loads
+- Permitted dimensions for loads
 
-- Marking a load that sticks out
+- Marking a load that overhangs
 
 - Loading and unloading operations
 
@@ -5309,7 +5376,7 @@ Rules for carrying people, animals and loads
 General rules
 Weight limit
 
-All vehicles have marked a maximum number of kilos they can carry depending on their features. It is forbidden for vehicles to carry more load than they can, counting the weight of passengers, luggage and other materials or loads. When a vehicle carries more weight than it should, some of its parts get damaged, such as: the tyres, the acceleration systems and the braking systems.
+All vehicles have marked a maximum number of kilos they can carry depending on their features. It is forbidden for vehicles to carry more load than they can, counting the weight of passengers, luggage and other materials or loads. When a vehicle carries more weight than it should, some parts get damaged, such as: the tyres, the acceleration systems and the braking systems.
 
 Carrying animals
 
@@ -5333,11 +5400,11 @@ The number of people who can travel in a vehicle depends on the number of seats 
 
 Watch video
 
-Each person must travel in their seat during the whole journey without moving to other spaces in the vehicle.
+Each person must travel in their seat during the whole journey without moving to other parts of the vehicle.
 
 <!-- Page: 322 -->
 
-However, people can travel in the parts of vehicles meant to carry loads when the vehicle has the necessary authorisation. The driver must spread the passengers in the vehicle and place the load so that they have enough space to drive and see the road well from all sides of the vehicle. The driver must pay special attention to:
+However, people can travel in the parts of vehicles meant for carrying loads when the vehicle has the necessary authorisation. The driver must distribute the passengers in the vehicle and place the load so that they have enough space to drive and can see the road well from all sides of the vehicle. The driver must pay special attention to:
 
 - Being comfortable in their seat.
 
@@ -5349,7 +5416,7 @@ However, people can travel in the parts of vehicles meant to carry loads when th
 
 Carrying people on a bicycle
 
-On bicycles made for one person only the rider may travel. However, when the rider is an adult, they can carry as a passenger a child under seven years old. The child will travel in an allowed extra seat. This seat will be placed behind the seat of the adult who is riding.
+On bicycles made for one person only the rider may travel. However, when the rider is an adult, they can carry as a passenger a child under seven years old. The child will travel in an extra approved seat. This seat will be placed behind the seat of the adult who is riding.
 
 Carrying people on mopeds and motorcycles
 
@@ -5365,7 +5432,7 @@ On mopeds and motorcycles one person can travel with the rider when the person m
 
 - They sit correctly and place their feet on the footrests that are on the sides of the vehicle.
 
-- They wear the helmet correctly fitted.
+- They wear the helmet correctly fastened.
 
 Watch video
 
@@ -5373,29 +5440,29 @@ As an exception, children who are over seven years old can travel on a motorcycl
 
 - They travel with one of their parents or with an adult who takes responsibility for them.
 
-- They follow all the safety rules that other passengers must follow.
+- They follow all the safety rules that the other passengers must follow.
 
 Carrying loads
 
-A load is any object that is carried in the vehicle. It can be luggage, goods, or anything else.
+A load is any object that is carried in the vehicle. It can be luggage, goods or anything else.
 
 <!-- Page: 325 -->
 
-In vehicles made to carry people, you can carry luggage and other types of loads as long as they meet these requirements:
+In vehicles made to carry people, luggage and other types of loads can be carried as long as they meet these requirements:
 
 - The load is suitable for the vehicle’s features. For example, it does not exceed the weight that vehicle can carry.
 
 - The load is well distributed and secured so that the vehicle does not lose its stability.
 
-- The driver of the vehicle shows that they are carrying that load, when necessary.
+- The driver of the vehicle indicates that they are carrying that load, when necessary.
 
-- The load does not cover the lights or the warning signals of the vehicle. It also lets other vehicles clearly see the signals the driver makes with their hand.
+- The load does not cover the lights or the warning signals of the vehicle. It also allows the signals that the driver makes with their hand to other vehicles to be seen clearly.
 
 Objects carried in a vehicle must be placed in the boot.
 
 <!-- Page: 326 -->
 
-When it is necessary to place an object in another place in the vehicle, you must make sure that the object will not move in case of a crash or when braking. The driver must also make sure that the object lets them see the whole road well. It is forbidden for the loads carried by a vehicle to:
+When it is necessary to place an object in another part of the vehicle, you must make sure that the object will not move in case of a crash or when braking. The driver must also make sure that the object lets them see the whole road well. It is forbidden for the loads carried by a vehicle to:
 
 - Move around inside the vehicle.
 
@@ -5405,20 +5472,20 @@ When it is necessary to place an object in another place in the vehicle, you mus
 
 - Make noise, give off dust or smoke.
 
-Transport of loads that can fall or that give off dust will always be done in special vehicles prepared to carry these materials. Motorcycles, three-wheeled vehicles, mopeds, cycles and bicycles can carry a trailer or semi-trailer when it meets the following features:
+Loads that could fall or that give off dust will always be carried in special vehicles made to carry these materials. Motorcycles, three-wheeled vehicles, mopeds, cycles and bicycles can carry a trailer or semi-trailer when it meets the following features:
 
 - The trailer weighs at most half of what the vehicle weighs.
 
 <!-- Page: 327 -->
 
-- It travels during the day and is clearly visible.
+- It travels in daytime and is clearly visible.
 
 - The vehicle travels more slowly than the maximum speed allowed for that vehicle.
 
 - No people travel in the trailer.
 
-Allowed sizes for vehicles and loads
-Allowed sizes for vehicles
+Permitted sizes for vehicles and loads
+Permitted sizes for vehicles
 Width
 
 The maximum width allowed for a vehicle is 2.55 metres, including its load if it carries one. 2.55 m
@@ -5426,28 +5493,48 @@ The maximum width allowed for a vehicle is 2.55 metres, including its load if it
 <!-- Page: 328 -->
 
 Height
+Vehicle
+Maximum permitted height
 
-| Vehicle | Maximum height allowed (Including the load) |
-| --- | --- |
-| Vehicles in general | 4 metres 4 m |
-| Buses | 4.20 metres |
-| Recovery trucks that remove vehicles | 4.50 metres |
+(Including the load)
+
+Vehicles in general
+
+4 metres
+
+4 m
+
+Buses
+
+4.20 metres
+
+Recovery trucks that remove vehicles 4.50 metres
 
 Length
+Vehicle
+Maximum permitted length
 
-| Vehicle | Maximum length allowed (Including the load) |
-| --- | --- |
-| Motor vehicles, except buses | 12 metres 12 m |
-| Trailer only | 12 metres 12 m |
-| Vehicles with trailer | 18.75 metres 18.75 m |
-| Articulated vehicles, that carry a semi-trailer | 16.50 metres 16.50 m |
-| Combination of vehicles in euromodular configuration | 25.25 metres 25.25 m |
+(Including the load) Motor vehicles, except buses 12 metres
+
+12 m
+
+Trailer only
+
+12 metres 12 m
+
+Vehicles with trailer 18.75 metres 18.75 m
+
+Articulated vehicles, that carry a semi-trailer
+
+16.50 metres 16.50 m
+
+Combination of vehicles in euromodular configuration 25.25 metres 25.25 m
 
 <!-- Page: 329 -->
 
-Allowed sizes for loads
+Permitted sizes for loads
 
-As a general rule, the load cannot be wider, higher, or longer than the vehicle carrying it. That is, it cannot stick out from the vehicle. But the load placed on the roof rack of the vehicle may stick out.
+As a general rule, the load cannot be wider, higher or longer than the vehicle carrying it. That is, it cannot stick out from the vehicle. But the load placed on the roof rack of the vehicle may stick out.
 
 Roof rack. The top part of the vehicle where luggage and other objects can be placed. In cases where the load has to stick out because there is no other way to carry the object, vehicles must meet different conditions depending on the type of vehicle.
 
@@ -5457,15 +5544,15 @@ Vehicles that carry passengers
 
 Vehicles that only carry loads
 
-In vehicles used to carry goods, loads that cannot be bent or divided can stick out when they meet some requirements. Some examples of these loads can be: pipes, beams, or posts.
+In vehicles used to carry goods, loads that cannot be bent or divided can stick out when they meet some requirements. Some examples of these loads can be: pipes, beams or posts.
 
 <!-- Page: 330 -->
 
 | Type of vehicle | How much can the load stick out? |
 | --- | --- |
-| Vehicles that are 5 metres or less in length | One third of the metres the vehicle measures. For example, if the vehicle measures 3 metres, the load can stick out 1 metre. The load can stick out at the front and at the back 1/3 Maximum |
-| Vehicles that are more than 5 metres in length | The load can stick out 2 metres at the front and 3 metres at the back. Maximum 2m Maximum 3m |
-| Vehicles that measure at most 2.55 metres in width when they carry the load | The load can stick out 0.40 metres on each side of the vehicle. It is not allowed to place the load like this. The panels cannot go crosswise because they take up more. It is allowed to place the load like this. Larger dimension NOT ALLOWED Smaller dimension Larger dimension ALLOWED |
+| Vehicles that are 5 metres or less in length | One third of the metres that the vehicle measures. For example, if the vehicle is 3 metres long, the load can stick out 1 metre. The load can stick out at the front and at the back 1/3 Maximum |
+| Vehicles that are more than 5 metres long | The load can stick out 2 metres at the front and 3 metres at the back. Maximum 2m Maximum 3m |
+| Vehicles that are at most 2.55 metres wide when they carry the load | The load can stick out 0.40 metres on each side of the vehicle. It is not allowed to place the load like this. The panels cannot be placed crosswise because they take up more space. It is allowed to place the load like this. Larger dimension NOT ALLOWED Smaller dimension Larger dimension ALLOWED |
 
 <!-- Page: 331 -->
 
@@ -5473,9 +5560,9 @@ Combinations of vehicles in euromodular configuration The load cannot be longer 
 
 Vehicles that also carry passengers
 
-The load cannot stick out at the front or on the sides of the vehicle. The load can stick out at the back of the vehicle when it meets these features.
+The load cannot stick out at the front or at the sides of the vehicle. The load can stick out at the back of the vehicle when it meets these features.
 
-- Loads that can be divided into smaller loads can stick out at most, 10 per cent of the vehicle’s length at the back of the vehicle.
+- Loads that can be divided into smaller loads can stick out by a maximum of 10 per cent of the vehicle’s length at the back of the vehicle.
 
 For example, in a vehicle that is three metres long, a bicycle placed at the back can stick out 30 centimetres at most.
 
@@ -5483,7 +5570,7 @@ For example, in a vehicle that is three metres long, a bicycle placed at the bac
 
 - Loads that cannot be divided into smaller loads can stick out, at most, 15 per cent at the back of the vehicle.
 
-For example, in a vehicle that is 3 metres long, a board placed on top can stick out at the back 45 centimetres at most.
+For example, in a vehicle that is 3 metres long, a board placed on top can stick out at the back by 45 centimetres at most.
 
 - In vehicles that are less than one metre wide, such as, for example, motorcycles, the load:
 
@@ -5491,24 +5578,24 @@ For example, in a vehicle that is 3 metres long, a board placed on top can stick
 
 - Can stick out at the back 0.25 metres (25 centimetres).
 
-- Can stick out on each side 0.50 metres (50 centimetres) from the centre of the vehicle. Whenever the load sticks out from the vehicle you must take all necessary measures to avoid accidents or damage to other people and vehicles.
+- Can stick out on each side 0.50 metres (50 centimetres) from the centre of the vehicle. Whenever the load sticks out from the vehicle all necessary measures must be taken to avoid accidents or damage to other people and vehicles.
 
 <!-- Page: 333 -->
 
 Marking the load that sticks out
 Loads that stick out at the front
 
-- During the day they are not marked.
+- In daytime they are not marked.
 
 - At night or on days with low light they are marked with a white light.
 
 Loads that stick out at the back
 
-- They are marked during the day and at night.
+- They are marked in daytime and at night.
 
-- To mark them, a plate is placed with red and white diagonal lines at the back of the load.
+- To mark them, a plate is placed with red and white diagonal stripes at the back of the load.
 
-- Two plates with red and white diagonal lines are placed at the back of the vehicle when the load is as wide as the vehicle.
+- Two plates with red and white diagonal stripes are placed at the back of the vehicle when the load is as wide as the vehicle.
 
 Each plate is placed at one end of the load that sticks out.
 
@@ -5516,9 +5603,9 @@ Each plate is placed at one end of the load that sticks out.
 
 Loads that stick out at the back must be lit with a red light when the vehicle travels at night or on a day with low light.
 
-Loads that stick out on the sides
+Loads that stick out at the sides
 
-Loads that stick out more than 40 centimetres on the sides of the vehicle must have a light on at the ends of the load when it is night or a day with low light. The lights that mark the load at the front of the vehicle will be white and those that mark the load at the back will be red.
+Loads that stick out more than 40 centimetres at the sides of the vehicle must have a light on at the ends of the load when it is night or a day with low light. The lights that mark the load at the front of the vehicle will be white and those that mark the load at the back will be red.
 
 <!-- Page: 335 -->
 
@@ -5532,52 +5619,52 @@ Loading and unloading operations of objects are always done off the road. When c
 
 - Take as little time as possible to load or unload.
 
-- Avoid noise and disturbance that are not necessary. It is forbidden to leave loads on the road, the hard shoulder, or in pedestrian areas.
+- Avoid noise and disturbance that are not necessary. It is forbidden to leave loads on the road, the hard shoulder or in pedestrian areas.
 
 Plates and signs on vehicles
 Number plate
 
-All motor vehicles, except motorcycles, must carry two number plates. One at the front and one at the back.
+All motor vehicles, except motorcycles, must have two number plates. One at the front and one at the back.
 
-Motorcycles and mopeds must carry only one plate, at the back.
+Motorcycles and mopeds must have only one plate, at the back.
 
 <!-- Page: 336 -->
 
-Trailers and semi-trailers that can carry more than 750 kilos must carry their number plate at the back and, in addition, the number plate of the vehicle that tows it.
+Trailers and semi-trailers that can carry more than 750 kilos must have their number plate at the back and, in addition, the number plate of the vehicle that tows it.
 
-Trailers and semi-trailers that can carry less than 750 kilos will only carry the number plate of the vehicle that tows them at the back.
+Trailers and semi-trailers that can carry less than 750 kilos will only have the number plate of the vehicle that tows them at the back.
 
 Priority vehicle sign
 
-Light signal made up of one or more blue lights. It is carried by vehicles that provide emergency services. These vehicles are: police cars, fire engines, civil protection vehicles, rescue vehicles, and ambulances. These vehicles can use the light signal at the same time as the siren to make sounds.
+Light signal made up of one or more blue lights. It is carried by vehicles that provide emergency services. These vehicles are: police cars, fire engines, civil protection vehicles, rescue vehicles and ambulances. These vehicles can use the light signal at the same time as the siren to make sounds.
 
 <!-- Page: 337 -->
 
 Speed limit plate
 
-It shows that the vehicle that carries it cannot travel at more kilometres per hour than the number shown on the plate. It is placed on the back of the vehicle.
+It shows that the vehicle that has it cannot travel at more kilometres per hour than the number shown on the plate. It is placed on the back of the vehicle.
 
 Slow vehicle plate
 
-It shows that the vehicle that carries it cannot travel faster than 40 kilometres per hour. It is placed on the back of the vehicle.
+It shows that the vehicle that has it cannot travel faster than 40 kilometres per hour. It is placed on the back of the vehicle.
 
 Long vehicle plate
 
-It shows that the vehicle that carries it is more than 12 metres long. This plate is placed on the back of the vehicle. It is rectangular, yellow, and with red edges.
+It shows that the vehicle that has it is more than 12 metres long. This plate is placed on the back of the vehicle. It is rectangular, yellow, and with red edges.
 
 <!-- Page: 338 -->
 
-Plate for a vehicle that carries dangerous goods These plates can have numbers. The numbers at the top inform about the type of danger that this material can cause. For example, if it is toxic material or if it can burn. The numbers at the bottom show the material that the vehicle is carrying.
+Plate for a vehicle that carries dangerous goods These plates can have numbers. The numbers at the top give information about the type of danger that this material can cause. For example, if it is toxic material or if it can burn. The numbers at the bottom show the material that the vehicle is carrying.
 
 New driver plate
 
-It shows that the driving licence of the person who is driving the vehicle is less than one year old. This sign is placed on the rear window of the vehicle, in a place where it can be seen clearly.
+It shows that the driving licence of the person who is driving the vehicle is less than one year old. This sign is placed on the rear window of the vehicle, in a place where it can be seen well.
 
 <!-- Page: 339 -->
 
 Sign to show danger
 
-It shows that the vehicle is stopped on the road because of any emergency, because of a breakdown, or that the load it carries has fallen onto the road surface. It is a yellow sign that is placed on the highest part of the vehicle so that it can be seen well.
+It shows that the vehicle is stopped on the road because of any emergency, because of a breakdown, or because the load it carries has fallen onto the road surface. It is a yellow sign that is placed on the highest part of the vehicle so that it can be seen well.
 
 Vehicle roadworthiness test sign
 
@@ -5585,10 +5672,10 @@ Sticker that shows that the vehicle has passed the roadworthiness test and is in
 
 <!-- Page: 340 -->
 
-Warning sign for escorting special transport Sign that a vehicle carries on the top to show that a special transport vehicle is travelling nearby. For example, a combine harvester or an excavator.
+Escort warning sign for special transport Sign that a vehicle carries on the top to show that a special transport vehicle is travelling nearby. For example, a combine harvester or an excavator.
 
 SPECIAL
-Warning sign for escorting cyclists
+Escort warning sign for cyclists
 
 Sign that a vehicle carries on the top to warn that there are cyclists travelling nearby.
 
@@ -5626,7 +5713,7 @@ The weather
 
 <!-- Page: 342 -->
 
-The road On some stretches of road you must be more careful than on others when driving because more difficulties can appear. These places are:
+The road On some road sections you must be more careful than on others when driving because more difficulties can appear. These places are:
 
 Bends
 
@@ -5642,9 +5729,9 @@ Bends are more dangerous when:
 
 - The bend is very tight.
 
-- The vehicle carries a lot of weight.
+- The vehicle is carrying a lot of weight.
 
-- The vehicle is travelling very fast. In those cases, the vehicle can go straight on, as if there were no bend.
+- The vehicle is travelling very fast. In these cases, the vehicle can go straight on, as if there were no bend.
 
 So, it can leave the road or go into the opposite lane.
 
@@ -5682,17 +5769,32 @@ Skid. To slide or slip on the road. When a vehicle skids it moves away from the 
 
 - Having tyres or shock absorbers in bad condition.
 
-- Sharing the load badly in the vehicle.
+- Distributing the load badly in the vehicle.
 
 <!-- Page: 345 -->
 
 How can you make the vehicle stop skidding?
 
-| Type of vehicle | Which wheels skid? | What should you do? |
-| --- | --- | --- |
-| Front-wheel drive. The engine power goes to the front wheels | Rear | Do not brake. Turn the steering wheel towards the side that the wheels are moving to. Accelerate smoothly. |
-| Rear-wheel drive. The engine power goes to the rear wheels | Rear | Do not brake. Stop accelerating smoothly. Turn the steering wheel towards the side that the rear wheels are moving to. |
-| Rear-wheel drive | Front | Stop accelerating. Keep the steering wheel straight until the wheels stop skidding. |
+| Type of vehicle | What What must you do? wheels skid? |
+| --- | --- |
+| Front-wheel drive. | Rear Do not brake. |
+| The engine power | Turn the steering wheel |
+| goes to the | towards the side that the |
+| front wheels | wheels move towards. |
+|  | Accelerate |
+|  | smoothly. |
+| Rear-wheel drive. | Rear Do not brake. |
+| The engine power | Stop accelerating |
+| goes to the | smoothly. |
+| rear wheels |  |
+|  | Turn the steering wheel |
+|  | towards the side |
+|  | that the |
+|  | rear wheels move towards. |
+| Rear-wheel drive | Front Stop accelerating. |
+|  | Straighten the steering wheel |
+|  | until the wheels |
+|  | stop skidding. |
 
 <!-- Page: 346 -->
 
@@ -5700,11 +5802,11 @@ Roadworks area
 
 Roadworks can be a danger. Whenever you drive on a road with roadworks, you must follow the instructions of the roadworks staff. To show that a road has roadworks the following signs are used.
 
-- Vertical warning signs and signs that inform you about the rules you must follow. These signs will have a yellow background.
+- Vertical warning signs and signs that give information about the rules you must follow. These signs will have a yellow background.
 
 - Signs painted on the road, in yellow.
 
-- Other signs that are only placed when there are roadworks.
+- Other signs that are only put up when there are roadworks.
 
 <!-- Page: 347 -->
 
@@ -5720,11 +5822,11 @@ The reasons are:
 
 - Distances, people, objects, and vehicles are harder to see.
 
-- Other vehicles can dazzle you with their lights. You must pay special attention when you go from an area that is well lit to another that is poorly lit. Your eyes take a few seconds to get used to the change in light.
+- Other vehicles can dazzle you with their lights. You must pay special attention when you go from an area that is well lit to another that is poorly lit. It takes your eyes a few seconds to get used to the change in light.
 
 <!-- Page: 348 -->
 
-When driving at night you must take special care with:
+When driving at night you must be especially careful with:
 
 Speed
 Bends
@@ -5742,21 +5844,25 @@ Watch video
 
 What can you do to avoid dazzling other drivers?
 
-- Keep the lights well adjusted. The dipped beam may bother others because it is not adjusted properly.
+- Keep the lights well adjusted.
 
-- Share the weight you carry in the vehicle well. The dipped beam can point too high and dazzle because there is too much weight at the back of the vehicle.
+Dipped headlights may bother others because they are not well adjusted.
+
+- Distribute the weight you carry in the vehicle well.
+
+Dipped headlights can point too high and dazzle because there is too much weight at the back of the vehicle.
 
 <!-- Page: 349 -->
 
-- Switch off the main beam and switch on dipped beam when another vehicle comes towards you from any direction. When a vehicle dazzles you, reduce speed or even stop the car, taking the necessary safety precautions.
+- Switch off the main beam and switch on dipped headlights when another vehicle comes towards you from any direction. When a vehicle dazzles you, reduce speed or even stop the car, taking the necessary safety precautions.
 
-Do not move into other lanes when reducing speed or stopping. You can guide yourself by the line on the right edge. Do not use dark glasses or sunglasses at night. Other vehicles may dazzle you less, but you will see the road much worse.
+Do not move into other lanes when reducing speed or stopping. You can use the right edge line as a guide. Do not use dark glasses or sunglasses at night. Other vehicles may dazzle you less, but you will see the road much worse.
 
 <!-- Page: 350 -->
 
 Overtaking
 
-When you are going to overtake another vehicle at night, you must switch off the main beam and switch on dipped beam.
+When you are going to overtake another vehicle at night, you must switch off the main beam and switch on dipped headlights.
 
 Main beam can dazzle the other driver through the rear-view mirrors. When you are already overtaking, switch the main beam back on as soon as possible. That is, when you can no longer dazzle the other driver.
 
@@ -5768,7 +5874,7 @@ If another vehicle is overtaking you, keep the main beam on while they overtake 
 
 Bends
 
-When two vehicles travelling in opposite directions meet at night on a bend, the vehicle that is travelling on the inside of the bend is the one that must switch off the main beam and switch on dipped beam. The reason is that its lights are the ones that light the road directly and can dazzle the other driver. The driver travelling on the outside of the bend can keep the main beam on because their lights shine off the road. They cannot dazzle other drivers. They should only change to dipped beam if they see that at some moment they are dazzling another driver.
+When two vehicles travelling in opposite directions meet at night on a bend, the vehicle that is travelling on the inside of the bend is the one that must switch off the main beam and switch on dipped headlights. The reason is that its lights are the ones that light the road directly and can dazzle the other driver. The driver travelling on the outside of the bend can keep the main beam on because their lights shine off the road. They cannot dazzle other drivers. They should only change to dipped headlights if they see that at some point they are dazzling another driver.
 
 <!-- Page: 353 -->
 
@@ -5799,7 +5905,7 @@ The precautions you must take to drive in rain are:
 
 - Brake smoothly so that the wheels have more time to stop.
 
-- Check that the brakes work well after going through a puddle.
+- Check that the brakes work well after driving through a puddle.
 
 - Keep more distance from the vehicle in front.
 
@@ -5807,7 +5913,7 @@ The precautions you must take to drive in rain are:
 
 Watch video
 
-You must be especially careful when the first drops of rain start to fall. These drops mix with dust, grease, and other dirt on the road, making mud that can make the vehicle skid. When the wheels skid you must lift your foot off the accelerator, but without braking.
+You must be especially careful when the first drops of rain start to fall. These drops mix with dust, grease, and other dirt on the road, forming mud that can make the vehicle skid. When the wheels skid you must lift your foot off the accelerator, but without braking.
 
 Motorcycle riders must pay special attention to the road markings when it rains because they can slip on them.
 
@@ -5817,15 +5923,15 @@ Aquaplaning
 
 What is it?
 
-Losing control of the vehicle because the tyre cannot clear all the water it picks up from the road and it slides. It is easier to aquaplane and lose control when the vehicle is travelling at high speed and when the tyres are very wide or very worn.
+Losing control of the vehicle because the tyre cannot clear all the water it picks up from the road and it skids. It is easier to aquaplane and lose control when the vehicle is travelling at high speed and when the tyres are very wide or very worn.
 
-So, the best way to prevent aquaplaning is to travel slowly in areas where there is water. After passing through that area, you must check that the brakes work well.
+So, the best way to prevent aquaplaning is to drive slowly in areas where there is water. After passing through that area, you must check that the brakes work well.
 
 <!-- Page: 356 -->
 
 Driving in snow
 
-Driving in snow is harder for the following reasons:
+Driving in snow is more difficult for the following reasons:
 
 - The road, the signs, and the vehicles are harder to see.
 
@@ -5839,21 +5945,21 @@ Gearbox. Vehicle mechanism that converts the engine power into movement of the w
 
 <!-- Page: 357 -->
 
-- Do not make sudden movements with the steering wheel and do not change gear suddenly. When going downhill you must do it more slowly than normal and choose low gears (first or second) so that they hold the vehicle back.
+- Do not make sudden movements with the steering wheel and do not change gear suddenly. When going downhill you must do it more slowly than normal and choose low gears (first or second) to hold the vehicle back.
 
 - Reduce speed little by little.
 
-- Keep a greater safety distance from other vehicles.
+- Keep more safe distance from the other vehicles.
 
 - Use the brake as little as possible and do it smoothly.
 
-- Drive over the tracks made by other vehicles with their wheels. When the sun comes out after it has snowed, it is a good idea to use sunglasses so that the light does not dazzle you. The R-412 sign shows that you must fit snow chains on the vehicle to keep driving in snow. The chains are fitted, at least, on the driven wheels. You must fit at least one chain on each side of the vehicle.
+- Drive on top of the tracks made by other vehicles with their wheels. When the sun comes out after it has snowed, it is a good idea to use sunglasses so that the light does not dazzle you. The R-412 sign shows that you must fit snow chains on the vehicle to keep driving in snow. The chains are fitted, at least, on the driven wheels. You must fit at least one chain on each side of the vehicle.
 
 <!-- Page: 358 -->
 
-Driving with ice
+Driving on ice
 
-Ice makes the wheels not able to grip the road and the vehicle skids a lot. The precautions you must take to drive with ice are the same as for driving with snow. Drive slowly and keep a large safety distance from other vehicles because you will need more space to brake. There may be ice on the road, during the night or early morning, in the following places:
+Ice makes the wheels not able to grip the road and the vehicle skid a lot. The precautions you must take to drive on ice are the same as to drive on snow. Drive slowly and keep a lot of safe distance from other vehicles because you will need more space to brake. There may be ice on the road, during the night or early morning, in the following places:
 
 - In damp areas.
 
@@ -5863,7 +5969,7 @@ Ice makes the wheels not able to grip the road and the vehicle skids a lot. The 
 
 - On speed humps.
 
-- Where there are P-34 or P319 signs with a panel where the word Ice is written.
+- Where the P-34 or P319 signs are with a panel where the word Ice is written.
 
 <!-- Page: 359 -->
 
@@ -5879,9 +5985,9 @@ Driving in fog
 
 Fog is very dangerous for driving for the following reasons:
 
-- You see the road, the signs, and the vehicles worse.
+- You see the road, the signs and the vehicles worse.
 
-- The tyres grip the road less because the ground is wet. The precautions you must take to drive in fog are:
+- The tyres grip less to the road because the ground is wet. The precautions you must take to drive in fog are:
 
 - Keep the vehicle well ventilated so that the windows do not mist up.
 
@@ -5889,7 +5995,7 @@ Fog is very dangerous for driving for the following reasons:
 
 - Drive slowly.
 
-- Keep a large safety distance from other vehicles.
+- Keep a lot of safe distance from other vehicles.
 
 - Pay close attention to the signs and road markings.
 
@@ -5901,7 +6007,7 @@ Fog is very dangerous for driving for the following reasons:
 
 Driving with clouds of dust or smoke
 
-They are a danger because they do not let you see well the road, the signs, or other vehicles. Also, they can appear suddenly. To drive with clouds of dust and smoke, you must take the same precautions as for driving in fog.
+They are a danger because they do not let you see well the road, the signs, or other vehicles. Also, they can appear suddenly. To drive with clouds of dust and smoke, you must take the same precautions as to drive in fog.
 
 Driving with strong wind
 
@@ -5913,19 +6019,19 @@ Wind affects two-wheeled vehicles more and those that are towing a trailer.
 
 Wind is more dangerous for driving in the following situations:
 
-- When you pass another vehicle coming the other way.
+- When you pass another vehicle.
 
 - When you overtake a vehicle that takes up a lot of space.
 
-- When you pass in front of buildings, trees, and other objects that can cause the wind to appear suddenly. The precautions you must take to drive with strong side wind are:
+- When you pass in front of buildings, trees and other objects that can cause the wind to appear suddenly. The precautions you must take to drive with strong side wind are:
 
 - Drive more slowly.
 
-- Hold the steering wheel firmly and steer against the wind.
+- Hold the steering wheel firmly and in the direction against the wind.
 
 - Keep the windows closed.
 
-- Keep in mind that trees, branches, or stones may fall.
+- Keep in mind that they can fall trees, branches, or stones.
 
 <!-- Page: 363 -->
 
@@ -5939,7 +6045,7 @@ It is dangerous to drive in heat for the following reasons:
 
 - Aggressiveness may increase towards other drivers. The precautions you must take to drive on a very hot day are:
 
-- Use the vehicle’s air conditioning and keep it at a temperature between 20 and 23 degrees.
+- Use the vehicle air conditioning and keep it at a temperature between 20 and 23 degrees.
 
 - Take more breaks during the journey.
 
@@ -5947,7 +6053,7 @@ It is dangerous to drive in heat for the following reasons:
 
 - Drink plenty of water or juices.
 
-- Pay more attention when you drive after eating because you may feel sleepy.
+- Pay more attention when you drive after eating because you may get sleepy.
 
 - Wear light-coloured, light, loose clothing.
 
@@ -5974,13 +6080,13 @@ Vehicle systems
 
 - Braking system
 
-Checking wheels and tyres
+Wheel and tyre check
 
 <!-- Page: 366 -->
 
 Vehicle systems
 
-What are they? All the mechanisms and parts of the vehicle that make it work and be safe. Vehicles have eight main systems:
+What are they? All the mechanisms and elements of the vehicle that make it work and be safe. Vehicles have eight main systems:
 
 - Fuel system
 
@@ -6004,7 +6110,7 @@ What is its function? To bring air and fuel to the engine so that the vehicle ca
 
 <!-- Page: 367 -->
 
-The air can carry dirt from the street. That is why the system has a filter that is responsible for cleaning that air so that it reaches the engine in good condition. You must clean this filter from time to time because, when it is dirty, fuel passes through it worse. This makes you use more fuel than when it is clean. Also, when the filter is very dirty or broken, black smoke may come out from the fuel through the exhaust pipe.
+The air can carry dirt from the street. That is why the system has a filter that is responsible for cleaning that air so that it reaches the engine in good condition. You must clean this filter from time to time because, when it is dirty, the fuel passes through it worse. This makes you use more fuel than when it is clean. Also, when the filter is very dirty or broken, black smoke may come out from the fuel through the exhaust pipe.
 
 Exhaust pipe. A pipe that cars have at the back to expel the gases that are created in the engine. You must check the filter more often in summer than in winter and when you drive on very dusty tracks.
 
@@ -6012,7 +6118,7 @@ Exhaust pipe. A pipe that cars have at the back to expel the gases that are crea
 
 Electrical system
 
-What is its function? To give energy to the car so that it switches on, the engine can start and work, and other parts work, such as the lights or the horn. This system has several parts:
+What is its function? To give energy to the car so that it switches on, the engine can start and work other elements such as the lights or the horn. This system has several parts:
 
 Battery
 
@@ -6024,13 +6130,13 @@ Lighting circuit
 
 Battery
 
-It provides the energy needed to start the engine. It also supplies energy to the rest of the vehicle when it is needed. The battery must be kept clean, dry, and well fixed in its place.
+It provides the energy needed to start the engine. It also brings energy to the rest of the vehicle when it is needed. The battery must be kept clean, dry and well fitted in its place.
 
 <!-- Page: 369 -->
 
 Ignition circuit
 
-It makes sure that the spark of electricity needed so that the air and fuel turn into energy and the vehicle starts to work. This electric spark is made in an engine part called a spark plug. To keep the ignition circuit in good condition, you must check the condition of the spark plugs and change them when necessary. You must also check that the engine is in good condition.
+It is responsible for the spark of electricity needed so that the air and fuel turn into energy and the vehicle starts to work. This spark of electricity is produced in an engine part called a spark plug. To keep the ignition circuit in good condition you must check the condition of the spark plugs and change them when necessary. You must also check that the engine is in good condition.
 
 Charging circuit
 
@@ -6046,7 +6152,7 @@ You must check from time to time that this belt is in good condition and change 
 
 Lighting circuit
 
-It is made up of all the parts that allow the vehicle lights to be switched on.
+It is made up of all the elements that allow the vehicle lights to be switched on.
 
 Watch video
 
@@ -6056,13 +6162,13 @@ It is important to check the lighting system. You must change the bulbs that giv
 
 Lubrication system
 
-What is its function? To distribute oil to all the parts of the vehicle engine to create a layer that covers the engine parts to protect them and stop them rubbing against each other. The oils used for vehicles are special substances that prevent the vehicle parts from wearing out more. The instruments that control the oil in the lubrication system are:
+What is its function? To distribute oil to all parts of the vehicle engine to create a layer that covers the engine parts to protect them and prevent them from rubbing against each other. The oils used for vehicles are special substances that prevent the vehicle parts from wearing out more. The instruments that control the oil in the lubrication system are:
 
 - Dipstick. It shows how much oil there is in the engine.
 
 <!-- Page: 372 -->
 
-- Pressure gauge or warning light. It controls the oil pressure in the engine. The oil must have the right pressure to be distributed well through the whole engine and cover all its parts.
+- Pressure gauge or warning light. It controls the oil pressure in the engine. The oil must have the right pressure to be distributed well throughout the engine and cover all its parts.
 
 Pressure gauge
 Warning light
@@ -6085,11 +6191,11 @@ How is it made?
 
 Mineral
 
-From oil. Nowadays it is used very little.
+From petroleum. Nowadays it is used very little.
 
 Synthetic
 
-It is made in a laboratory by mixing substances from oil and from other materials.
+It is made in a laboratory by mixing substances from petroleum and from other materials.
 
 Semi-synthetic
 
@@ -6109,27 +6215,27 @@ Why are synthetic oils used more? Because they have the following advantages:
 
 - It lasts longer.
 
-Therefore, you need to change the vehicle oil less often.
+Therefore, you have to change the vehicle oil fewer times.
 
 Depending on their thickness
 
-Oil is more runny when it heats up and thicker when it is cold. That is why it is better to use an oil that is more runny when the temperature is low. This way it will circulate better through the engine when you start the vehicle, even if it is very cold.
+Oil is more runny when it heats up and thicker when it is cold. That is why it is better to use an oil that is more runny when the temperature is low. This way it will circulate better through the engine when starting the vehicle, even if it is very cold.
 
 <!-- Page: 375 -->
 
-However, when the engine is hot it is better to use a thicker oil. If it stays too runny it will not cover well the engine parts. To avoid these problems there are oils that adapt well to cold and heat. They are called multigrade oils and they have this label.
+On the other hand, when the engine is hot it is better to use a thicker oil. If it stays too runny it will not cover well the engine parts. To avoid these problems there are oils that adapt well to cold and heat. They are called multigrade oils and they have this label.
 
 10W/40
 
-10W indicates that this oil spreads well through the engine, even if the temperature is low. 40 indicates that it can withstand very high temperatures without being damaged.
+10W indicates that this oil is distributed well through the engine, even if the temperature is low. 40 indicates that it can withstand very high temperatures without being damaged.
 
 <!-- Page: 376 -->
 
-To top up the vehicle with oil you must lift the engine cover and pour the oil through the cap that is there. From time to time it is necessary to change the oil and the filter. To change it, the vehicle must be level and the engine must be stopped and warm. You must avoid the oil falling on the ground because it is very polluting. If oil spills while you top up the vehicle, you must collect it. When a bluish white smoke comes out through the exhaust pipe it means that the vehicle has too much oil.
+To top up the vehicle with oil you must lift the engine cover and pour the oil through the cap that is there. From time to time it is necessary to change the oil and the filter. To change it, the vehicle must be level and the engine must be stopped and warm. You must avoid the oil falling on the ground because it is very polluting. If oil falls while you top up the vehicle, you must collect it. When a bluish white smoke comes out through the exhaust pipe it means that the vehicle has too much oil.
 
 Cooling system
 
-What is its function? To make sure the engine stays at a good temperature so it can keep working and to stop its parts wearing out and breaking because of too much heat. Without this system, the engine would heat up very quickly when working and would break down.
+What is its function? To make sure the engine stays at a good temperature so it can keep working and to prevent its parts from wearing out and breaking due to too much heat. Without this system, the engine would heat up very quickly when working and would break down.
 
 <!-- Page: 377 -->
 
@@ -6147,16 +6253,13 @@ However, it may indicate that there is a broken part or a fault if the white smo
 
 Transmission system
 
-What is its function? To carry the engine power to the wheels so that the vehicle can move. A vehicle engine can drive some wheels or others. Depending on which wheels get the drive, the vehicle can be:
+What is its function? To bring the engine power to the wheels so that the vehicle can move. The engine of a vehicle can drive some wheels or others. Depending on which wheels get the drive, the vehicle can be:
 
-Which wheels does the drive from the engine reach?
+Which wheels get the drive from the engine? Front-wheel drive To the front ones.
 
-- Front-wheel drive It reaches the front wheels.
-- Rear-wheel drive It reaches the rear wheels.
-- Four-wheel drive It reaches all the wheels.
+Rear-wheel drive To the rear ones.
 
-
-First gear is the one that sends the most force to the wheels, but it is the slowest.
+Four-wheel drive To all the wheels. First gear is the one that sends the most force to the wheels, but it is the slowest.
 
 <!-- Page: 380 -->
 
@@ -6168,7 +6271,7 @@ Signs that the steering system is failing:
 
 - It takes a lot of effort to move the steering wheel.
 
-- The tyres may have low pressure and need more air.
+- It may be that the tyres have low pressure and need more air.
 
 - The steering wheel is too loose.
 
@@ -6186,7 +6289,7 @@ Power steering
 
 A system that helps the driver use less force to turn the steering wheel and control the vehicle. There is also a type of power steering called progressive.
 
-Progressive power steering helps you turn the steering wheel very easily when the vehicle is going slowly and makes it a bit harder when the vehicle is travelling faster. This makes it easier to control the vehicle.
+Progressive power steering helps you turn the steering wheel very easily when the vehicle is going slowly and makes it a bit harder when the vehicle is travelling at higher speed. This makes it easier to control the vehicle.
 
 <!-- Page: 382 -->
 
@@ -6206,7 +6309,7 @@ What happens when the suspension system fails?
 
 - The vehicle sways from side to side or leans a lot when taking a bend.
 
-- You notice bumps or wind too much.
+- You feel bumps or the wind too much.
 
 - The tyres wear out very quickly.
 
@@ -6238,11 +6341,11 @@ Braking system
 
 What is its function? To reduce speed or stop the vehicle and stop it from moving again when it should not. When you press the brake pedal, a force is sent to the vehicle’s wheels so that they stop and stop working. This force goes through a liquid called brake fluid and reaches the parts that brake the wheels, which are the pads or the shoes. The pads and the shoes rub against other parts of the wheels and make them stop. What should you check?
 
-- That there is brake fluid in the vehicle’s reservoir. And that it is between the minimum and maximum marks and that it is in good condition.
+- That there is brake fluid in the vehicle’s reservoir. And that it is between the minimum and maximum values and that it is in good condition.
 
 <!-- Page: 386 -->
 
-- That the pads or the shoes are not worn and are well fixed.
+- That the pads or the shoes are not worn and are well secured.
 
 - That the tyres are well inflated, with the pressure they need.
 
@@ -6297,7 +6400,7 @@ First aid
 Avoid road traffic accidents
 Risk factors
 
-Most road traffic accidents can be avoided. Some circumstances of the driver, the vehicle, the road and the surroundings mean that there is more risk of having an accident. The circumstances that make a person have more risk of having an accident are called risk factors.
+Most road traffic accidents can be avoided. Some circumstances of the driver, the vehicle, the road and the environment mean that there is more risk of having an accident. The circumstances that make a person have more risk of having an accident are called risk factors.
 
 <!-- Page: 390 -->
 
@@ -6319,7 +6422,7 @@ Losing control on a bend.
 
 Between 10 and 35 out of every 100.
 
-Vehicle fault The brakes fail. A tyre gets a puncture.
+Vehicle fault The brakes fail. A tyre punctures.
 
 Between 4 and 13 out of every 100.
 
@@ -6329,7 +6432,7 @@ Many of these risk factors can be avoided if the driver behaves responsibly. For
 
 <!-- Page: 391 -->
 
-Accidents can also be avoided by reducing speed and leaving more safe distance from the vehicle in front on a road with rain. Where and when are there more road traffic accidents?
+Accidents can also be avoided by reducing speed and leaving more safe distance from the vehicle in front on a road in the rain. Where and when are there more road traffic accidents?
 
 - Most fatal accidents happen on roads outside towns or cities.
 
@@ -6339,7 +6442,7 @@ Accidents can also be avoided by reducing speed and leaving more safe distance f
 
 - The times of year when there are more accidents are: Easter, December and summer.
 
-- There are more accidents at weekends and on public holidays. Especially in the early hours of the morning.
+- There are more accidents at weekends and on public holidays. Especially in the early morning hours.
 
 - During the day, most accidents happen at the times people go to and leave work. Especially at the end of the working day.
 
@@ -6360,7 +6463,7 @@ Material
 
 Medical and healthcare costs
 
-Spending on security resources
+Costs in security resources
 
 Human
 
@@ -6372,7 +6475,7 @@ Road traffic accidents cause damage to vehicles, the road and the environment.
 
 Spending on medical and healthcare resources
 
-A lot of staff and money must be invested to give first aid to the injured, treatment, rehabilitation and the changes that each injured person needs.
+A lot of staff and money must be invested to give first aid to the injured, treatment, rehabilitation and the adaptations that each injured person needs.
 
 <!-- Page: 394 -->
 
@@ -6380,13 +6483,15 @@ Spending on security resources
 
 A lot of staff and money must also be invested in the work that police officers and firefighters do at accidents.
 
-Also, each accident means extra costs that insurance companies and organisations that provide services to the injured have to pay. For all these reasons, the World Health
+Also, each accident means extra costs that insurance companies and the organisations that provide services to the injured have to pay. For all these reasons, the World Health
 
 Organization considers that road traffic accidents are a health problem that affects the whole of society. And it asks all of us to work together so that there are fewer deaths and injuries in road traffic accidents.
 
 <!-- Page: 395 -->
 
-People with more risk of having road traffic accidents There are studies that show that some groups of people are more likely to have an accident. These groups of people are called risk groups. Within these risk groups, we must tell the difference between the risk that pedestrians face and the risk that drivers face.
+People with more risk of having road traffic accidents There are studies that show that some groups of people are more likely to have an accident. These groups of people are called risk groups.
+
+Within these risk groups we must distinguish between the risk pedestrians face and the risk drivers face.
 
 <!-- Page: 396 -->
 
@@ -6400,7 +6505,7 @@ Pedestrians are run over more in areas where drivers cannot see them well becaus
 
 - Cross when the traffic light is green.
 
-- Walk in the allowed spaces on roads and hard shoulders.
+- Walk in the permitted spaces on roads and hard shoulders.
 
 <!-- Page: 397 -->
 
@@ -6424,7 +6529,7 @@ Drivers must also take measures not to run over pedestrians.
 
 - Take special care when a pedestrian crosses while talking on a mobile phone. They may be distracted.
 
-- Pay attention to pedestrians who walk near places for parties and entertainment.
+- Pay attention to pedestrians who walk near places with parties and entertainment.
 
 - Take special care at the exit of garages.
 
@@ -6472,7 +6577,7 @@ Older people
 
 The main problems that many older people have as pedestrians are:
 
-- The noise in the surroundings does not let them hear a vehicle when it comes closer.
+- The noise in the environment does not let them hear a vehicle when it is coming closer.
 
 - They may have difficulty knowing how fast a vehicle is coming.
 
@@ -6509,11 +6614,11 @@ Motorcycles and mopeds
 
 Young people
 
-In Spain, road traffic accidents are the main cause of death for young people between 15 and 29 years old. These accidents happen, above all, in big cities, on the way to and from work, and in places where people go out. The times when more young people die in road traffic accidents are: the summer months, Christmas, and weekends. The hours when there are most accidents of this type are at night and in the early hours.
+In Spain, road traffic accidents are the main cause of death for young people between 15 and 29 years old. These accidents happen, above all, in big cities, on the way to and from work, and in places where people go out to party. The times when more young people die in road traffic accidents are: the summer months, Christmas, and weekends. The hours when there are most accidents of this type are at night and in the early hours of the morning.
 
 <!-- Page: 404 -->
 
-Main causes of road traffic accidents among young people:
+Main causes of road traffic accidents involving young people:
 
 - Driving too fast.
 
@@ -6569,29 +6674,34 @@ So, their drivers must drive with special care.
 
 Bicycles
 
-Cyclist accidents happen more at weekends. Especially when the weather gets good. There are more accidents in cities, but more cyclists die on roads outside cities. Most of these accidents happen on straight roads or at junctions, due to a crash with another vehicle. The causes of these accidents can be because of mistakes made by cyclists or because of mistakes made by drivers of other vehicles.
+Cyclist accidents happen more at weekends. Especially when the weather gets good. There are more accidents in cities, but more cyclists die on roads outside cities. Most of these accidents happen on straight roads or at junctions, because of a crash with another vehicle. The causes of these accidents can be because of mistakes made by cyclists or because of mistakes made by drivers of other vehicles.
 
 <!-- Page: 408 -->
 
-Mistakes made by cyclists
+| Mistakes made by | Mistakes made by drivers |
+| --- | --- |
+| Distractions. | Distractions. |
+| Riding in the | Driving too fast. |
+| wrong direction or where it is forbidden. |  |
+|  | Overtaking when |
+| Making forbidden turns. | they must not. |
+| Not obeying the Stop sign | Making forbidden turns. |
+| or the give way rule |  |
+| for other vehicles. |  |
+| Entering the road |  |
+| without care. |  |
 
-Mistakes made by drivers of other vehicles Distractions.
+To avoid running over cyclists drivers of other vehicles must:
 
-Riding in the wrong direction or where it is forbidden. Making forbidden turns.
+- Leave space in front until you have overtaken them,
 
-Not obeying the Stop sign or give way to other vehicles.
-
-Entering the road without care. Distractions. Driving very fast.
-
-Overtaking when they should not. Making forbidden turns. To avoid running over cyclists, drivers of other vehicles must:
-
-- Leave space in front until you have overtaken them, and leave enough side distance when you are overtaking them.
+and also leave enough side distance when you are overtaking them.
 
 - Do not overtake other vehicles if cyclists are coming in the opposite direction.
 
 <!-- Page: 409 -->
 
-- Be more careful when there is rain, snow, fog, or poor visibility.
+- Be more careful when there is rain, snow, fog, or visibility is poor.
 
 - Do not use the horn near cyclists so you do not frighten them.
 
@@ -6599,7 +6709,7 @@ Overtaking when they should not. Making forbidden turns. To avoid running over c
 
 Cyclists can appear between these vehicles.
 
-- Drive more carefully near buildings and leisure areas.
+- Drive with more care near buildings and leisure areas.
 
 Motorcycles and mopeds
 
@@ -6609,31 +6719,31 @@ Most of these accidents happen inside the city. They have more serious consequen
 
 <!-- Page: 410 -->
 
-The causes of these accidents can be because of mistakes made by the moped or motorcycle drivers or because of mistakes made by drivers of other vehicles.
+The causes of these accidents can be because of mistakes made by the moped or motorcycle riders or because of mistakes made by drivers of other vehicles.
 
-Mistakes made by motorcycle drivers
-
-Mistakes made by drivers of other vehicles
-
-Using the lane of the road that goes in the opposite direction. Distractions.
-
-Not respecting the motorcycles' right of way.
-
-Using the lane of the road that goes in the opposite direction. Distractions.
+| Mistakes made by motorcycle riders | Mistakes made by drivers of other vehicles |
+| --- | --- |
+| Using the lane | Not respecting |
+| of the road that goes | the motorcycles’ right of way |
+| in the opposite direction. | . |
+| Distractions. | Using the lane |
+|  | of the road that goes |
+|  | in the opposite direction. |
+|  | Distractions. |
 
 <!-- Page: 411 -->
 
-To avoid accidents with motorcycles and mopeds, drivers of other vehicles must:
+To avoid accidents with motorcycles and mopeds drivers of other vehicles must:
 
-- Check that there are no two-wheeled vehicles coming before changing lanes.
+- Check that there are no two-wheeled vehicles coming before changing lane.
 
-- Do not stay next to a two-wheeled vehicle. Drive in front of it or behind it.
+- Do not stay alongside a two-wheeled vehicle. Drive in front of it or behind it.
 
 - Keep a safe distance from these vehicles.
 
 - Respect situations where they have right of way.
 
-- Be more careful when there is rain, snow, fog, or poor visibility.
+- Be more careful when there is rain, snow, fog, or visibility is poor.
 
 <!-- Page: 412 -->
 
@@ -6645,7 +6755,7 @@ All people who witness a road traffic accident must:
 
 - Help the victims or ask for help so someone can help them.
 
-- Work together so there is no more damage or more injured people.
+- Work together so there is no more damage or injuries.
 
 - Help traffic become safe again when possible.
 
@@ -6673,9 +6783,7 @@ Important moments after an accident
 
 After an accident there are three moments when people are at risk of dying:
 
-First moment
-
-First seconds after the accident. It is called immediate death.
+First moment The first seconds after the accident. It is called immediate death.
 
 Second moment One or two hours after the accident. In this period, resuscitation work is very important to try to save life. It is called the golden hour.
 
@@ -6687,7 +6795,7 @@ Days or weeks after the accident. It is called late mortality.
 
 PAS rule
 
-What is it? These are the guidelines that must be followed to help a person who has had an accident. These guidelines are:
+What is it? These are the steps that must be followed to help a person who has had an accident. These steps are:
 
 Watch video
 
@@ -6699,7 +6807,7 @@ It is very important to follow the PAS rule in the first 10 minutes after the ac
 
 - Prevent the person from suffering more harm.
 
-- Prevent material damage. For example, more vehicles and road elements being damaged.
+- Prevent damage to property. For example, more vehicles and road elements being damaged.
 
 <!-- Page: 416 -->
 
@@ -6710,11 +6818,11 @@ Protect
 
 What must you protect?
 
-- Yourself. Do not put yourself in danger or take risks that could cause you to have an accident.
+- Yourself. Do not put yourself in danger and do not take risks that could cause you to have an accident.
 
 - The victims.
 
-- The accident scene. Mark the place so it can be seen well, avoid more accidents, and help the emergency services find the place more easily.
+- The accident scene. Mark the place so it can be seen well, to prevent more accidents and help the emergency services find the place more easily.
 
 <!-- Page: 417 -->
 
@@ -6724,11 +6832,11 @@ What steps must you take to protect?
 
 - Stop and park the vehicle in a safe place, leaving access for the emergency services.
 
-- Stop the engine and switch on the hazard lights.
+- Stop the engine and switch on the hazard warning lights.
 
-- Put on the reflective vest before getting out of the vehicle. This vest must be approved to make sure it meets all safety rules. It can be yellow, orange, or red.
+- Put on the high-visibility vest before getting out of the vehicle. This vest must be approved to make sure it meets all safety rules. It can be yellow, orange, or red.
 
-Approved. It is officially registered and meets the features set by law.
+Approved. It is officially registered and meets the features set by the law.
 
 <!-- Page: 418 -->
 
@@ -6738,7 +6846,7 @@ Approved. It is officially registered and meets the features set by law.
 
 - Apply the handbrake of all vehicles in the accident to make sure none of them moves.
 
-- Do not smoke or light a fire at the accident scene to avoid a fire. If the fire has already started, try to put it out with a fire extinguisher or by throwing earth, sand, or blankets over the fire. Do not throw water on the fire.
+- Do not smoke or light a fire at the accident scene to prevent a fire. If a fire has already started, try to put it out with a fire extinguisher or by throwing earth, sand, or blankets over the fire. Do not throw water on the fire.
 
 - Help the area become safe again so traffic can move again.
 
@@ -6748,23 +6856,23 @@ Approved. It is officially registered and meets the features set by law.
 
 Alert
 
-Before alerting the emergency services, try to collect as much information as possible to make it easier for the right services to come and do their work well. For example, say if there is a fire so the fire brigade comes. Or explain how many injured people there are so they know how many ambulances to send. To ask for help you must call the emergency number 112 from your mobile. If you do not have a mobile, you can go to the nearest SOS post to alert them.
+Before alerting the emergency services you should try to collect as much information as possible to make it easier for the right services to come and do their job well. For example, say if there is a fire so the fire brigade comes. Or explain how many injured people there are so they know how many ambulances to send. To ask for help you must call the emergency number 112 from your mobile. If you do not have a mobile, you can go to the nearest SOS post to alert them.
 
 <!-- Page: 420 -->
 
-You must stay at the accident scene or nearby until the authorities and emergency services arrive. Some vehicles have a system called eCall. This system sends a message automatically to 112 in case of an accident so the emergency services go to the place, even if nobody alerts them.
+You must stay at the accident scene or nearby until the authorities and emergency services arrive. In some vehicles there is a system called eCall. This system sends a message automatically to 112 in case of an accident so that the emergency services go to the place, even if nobody alerts them.
 
 <!-- Page: 421 -->
 
 Help
 
-You must help the injured quickly but stay calm. You must stay with the injured and not leave them alone. General rules for helping.
+You must help the injured quickly but staying calm. You must stay with the injured and not leave them alone. General rules for helping.
 
 - Do not move the injured unless it is necessary to keep them safe.
 
-- Keep the neck protected from sudden movements. You can place clothes, sand, or your hands at the sides of the injured person's neck. Never under the neck.
+- Keep the neck protected from sudden movements. You can place clothes, sand, or your hands at the sides of the injured person’s neck. Never under the neck.
 
-- Do not remove the injured person's helmet.
+- Do not remove the injured person’s helmet.
 
 - Loosen any clothing they are wearing that is tight on the body.
 
@@ -6776,17 +6884,17 @@ You must help the injured quickly but stay calm. You must stay with the injured 
 
 - Cover the injured with clothes or thin blankets so they keep their body temperature.
 
-- If you are not sure how to act, talk to the injured and give them emotional support. It is better not to touch or move them if you are not sure how to do it because you could make their injuries worse. How should you move an injured person? When it is necessary to move an injured person because their life is in danger in that place, it must be done by three people to move them as if they were one single block. The three people must be coordinated so they do not move the neck and so the head, neck, and body stay aligned.
+- If you are not sure how to act, talk to the injured and give them emotional support. It is better not to touch or move them if you are not sure how to do it because you could make their injuries worse. How should you move an injured person? When it is necessary to move an injured person because in that place their life is in danger it must be done by three people to move them as if they were one single block. The three people must be coordinated so they do not move the neck and so that the head, neck, and body stay aligned.
 
 <!-- Page: 423 -->
 
-To take an injured person out of their vehicle, you must follow these steps:
+To take an injured person out of their vehicle you must follow these steps:
 
 - Put your arms under their armpits, carefully.
 
 - Hold their arm with one hand and support the chin with the other.
 
-- Take the person out of the vehicle slowly and keep their head, neck, and trunk in the same line, as if it were one block.
+- Take the person out of the vehicle slowly and keep their head, neck, and torso in the same line, as if it were a block.
 
 - Place them in a safe place.
 
@@ -6795,13 +6903,13 @@ To take an injured person out of their vehicle, you must follow these steps:
 First aid
 Vital signs
 
-In road traffic accidents, the parts of the body that are usually most damaged are the head and the legs. To know how serious the injured people are, the first step is to check their vital signs, always following the same order.
+In road traffic accidents, the parts of the body that usually suffer the most damage are the head and the legs. To know how serious the injured people are, the first step is to check their vital signs always following the same order.
 
 Consciousness
 Breathing
 Consciousness
 
-To know if a person is conscious, you can ask: Are you OK? If they do not answer, you can give a small pinch to see if they react with any movement or sound.
+To know if a person is conscious you can ask them: Are you OK? If they do not answer, you can give a small pinch to see if they react with any movement or sound.
 
 <!-- Page: 425 -->
 
@@ -6831,35 +6939,47 @@ Normal breathing for a child is between 26 and 30 breaths per minute. How to act
 
 <!-- Page: 427 -->
 
-Breathes normally
-
-Does not breathe normally It is a sign that the heart is working.
-
-Check if they have bleeding, burns or fractures.
-
-Stay with them until the emergency services arrive.
-
-Put them on their side if you have to leave them alone to help other injured people.
-
-Start cardiopulmonary resuscitation, until the emergency services arrive, as follows:
-
-- Place both hands with fingers interlocked on top of the chest of the person who is not breathing.
-
-- With your elbows straight, push your hands up and down about 100 times per minute.
-
-- Give 2 mouth-to-mouth breaths every 30 chest compressions so that air goes into the injured person’s mouth.
-
-Press
-
-30 times
-
-Blow
-
-2 times Continue like this until medical help arrives.
+| Breathing | Not breathing |
+| --- | --- |
+| normally | normally |
+| It is a sign that the heart | Start cardiopulmonary |
+| works. | resuscitation, |
+|  | until the emergency |
+| Check if they have |  |
+|  | services arrive, |
+| bleeding, burns |  |
+|  | as follows: |
+| or fractures. |  |
+|  | ■Place both hands |
+| Stay with them until |  |
+|  | with fingers |
+| the emergency services |  |
+|  | interlocked |
+| arrive. |  |
+|  | on top of the chest |
+| Put them on their side if you |  |
+|  | of the person |
+| have to leave them alone to |  |
+|  | who is not breathing. |
+| help other injured people. |  |
+|  | ■With elbows straight |
+|  | push your hands |
+|  | up |
+|  | and down about |
+|  | 100 times per minute. |
+|  | ■Give 2 mouth-to-mouth |
+|  | breaths |
+|  | every 30 compressions |
+|  | on the chest |
+|  | so that air goes |
+|  | into the injured person’s mouth. |
+| Press | Blow |
+| 30 times | 2 times |
+| Continue like this until medical help arrives. |  |
 
 <!-- Page: 428 -->
 
-Knowing the condition of the injured people
+Know the condition of the injured people
 
 When the injured person is conscious and breathing you must check if they have other types of injuries or wounds. To assess their condition you must take into account if there are:
 
@@ -6874,7 +6994,7 @@ What is it?
 
 Losing a lot of blood because blood vessels have broken. A person can go into shock or die if they lose a lot of blood.
 
-Shock. Danger of death because the body does not receive the blood it needs. When the bleeding happens because an object has become stuck in the person’s body, you must not try to remove the object.
+Shock. Danger of death because the body does not receive the blood it needs. When the bleeding happens because an object has got stuck in the person’s body, you must not try to remove the object.
 
 <!-- Page: 429 -->
 
@@ -6882,7 +7002,7 @@ Bleeding can be external or internal.
 
 External bleeding
 
-Blood comes out of the person’s body. To control external bleeding three methods can be used:
+Blood comes out of the person’s body. To control external bleeding you can use three methods:
 
 <!-- Page: 430 -->
 
@@ -6890,9 +7010,9 @@ Direct pressure
 
 - Press on the wound with your hand or with your fist using a gauze pad or a cloth that is as clean as possible.
 
-- Do not remove the gauze pad or the cloth, even if they soak with blood.
+- Do not remove the gauze pad or the cloth, even if it soaks with blood.
 
-- If the wound is on an arm or a leg, keep the arm or leg raised.
+- If the wound is on an arm or a leg, keep the arm or the leg raised.
 
 Arterial pressure
 
@@ -6926,13 +7046,13 @@ Internal bleeding
 
 It happens inside the body and cannot be seen. But you can know there is this type of bleeding because the injured person goes into shock. What symptoms does a person in shock have?
 
-- They breathe very fast and shallow.
+- They breathe very fast and very shallow.
 
 - The pulse is fast and weak.
 
 - Their skin is pale and their sweat is cold and sticky.
 
-- They say things that do not make sense. In these cases you must place the injured person lying down with their feet higher than their head. If they vomit, place them on their side and keep their feet higher than their head.
+- They say things that do not make sense. In these cases you must place the injured person lying down with their feet higher than their head. If they are vomiting, place them on their side and keep their feet higher than their head.
 
 <!-- Page: 433 -->
 
@@ -6944,7 +7064,7 @@ There is a type of internal bleeding where the wound cannot be seen, but the blo
 
 - Put the injured person on their side if there is a risk of choking.
 
-- When blood from the bleeding comes out through the ear you must cover it with gauze, without pressing.
+- When blood from the bleeding comes out of the ear you must cover it with gauze, without pressing.
 
 <!-- Page: 434 -->
 
@@ -6958,7 +7078,7 @@ What to do in case of burns?
 
 - Pour cold water over the burnt area.
 
-- Do not cut or prick the blisters.
+- Do not cut or burst the blisters.
 
 - Put on a disinfected and damp dressing.
 
@@ -6994,7 +7114,7 @@ Transporting injured people
 
 You must always wait for the ambulance to arrive to take injured people to hospital. You should only take injured people to hospital without waiting for the ambulance in these cases:
 
-- The accident has happened in an isolated place where you cannot ask for help from the emergency services.
+- The accident happened in an isolated place where you cannot ask for help from the emergency services.
 
 - The emergency services take more than 30 minutes to arrive and the injured person is unconscious or has bleeding that cannot be controlled. Transport should be done, if possible, in a van or lorry so you can lay the injured person down. You must drive slowly and smoothly.
 
@@ -7003,7 +7123,7 @@ You must always wait for the ambulance to arrive to take injured people to hospi
 <!-- Page: 437 -->
 
 Contents
-Prepare the trip
+Prepare the journey
 
 - Safety checks
 
@@ -7027,20 +7147,20 @@ Efficient driving
 
 - Techniques to drive efficiently
 
-- What makes more fuel be used?
+- What makes fuel consumption higher?
 
 - Environmental labels
 
 <!-- Page: 438 -->
 
-Prepare the trip
+Prepare the journey
 Safety checks
 
-Before starting a trip in a car or in a vehicle that carries goods, you must check that you have:
+Before starting a journey in a car or in a vehicle that carries goods, you must check that you have:
 
 - The warning light or the triangles that you must place on the road in case of breakdown or accident.
 
-- A reflective vest.
+- A reflective jacket.
 
 - A spare wheel. It is also advisable to carry a first aid kit.
 
@@ -7050,7 +7170,7 @@ People who wear glasses are advised to carry a spare pair.
 
 Choose the route
 
-Before starting the trip, you must plan the route you are going to follow by looking at a map. It is important to choose the safest and most comfortable way taking into account which roads have roadworks, the weather and the number of vehicles that use each road that day. You must also plan the breaks you are going to take during the trip. When you travel in winter, you must take the following precautions:
+Before starting the journey, you must plan the route you are going to follow by looking at a map. It is important to choose the safest and most comfortable route taking into account which roads have roadworks, the weather and the number of vehicles using each road that day. You must also plan the breaks you are going to take during the journey. When you travel in winter, you must take the following precautions:
 
 - Carry snow chains in the vehicle.
 
@@ -7064,13 +7184,13 @@ Before starting the trip, you must plan the route you are going to follow by loo
 
 Preventive driving
 
-What is it? A way of driving that allows you to get ahead of unexpected events that may happen during the trip. In preventive driving, the driver:
+What is it? A way of driving that allows you to get ahead of unexpected events that may happen during the journey. In preventive driving, the driver:
 
-- Collects the necessary information before starting the trip to drive safely.
+- Collects the necessary information before starting the journey to drive safely.
 
 - Gets ahead of unexpected events that may happen and reacts well to them.
 
-- Adapts to the circumstances at each moment of the trip. To drive in a preventive way, you must follow a technique that is based on three principles:
+- Adapts to the circumstances at each moment of the journey. To drive in a preventive way, you must follow a technique based on three principles:
 
 <!-- Page: 441 -->
 
@@ -7078,7 +7198,7 @@ What does it consist of?
 
 Vision
 
-Look in all directions to gather information and do not focus on things that could be a distraction.
+Look in all directions to gather information and do not focus on things that may be a distraction.
 
 Anticipation Predict the movements and reactions of other drivers so you can react in time.
 
@@ -7094,7 +7214,7 @@ Look to the sides
 
 Look far ahead
 
-You must look far ahead to control what happens in the space your vehicle will travel in the next 20 seconds.
+You must look far ahead to control what happens in the space your vehicle will cover in the next 20 seconds.
 
 <!-- Page: 442 -->
 
@@ -7102,13 +7222,13 @@ This way you can predict dangerous situations and avoid harsh braking and sudden
 
 Look to the sides
 
-We take longer to see what happens to the sides than what happens in front. So, it is necessary to check all the time what is happening to the left and to the right during the trip. This is done through the rear-view mirrors because they allow you to see what happens behind and to the sides of the vehicle. You must look at them during the trip, even if you are not going to do any manoeuvre.
+We take longer to see what happens at the sides than what happens in front. So, it is necessary to check all the time what is happening on the left and on the right during the journey. This is done through the rear-view mirrors because they allow you to see what happens behind and at the sides of the vehicle. You must look at them during the journey, even if you are not going to do any manoeuvre.
 
 How often you look at them will depend on the type of road you are on. You look quickly, briefly so you keep paying attention to the rest of the road.
 
 <!-- Page: 443 -->
 
-You must keep in mind that there is always a space on both sides of the vehicle that you cannot see, even if your mirrors are well adjusted. These spaces are called blind spots and they are dangerous because you cannot control what is happening in that place.
+You must bear in mind that there is always a space on both sides of the vehicle that you cannot see, even if the mirrors are well adjusted. These spaces are called blind spots and they are dangerous because you cannot control what is happening in that place.
 
 Blind spot
 
@@ -7120,9 +7240,9 @@ To make sure there is no other vehicle in the blind spot area, you can turn your
 
 <!-- Page: 444 -->
 
-Blind spot detector (BSM)
+Blind spot monitor (BSM)
 
-There is a system that warns you when there is another vehicle in the blind spot area moving towards your vehicle. In those cases a light comes on that is placed in the rear-view mirror. Some blind spot detectors light up whenever another vehicle is in the blind spot area. Other detectors only light up if you switch on the indicator to change lane and there is another vehicle in the blind spot.
+There is a system that warns you when there is another vehicle in the blind spot area moving towards your vehicle. In those cases a light comes on that is placed in the rear-view mirror. Some blind spot monitors light up whenever another vehicle is in the blind spot. Other monitors only light up if you switch on the indicator to change lane and there is another vehicle in the blind spot.
 
 <!-- Page: 445 -->
 
@@ -7131,7 +7251,7 @@ Watch video
 
 To avoid risks and react quickly to unexpected events on the road, you must:
 
-- Keep a suitable speed for your circumstances, the vehicle’s and the road’s at all times.
+- Keep a suitable speed for your circumstances, the vehicle and the road at all times.
 
 - Switch on the lights that are necessary at each moment so other vehicles can see you and know what movement you are going to make.
 
@@ -7145,29 +7265,29 @@ STOP
 
 <!-- Page: 446 -->
 
-Control the space
+Controlling space
 
 Front space
 
 Rear space
 
-Side space
+Space at the sides
 
 Space when stopping the vehicle
 
 Front space
 
-It is advisable that between your vehicle and the one in front there are two or three seconds of separation. That is, that it takes you two or three seconds to reach it at the speed you are travelling. However, there are circumstances in which you must leave at least one more second of space. These circumstances are:
+It is advisable that between your vehicle and the one in front there are two or three seconds of separation. That is, that it takes you two or three seconds to reach it at the speed you are going. However, there are circumstances in which you must leave at least one more second of space. These circumstances are:
 
-- There is rain, snow, fog or it is night.
+- There is rain, snow, fog, or it is night.
 
-- The vehicle behind gets too close.
+- The vehicle behind is getting too close.
 
 <!-- Page: 447 -->
 
 Rear space
 
-Sometimes it is the vehicle behind that comes too close. What you must do in these situations is:
+Sometimes it is the vehicle behind that gets very close. What you must do in those situations is:
 
 - Leave more safety distance from the vehicle in front so you do not brake sharply if something unexpected happens.
 
@@ -7201,15 +7321,15 @@ When you stop the vehicle for some reason, such as a traffic light or a traffic 
 
 Efficient driving
 
-What is it? A way of driving in which less fuel is used, it helps to pollute less and makes driving safer. What do you achieve with efficient driving?
+What is it? A way of driving in which less fuel is used, it helps to pollute less, and driving is safer. What do you achieve with efficient driving?
 
-- Improve air quality because fewer polluting gases are released into the atmosphere.
+- Improve air quality because fewer gases that pollute are released into the atmosphere.
 
 - Save money because less is spent on fuel and on vehicle maintenance.
 
 - Increase safety because techniques similar to preventive driving are used.
 
-- Make passengers travel more comfortably because sharp braking is avoided and there are no big speed changes.
+- Make passengers travel more comfortably because sharp braking is avoided and there are no big changes in speed.
 
 - Reduce the noise that vehicles make when driving.
 
@@ -7231,9 +7351,9 @@ Vehicles pollute because they produce toxic gases that reach the atmosphere. The
 
 <!-- Page: 451 -->
 
-- Do not wash the vehicle on the road. It should be washed in places prepared for this.
+- Do not wash the vehicle on the road. It must be washed in places prepared to do it.
 
-- Do not throw objects onto the road that can dirty it, start fires or cause accidents.
+- Do not throw objects onto the road that can dirty it, start fires, or cause accidents.
 
 - Do not make unnecessary noise or release more gases or smoke than allowed. In vehicles there is a device in the exhaust pipe called a catalytic converter. The catalytic converter reduces the pollution produced by the gases that come out of the exhaust pipe. When the vehicle battery runs out you must not try to start the engine by pushing the vehicle.
 
@@ -7243,7 +7363,7 @@ Unburnt fuel can reach the catalytic converter and destroy it.
 
 Techniques for driving efficiently
 
-When starting and beginning to drive When accelerating and changing gear When choosing the speed When reducing speed and stopping When starting and beginning to drive
+When starting and beginning to drive When accelerating and changing gear When choosing speed When reducing speed and stopping When starting and beginning to drive
 
 - Start the engine without pressing the accelerator.
 
@@ -7251,7 +7371,7 @@ When starting and beginning to drive When accelerating and changing gear When ch
 
 - Start driving at low speed and increase it when the engine warms up.
 
-Driving at high speed with a cold engine makes it use more fuel and makes the engine wear out sooner.
+Driving at high speed with a cold engine makes more fuel be used and makes the engine wear out sooner.
 
 Watch video
 
@@ -7271,7 +7391,7 @@ When accelerating and changing gear
 
 When choosing the speed you drive at From 80 or 90 kilometres per hour, the vehicle uses much more fuel and pollutes more.
 
-Changing speed many times also makes more fuel be used. It also makes the driver get more tired. You should travel at a constant speed, that does not change all the time, and avoid sharp braking and sudden acceleration. When reducing speed and stopping the vehicle To reduce the vehicle’s speed you have to:
+Changing speed many times also makes more fuel be used. Also, it makes the driver get more tired. You should travel at a constant speed, that does not change all the time, and avoid sharp braking and sudden acceleration. When reducing speed and stopping the vehicle To reduce the vehicle’s speed you have to:
 
 - Lift your foot off the accelerator and let the vehicle roll.
 
@@ -7293,7 +7413,7 @@ What makes more fuel be used?
 
 - Carrying a lot of weight The air outside
 
-Most of the fuel that is used is used to fight against the air that does not let the vehicle move forward. Some items fitted to the vehicle make it harder to fight against the air and, therefore, it uses more fuel. For example, a roof rack or deflectors.
+Most of the fuel that is used is used to fight against the air that does not let the vehicle move forward. Some elements fitted to the vehicle make it harder to fight against the air and, therefore, it uses more fuel. For example, the roof rack or the deflectors.
 
 Deflectors. An accessory fitted to the vehicle to divert the air and stop it entering the inside.
 
@@ -7303,7 +7423,7 @@ So that the vehicle does not use so much fuel because of the air, the following 
 
 - Do not fit a roof rack on the vehicle. It is better for luggage and other loads to go in the boot.
 
-- Do not lower the vehicle windows while it is moving.
+- Do not lower the vehicle windows while it is driving.
 
 - Do not tow a trailer or caravan.
 
@@ -7358,11 +7478,11 @@ A vehicle uses more fuel when it carries a lot of weight. So you should try to c
 
 <!-- Page: 461 -->
 
-Measures to save fuel that are false Some measures used to save fuel are false and must not be done because they damage the vehicle. These measures are:
+Measures to save fuel that are false Some measures used to save fuel are false and must not be done because they harm the vehicle. These measures are:
 
 - Put fuel in the vehicle different from what the manufacturer states.
 
-Unsuitable fuel will break the vehicle’s engine.
+Unsuitable fuel will break the vehicle engine.
 
 - Go down hills in neutral. The vehicle can lose stability and you will have to use the brakes too much.
 
@@ -7378,7 +7498,7 @@ New techniques to use less fuel
 
 Start-Stop function
 
-This system starts and stops the engine automatically when the vehicle stops for a moment at a traffic light, in a traffic jam or for other reasons. This way, when the vehicle is stopped it does not use fuel and does not release gases that pollute the environment.
+This system starts and stops the engine automatically when the vehicle stops for a moment at traffic lights, in a traffic jam, or for other reasons. This way, when the vehicle is stopped it does not use fuel and does not release gases that pollute the environment.
 
 Eco mode
 
@@ -7397,13 +7517,13 @@ Eco
 B
 C
 
-The information shown on each label is:
+The information that appears on each label is:
 
 <!-- Page: 464 -->
 
-The aim of this classification is to give preference to vehicles that harm the environment less. City authorities can:
+The aim of this classification is to give preference to vehicles that damage the environment less. City authorities can:
 
-- Create low-emission zones in the city. These are areas that only vehicles that harm the environment less can enter. This is done to improve air quality.
+- Create low-emission zones in the city. These are zones that only vehicles that damage the environment less can enter. This is done to improve air quality.
 
 Low-emission zones are shown with a vertical sign.
 
@@ -7411,9 +7531,9 @@ Only vehicles with the environmental label shown on the lower part of the sign w
 
 <!-- Page: 465 -->
 
-- Decide which vehicles can enter the city centre on days when there is a lot of air pollution.
+- Decide which vehicles can enter the city centre on days when there is a lot of pollution in the air.
 
-- Give financial or traffic benefits to vehicles that support caring for the environment. For example, they can allow vehicles with the “zero emissions” label to use the VAO lane, even if only the driver is travelling in the vehicle.
+- Give financial or traffic benefits to vehicles that support caring for the environment. For example, they can allow vehicles to drive in the VAO lane if they have the “zero emissions” label, even if only the driver is travelling in the vehicle.
 
 Environmental labels must be placed in front of the windscreen, on the right side of the vehicle’s front glass. In vehicles that do not have a windscreen, it will be placed in a visible place.
 
@@ -7423,9 +7543,9 @@ Shared vehicles
 
 Another measure to care for the environment is the use of shared vehicles. This initiative means that a person can hire a vehicle through an application (App) for hours or minutes and share it with other people.
 
-Shared-use vehicles carry this label.
+Shared-use vehicles have this badge.
 
-## Annex points. The driving licence with points
+## Points appendix. The points driving licence
 
 <!-- Page: 467 -->
 
@@ -7441,7 +7561,7 @@ Which offences take points from the driving licence?
 
 The aim of the points driving licence is to reduce the number of road accidents. How many points does each driver have?
 
-Drivers who start driving have 8 points during the first two years. If in that time they do not lose any points, they will move to 12 points.
+Drivers who start driving have 8 points for the first two years. If in that time they do not lose any points, they will move to 12 points.
 
 Drivers who keep the 12 points for three more years will get another two points. So, they will have 14.
 
@@ -7458,15 +7578,17 @@ Drivers who keep the 14 points for another three more years will get another poi
 
 Losing points
 
-A driver loses points when they commit some offences or penalties while driving. A person who loses all the points will not be able to drive again until six months have passed. After those six months, they will have to do a 24-hour course and an exam at the Traffic Headquarters to get the points back and the driving licence. If, in the next three years, they lose all the points again, they will have to wait 12 months more to get them back again.
+A driver loses points when they commit some offences or penalties while driving. A person who loses all the points will not be able to drive again until six months have passed. After those six months, they will have to do a 24-hour course and an exam at the Traffic Headquarters to recover the points and the driving licence. If, in the next three years, they lose all the points again, they will have to wait 12 months more to recover them again.
 
-Drivers who only lose some points can get them back again if they do not lose any more in two years. Also, they can do a road safety course lasting 12 hours to get back up to 6 points.
+Drivers who only lose some points can recover them again if they do not lose more in two years. Also, they can do a road safety education course lasting 12 hours to recover up to 6 points.
 
 <!-- Page: 470 -->
 
-Which offences take points away from the driving licence? Offences that take away from 2 to 6 points
+Which offences take points from the driving licence?
 
-- Driving faster than the allowed speed. The number of points lost for this offence will depend on the speed the vehicle is going in each case.
+Offences that take 2 to 6 points
+
+- Driving faster than the permitted speed. The number of points lost for this offence will depend on the speed the vehicle is travelling at in each case.
 
 Km/h
 20
@@ -7480,7 +7602,7 @@ Km/h
 200
 220
 240
-Offences that take away 3 points
+Offences that take 3 points
 
 - Making a U-turn where it is not allowed.
 
@@ -7492,7 +7614,7 @@ Offences that take away 3 points
 
 Radar. A system used to detect an object, know how far away it is and how fast it is moving.
 
-Offences that take away 4 points
+Offences that take 4 points
 
 - Driving with an alcohol level between 0.25 and 0.50 milligrams of alcohol per litre of air.
 
@@ -7500,7 +7622,7 @@ Professional drivers and those who have had the driving licence for less than tw
 
 <!-- Page: 472 -->
 
-- Driving a vehicle with a licence that does not authorise you to drive it. For example, driving a car when the driver’s licence only authorises them to drive motorcycles.
+- Driving a vehicle with a licence that does not authorise you to drive it. For example, driving a car when the driver's licence only authorises driving motorcycles.
 
 - Not following the right of way rules for other drivers or pedestrians and not stopping at Stop signs, Give Way signs and at red traffic lights.
 
@@ -7514,15 +7636,15 @@ Professional drivers and those who have had the driving licence for less than tw
 
 - Driving a vehicle when the driver has lost the driving licence for committing offences.
 
-- Not wearing the seat belt, the helmet, child restraint systems for children and other safety systems that are required.
+- Not wearing the seat belt, the helmet, child restraint systems for children and other safety systems that are compulsory.
 
 <!-- Page: 473 -->
 
-Offences that take away 6 points
+Offences that take 6 points
 
 - Driving with an alcohol level higher than 0.50 milligrams of alcohol per litre of air.
 
-Professional drivers and those who have had the driving licence since less than two years ago will lose the 6 points with an alcohol level higher than 0.30 milligrams of alcohol per litre of air.
+Professional drivers and those who have had the driving licence for less than two years will lose the 6 points with an alcohol level higher than 0.30 milligrams of alcohol per litre of air.
 
 - Driving after taking drugs or when some of these drugs are still in the body.
 
@@ -7530,11 +7652,11 @@ Professional drivers and those who have had the driving licence since less than 
 
 <!-- Page: 474 -->
 
-- Driving in the opposite direction to the one allowed, taking part in illegal races or putting other people’s lives in danger while driving.
+- Driving in the opposite direction to the permitted one, taking part in illegal races or putting other people's lives in danger while driving.
 
-- Driving vehicles that have installed mechanisms so that speed cameras do not detect them and do not know what speed they are going.
+- Driving vehicles that have installed mechanisms so that speed cameras do not detect them and do not know how fast they are going.
 
-- Driving for more than half of the time that is allowed or taking breaks shorter than allowed (for professional drivers). For example, driving for 6 hours in a row if the time limit is 4 hours or resting for 10 minutes when you must take breaks of at least 20 minutes.
+- Driving for more than half of the time that is allowed or taking breaks shorter than allowed (for professional drivers). For example, driving 6 hours in a row if the time limit is 4 hours or resting for 10 minutes when you must take breaks of at least 20 minutes.
 
 - Putting in the vehicle elements that change how the devices that limit speed work, or the ones that count the time the professional driver has been driving.
 

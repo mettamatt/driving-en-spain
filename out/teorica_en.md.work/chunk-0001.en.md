@@ -4,8 +4,8 @@
 <!-- Page: 1 -->
 Manual for the
 Category B
-licence in
-Easy Read
+Driving Licence in
+Easy Reading
 <!-- Page: 2 -->
 © 2023 ETRASA – Editorial Tráfico Vial, S.A.U. – 1st Corrected Edition June 2025
 C/ Puerto Navacerrada, 128
@@ -13,7 +13,7 @@ Industrial Estate “Las Nieves”
 28935 Móstoles (Madrid)
 
 «Any form of reproduction, public communication, or transformation of this work
-can only be done if its source is stated, except where the law provides an exception.
+can only be done if its source is stated, except for an exception provided by law.
 Contact CEDRO (Spanish Centre for Reprographic Rights) if you need to photocopy or
 scan any part of this work
 (www.conlicencia.com;
@@ -24,19 +24,19 @@ NIPO: 128250063
 Published by the Ministry of the Interior - Directorate-General for Traffic
 Based on the content of:
 This logo identifies materials that follow the international guidelines
-of the IFLA (International Federation of Library Associations and Institutions)
-and Inclusion Europe in language, content, and format,
+of IFLA (International Federation of Library Associations and Institutions)
+and Inclusion Europe for language, content, and format,
 to make them easier to understand.
-It is awarded by the Easy Read Association (www.lecturafacil.net).
+It is awarded by the Easy Reading Association (www.lecturafacil.net).
 This document has been adapted and validated
-following the UNE 153101:2018 EX Easy Read standard.
-Easy Read adaptation: María Peralta and Laia Vidal (Easy Read Association)
+following the UNE 153101:2018 EX Easy Reading standard.
+Easy Reading adaptation: María Peralta and Laia Vidal (Easy Reading Association)
 Validation: Cristina Casanova, Fernando Covas and Elisenda Copons (+Tu, Support Foundation).
 
 ## GENERAL INDEX
 <!-- Page: 3 -->
 Topic 1. Definitions
-Topic 2. Documents
+Topic 2. Documentation
 Topic 3. The driver's condition
 Topic 4. Duties of drivers and pedestrians
 Topic 5. Safety devices in the vehicle
@@ -52,7 +52,7 @@ Topic 14. Driving safely
 Topic 15. Vehicle mechanics and maintenance
 Topic 16. Road traffic accidents
 Topic 17. Preventive and efficient driving
-Points annex. The points-based driving licence
+Points appendix. The points-based driving licence
 <!-- Page: 4 -->
 
 ## Topic 1. Definitions
@@ -64,7 +64,7 @@ Definitions related to vehicles
 
 - Motor vehicles
 
-- Other types of motor vehicles
+- Other types of vehicles with an engine
 Definitions related to people
 
 - Driver
@@ -81,18 +81,17 @@ Definitions related
 to vehicles
 Vehicle
 Device prepared to travel on roads, streets,
-roads, and land of all kinds.
+roads, and all kinds of land.
 Types
 of vehicles
 1. Vehicles
 without an engine
-2. Vehicles
-with an engine
+2. Motor
+vehicles
 3. Other
 vehicles
 with an engine
 Watch video
-Vehicles without an engine
 Vehicles without an engine
 Animal-drawn vehicle
 Cycle and bicycle
@@ -118,27 +117,26 @@ In a trailer, the axle
 makes the load spread out
 and makes it easier to drive.
 <!-- Page: 8 -->
-Light trailer
-Heavy trailer
-With load it weighs
-a maximum of 750 kilos.
-With load it can weigh
-more than 750 kilos.
+| Light trailer | Heavy trailer |
+| --- | --- |
+| With load it weighs | With load it can weigh |
+| at most 750 kilos. | more than 750 kilos. |
+
 Semi-trailer
 Trailer that is attached directly
 to a motor vehicle, without an axle.
-Light semi-trailer
-Non-light
-semi-trailer
-With load it weighs
-a maximum of 750 kilos.
-With load it can weigh
-more than 750 kilos.
+
+
+| Light semi-trailer | Non-light semi-trailer |
+| --- | --- |
+| With load it weighs | With load it can weigh |
+| at most 750 kilos. | more than 750 kilos. |
+
 Motor vehicles
 Vehicles that need an engine to work.
 Motor vehicles are classified into:
 
-- Motor vehicles
+- Motor cars
 They are used to carry people and things.
 They are also used to move or tow
 other vehicles.
@@ -148,18 +146,18 @@ They are used to do certain jobs or services.
 Some have their own engine and others are towed.
 For example, excavators to move earth
 and tractors to work in the countryside.
-There are different types of motor vehicles
+There are different types of motor cars
 and special vehicles:
-Motor vehicles
-Two-wheeled
-motorcycles
+Motor cars
+Motorcycles
+with two wheels
 Motorcycles with sidecar
 Three-wheeled vehicles
 Heavy quadricycle (or quadricycle)
 Car
 Pick-up
 Car-derived van
-Adaptable mixed-use vehicle
+Adaptable dual-purpose vehicle
 Bus / Coach
 Trolleybus
 Lorry
@@ -178,24 +176,24 @@ Towed
 Agricultural trailer
 Towed machine
 <!-- Page: 11 -->
-Motor vehicles
+Motor cars
 Motorcycles
 Watch video
 Two-wheeled vehicles
 that must meet at least
-one of these two features
+one of these two characteristics
 related to engine capacity and speed:
 
-- If it is petrol, have an engine capacity
+- If it is petrol, have an engine with a capacity
 greater than 50 cubic centimetres
 or, what is the same, 0.05 litres.
 
 - Reach a speed greater
 than 45 kilometres per hour.
-Engine capacity. Measure used to calculate the power
+Engine capacity. A measure used to calculate the power
 of an engine.
-The more engine capacity an engine has,
-the greater its power will be.
+The more capacity an engine has,
+the greater its power.
 Engine capacity is measured in litres
 or in cubic centimetres.
 <!-- Page: 12 -->
@@ -203,51 +201,51 @@ Motorcycles with sidecar
 They are three-wheeled motorcycles
 that have a seat at the side
 for another person to sit.
-They must meet the same features
+They must meet the same characteristics
 of engine capacity and speed
 as two-wheeled motorcycles.
 Three-wheeled vehicle
 Vehicle with three symmetrical wheels that must meet
-the same features of engine capacity and speed
+the same characteristics of engine capacity and speed
 as two-wheeled motorcycles and sidecars.
 <!-- Page: 13 -->
 Heavy quadricycle
-Four-wheeled motor vehicle that meets
-these features:
+Four-wheeled motor car that meets
+these characteristics:
 
-- With load and passengers it weighs a maximum of
+- With load and passengers it weighs at most
 450 kilos if it carries people
 or 600 kilos if it carries goods.
 
-- The maximum power the engine
-can have is 15 kilowatts.
+- The maximum power the engine can have
+is 15 kilowatts.
 Kilowatt. Unit used to measure the maximum power
 a device can have.
 Car
-Motor vehicle used to carry people.
+Motor car used to carry people.
 It has at least four wheels.
-It can have a maximum of nine seats,
+It can have up to nine seats,
 counting the driver's seat.
 <!-- Page: 14 -->
 Car-derived van
-Motor vehicle with the body of a car,
+Motor car with the body of a car,
 but used to carry goods
 instead of people.
 It only has one row of seats
 to leave more space for goods.
-Body. Structure that gives shape to the motor vehicle.
+Body. Structure that gives shape to the motor car.
 Pick up
 Vehicle in which the seats for people
 and the load area are separated
 into two different spaces.
-With load and passengers it weighs a maximum of 3,500 kilos.
+With load and passengers it weighs at most 3,500 kilos.
 <!-- Page: 15 -->
-Adaptable mixed-use vehicle
+Adaptable dual-purpose vehicle
 Vehicle used to carry
 people or goods.
 The seats can be put in or taken out
 depending on the use you want to give the vehicle.
-A maximum of nine people can travel in it.
+Up to nine people can travel in it.
 Bus or coach
 Vehicle with more than nine seats
 used to carry people
@@ -260,8 +258,8 @@ Watch video
 It has two parts:
 
 - The cab. Space with seats
-where passengers and the driver travel.
-It can have a maximum of nine seats.
+where the passengers and the driver travel.
+It can have up to nine seats.
 
 - Rest of the lorry.
 Space that is at the back.
@@ -275,7 +273,7 @@ and the rest of the lorry are together, not separate.
 Articulated tractor unit
 Vehicle used to tow the semi-trailer.
 Combination of vehicles
-Motor vehicle made up of a motor vehicle
+Motor car made up of a motor vehicle
 and a trailer or semi-trailer attached
 or joined to it.
 Watch video
@@ -287,7 +285,7 @@ to the motor vehicle by means of an axle.
 to the motor vehicle, without an axle.
 3.  Euromodular configuration. Attached
 vehicles that have at least 6 axles
-in their wheels.
+on their wheels.
 The axles connect the wheels to each other
 and help them turn.
 Special vehicles
@@ -303,7 +301,7 @@ that has a very large engine.
 It is used to carry or tow materials
 and heavy loads.
 Watch video
-The tractor is used mainly in field work
+The tractor is used mainly for field work
 (agricultural tractor)
 and in construction (works tractor).
 Motor cultivator
@@ -332,10 +330,10 @@ in the countryside, or in other services.
 It must be towed
 by another special vehicle.
 <!-- Page: 21 -->
-Other types of motor vehicles
+Other types of vehicles with an engine
 Some vehicles that have an engine
 are not considered motor vehicles
-because they have special features.
+because they have special characteristics.
 Vehicles not considered motor vehicles
 Tram
 Moped
@@ -346,7 +344,7 @@ with an engine
 Personal mobility
 vehicle
 Tram
-It works through rails placed in the road
+It runs on rails placed in the road
 or in the street.
 <!-- Page: 22 -->
 Moped
@@ -354,15 +352,14 @@ Vehicles with two, three, or four wheels.
 They have low-power engines.
 The maximum speed they reach
 is 45 kilometres per hour.
-A maximum of two people can travel
-on mopeds.
+Up to two people can travel on mopeds.
 
 Vehicles for people with reduced mobility
 They are made for use by people
 who have a physical disability.
 The maximum speed they reach
 is 45 kilometres per hour.
-It weighs a maximum of 350 kilos.
+It weighs at most 350 kilos.
 <!-- Page: 23 -->
 Pedal bicycles with an engine
 Personal mobility vehicles

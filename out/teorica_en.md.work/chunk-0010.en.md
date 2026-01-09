@@ -1,20 +1,21 @@
 <!-- Page: 161 -->
-Temporary direction
+Temporary
+direction
 panel
-It forbids entry and tells you
+It bans entry and tells you
 which way you must go.
 Small flags and cones
-They forbid passing through them
+They ban entry through them
 and through the space
 between each flag or cone.
 Steady red light
 The road is closed to traffic.
 Steady or flashing
-yellow lights
-They forbid passing through the space
+amber lights
+They ban entry through the space
 between the lights.
-Permanent direction
-panels
+Permanent
+direction panels
 Devices that show which way
 you must go in a place
 where there is always
@@ -40,7 +41,7 @@ For some
 vehicles
 <!-- Page: 162 -->
 Traffic lights for pedestrians
-Their indications are for pedestrians.
+Their signals are for pedestrians.
 Not for drivers
 
 Watch video
@@ -48,36 +49,36 @@ Circular traffic lights for vehicles
 Steady red light
 No entry.
 One or two
-flashing red
-lights
-It forbids entry
-for a time.
+flashing
+red lights
+No entry
+for a period of time.
 They are placed before a level crossing
 or a bridge.
 Steady
-yellow light
-It forbids entry
-like the steady red light.
+amber light
+No entry
+the same as a steady red light.
 But it does allow vehicles to go through
 if they cannot stop
 for safety reasons.
 One or two
 flashing
-yellow
+amber
 lights
-They make you give way
+You must give way
 to vehicles coming
 from the right and from the left.
 Also to pedestrians.
-Steady green light It allows vehicles to go through
-and it also gives them priority
+Steady green light Allows vehicles to go through
+and also gives them priority
 at the junction.
 <!-- Page: 163 -->
 Black arrow
 The vehicle can only go towards
 the side shown by the arrow.
-Also, you must obey
-the colour
+Also, you must follow
+the meaning of the colour
 behind the arrow.
 For example, do not go through
 if it is red.
@@ -85,7 +86,7 @@ if it is red.
 Green arrow
 It allows vehicles to go forward
 in the direction shown by the arrow.
-You must do it carefully,
+You must do it carefully
 watching for pedestrians
 crossing the road
 and vehicles entering
@@ -116,7 +117,7 @@ obey the rest
 of the signs
 in that lane.
 White
-or yellow light in
+or amber light in
 the shape of a downward
 arrow
 It tells drivers
@@ -128,28 +129,28 @@ is going to close.
 Traffic lights for some vehicles
 Traffic lights for cycles and mopeds
 A cycle is shown on the traffic light.
-Their indications do not apply to other vehicles.
+Their signals do not apply to other vehicles.
 Traffic lights for trams, buses
 and other vehicles
 They have a white line on a black circular background.
-Their indications do not apply to cars.
+Their signals do not apply to cars.
 <!-- Page: 165 -->
 Vertical signs
 They are plates with information that stay fixed
-on posts or other structures on the road
-and in the streets.
+on posts or other road structures
+and on streets.
 Vertical signs depending
 on what their function is:
-1. They warn
+1. Warn
 of dangers
-2. They order
-or forbid
-3. They inform
+2. Make you do something
+or ban something
+3. Inform
 and guide
 Remember…
-A route is the place where you travel,
+A road is the place where you travel,
 it can be a street, a road, or a track.
-The carriageway is the part of the route
+The carriageway is the part of the road
 where vehicles travel.
 <!-- Page: 166 -->
 Signs that warn of danger
@@ -160,11 +161,11 @@ have priority to go through before
 vehicles coming
 from side roads or streets.
 P-1a Priority to go through before
-vehicles coming from the road
-on the right.
+vehicles coming on the road
+from the right.
 P-1b Priority to go through before
-vehicles coming from the road
-on the left.
+vehicles coming on the road
+from the left.
 P-1c Priority to go through before
 vehicles that want to enter that road
 from the right.
@@ -183,21 +184,21 @@ because there may be vehicles
 queued and stopped at the traffic lights.
 <!-- Page: 167 -->
 P-4 Roundabout.
-Vehicles can only turn
+Vehicles can only go round
 in the direction of the arrows.
-P-5 Opening bridge.
+P-5 Movable bridge.
 There is a bridge nearby that can be raised
 or turned.
 When it is raised or turned,
 traffic is stopped and vehicles
-must wait.
+have to wait.
 P-6 Tram crossing.
 Danger because nearby there is a junction
 with a tram line
 that has priority to go through.
 P-7 Level crossing with barriers nearby.
-A level crossing is the place where
-train tracks cross a path or road.
+A level crossing is the place where the train tracks
+cross a path or road.
 On the road, before you reach the train track,
 you will find a barrier.
 P-8 Level crossing without barriers nearby.
@@ -205,17 +206,17 @@ There will be no barrier separating
 the road you are travelling on
 and the train track.
 P-9a and P-10a There is a level crossing,
-opening bridge, or quay about 300 metres away.
+movable bridge, or quay about 300 metres away.
 P-9b and P-10b There is a level crossing,
-opening bridge, or quay about 200 metres away.
+movable bridge, or quay about 200 metres away.
 P-9c and P-10c There is a level crossing,
-opening bridge, or quay about 100 metres away.
+movable bridge, or quay about 100 metres away.
 <!-- Page: 168 -->
 P-11 Level crossing without barriers
-In that same place.
+At that same place.
 P-11a Level crossing without barriers
 where there is more than one train track.
-In that same place.
+At that same place.
 P-12 Airport
 Danger from unexpected noises
 that aircraft can cause.
@@ -225,11 +226,11 @@ P-14a Several dangerous bends nearby.
 The first goes to the right.
 P-14b Several dangerous bends nearby.
 The first goes to the left.
-P-15 Uneven surface.
+P-15 Uneven road surface.
 There are humps, dips, or the road is
 in poor condition.
 Humps are parts of the road that slope
-upwards and stick out to make
+upwards and stick up to make
 vehicles reduce speed.
 Dips are also parts of the road,
 they are potholes or trenches in the road.
@@ -244,7 +245,7 @@ on the right.
 P-17b The carriageway becomes narrower
 on the left.
 P-18 Roadworks.
-P-19 Slippery carriageway.
+P-19 Slippery road.
 P-20 Pedestrians.
 Careful, you are coming to a place
 where there are often pedestrians.
@@ -253,11 +254,12 @@ For example, the exit of a school.
 <!-- Page: 170 -->
 P-22 Place where cyclists often go
 or cross.
-P-23 Place where domestic animals may often go.
+P-23 Place where domestic animals
+may often go.
 For example, cows, sheep...
-P-24 Place where animals in the wild
+P-24 Place where animals running free
 may cross.
-P-25 Vehicles can travel
+P-25 Vehicles may travel
 in both directions.
 P-26 There may be stones
 or other obstacles on the road
@@ -266,9 +268,9 @@ where objects fall.
 For example, a road
 below a mountain.
 P-27 The road ends at the quay
-of a port or at a watercourse.
+of a port or at a water current.
 P-28 Small stones jump up from the road surface,
-called gravel.
+called loose chippings.
 <!-- Page: 171 -->
 P-29 There is strong side wind.
 P-30 The carriageway is at a different height
@@ -295,10 +297,10 @@ of the town or city mean that you must
 follow that rule in the whole town or city.
 For example, a circular sign with the number 40
 above the name of a town
-means that it is forbidden to drive
+means it is forbidden to drive
 at more than 40 kilometres per hour in the whole town.
 If the circular sign is before or after,
-it means that you cannot drive
+it means you cannot drive
 at more than 40 kilometres per hour
 on that section, until you find another sign.
 40
@@ -322,47 +324,46 @@ on the road you want to enter go through.
 R-3 Priority road.
 While you are on that road
 you have priority to go through at junctions
-before drivers who reach
-the junction from another road.
+before drivers arriving
+at the junction from another road.
 R-4 End of priority road.
 The road you are travelling on
 stops having more priority
 than other roads.
 R-5 Do not enter a narrow passage
-if, when you go through it, you obstruct
+if, when you go through it, you block
 vehicles coming towards you.
 R-6 You have priority to go through
 a narrow passage before
 vehicles coming in the opposite direction.
 <!-- Page: 174 -->
-Signs that forbid entry
+Signs that ban entry
 R-100 No traffic.
-It forbids all vehicles
+It bans all vehicles
 in any direction.
 R-101 No entry.
-It forbids entry to all types of vehicles.
+It bans entry to all types of vehicles.
 Vehicles may be travelling
 in the opposite direction to you
 because this ban may only be in one direction.
 R-102 No entry for motor vehicles.
 Mopeds can enter.
 R-103 No entry for motor vehicles.
-Two-wheeled motorcycles, without a sidecar,
-can enter.
+Two-wheeled motorcycles without a sidecar can enter.
 R-104 No entry for motorcycles.
 R-105 No entry for mopeds
 and vehicles for people
 with reduced mobility.
 R-106 No entry for vehicles
-that carry goods,
+carrying goods,
 even if they do not carry much load.
 For example, vans and lorries.
 <!-- Page: 175 -->
 R-107 No entry for vehicles
-that carry goods and can carry
+carrying goods and that can carry
 a load in tonnes greater than the number
 shown on the sign.
-These vehicles are forbidden to enter,
+These vehicles are not allowed to enter,
 even if they are empty
 at that time.
 R-108 No entry for vehicles
@@ -390,7 +391,7 @@ R-117 No entry for animals
 ridden by people.
 Signs that limit passage
 R-200 You must stop the vehicle
-at the place where it is placed
+where it is placed
 to comply with the signs
 in each case.
 For example, a toll booth on
@@ -399,9 +400,9 @@ R-201 No entry for vehicles
 carrying a load that weighs more than
 the number of tonnes shown on the sign.
 R-202 No entry for vehicles
-with an axle load
+with an axle weight
 greater than the number of tonnes
 shown on the sign.
-In this case, vehicles cannot pass
-if they have an axle load
+In this case, vehicles cannot go through
+if they have an axle weight
 greater than 2.4 tonnes.

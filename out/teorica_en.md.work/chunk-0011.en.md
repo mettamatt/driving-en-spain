@@ -11,8 +11,8 @@ shown on the sign.
 Other prohibition or restriction signs
 R-300 Minimum distance from the vehicle
 in front.
-You must keep from the vehicle
-in front the metres of distance
+You must keep, from the vehicle
+in front, the metres of distance
 shown on the sign.
 R-301 Maximum permitted speed.
 You must not drive faster,
@@ -63,7 +63,7 @@ of a dropped kerb.
 Dropped kerbs are spaces in the street reserved
 so that some vehicles can enter
 their garages, homes, or shops.
-R-309 Limited-time parking area.
+R-309 Limited-duration parking area.
 The driver must show
 the time when they parked the vehicle.
 R-310 Remember that you should only make
@@ -100,7 +100,7 @@ Motorcycles without a sidecar are not
 required to.
 R-405 Motorcycles
 without a sidecar must use that carriageway.
-R-406 Lorries, vans
+R-406 Lorries, vans,
 and light vans must use that carriageway.
 R-407a Road reserved only for bicycles.
 No one else may use this road.
@@ -117,7 +117,7 @@ R-410 Pedestrians must
 use that path.
 No one else may use that path.
 R-411 Minimum speed.
-Vehicles must travel
+Vehicles must drive
 at least at the speed
 shown on the sign.
 You cannot drive more slowly.
@@ -140,9 +140,9 @@ explosive material or material
 that can catch fire must use that road.
 R-418 Lane only for vehicles that have
 an electronic toll device.
-The electronic toll is an electronic device
+Electronic toll is an electronic device
 that is placed on the windscreen
-and that recognises your vehicle number plate
+and that recognises your vehicle’s number plate
 so that the motorway barrier
 opens automatically.
 Signs that end the prohibition
@@ -164,7 +164,7 @@ Vehicles can park in that place.
 R-505 End of road reserved for bicycles.
 R-506 End of minimum speed.
 You can drive more slowly
-than the speed shown on the sign.
+than the sign shows.
 Signs that give information of interest
 They give information of interest to drivers
 and pedestrians.
@@ -176,7 +176,7 @@ S-1a Place where a dual carriageway begins.
 S-2 Place where a motorway ends.
 S-2a Place where a dual carriageway ends.
 S-3 Start of a road reserved
-for cars.
+for cars to use.
 <!-- Page: 185 -->
 S-4 End of a road reserved
 for cars.
@@ -184,7 +184,7 @@ S-5 A tunnel begins.
 S-6 End of the tunnel.
 S-7 Recommended maximum speed.
 It recommends the maximum speed
-you should always drive at on that road.
+that you should always drive at on that road.
 S-8 End of recommended maximum speed.
 The stretch of road ends
 where it is recommended to drive at that speed
@@ -202,8 +202,8 @@ on that road.
 They also ban U-turns
 (turning round).
 The arrows show the number of lanes
-S-12 One-way section of carriageway.
-It shows that on that section of street or road
+S-12 Stretch of one-way carriageway.
+It shows that on that stretch of street or road
 you must travel in the direction
 the arrow points.
 It is forbidden to do it in the other direction.
@@ -234,7 +234,7 @@ Green. All vehicles can drive.
 But lorries that can carry
 more than 3,500 kilos
 cannot overtake other vehicles.
-Yellow. Cars and buses
+Yellow. Cars and coaches
 must drive at a maximum speed
 of 60 kilometres per hour.
 Lorries that can carry
@@ -243,7 +243,7 @@ cannot pass.
 Red. Vehicles must use chains
 and drive at a maximum speed of
 30 kilometres per hour.
-Lorries and buses cannot pass.
+Lorries and coaches cannot pass.
 Black, with the word CLOSED.
 No vehicle can pass
 on that road.
@@ -280,7 +280,7 @@ S-26 c There is a motorway, dual carriageway,
 or road for cars exit in 100 metres.
 
 
-S-27 There is a roadside emergency post
+S-27 There is an emergency help point on the road
 to ask for help in case of an accident or breakdown.
 S-28 Area with priority for pedestrians.
 You must not drive faster
@@ -307,9 +307,9 @@ S-34a It shows that this place has an emergency
 telephone.
 Signs that give information about lanes
 S-50a, S-50b, S-50c, S-50d and S-50e
-Only vehicles
-that travel at that speed or faster
-may use the lanes marked with a number.
+In the lanes marked with a number,
+only vehicles
+that travel at that speed or faster may use them.
 
 
 S-51 Lane reserved for buses.
@@ -317,8 +317,8 @@ S-52, S-52a and S-52b
 It warns that a lane can no longer be used
 and shows the lane you can continue in.
 <!-- Page: 191 -->
-S-53c Road that changes from two lanes
-to three lanes.
+S-53c Road that changes from having two lanes
+to having three lanes.
 It also shows the maximum speed
 you can drive in each one.
 S-60a. On a two-lane road
@@ -337,11 +337,11 @@ S-64 Cycle lane or cycle track on the road.
 Only cycles may use that lane.
 Signs that give information about services
 S-100 First aid post where you can
-get emergency treatment.
+get urgent treatment.
 <!-- Page: 192 -->
 S-101 Place where there are ambulances
-to help and take people injured
-in traffic accidents.
+to treat and take injured people
+in road traffic accidents.
 S-102 Place where you can have
 the vehicle checked.
 S-103 There is a vehicle repair workshop.

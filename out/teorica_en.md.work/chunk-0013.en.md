@@ -29,8 +29,7 @@ even if the brakes do not work.
 <!-- Page: 218 -->
 Junction
 Place where
-several roads, streets, or tracks
-cross.
+several roads, streets or tracks cross.
 Roundabout
 Junction where there is
 a circular structure in the centre
@@ -39,9 +38,8 @@ around that structure.
 You cannot go through the centre.
 Level crossing
 Place where
-a road or track
-and the railway tracks
-cross.
+a road or track crosses
+the railway tracks.
 <!-- Page: 219 -->
 Traffic island
 Area of the carriageway that is slightly raised
@@ -56,8 +54,8 @@ Route prepared for cycles to use.
 <!-- Page: 220 -->
 There are several types of cycle route:
 Cycle lane
-It is next to
-the carriageway.
+It is next
+to the carriageway.
 It can work
 in two directions
 or in one direction only.
@@ -80,20 +78,19 @@ and the road.
 Cycle
 path
 Route located in parks,
-gardens, and woods
+gardens and woods
 where only
 pedestrians
-and cycles
-can travel.
+and cycles can travel.
 <!-- Page: 221 -->
 Pedestrian area
 Part of the road reserved for pedestrians.
 The pavement,
-the walkway, and the refuge
+the walkway and the refuge
 are considered pedestrian areas.
 The refuge is a pedestrian area located on the carriageway
 that vehicles cannot enter.
-For example, an area to wait
+For example, an area to stop
 between two pedestrian crossings.
 Built-up area
 Places where there are buildings.
@@ -103,22 +100,22 @@ built-up areas there are signs
 with their name written on them.
 <!-- Page: 222 -->
 Watch video
-Direction and sense
+Direction and way
 Direction
-Straight or curved line that links two places.
-Sense
+Straight or curved line that joins two places.
+Way
 The two options, outward and return,
 that can be used to go
 in the same direction.
 For example, two cars
 that go on the same road,
-one in the outward lane
+one in an outward lane
 and the other in the return lane,
 go in the same direction,
-but in a different sense.
+but in a different way.
 There are one-way roads
 and others where you can drive
-in both senses, in different lanes.
+in both ways, in different lanes.
 Exit
 Entry
 <!-- Page: 223 -->
@@ -132,14 +129,14 @@ Types of road
 Depending on where it is
 Urban road
 Streets and tracks
-within the built-up area.
+inside the built-up area.
 Interurban
 road
 Roads and tracks
 outside the built-up area.
 Through road
 Road that
-goes through a built-up area.
+passes through a built-up area.
 <!-- Page: 224 -->
 Depending
 on its characteristics
@@ -155,12 +152,12 @@ next to the motorway.
 - You can only enter
 through prepared and authorised access points.
 
-- No railway, tramway, or path crosses it,
+- No railway line, tramway or path crosses it,
 and no other road crosses it.
 
 - It has separate carriageways
-so that vehicles drive
-in one sense or the other.
+so that vehicles travel
+in one way or the other.
 Motorways can be toll roads.
 That is, you have to pay
 to drive on them.
@@ -176,7 +173,7 @@ next to the dual carriageway.
 
 - It has more access roads.
 
-- You do not have to pay to drive.
+- You do not have to pay to drive on it.
 Road for motor vehicles
 Road where only
 motor vehicles can drive.
@@ -189,15 +186,15 @@ It is signposted
 with signs S-3 and S-4.
 <!-- Page: 226 -->
 Conventional road
-These are all the roads
+These are all roads
 that do not meet the characteristics
-of motorways, dual carriageways,
+of motorways, dual carriageways
 and roads for motor vehicles.
 Service road or service lane
 It is a road that runs parallel
 to the main road
 and links this road
-with houses, petrol stations,
+with houses, petrol stations
 and other properties.
 Colours that show
 the state of the road
@@ -211,7 +208,7 @@ Yellow
 There are stops and queues
 of vehicles
 or traffic is slow
-in some sections.
+on some sections.
 Red
 There are too many vehicles
 and there are many stops
@@ -225,25 +222,25 @@ Where should vehicles drive?
 They must drive on the right
 and as close as possible to the edge
 of the carriageway, especially
-on bends and changes of crest
+on bends and crests
 with reduced visibility.
 Watch video
-You must always keep free
+You must always keep clear
 the part of the carriageway
-that belongs to the opposite sense.
+for the opposite way.
 On roads with two carriageways,
 vehicles must use
 the carriageway on their right.
 On roads with three carriageways,
 the middle one can have
-one or two senses
-and the side ones one sense only.
+one or two ways
+and the side ones one way only.
 <!-- Page: 228 -->
 When you find on the road
 refuges or traffic islands,
 you must drive on the right-hand side
 of the refuge or traffic island.
-If the road has only one sense
+If the road has only one way
 you can drive on either
 side of the refuge or traffic island.
 <!-- Page: 229 -->
@@ -261,39 +258,39 @@ On the right.
 Two-way
 and with three lanes
 On the right.
-You must never use
+Never use
 the left lane.
 The centre lane is only used
 to overtake and to change
 direction to the left.
 <!-- Page: 230 -->
-Within towns or cities
+Inside towns or cities
 Motor vehicles and special vehicles
-can drive in the lane they prefer
-on roads with two lanes
-going in the same sense
+can use the lane they prefer
+on roads and streets with two lanes
+going in the same way
 and separated by a white line.
 Watch video
-In these cases you must keep in mind that:
+In these cases you must take into account that:
 
 - You should only leave that lane
-to change direction, park,
+to change direction, park
 or overtake another vehicle.
 
 - You must not block the way
 or be an obstacle for other vehicles.
 When the lanes are not separated
-by a white line,
+by a white line
 all drivers
 must drive on the right.
-Other vehicles, such as cycles, mopeds,
-or vehicles for people with reduced mobility,
+Other vehicles, such as cycles, mopeds
+or vehicles for people with reduced mobility
 must always drive on the right,
-even if there is a separation line between lanes.
+even if there is a line separating lanes.
 <!-- Page: 231 -->
 Outside towns or cities
 On roads with two lanes
-going in the same sense,
+going in the same way,
 motor vehicles and special vehicles
 that with load can weigh more than 3,500 kilos
 will drive in the lane on their right.
@@ -303,16 +300,16 @@ make it advisable
 and as long as they do not hinder other drivers.
 Watch video
 On roads with three or more lanes
-going in the same sense,
+going in the same way,
 some vehicles have the obligation
-to always go in the right lane
-and they are forbidden to use other lanes.
+to always use the right lane
+and are forbidden to use other lanes.
 These vehicles that must drive in the right lane
-may use the lane next to it, but cannot use
+may use the one next to it, and may not use
 any more, and under the same conditions
 as the previous point. These vehicles are:
 
-- Lorries, vans, and special vehicles
+- Lorries, vans and special vehicles
 that with load can weigh more than 3,500 kilos.
 
 - Vehicle combinations that are
@@ -322,7 +319,7 @@ Reserved lanes
 High
 occupancy
 vehicles
-(HOV)
+(VAO)
 Bus
 and taxi
 For
@@ -336,26 +333,26 @@ These lanes are:
 Lane reserved for the bus
 Driving in that lane is forbidden
 for the other vehicles.
-Taxis can drive there
+Taxis can drive
 when the word TAXI
 is written in the lane.
 This lane will be separated
 from the other lanes
 by a wide white line.
 <!-- Page: 233 -->
-Lane for high occupancy vehicles (HOV)
+Lane for high occupancy vehicles (VAO)
 For a motor vehicle to be
 a high occupancy vehicle
 it must meet three requirements:
 1.  It can only carry people.
-2.  It cannot weigh more than 3,500 kilos.
+2.  It cannot carry more than 3,500 kilos.
 3.  The number of people travelling in the vehicle
-is the one shown in the HOV lane signs.
-The following vehicles can also drive in this lane:
+is the one shown in the VAO lane signs.
+The following vehicles can also use this lane:
 
-- Motorcycles, cars, or adaptable mixed vehicles
+- Motorcycles, cars or adaptable mixed vehicles
 when they meet the three requirements needed
-for HOV motor vehicles (see previous paragraph).
+for VAO motor vehicles (see previous paragraph).
 
 - Vehicles for people with disabilities
 even if only the driver is travelling.
@@ -383,12 +380,12 @@ You must take a series of precautions
 when entering this lane:
 
 - Move into the lane closest
-to the exit.
+to the exit lane.
 
 - Enter the exit lane as soon as possible.
 
 - Drive more slowly
-within this lane.
+in this lane.
 
 - Pay attention to the conditions
 of the new road you are joining.
@@ -400,12 +397,11 @@ Special cases
 for using lanes
 Reversible
 Opposite
-to the
-usual
+to the usual
 Additional
 Reversible lanes
-They are lanes where you can drive
-in one sense or the other,
+These are lanes where you can drive
+in one way or the other,
 depending on the circumstances.
 They are marked with broken
 white lines on both sides of the lane.
@@ -414,11 +410,11 @@ dipped headlights
 when driving in this lane,
 day and night.
 <!-- Page: 236 -->
-Lanes that go in the opposite sense to the usual one
-They can be set up
+Lanes that go opposite to the usual way
+They can be put in place
 when there are many vehicles
-that want to go in the same sense
-of the road.
+that want to go in the same way
+on the road.
 This means there are fewer traffic jams
 and vehicles can drive better.
 Only motorcycles and cars
@@ -433,21 +429,21 @@ and 80 kilometres per hour.
 
 - Without changing into other lanes.
 Not even to overtake.
-Vehicles that are in the lane
+Vehicles in the lane
 next to it,
-in the normal sense of the road,
+in the normal way of the road,
 must take the same precautions.
 <!-- Page: 237 -->
-Lanes can also be set up
-in the opposite sense to the normal one
+Lanes can also be put in place
+opposite to the normal way
 when road works are being done.
 In that case, all vehicles authorised
 to drive on a road with road works
-can drive in that lane.
+can use that lane.
 Additional lanes
-On carriageways with two senses of traffic,
+On carriageways with two ways of traffic,
 using the hard shoulders,
-they are sometimes set up
+they are sometimes put in place
 when there are many vehicles
 on the same road
 so that there is one more lane to drive in.

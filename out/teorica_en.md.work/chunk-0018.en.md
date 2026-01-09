@@ -6,12 +6,12 @@ When there are no lines that show
 which is the entry to that junction,
 you must wait and give way
 from the place where you can best see the junction
-and the vehicles coming to it.
+and the vehicles arriving at it.
 You must never enter a junction,
-a pedestrian crossing or a cycle crossing
+a pedestrian crossing or a cyclist crossing
 if you think your vehicle will get stuck
 in the middle of the junction or the crossing,
-blocking traffic.
+interrupting traffic.
 For example, you must not enter a pedestrian crossing
 when there are vehicles right in front
 that will not let you pass. In that case,
@@ -28,27 +28,26 @@ You must drive in the same way
 as on the rest of the roads, depending on whether they are urban
 with or without boundaries, interurban, etc.
 Watch video
-Watch video
 Right of way for cyclists,
 pedestrians and animals
 Cyclists
-Cyclists have priority to go
+Cyclists have right of way
 in the following situations:
 
 - When they are riding in a cycle lane,
-a cycle crossing
-or a well-signed hard shoulder.
+a cyclist crossing
+or a well-signposted hard shoulder.
 <!-- Page: 306 -->
 - When another vehicle wants to turn right
 or left and there are cyclists nearby.
 
 - When cyclists are riding in a group
 and one of them has already entered a junction.
-The other vehicles must wait
+Other vehicles must wait
 until the whole group of cyclists has passed.
 Pedestrians
 Watch video
-Pedestrians have priority to go
+Pedestrians have right of way
 in the following situations.
 
 - At pedestrian crossings, on pavements
@@ -60,7 +59,7 @@ where pedestrians are crossing.
 
 - When a vehicle crosses a hard shoulder
 where pedestrians are walking
-and they have no other place to go
+who have no other place to go
 because there are no pavements.
 
 - When a vehicle needs to cross
@@ -71,7 +70,7 @@ when leaving a garage.
 Drivers must also give way to:
 
 - An organised group of people
-who all go together for a purpose.
+who all go together with a purpose.
 For example, a group of children on a trip
 with their school.
 
@@ -80,14 +79,14 @@ public transport at the stop.
 For example, people getting off the bus,
 up to the nearest pedestrian area.
 Animals
-Animals have priority to go
+Animals have right of way
 in the following situations.
 
-- On drovers’ roads where there is a sign
+- On drovers' roads where there is a sign
 for “Domestic animals crossing”.
-And below it a sign that says drovers’ road.
-Drovers’ road. A path made so that animals
-can go along it.
+And below it a sign that says drovers' road.
+Drovers' road. A path created so that animals
+can pass along it.
 <!-- Page: 308 -->
 - When a vehicle is going to turn
 to enter another road
@@ -95,12 +94,11 @@ where animals are crossing.
 
 - When a vehicle crosses a hard shoulder
 where animals are moving
-and they have no other place to go
-because there is no drovers’ road.
-Right of way for vehicles
-in emergency service
+that have no other place to go
+because there is no drovers' road.
+Right of way for emergency service vehicles
 Which vehicles are prepared
-to do emergency services?
+to provide emergency services?
 
 - Police cars.
 
@@ -110,8 +108,8 @@ to do emergency services?
 
 - Ambulances and other vehicles
 for medical assistance.
-When these vehicles are on an emergency service,
-they must warn that they are coming by switching on the siren
+When these vehicles are on an emergency call,
+they must warn of their arrival by switching on the siren
 and the lights made for this.
 In these cases, these vehicles have priority
 on all roads (streets and roads).
@@ -119,53 +117,52 @@ All other vehicles and pedestrians
 must give way to them.
 <!-- Page: 309 -->
 The following vehicles
-also have priority:
+also have right of way:
 
 - Maintenance teams
 that repair the road.
 
 - Roadside assistance vehicles
 when they are going to help vehicles
-that have broken down or had an accident.
+that have had a breakdown or an accident.
 Drivers of vehicles prepared
-to do emergency services
-can drive faster than the speed limit
-and do not have the duty to obey signs.
+to provide emergency services
+can drive faster than the permitted speed
+and do not have the obligation to obey signs.
 The only signs they must obey
 are those given by traffic officers.
 They must make sure they do not put
-pedestrians or vehicles in danger when going through a junction
+pedestrians or vehicles in danger when passing through a junction
 or going through a red traffic light.
 On the motorway and dual carriageway they can change
 direction, change the direction of travel, reverse
-and enter the central reservation when they can make sure
+and enter the central reservation when they can ensure
 that there is no danger for other vehicles.
 <!-- Page: 310 -->
 How should you act when there are vehicles
-doing emergency services?
+providing emergency services?
 All vehicles must make it easier for them to pass
 as soon as they hear the siren or see the lights.
 They will move to the right and stop if necessary.
 Pedestrians will keep the road clear
 and wait on the pavement.
-Any vehicle doing an emergency
-service
+Any vehicle providing an emergency service
 Watch video
-In some situations drivers
+In some circumstances drivers
 of vehicles that are not prepared
-to do emergency services
+to provide emergency services
 must ask for priority from other vehicles
 because of some situation.
-For example, they are taking a person
-who is very ill to hospital or a woman about to give birth.
+For example, they are taking a very ill person
+to hospital or a woman about to give birth.
 In these cases, the driver of the vehicle
-can warn about the emergency situation
+can warn of the emergency situation
 in the following ways:
 
 - Sounding the vehicle horn
 intermittently.
 <!-- Page: 311 -->
-- Switching on the vehicle’s hazard lights.
+- Switching on the vehicle hazard lights.
 
 - Waving a handkerchief through the window.
 The driver must obey the traffic rules.
@@ -175,33 +172,33 @@ Right of way in narrow sections
 Narrow sections with signs
 You must always follow the rules
 shown by vertical signs, traffic lights
-or traffic officers when going along a road
+or traffic officers when passing along a road
 or path that is very narrow.
 Narrow sections without signs
 If there are no signs
-to pass through a narrow section,
-the vehicle that entered first
-has priority in the narrow section.
+for passing through a narrow section,
+the vehicle that entered the narrow section first
+has right of way.
 <!-- Page: 312 -->
 If there is doubt about which vehicle
 entered first, vehicles
-with more difficulty doing manoeuvres will have priority.
+with more difficulty manoeuvring have priority.
 Which vehicles have priority
 to pass through a narrow section?
 The order of priority of vehicles is as follows:
 1.  Special vehicles that exceed the weight
-and size set by the rules that regulate
+and dimensions set by the rules that regulate
 vehicles.
 2.  Vehicle combinations.
-3.  Vehicles pulled by animals.
-4.  Motorhomes and cars pulling
+3.  Animal-drawn vehicles.
+4.  Motor caravans and cars towing
 a trailer that weighs less than 750 kilos.
 5.  Buses.
 6.  Lorries, articulated lorries and vans.
 7.  Cars and car-derived vehicles.
 8.  Heavy quadricycles, light quadricycles
 and special vehicles that have the weight
-and size set by the rules
+and dimensions set by the rules
 that regulate vehicles.
 9.  Three-wheeled mopeds, motorcycles
 with sidecar and other three-wheeled vehicles.
@@ -215,9 +212,9 @@ the following has priority:
 - The vehicle that has to reverse
 for a longer distance.
 
-- When the distance to reverse
+- When the reversing distance
 is the same, the vehicle that is wider, longer
-or can carry more load will have priority to go.
+or can carry more load has priority to pass.
 The lorry can go first.
 The car has to reverse.
 The bus can go first.
@@ -225,7 +222,7 @@ The lorry has to reverse.
 <!-- Page: 314 -->
 Narrow sections on a slope
 On steep slopes, the vehicle going uphill
-has priority to go,
+has priority to pass,
 unless it has a safe place to stop closer than the other vehicle.
 If there is doubt, the same rule will be followed
 as in narrow sections that are not on a slope.
@@ -268,7 +265,7 @@ and to the drivers of other vehicles
 approaching the area .
 <!-- Page: 316 -->
 Crossing tunnels and underpasses
-No vehicle can enter a tunnel
+No vehicle may enter a tunnel
 when at the tunnel entrance there is a traffic light
 that forbids entry.
 Watch video
@@ -286,10 +283,9 @@ cannot move forward inside a tunnel,
 all passengers must stay
 inside the vehicle.
 The driver must switch off the engine
-and keep
-the sidelights on.
-When braking, they will switch on
-for a
+and keep on
+the sidelights.
+When braking, they will switch on for a
 moment
 the hazard lights
 so that other
@@ -300,8 +296,8 @@ When a driver has to stop the vehicle
 inside a tunnel because of an emergency,
 the steps they must follow are:
 
-- Switch off the engine, keep
-the sidelights and hazard lights on
+- Switch off the engine, keep on
+the sidelights and the hazard lights
 so that other drivers
 can see the vehicle.
 
@@ -311,8 +307,9 @@ If there is no emergency area, they must move it
 as close as possible to the right edge of the road.
 
 - Switch on and place the warning light,
-if you have one, or if not place
-the warning triangles on the carriageway.
+if you have one, or otherwise place
+the warning triangles on the road
+that indicate danger.
 
 - Ask for help through the nearest emergency post
 inside the tunnel
@@ -322,14 +319,14 @@ and follow the instructions you are given.
 must leave it and go to the nearest refuge
 or exit.
 
-- When the vehicle can be moved,
+- When the vehicle can move,
 despite the breakdown, drive until you leave
 the tunnel or reach the nearest
 emergency area.
 <!-- Page: 318 -->
 If there is a fire inside a tunnel,
 drivers of vehicles must follow
-these steps:
+the following steps:
 
 - Move the vehicle to the right
 to let emergency vehicles pass.
@@ -354,13 +351,13 @@ animals and loads
 - Carrying people
 
 - Carrying loads
-Permitted sizes for vehicles and loads
+Permitted dimensions for vehicles and loads
 
-- Permitted sizes for vehicles
+- Permitted dimensions for vehicles
 
-- Permitted sizes for loads
+- Permitted dimensions for loads
 
-- Marking a load that sticks out
+- Marking a load that overhangs
 
 - Loading and unloading operations
 Plates and signs on vehicles

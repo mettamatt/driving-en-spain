@@ -35,24 +35,24 @@ Driving licence
 
 - New drivers
 
-- When must you renew your category B driving licence?
-Vehicle registration document
+- When must you renew your type B driving licence?
+Vehicle registration certificate
 
-- Which vehicles must have a vehicle registration document?
+- Which vehicles must have a vehicle registration certificate?
 
-- What information appears on the vehicle registration document?
-Roadworthiness test certificate (ITV)
+- What information appears on the vehicle registration certificate?
+Vehicle roadworthiness inspection card (ITV)
 
 - Which vehicles must have
-the roadworthiness test certificate?
+the roadworthiness inspection card?
 
-- What information appears on the roadworthiness test
-certificate?
+- What information appears on the roadworthiness
+inspection card?
 
-- When must you take your vehicle
-for the roadworthiness test (ITV)?
+- When must you have your vehicle
+roadworthiness inspection (ITV)?
 
-- Roadworthiness test results
+- Results of the roadworthiness inspection
 Compulsory third-party liability insurance
 
 - Which vehicles must have compulsory
@@ -72,11 +72,10 @@ Documents
 Driving
 licence
 Vehicle
-registration
-document
+registration certificate
 Roadworthiness
-test
-certificate
+inspection
+card
 Third-party
 liability
 insurance
@@ -91,11 +90,11 @@ of the documents that is certified
 by an official public body.
 For example, the town hall, the police
 or a notary.
-To certify. An official body confirms
+Certify. An official body confirms
 that the copy of the document is genuine
 <!-- Page: 28 -->
 When you need to adapt the vehicle to drive,
-you must ask for a special permit
+you must apply for a special permit
 and make the necessary changes to the vehicle.
 For example, fitting controls on the steering wheel
 for people who have a disability
@@ -106,12 +105,10 @@ that a driver must have, what they are for
 and how they are used.
 Driving licence
 Document that authorises a person to drive
-and makes sure they meet the requirements to do so.
+and confirms that they meet the requirements to do so.
 Types of driving licence
 You must get one licence or another
 depending on the vehicle you are going to drive:
-Watch video
-Watch video
 <!-- Page: 29 -->
 Type of
 licence
@@ -129,7 +126,7 @@ with reduced mobility.
 15 years
 A1
 Motorcycles with a
-maximum engine size
+maximum engine capacity
 of 125 cubic
 centimetres and a
 maximum power
@@ -159,8 +156,8 @@ that can carry
 up to nine passengers.
 Special
 agricultural vehicles.
-Special
-non-agricultural vehicles
+Special vehicles
+that are not agricultural
 that reach a
 maximum speed
 of 40 kilometres
@@ -170,7 +167,7 @@ than 3,500 kilos.
 Combination of vehicles
 when the trailer
 does not carry a weight
-over 750 kilos.
+greater than 750 kilos.
 18 years
 B+E
 Combination of vehicles.
@@ -186,7 +183,7 @@ You will lose some of these points or all of them
 if you commit a serious or very serious offence.
 For example, using your mobile while driving.
 You can get the points back after some time
-by doing a re-education course for driving.
+by doing a driver re-education course.
 This course lasts 12 hours.
 New drivers
 A person who gets a driving licence
@@ -198,9 +195,9 @@ with a white letter L.
 This plate is placed on the rear window
 at the back of the car.
 It must be clearly visible so that other drivers
-know that car is being driven by a new driver.
+know that the car is driven by a new driver.
 <!-- Page: 32 -->
-When must you renew your category B
+When must you renew your type B
 driving licence?
 
 - Every 10 years if you are under 65.
@@ -212,12 +209,12 @@ You must also apply again for the driving licence
 if you lose it, it is stolen,
 or any of your personal details change.
 For example, your address.
-Vehicle registration document
+Vehicle registration certificate
 Document that confirms that a vehicle
-has a number plate and is authorised to be on the road.
+has a number plate and is authorised to be driven on the road.
 <!-- Page: 33 -->
 Which vehicles must have
-a vehicle registration document?
+a vehicle registration certificate?
 
 - All motor vehicles.
 
@@ -225,13 +222,13 @@ a vehicle registration document?
 
 - Trailers and semi-trailers
 that can carry more than 750 kilos.
-Number plate. A set of letters and numbers
+Number plate. Set of letters and numbers
 that identify vehicles.
 Each vehicle has a different number plate
 that is stamped on a metal plate
 and placed on the vehicle.
 What information appears
-on the vehicle registration document?
+on the vehicle registration certificate?
 
 - First name, surname, and address
 of the vehicle owner.
@@ -239,7 +236,7 @@ of the vehicle owner.
 - Vehicle number plate
 and the date it was registered.
 
-- Number of seats in the vehicle.
+- Number of seats the vehicle has.
 
 - Use of the vehicle.
 That is, whether it is used to carry people
@@ -256,15 +253,15 @@ They must also report if they sell
 or hand over the vehicle to another person.
 In this case, they have 10 days to report it.
 The person who buys or receives the vehicle
-must apply for the vehicle registration document
+must apply for the vehicle registration certificate
 to be renewed in their name.
 Watch video
-Roadworthiness test certificate (ITV)
+Vehicle roadworthiness inspection card (ITV)
 Document that shows that a vehicle
 has no faults and is in good condition
 to work.
 Which vehicles must have the roadworthiness
-test certificate?
+inspection card?
 
 - All motor vehicles.
 
@@ -272,86 +269,86 @@ test certificate?
 
 - All trailers and semi-trailers.
 What information appears on the roadworthiness
-test certificate?
+inspection card?
 
 - Vehicle characteristics.
 
 - Record of the inspections the vehicle
 has passed.
 <!-- Page: 35 -->
-When must you take your vehicle
-for the roadworthiness test (ITV)?
+When must you have
+your vehicle roadworthiness inspection (ITV)?
 To know when each vehicle must be checked,
 you must take into account
-what type of vehicle it is, how old it is
-and what it is for: whether it is a car,
+what type of vehicle it is, how old it is,
+and what it is used for: whether it is a car,
 a special vehicle...
 Types of vehicle
-When to take
-the roadworthiness test (ITV)
-Two-wheeled
+When to have
+the roadworthiness inspection (ITV)
+Two-wheel
 mopeds
-First test at 3 years.
+First inspection at 3 years.
 After 3 years,
-a test every 2 years.
-Three-wheeled mopeds
+inspection every 2 years.
+Three-wheel mopeds
 and light quadricycles
-Motorcycles, three-wheeled
+Motorcycles, three-wheel
 vehicles
 and heavy quadricycles
 Quads
-First test at 4 years.
+First inspection at 4 years.
 After 4 years,
-a test every 2 years.
+inspection every 2 years.
 <!-- Page: 36 -->
-Motor vehicles
-that can carry
-up to nine passengers
-First test at 4 years.
-After 4 years,
-a test every 2 years.
-After 10 years,
-a test every year.
-Motor vehicles
-that can carry
-goods with a weight
-of up to 3.5 tonnes
-First test at 2 years.
-After 2 years,
-a test every 2 years.
-After 6 years,
-a test every year.
-After 10 years,
-a test every 6 months.
-Trailers to
-carry goods
-or people
-or to house people
-Except the towed
-caravan
-First test at 1 year.
-Up to 10 years, a test
-every year.
-After 10 years,
-once every 6 months.
-Towed caravan
-First test at 6 years.
-After 6 years,
-every 2 years.
-You must also take a roadworthiness test
+| Column 1 | Column 2 |
+| --- | --- |
+|  | First inspection at 4 years. |
+| Motor vehicles | After 4 years, |
+| that can carry | inspection every 2 years. |
+| up to nine passengers |  |
+|  | After 10 years, |
+|  | inspection every year. |
+|  | First inspection at 2 years. |
+|  | After 2 years, |
+| Motor vehicles |  |
+|  | inspection every 2 years. |
+| that can carry |  |
+|  | After 6 years, |
+| goods with a weight |  |
+|  | inspection every year. |
+| of up to 3.5 tonnes |  |
+|  | After 10 years, |
+|  | inspection every 6 months. |
+| Trailers to | First inspection at 1 year. |
+| carry goods | Up to 10 years inspection |
+| or people | every year. |
+| or to accommodate people |  |
+|  | After 10 years, |
+| Except the towed |  |
+|  | once every 6 months. |
+| caravan |  |
+|  | First inspection at 6 years. |
+| Towed caravan |  |
+|  | After 6 years, |
+|  | every 2 years. |
+
+You must also have a roadworthiness inspection
 when the vehicle is modified,
 or if it has had an accident
+
 and the structure has been damaged.
+
 The vehicle owner is the person responsible
-for making sure the roadworthiness tests are done.
+for making sure the roadworthiness inspections are done.
 <!-- Page: 37 -->
-Roadworthiness test results
+Results of the roadworthiness inspection
 When the vehicle is in good condition,
 the ITV technicians:
 
-- Write on the roadworthiness test certificate
-that the vehicle is OK
-and the date of the next test.
+- Write on the roadworthiness inspection card
+that the vehicle is fine
+and the date of the next inspection.
 
 - Give you a sticker.
 You must place it inside the vehicle,
@@ -367,13 +364,13 @@ or a serious problem:
 - You must take it to a garage to be repaired.
 
 - Once repaired, you must take it for
-a new test
-to check that it can be driven again.
+a new inspection
+to check that it can be driven on the road again.
 Compulsory third-party liability insurance
 People who have a motor vehicle
 must take out and pay for insurance.
 This insurance is to protect other people,
-objects or vehicles if you have an accident.
+objects, or vehicles if you have an accident.
 This insurance is called third-party liability insurance.
 <!-- Page: 38 -->
 Which vehicles must have compulsory
@@ -388,7 +385,7 @@ if the owner lives in Spain, except:
 - Motorised toys.
 Other vehicles that do not need
 third-party liability insurance
-are trailers, semi-trailers
+are trailers, semi-trailers,
 and towed machines that cannot carry
 more than 750 kilos.
 What does compulsory insurance cover?
@@ -413,16 +410,16 @@ What does compulsory insurance not cover?
 
 - Injuries that in an accident
 are suffered by the driver of the insured vehicle.
-For example, it does not pay medical costs
-for a driver who loses a leg
+For example, it does not pay the medical costs
+of a driver who loses a leg
 in an accident.
 
 - Damage suffered by objects that are
-inside the car of the person driving.
+inside the car of the person who is driving.
 
 - Damage that the accident causes
 to the objects of the insured person,
-the person driving, or their family members.
+the person who is driving, or their family members.
 For example, it does not cover repairing the door
 of a garage that a driver breaks
 when entering the home of their brother.
@@ -436,35 +433,3 @@ When there is an accident, the drivers
 of all vehicles must inform their insurers.
 They must do it no later than 7 days after
 the accident.
-<!-- Page: 40 -->
-What are the consequences of not insuring
-the vehicle?
-
-- The vehicle cannot be driven.
-If a traffic officer stops you,
-they will immobilise the vehicle at that moment.
-
-- The vehicle owner must pay
-the costs of the place where the vehicle
-is kept while it has no insurance.
-
-- The vehicle owner must pay
-a fine.
-You must always carry in the vehicle
-the proof of payment for the insurance.
-This way you can show that the vehicle is insured.
-This proof will show the following information:
-
-- Name of the insurance company.
-
-- Vehicle number plate.
-
-- Insurance certificate.
-
-- Date when the insurance must be renewed.
-
-- Indication of what damage the insurance covers.
-Responsible people
-As a general rule, the person who commits
-an offence or infringement as a driver or pedestrian
-is the one who must pay the fine or penalty.

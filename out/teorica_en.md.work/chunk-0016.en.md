@@ -1,7 +1,7 @@
 <!-- Page: 273 -->
 Above all, for large vehicles
-that carry many people
-and are at a marked stop.
+in which many people travel
+and that are at a marked stop.
 For example, a bus that is at its stop
 picking up passengers and must
 re-enter the road.
@@ -13,7 +13,7 @@ more space, when possible.
 
 - Reduce speed and even stop
 to let the vehicle leave the marked stop,
-when this happens inside a town or city.
+when this happens within a town or city.
 Precautions when changing lane
 Watch video
 To change lane safely
@@ -40,7 +40,7 @@ There are some exceptions where you can
 overtake on the right side.
 
 - To overtake a tram that is travelling
-in the central part of a road with two-way traffic.
+in the central area of a road with two-way traffic.
 
 - When the driver you want to overtake
 <!-- Page: 275 -->
@@ -48,7 +48,7 @@ is clearly indicating that they want to change
 direction to the left or stop on that side.
 Watch video
 You can also overtake on the right
-inside a town or city
+within a town or city
 when the carriageway has at least two lanes
 going in the same direction
 and they are separated by a white line
@@ -96,7 +96,7 @@ and three lanes
 separated by broken
 white lines
 Overtaking is done
-in the centre lane
+in the middle lane
 as long as it is not occupied
 by another driver
 travelling in the opposite direction.
@@ -109,9 +109,9 @@ The driver can continue
 their journey in the lane
 on the left
 if they keep overtaking.
-But they must return to the right one
+But they must return to the one on the right
 if another vehicle comes
-that is travelling faster than them.
+travelling faster than them.
 Steps to follow to overtake another vehicle
 Preparation
 Checks
@@ -136,8 +136,8 @@ You must check that:
 
 - The driver you are going to overtake
 has or has not signalled with the lights or their arm
-that they are going to move towards the side
-you are going to overtake on.
+that they are going to move to the side
+on which you are going to overtake them.
 If they have signalled, you must wait
 for them to do their manoeuvre before overtaking.
 
@@ -152,13 +152,13 @@ Ask to pass to overtake (if it is considered necessary)
 - Signal with the vehicle lights.
 
 - Use the vehicle horn.
-This can only be done outside towns and cities.
+You can only do this outside towns and cities.
 <!-- Page: 279 -->
 Overtake
 To overtake you must increase
 the vehicle’s speed.
-But you must not go over
-the maximum permitted speed limit.
+But you must not exceed
+the maximum speed limit allowed.
 To overtake a moped or a cycle,
 inside or outside built-up areas, you must:
 
@@ -166,19 +166,20 @@ inside or outside built-up areas, you must:
 one and a half metres from the moped or the cycle.
 
 - Move into the lane to your left to overtake.
-Do not overtake in the same lane as the moped or cycle.
+Do not overtake in the same lane in which
+the moped or cycle is travelling.
 On roads outside built-up areas,
 you must also leave a separation of at least
 one and a half metres in these cases:
 
-- When you drive a two-wheeled vehicle
+- When you are driving a two-wheeled vehicle
 and you want to overtake any other vehicle.
 
-- When you drive any vehicle and you want
+- When you are driving any vehicle and you want
 to overtake people, animals, motorcycles,
 vehicles stopped on the road
 and vehicles that are doing assistance work.
-For example, ambulances or recovery vehicles at least,
+For example, ambulances or breakdown trucks at least
 one and a half metres, on inter-urban roads.
 <!-- Page: 280 -->
 In the rest of the cases, you must leave enough space
@@ -193,14 +194,14 @@ and return to the lane you were driving in.
 End of overtaking
 When you have finished overtaking,
 you must switch on the correct lights
-to show that you are going to return to the lane
+to indicate that you are going to return to the lane
 you were driving in.
 Then you have to return to your lane as soon
 as possible and without forcing other drivers
 to change their speed.
 <!-- Page: 281 -->
-Duties of the driver
-who is being overtaken by another vehicle
+Obligations of the driver
+being overtaken by another vehicle
 
 - Allow the other driver to overtake you
 and make the manoeuvre easier for them.
@@ -208,7 +209,7 @@ It is forbidden to increase speed
 at that moment.
 Watch video
 
-- Place your vehicle at the right edge of the lane
+- Position your vehicle at the right edge of the lane
 without moving onto the hard shoulder.
 
 - Reduce speed if any dangerous situation arises while
@@ -219,15 +220,15 @@ is overtaking you.
 to return to its lane.
 
 - Drivers of very large
-or heavy vehicles who cannot move to the right
+or heavy vehicles that cannot move to the right
 of the lane must reduce speed
 and indicate to the driver behind
 that they can overtake.
-This signal can be made with the arm extended
+This indication can be made with the arm extended
 and moving the palm of the hand
 backwards and forwards.
-It can also be done by switching on the right
-indicator of the vehicle.
+It can also be done by switching on the vehicle’s
+right indicator.
 <!-- Page: 282 -->
 When is overtaking forbidden?
 
@@ -242,7 +243,7 @@ to overtake, for example:
 and there is not good visibility.
 
 - When there is fog, heavy rain
-or the sun dazzles and does not let you see well.
+or the sun dazzles and you cannot see well.
 
 - Behind a vehicle
 that is also overtaking
@@ -316,12 +317,12 @@ that lets you change direction safely.
 When they are very close or coming very fast,
 you cannot change direction.
 If the change of direction is to the left,
-but you cannot see well, you cannot do it either.
-If there is a suitable place on the road
-such as a turning bay or something similar,
+but you cannot see well, you also cannot do it.
+If on the road there is a suitable place
+such as a turning bay or a similar element,
 the change must be done there,
 but if there is a sign, you must follow
-what the sign says.
+what the sign indicates.
 How should you change direction?
 Watch video
 When the change of direction is to the right
@@ -339,12 +340,12 @@ When there is no white separation line
 you must position yourself as close as possible
 to the opposite lane, but without crossing into it.
 
-- In the centre lane when the road
+- In the middle lane when the road
 is two-way and has three lanes
 separated by white lines.
 When turning to change direction,
-you must go through the centre of the junction
-and leave it on your left.
+you must pass through the centre of the junction
+and leave it to your left.
 <!-- Page: 287 -->
 You must not cross it diagonally.
 Well done Badly done
@@ -355,16 +356,16 @@ that want to turn to change direction
 to the left must position themselves
 on the right of the lane and off the carriageway if possible,
 and wait until it is safe to turn.
-They must also go through the centre of the junction.
+They must also pass through the centre of the junction.
 Turning round
 Watch video
 Turning round means making a U-turn
-to keep travelling on the same road or path,
+to continue travelling on the same road or path,
 but in the other direction.
 You can turn round
 at a roundabout or a turning bay on the road.
-Turning bay. A half-circle shaped diversion
-in the road to change direction or turn round.
+Turning bay. A half-circle shaped slip road
+on the road to change direction or to turn round.
 <!-- Page: 288 -->
 The turning round manoeuvre
 must be done with a single turn of the vehicle

@@ -1,5 +1,28 @@
+<!-- Page: 91 -->
+Automatic activation of lights
+System that measures the light outside
+and switches the lights on or off automatically
+so that the vehicle can be seen better.
+Adaptive lights
+System that adjusts the brightness of the lights
+and where they shine depending
+on what is needed at each moment.
+It does this by taking into account:
+the distance to the vehicle coming
+in the opposite lane,
+the type of road you are driving on
+and the speed your vehicle is travelling at.
+Adaptive lights are divided into two types of lights:
+1.  Cornering lights.
+They switch on when you turn the steering wheel
+to show the side your vehicle
+is going to turn towards.
+This light helps you see better on bends.
+At roundabouts it allows other drivers
+to know where you are going to turn.
+Roundabout. Circular area that is a junction between streets.
 <!-- Page: 92 -->
-2. Automatic main beam lights.
+2.  Automatic main beam lights.
 System to switch on vehicle lights
 that light up more of the road
 when there is little light outside.
@@ -11,14 +34,14 @@ These lights switch off when they detect
 another vehicle on the road coming towards you
 in the opposite lane.
 <!-- Page: 93 -->
-Brakes
-Brakes are responsible for reducing
+The brakes
+The brakes are responsible for reducing
 the speed of the vehicle until it stops completely.
 A vehicle’s brakes do not usually fail.
 But sometimes it does happen
 and this can cause a serious accident.
 Watch video
-What safety systems are there in brakes?
+What safety systems are there in the brakes?
 Engine
 brake
 Anti-lock
@@ -35,9 +58,9 @@ warning
 (EBD)
 Engine brake
 System used to reduce the speed
-at which a vehicle is travelling without using the wheel brake.
+a vehicle is travelling at without using the wheel brake.
 It works when you stop accelerating
-and, in this way, the engine is the one that holds the vehicle back.
+and, in this way, the engine holds the vehicle back.
 If you drive in low gears (1st or 2nd)
 the engine slows the vehicle more.
 It is recommended to use engine braking
@@ -48,7 +71,7 @@ Device that prevents the wheels
 from locking when braking.
 This system is very important
 because it helps you keep control of the vehicle
-and to brake in less space.
+and to brake in less distance.
 The more weight there is in the vehicle
 the harder it is for the wheels to lock when braking.
 For example, it will be harder for the wheel
@@ -65,7 +88,7 @@ and there is a risk of an accident
 the system will do an emergency brake.
 Watch video
 Radar. System that can detect where an object is,
-for example another car, and how fast it is going.
+for example another car, and what speed it is travelling at.
 <!-- Page: 95 -->
 Emergency braking warning (EBD)
 System that warns the driver of a vehicle
@@ -77,19 +100,19 @@ of their vehicle flash.
 In this way, the system warns the driver behind
 so they have more time to brake
 and try not to crash into them.
-How are brakes used?
+How are the brakes used?
 To brake safely and in a controlled way it is necessary to:
-1. Brake gently, little by little
+1.  Brake gently, little by little
 and with enough time.
-2. Take into account the condition of the road.
+2.  Take into account the condition of the road.
 When it is not in good condition,
 you must brake more gently and with more time.
-3. Do not use the brake too much because it will get hot
+3.  Do not use the brake too much because it will get hot
 and will brake worse.
 <!-- Page: 96 -->
 To do an emergency stop in a vehicle without ABS,
 you must press the brake pedal hard and fully
-until you notice that the wheel starts to lock.
+until you notice the wheel starts to lock.
 Then lift your foot off the brake a little
 to prevent the wheels from locking.
 But do not stop braking.
@@ -98,68 +121,60 @@ you must press the brake pedal hard and fully
 until the vehicle stops completely.
 What to do when the brakes fail?
 You can act in different ways
-depending on what the situation is
+depending on the situation
 in which the brakes fail.
-Problem
-Possible solution
-The brakes
-get very hot
-because they have been used
-too much
-in a short time.
-Release the brake pedal
-so they can cool down.
-The brakes fail when
-the vehicle goes down
-a long
-and very steep hill.
-Do not accelerate.
-Change down gears
-so the engine acts
-as a brake.
-If you cannot change down
-gears
-pull the handbrake lever
-gently.
-Other times
-when the brakes fail.
-Press and release the pedal
-several times.
-This will reduce the speed
-of the vehicle.
+
+| Brake problem | Possible solution |
+| --- | --- |
+| The brakes | Release the brake pedal |
+| get very hot | so they cool down. |
+| because they have been used |  |
+| too much |  |
+| in a short time. |  |
+| The brakes fail when | Do not accelerate. |
+| the vehicle goes down | Change down gears |
+| a long hill | so the engine acts |
+| and very steep. | as a brake. |
+|  | If you cannot change down |
+|  | gears |
+|  | pull the handbrake lever |
+|  | gently. |
+| Other times | Press and release the pedal |
+| when the brakes fail. | several times. |
+|  | This will reduce the speed |
+|  | of the vehicle. |
 <!-- Page: 97 -->
-Wheels
-The wheels of a vehicle are made up
+The wheels
+A vehicle’s wheels are made up
 of two parts:
-1. Rim. Metal part in the shape of a circle
+1.  Rim. Metal part in the shape of a circle
 that is the inner part of the wheel.
-2. Tyre. Elastic rubber part
-that is placed around the rim.
+2.  Tyre. Elastic rubber part
+that is fitted around the rim.
 A piece of rubber is elastic when it can be stretched.
 When you stop stretching it, it returns to its original size.
 Watch video
 The rim and the tyre of a wheel
 must be compatible with each other
 so that the tyre fits well on the rim.
-Tyres
+The tyres
 Tyre faults
-are a common cause of road accidents.
+are a common cause of road traffic accidents.
 That is why it is very important that they meet
-quality characteristics.
+certain quality features.
 <!-- Page: 98 -->
 On new tyres that are
 in good condition you can read
-on the side what their characteristics are.
+on the side what their features are.
 Watch video
-Watch video
-They must not have blisters, deformations, or tears.
+They must not have blisters, deformations or tears.
 Nor should any of their layers be coming loose
-or have exposed cords or cracks.
+or have exposed wires or cracks.
 The part of the tyre that is in contact
 with the road is called the tread.
 The tread of cars
-must have grooves with at least
-1.6 millimetres of depth.
+must have grooves of at least
+1.6 millimetres deep.
 <!-- Page: 99 -->
 These grooves are used so that the tyre:
 
@@ -181,51 +196,44 @@ This amount of air will be the inflation pressure.
 <!-- Page: 100 -->
 What happens when the inflation pressure
 is not correct?
-Inflation pressure lower
-than recommended
-Inflation pressure higher
-than recommended
-The tyre gets hot,
-deforms
-and wears out sooner.
-More fuel is used.
-The vehicle is less
-stable.
-The vehicle has
-more risk of skidding
-when the ground
-is wet.
-There is more chance
-that the tyre will burst.
-The tyre has less
-contact with the ground.
-Therefore, it grips
-the road less.
-The centre of the tyre
-wears more
-than the sides.
-The vehicle vibrates more
-because the tyres
-cannot absorb
-small stones
-and other elements.
-For example, potholes
-in the road.
-The shock absorbers
-get damaged more.
+
+| Inflation pressure lower than recommended | Inflation pressure higher than recommended |
+| --- | --- |
+| The tyre gets hot, | The tyre has less |
+| deforms | contact with the ground. |
+| and wears out sooner. |  |
+|  | Therefore, it grips |
+| More fuel is used. | the road less. |
+| The vehicle is less | It wears more |
+| stable. | in the centre of the tyre |
+|  | than on the sides. |
+| The vehicle has |  |
+| more risk of skidding | The vehicle vibrates more |
+| when the ground | because the tyres |
+| is wet. | cannot absorb |
+|  | small stones |
+|  | and other elements. |
+|  | For example, potholes |
+|  | on the road. |
+|  | The shock absorbers |
+|  | get damaged more. |
+| There is more chance |  |
+| that the tyre will burst. |  |
+
 You must check the tyre pressure
 of your vehicle at least once a month.
 You must also always carry a spare wheel
+
 with the correct inflation pressure.
 <!-- Page: 101 -->
 Tyre wear
-The rubber of tyres can wear out
-due to rubbing against the road.
+The rubber on tyres can wear out
+because of rubbing against the road.
 For that reason, you must change the tyres
 of your vehicle every five years,
 even if they are in good condition.
 Tyre rubber can wear out
-earlier for these reasons:
+sooner for these reasons:
 
 - Driving in a rough or aggressive way.
 
@@ -244,8 +252,8 @@ earlier for these reasons:
 - Problems with the brakes or with other parts
 of the vehicle that affect the wheels.
 <!-- Page: 102 -->
-What should you do when a tyre gets a puncture?
-The steps you must take if a tyre gets a puncture
+What should you do when a tyre gets punctured?
+The steps you must take if a tyre gets punctured
 while you are driving are:
 
 - Reduce speed slowly
@@ -255,11 +263,11 @@ Do not stop suddenly.
 - Secure the vehicle in a safe place.
 Off the road and off the hard shoulder if possible.
 
-- Change the punctured wheel for the spare one.
+- Change the punctured wheel for the spare.
 Some vehicles have other systems
-to be able to keep driving
+so they can keep driving
 and there are vehicles that have a wheel
-that only serves to get you
+that is only used to get you
 to the nearest garage.
 It is called a space-saver wheel.
 You can travel about 200 kilometres with this wheel
@@ -267,11 +275,11 @@ at a maximum speed of 80 kilometres per hour.
 Watch video
 <!-- Page: 103 -->
 Wheel balancing
-Wheel balancing consists of putting weight
-on the rims so that the wheels support
-the weight and the load of the vehicle.
+Wheel balancing means adding weight
+to the rims so that the wheels support
+the weight and load of the vehicle.
 This balance is very important
-so that the wheels turn well.
+so that the wheels turn properly.
 Wheels can lose balance
 for these reasons:
 
@@ -309,13 +317,13 @@ Traction control
 Safety system that identifies
 if one wheel is turning faster than the others
 and brakes it so it does not skid.
-This system helps to keep the stability
-of the vehicle on bends,
+This system helps keep the vehicle stable
+on bends,
 when going up a hill or when it is raining.
 Electronic stability control
 Safety system that helps the vehicle
 to follow the path set by the steering wheel
-and not to drift when it does not turn
+and not drift when it does not turn
 as much as the driver asks or turns too much.
 This system helps you keep control
 of the vehicle in dangerous situations.
@@ -324,7 +332,7 @@ or when taking a bend.
 <!-- Page: 105 -->
 Speed limiters
 System that allows you to choose the maximum speed
-that your vehicle can reach.
+your vehicle can reach.
 When you activate the speed limiter, the vehicle
 will not go above the speed chosen by the driver.
 Cruise control
@@ -334,20 +342,20 @@ to press the pedals to speed up or slow down.
 For example, driving all the time
 at 100 kilometres per hour on the motorway.
 This system is activated from the steering wheel.
-It switches off when you accelerate or brake.
+It is deactivated when you accelerate or brake.
 Then you have to choose the speed again and activate it.
 Adaptive cruise control
 As well as helping to control speed,
 this system helps you keep the distance
 from the vehicle in front.
 <!-- Page: 106 -->
-Your vehicle will reduce speed or brake
+Your vehicle will slow down or brake
 if you do not keep that distance and you get too close
 to the vehicle in front.
 Passive safety elements
 The chassis and the bodywork
 The chassis is the internal structure of the vehicle
-on which all the parts that make it up are placed.
+on which all the parts that make it up are fitted.
 It is the skeleton of the vehicle and cannot be seen at first glance.
 The bodywork is the external metal structure
 that covers the vehicle.
@@ -364,20 +372,3 @@ or if the vehicle rolls over.
 In these cases, the belt helps people
 not to move from their seats
 and not to be thrown out of the vehicle.
-<!-- Page: 107 -->
-Wearing the seat belt correctly
-means that a person has double the chance
-of surviving an accident.
-In fact, there have been fewer deaths from road accidents
-since the seat belt exists.
-For a seat belt to be useful
-and safe it must meet quality requirements
-and be well attached to the vehicle bodywork.
-It must be checked from time to time
-and taken to the garage to be repaired or replaced
-if it has any damage.
-Who must wear a seat belt?
-All people travelling in a vehicle
-that has seat belts installed.
-Drivers must do it
-and also passengers on all roads and streets.

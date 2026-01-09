@@ -1,3 +1,37 @@
+<!-- Page: 57 -->
+In the way
+you see your surroundings
+
+- You see road signs
+and traffic lights worse.
+
+- You judge the distance worse
+to other vehicles.
+
+- Less ability
+to see what happens on one side
+and the other.
+
+- You get dazzled more
+by vehicle lights.
+
+- Possibility of getting distracted
+by things in the surroundings.
+In
+movements
+
+- Difficulty coordinating
+your body movements.
+In making
+decisions
+
+- You need more time
+to react.
+
+- More chance
+of making bad decisions
+or not knowing
+how to carry them out.
 <!-- Page: 58 -->
 Other drugs
 Taking drugs before driving is very dangerous.
@@ -10,7 +44,7 @@ has taken drugs and they are still in their body.
 You can only drive after taking
 substances prescribed by the doctor
 and that do not affect driving.
-How do drugs affect driving?
+How do drugs harm driving?
 All drugs are dangerous
 and it is forbidden to drive when you have taken them.
 But each one produces effects
@@ -53,7 +87,7 @@ or seeing blurred.
 
 - Losing concentration.
 
-- Suffering depression or anxiety.
+- Having depression or anxiety.
 
 - Feeling tired when
 the effects of the drug wear off.
@@ -73,7 +107,7 @@ and violent behaviour.
 
 - Having little sense of danger.
 
-- Delayed tiredness and sleep.
+- Having delayed tiredness and sleep.
 This can cause
 the person to suddenly feel
 very tired and fall asleep without meaning to
@@ -85,11 +119,11 @@ is forbidden and punished by law.
 The person who does it will have to pay a fine
 and may even go to prison.
 To know if a person who is driving
-has taken alcohol or drugs, they are given a test.
+has taken alcohol or drugs, a test is done.
 What does the test involve?
 To detect if a person has drunk alcohol
 the traffic officer asks them to blow into a device
-that measures the amount of alcohol in their blood.
+that measures the amount of alcohol in the blood.
 If the test is positive or the person
 shows signs of having drunk
 the test is repeated to confirm it.
@@ -105,9 +139,9 @@ are positive, the person who is driving
 will have committed a very serious offence.
 The consequences are:
 
-- Paying a fine.
+- Pay a fine.
 
-- Losing between 4 and 6 points
+- Lose between 4 and 6 points
 from the driving licence.
 
 - Possibility of losing the driving licence
@@ -118,7 +152,7 @@ the lives of other people.
 The traffic police officer can forbid the person
 to continue driving.
 They will leave the car immobilised until
-the effects of the alcohol or drugs wear off.
+the effects of alcohol or drugs wear off.
 <!-- Page: 62 -->
 Who must take the alcohol and drug
 detection tests?
@@ -133,7 +167,7 @@ of alcohol or drugs.
 or committing some other offence.
 
 - Go through a checkpoint to prevent
-the use of alcohol and drugs.
+alcohol and drug use.
 Pedestrians must also take the test
 if their behaviour could cause a road traffic accident.
 The law imposes fines and penalties on people
@@ -147,7 +181,7 @@ When you have an illness
 or take medicine you must always ask
 the doctors if you can drive.
 It is also important to go to the Medical Centre
-for Driver Medical Checks.
+for Driver Assessment.
 There they will tell you if it is safe to drive
 with the medicine you are taking.
 <!-- Page: 63 -->
@@ -187,7 +221,7 @@ with medicines.
 
 - Do not do long journeys driving.
 
-- Wear sunglasses. The sun, many times,
+- Use sunglasses. The sun, many times,
 makes you sneeze.
 
 - Do not drive at dawn
@@ -210,7 +244,7 @@ Depression
 to improve depression.
 
 - Take only the medicine
-that the doctor has prescribed for you.
+that the doctor has prescribed.
 
 - Put yourself in the hands of specialists
 and follow the treatment.
@@ -220,39 +254,27 @@ of most depression.
 <!-- Page: 65 -->
 What medicines can be
 dangerous for driving?
-Medicine
-What is it for?
-Possible effects
-Painkillers
-Helps
-pain to reduce
-or go away.
-Sleepiness.
-Vertigo.
-Lack
-of concentration.
-Cough suppressants
-Calm a cough.
-Mood
-changes.
-Loss
-of reflexes.
-Antihistamines Treat allergies. Sleepiness.
-Depression.
-Loss
-of reflexes.
-Psychotropic medicines
-Treat
-depression,
-anxiety
-and sleep
-disorders.
-Sleepiness.
-Loss
-of reflexes.
-Dizziness.
-Blurred vision.
-Confusion.
+
+| Medicine | What is it for? | Possible effects |
+| --- | --- | --- |
+| Painkillers | Helps | Sleepiness. |
+|  | the pain decrease | Vertigo. |
+|  | or go away. | Lack |
+|  |  | of concentration. |
+| Cough suppressants | Calm the cough. | Mood. |
+|  |  | changes. |
+|  |  | Loss |
+|  |  | of reflexes. |
+| Antihistamines | Treat allergies. | Sleepiness. |
+|  |  | Depression. |
+|  |  | Loss |
+|  |  | of reflexes. |
+| Psychotropic medicines | Treat | Sleepiness. |
+|  | depression, | Loss |
+|  | anxiety | of reflexes. |
+|  | and sleep | Dizziness. |
+|  | disorders. | Blurred vision. |
+|  |  | Confusion. |
 <!-- Page: 66 -->
 Food
 Eating a large amount and foods that are hard to digest
@@ -266,13 +288,13 @@ It is also recommended to wait a while
 after finishing eating before driving.
 It is important to drink water or juices
 so that the body is hydrated
-and to have less chance of feeling sleepy or tired.
+and you have less chance of feeling sleepy or tired.
 Suitable clothing
 You must wear comfortable clothes when you drive.
 Very tight clothing will not let you move well.
 In winter, you must take off your coat
 before you start driving.
-Footwear must be comfortable and light
+Footwear has to be comfortable and light
 to use the pedals better.
 It is not advisable to drive with high-heeled shoes,
 flip-flops, or shoes with very thick soles.
@@ -287,14 +309,14 @@ Bodywork. Metal part that covers
 most parts of a vehicle.
 The most suitable clothing to ride a motorcycle is:
 
-- Leather suit or a similar material.
+- A leather suit or a similar material.
 This suit must fit your body well.
 
 - Leather gloves with protection.
 
 - Strong boots that support the foot and ankle.
 
-- Wear bright and striking colours.
+- Wear bright and eye-catching colours.
 <!-- Page: 68 -->
 Accidents due to distractions
 Distractions while driving happen
@@ -305,8 +327,8 @@ For example, picking up the mobile phone or looking at a shop window.
 When are accidents due to distractions
 more common?
 
-- In young drivers between 18 and 25 years old
-and in those over 70 years old.
+- In young drivers aged 18 to 25
+and in people over 70.
 
 - When there are several people inside the vehicle.
 
@@ -314,44 +336,43 @@ and in those over 70 years old.
 
 - On weekend trips and during the day.
 
-- On roads more than in the city.
+- On roads more than in towns.
 
 - On motorways and dual carriageways.
 <!-- Page: 69 -->
 Causes of accidents due to distraction
-Distractions related
-to the road
-Distractions of the person
-who is driving
-Knowing the road well
-and being too confident.
-The signs are
-hidden
-or cannot be seen well
-for some reason.
-Complicated traffic
-situation
-with many vehicles,
-pedestrians
-and signs to pay attention to.
-Not seeing well
-because it is night
-or because the lights of other cars
-dazzle you.
-Suffering tiredness or sleepiness.
-Suffering stress, anxiety
-or depression.
-Being very old.
-Drinking alcohol, taking drugs
-or taking medicines.
-Some behaviours such as:
-using the mobile phone,
-lighting a cigarette
-or using the GPS sat nav.
-Looking at a map,
-throwing an insect
-out of the vehicle,
-eating or drinking while driving.
+
+
+| Distractions related | Distractions of the person |
+| --- | --- |
+| to the road | who is driving |
+| Knowing the road well | Feeling tired or sleepy. |
+| and being too confident. |  |
+|  | Feeling stress, anxiety |
+| The signs are | or depression. |
+| hidden |  |
+|  | Being very old. |
+| or cannot be seen well |  |
+| for some reason. |  |
+|  | Drinking alcohol, taking drugs |
+|  | or taking medicines. |
+| Traffic situation |  |
+| complicated |  |
+|  | Some behaviours such as: |
+| with many vehicles, |  |
+|  | using the mobile phone, |
+| pedestrians |  |
+|  | lighting a cigarette |
+| and signs to pay attention to. |  |
+|  | or using the GPS sat nav. |
+| You cannot see well |  |
+|  | Looking at a map, |
+| because it is night |  |
+|  | throwing an insect |
+| or because you are dazzled |  |
+|  | out of the vehicle, |
+| by the lights of other cars. |  |
+|  | eating or drinking while driving. |
 <!-- Page: 70 -->
 Smoking in the vehicle
 People who smoke while driving
@@ -371,7 +392,7 @@ that comes from the cigarette.
 - The air inside the car is worse quality
 and can affect the abilities to drive.
 Using the mobile phone
-It can be very useful to have a mobile phone
+It can be very useful to carry a mobile phone
 in the car in case there is a breakdown or emergency.
 But using it badly can cause accidents.
 The risk of an accident when using the mobile
@@ -411,9 +432,9 @@ and the hands-free device
 
 - Stop the vehicle in a safe place
 when you need to make a call.
-Drive again only when the call ends.
+Only continue driving when the call ends.
 
-- When you talk through the hands-free
+- When you talk through the hands-free device
 tell the other person
 that you are driving.
 
@@ -429,45 +450,7 @@ They may be distracted.
 GPS sat navs
 It is a system that calculates the route
 from one place to another in real time.
-It helps you to find your way and to know where you have to go.
+It helps you find your way and know where you have to go.
 If you make a mistake, the GPS sat nav
 calculates the route again
 and tells you again where you must go.
-<!-- Page: 73 -->
-Tips to use the GPS sat nav well:
-
-- Set up the device before you start
-driving.
-Do not do it while you drive.
-
-- Keep it fixed in one place.
-So it does not move or roll around the vehicle.
-
-- Put it in a place where you can see it
-without taking your eyes off the road.
-
-- Put it in a place that allows
-the airbags to open if necessary.
-Watch video
-Airbag. Safety device that is placed
-in the front of a car
-and on the sides to protect passengers
-in case of an accident.
-
-## Topic 4. Duties of drivers and pedestrians
-<!-- Page: 74 -->
-Contents
-Road safety
-Duties of drivers
-
-- General duties
-
-- Two- or three-wheeled vehicles
-
-- Special vehicles
-Duties of pedestrians
-
-- General duties
-
-- Personal mobility vehicles
-Animals on the road

@@ -1,9 +1,28 @@
+<!-- Page: 466 -->
+Shared vehicles
+Another measure to care for the environment
+is the use of shared vehicles.
+This initiative means that a person
+can hire a vehicle
+through an application (App)
+for hours or minutes
+and share it with other people.
+Shared-use vehicles
+have this badge.
+
+## Points appendix. The points driving licence
+<!-- Page: 467 -->
+Contents
+How many points does each driver have?
+Losing points
+Which offences take points
+from the driving licence?
 <!-- Page: 468 -->
 The aim of the points driving licence
 is to reduce the number of road accidents.
 How many points does each driver have?
 Drivers who start driving
-have 8 points during the first two years.
+have 8 points for the first two years.
 If in that time they do not lose any points,
 they will move to 12 points.
 Drivers who keep the 12 points
@@ -38,26 +57,26 @@ will not be able to drive again until
 six months have passed.
 After those six months, they will have to do
 a 24-hour course and an exam
-at the Traffic Headquarters to get the points back
+at the Traffic Headquarters to recover the points
 and the driving licence.
 If, in the next three years, they lose
 all the points again, they will have to wait 12 months
-more to get them back again.
+more to recover them again.
 Drivers who only lose
-some points can get them back again
-if they do not lose any more in two years.
-Also, they can do a road safety course
-lasting 12 hours to get back
+some points can recover them again
+if they do not lose more in two years.
+Also, they can do a road safety education course
+lasting 12 hours to recover
 up to 6 points.
 <!-- Page: 470 -->
-Which offences take points away
+Which offences take points
 from the driving licence?
-Offences that take away from 2 to 6 points
+Offences that take 2 to 6 points
 
-- Driving faster than the allowed speed.
+- Driving faster than the permitted speed.
 The number of points lost
 for this offence will depend on the speed
-the vehicle is going in each case.
+the vehicle is travelling at in each case.
 Km/h
 20
 40
@@ -68,7 +87,7 @@ Km/h
 200
 220
 240
-Offences that take away 3 points
+Offences that take 3 points
 
 - Making a U-turn
 where it is not allowed.
@@ -80,7 +99,7 @@ connected to the mobile phone or another electronic device.
 to detect speed cameras.
 Radar. A system used to detect an object,
 know how far away it is and how fast it is moving.
-Offences that take away 4 points
+Offences that take 4 points
 
 - Driving with an alcohol level
 between 0.25 and 0.50 milligrams of alcohol
@@ -96,8 +115,8 @@ per litre of air.
 - Driving a vehicle with a licence
 that does not authorise you to drive it.
 For example, driving a car
-when the driver’s licence
-only authorises them to drive motorcycles.
+when the driver's licence
+only authorises driving motorcycles.
 
 - Not following the right of way rules
 for other drivers or pedestrians
@@ -122,17 +141,17 @@ for committing offences.
 - Not wearing the seat belt,
 the helmet, child restraint systems
 for children and other safety systems
-that are required.
+that are compulsory.
 <!-- Page: 473 -->
-Offences that take away 6 points
+Offences that take 6 points
 
 - Driving with an alcohol level
 higher than 0.50 milligrams of alcohol
 per litre of air.
 
 Professional drivers
-and those who have had the driving licence since
-less than two years ago will lose the 6 points
+and those who have had the driving licence
+for less than two years will lose the 6 points
 with an alcohol level higher
 than 0.30 milligrams of alcohol
 per litre of air.
@@ -144,20 +163,20 @@ are still in the body.
 - Refusing to take the tests
 to detect alcohol or drugs in the body.
 <!-- Page: 474 -->
-- Driving in the opposite direction to the one allowed,
+- Driving in the opposite direction to the permitted one,
 taking part in illegal races
-or putting other people’s lives in danger
+or putting other people's lives in danger
 while driving.
 
 - Driving vehicles that have installed
 mechanisms so that speed cameras
-do not detect them and do not know what speed they are going.
+do not detect them and do not know how fast they are going.
 
 - Driving for more than half of the time
 that is allowed or taking breaks
 shorter than allowed
 (for professional drivers).
-For example, driving for 6 hours in a row
+For example, driving 6 hours in a row
 if the time limit is 4 hours
 or resting for 10 minutes
 when you must take breaks

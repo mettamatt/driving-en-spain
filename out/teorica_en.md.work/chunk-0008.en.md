@@ -1,5 +1,5 @@
 <!-- Page: 126 -->
-Which vehicle parts help you see better?
+What parts of the vehicle help you see better?
 Windscreen wipers
 Windscreen washers
 Heated rear window
@@ -29,27 +29,27 @@ the automatic windscreen wiper.
 <!-- Page: 127 -->
 Windscreen washers
 A device that sprays a jet of liquid
-onto the glass so that the windscreen wiper
+onto the windscreen so that the windscreen wiper
 can clean better.
 There are special liquids that work
 as windscreen washer fluid,
 although you can use water mixed
 with a little detergent.
 It is important to check that the tank
-where the windscreen washer is has liquid
-and refill it when it is running low.
+where the washer fluid is has liquid
+and top it up when it is running low.
 Watch video
 Heated rear window
 Lines that you can see on the rear window of the vehicle.
-They remove the ice and the mist that form
-on this glass so that you can see well.
+They remove ice and mist that form
+on this window so that you can see well.
 Rear-view mirrors
 Mirrors that allow the driver to see better
 what happens at the sides and behind the vehicle.
 <!-- Page: 128 -->
 Rear-view mirrors in cars, vans and lorries
 Cars, vans and lorries
-that can carry up to 3,500 kilos in weight
+that can carry up to 3,500 kilos
 must have the following rear-view mirrors:
 
 - A mirror outside the vehicle,
@@ -65,27 +65,28 @@ but it is not compulsory.
 Watch video
 You can fit sun blinds
 on the rear side windows of the vehicle
-only when both exterior mirrors are fitted,
+only when
+both exterior mirrors are fitted,
 on the right and on the left.
 Rear-view mirrors on motorcycles
 Motorcycles that travel at less
 than 100 kilometres per hour must
-have one mirror on the left side of the vehicle.
+have a mirror on the left side of the vehicle.
 <!-- Page: 129 -->
 Motorcycles that travel at more than 100 kilometres
 per hour must have two mirrors.
 One on the left side of the vehicle
 and one on the right side.
 Rear-view mirrors on two-wheeled mopeds
-These vehicles must have one mirror
-compulsory on the left side of the moped.
+These vehicles must have one compulsory mirror
+on the left side of the moped.
 The mirror on the right side is optional.
 Rules for driving in a comfortable
 and safe way
-Having a good driving position
+Having a good driving posture
 helps to avoid tiredness and makes driving
 safer.
-Sitting in a good position in front of the steering wheel
+Sitting in a good posture in front of the steering wheel
 helps you respond better and faster
 to unexpected situations.
 Driving too close to the steering wheel causes tiredness
@@ -109,7 +110,7 @@ Before you start driving you must check that:
 The seat and the
 backrest are
 well adjusted
-The mirrors
+The rear-view mirrors
 are well
 positioned
 The seat belt
@@ -141,7 +142,7 @@ The rear-view mirrors are well positioned when:
 - Looking at the mirror inside the vehicle,
 you can see the four edges of the rear window.
 <!-- Page: 132 -->
-- Looking at the mirrors on the sides,
+- Looking at the mirrors at the sides,
 you can see the road, the vehicles
 coming from behind and the ones at your sides.
 By turning your neck a little you can see a part
@@ -156,7 +157,7 @@ fasten your seat belt properly
 before you start driving.
 Rules for riding motorcycles
 
-- Keep a natural position with your body.
+- Keep a natural body position.
 Do not force your posture.
 
 - Lean your body just enough to reach the handlebars.
@@ -166,13 +167,13 @@ This will help you avoid tiredness.
 
 - When the motorcycle starts moving
 put your feet on the footrests.
-Do not leave them hanging.
+Do not let them hang down.
 
 - Lean your body a little to take bends.
 Do not lean too much, like professional riders
-in races.
+do in races.
 Watch video
-Which postures are not suitable for riding
+What postures are not suitable for riding
 a motorcycle?
 
 - Leaning your body too much.
@@ -180,8 +181,8 @@ a motorcycle?
 - Keeping your elbows tucked inwards.
 
 - Having your arms completely straight.
-These postures cause tiredness and can make it harder
-for you to react.
+These postures cause tiredness and can make it
+harder for you to react.
 <!-- Page: 134 -->
 Systems that help you drive
 safely
@@ -189,7 +190,7 @@ Traffic sign recognition system
 (TSR)
 It detects speed limit signs
 on the road so that the person driving
-can reduce the vehicle speed if needed.
+can reduce the vehicle’s speed if needed.
 In some vehicles the system shows the number
 that matches the maximum speed
 the vehicle can travel at.
@@ -205,7 +206,7 @@ Lane departure warning (LDW)
 This system warns the driver
 when they make an unexpected lane change
 because they are distracted or because they have fallen asleep.
-The system warns by a light
+The system warns by means of a light
 on the instrument panel, a sound,
 or by making the driver’s seat
 or the steering wheel vibrate.
@@ -247,10 +248,10 @@ and can stop the manoeuvre at any time.
 Hill start assist system
 This system helps the vehicle
 not roll backwards when the driver moves off
-on a very steep slope.
+on a very steep hill.
 Or when the driver moves their foot from the brake
 to the accelerator to continue driving
-on a slope.
+on a hill.
 <!-- Page: 138 -->
 Rear cross traffic alert system (RCTA)
 This system warns the driver
@@ -259,7 +260,7 @@ For example, when leaving
 a parking space.
 The system will make a sound when it sees
 that there is a vehicle behind that is too close
-and there may be a risk of a crash.
+and there may be a risk of a collision.
 
 ## Topic 7. Vehicle lighting system
 <!-- Page: 139 -->
@@ -291,7 +292,7 @@ Vehicle lights
 - Third brake light
 
 - Reversing light
-Audible warnings
+Audible signals
 <!-- Page: 140 -->
 General rules for using
 the vehicle lights
@@ -310,20 +311,20 @@ Reversible lane.
 A lane that is sometimes open in one direction
 and other times in the opposite direction.
 
-- You drive in an additional lane or one that goes in the opposite direction
-to the one it normally has.
-For example, an additional lane is added
+- You drive in an extra lane or one that goes in the opposite
+direction to the one it normally has.
+For example, an extra lane is added
 or the direction of a lane is changed for a time
 because of roadworks
 or because of an accident in that area.
-Additional lane.
+Extra lane.
 A new lane that is opened temporarily
 because of roadworks, queues, an accident…
 <!-- Page: 141 -->
 If some lights break while you are driving,
 you must reduce the car’s speed
 and switch on the lights that work,
-even if they are less bright.
+even if they are less visible.
 When you reach a lit area,
 you must park the vehicle and not continue driving
 until the lighting system is repaired.
@@ -350,8 +351,8 @@ Vehicle lights
 6. Third brake light
 <!-- Page: 142 -->
 Position lights
-They are used so that the vehicle can be seen well
-and so that people know how wide it is.
+They help the vehicle be seen well
+and show how wide it is.
 There are position lights at the front,
 at the rear and on the sides of the vehicle.
 Watch video
@@ -363,7 +364,7 @@ When are they used?
 
 - When you drive at night.
 
-- When you go through a tunnel.
+- When going through a tunnel.
 
 - On dark days when there is little natural light
 for driving.
@@ -372,5 +373,5 @@ the position lights always switch on
 with another type of lights.
 Watch video
 The position lights are only switched on by themselves,
-without another type of lights, when the car is stopped
+without any other type of lights, when the car is stopped
 because of some circumstance.

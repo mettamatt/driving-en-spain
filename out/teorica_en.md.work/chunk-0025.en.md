@@ -1,8 +1,32 @@
+<!-- Page: 446 -->
+Controlling space
+Front
+space
+Rear
+space
+Space
+at the sides
+Space
+when stopping
+the vehicle
+Front space
+It is advisable that between your vehicle
+and the one in front there are two or three seconds
+of separation.
+That is, that it takes you two or three seconds
+to reach it at the speed you are going.
+However, there are circumstances in which you must
+leave at least one more second of space.
+These circumstances are:
+
+- There is rain, snow, fog, or it is night.
+
+- The vehicle behind is getting too close.
 <!-- Page: 447 -->
 Rear space
 Sometimes it is the vehicle behind
-that comes too close.
-What you must do in these situations is:
+that gets very close.
+What you must do in those situations is:
 
 - Leave more safety distance
 from the vehicle in front so you do not brake sharply
@@ -11,8 +35,8 @@ if something unexpected happens.
 - Signal earlier
 the manoeuvres you are going to do.
 
-- Brake smoothly and with enough time
-so that the driver
+- Brake smoothly and with enough
+time so that the driver
 of the vehicle behind can react.
 Space at the sides
 You must drive at a suitable speed
@@ -20,8 +44,8 @@ and keep the necessary separation distance
 when overtaking other vehicles or passing them.
 For example, when changing lane
 or opening the vehicle door to get out.
-You should try to stay out of the blind spot area
-of other vehicles.
+You should try to stay out of the blind spot
+area of other vehicles.
 <!-- Page: 448 -->
 Space when stopping the vehicle
 When you stop the vehicle for some reason,
@@ -54,13 +78,13 @@ the vehicles coming from behind.
 Efficient driving
 What is it?
 A way of driving in which
-less fuel is used, it helps to pollute less
-and makes driving safer.
+less fuel is used, it helps to pollute less,
+and driving is safer.
 What do you achieve with efficient driving?
 
 - Improve air quality
-because fewer polluting gases
-are released into the atmosphere.
+because fewer gases
+that pollute are released into the atmosphere.
 
 - Save money
 because less is spent on fuel
@@ -73,7 +97,7 @@ to preventive driving are used.
 - Make passengers travel
 more comfortably because
 sharp braking is avoided
-and there are no big speed changes.
+and there are no big changes in speed.
 
 - Reduce the noise that vehicles make
 when driving.
@@ -103,11 +127,11 @@ when it hits the vehicle.
 from falling onto the road.
 <!-- Page: 451 -->
 - Do not wash the vehicle on the road.
-It should be washed in places prepared
-for this.
+It must be washed in places prepared
+to do it.
 
 - Do not throw objects onto the road
-that can dirty it, start fires
+that can dirty it, start fires,
 or cause accidents.
 
 - Do not make unnecessary noise
@@ -132,7 +156,7 @@ When accelerating
 and changing
 gear
 When choosing
-the speed
+speed
 When reducing
 speed
 and stopping
@@ -147,7 +171,7 @@ right after starting the engine.
 and increase it when the engine warms up.
 Driving at high speed
 with a cold engine
-makes it use more fuel
+makes more fuel be used
 and makes the engine wear out sooner.
 Watch video
 When accelerating and changing gear
@@ -183,7 +207,7 @@ the vehicle uses much more fuel
 and pollutes more.
 Changing speed many times
 also makes more fuel be used.
-It also makes the driver get more tired.
+Also, it makes the driver get more tired.
 You should travel at a constant speed,
 that does not change all the time,
 and avoid sharp braking and sudden acceleration.
@@ -215,10 +239,10 @@ The air outside
 Most of the fuel that is used
 is used to fight against the air
 that does not let the vehicle move forward.
-Some items fitted to the vehicle
+Some elements fitted to the vehicle
 make it harder to fight against the air
 and, therefore, it uses more fuel.
-For example, a roof rack or deflectors.
+For example, the roof rack or the deflectors.
 Deflectors. An accessory fitted to the vehicle
 to divert the air and stop it entering the inside.
 <!-- Page: 456 -->
@@ -231,7 +255,7 @@ It is better for luggage and other loads
 to go in the boot.
 
 - Do not lower the vehicle windows
-while it is moving.
+while it is driving.
 
 - Do not tow a trailer or caravan.
 Especially if the trailer or caravan
@@ -260,8 +284,8 @@ when necessary
 and keep the idle speed at the correct value.
 Idle speed. The ability of the engine to
 run without the driver pressing the accelerator.
-An idle speed that is too high will make
-more fuel be used.
+An idle speed that is too high will
+make more fuel be used.
 <!-- Page: 459 -->
 Driving in towns or cities
 In towns and cities
@@ -304,13 +328,13 @@ Measures to save fuel
 that are false
 Some measures used to save
 fuel are false
-and must not be done because they damage the vehicle.
+and must not be done because they harm the vehicle.
 These measures are:
 
 - Put fuel in the vehicle
 different from what the manufacturer states.
 Unsuitable fuel
-will break the vehicle’s engine.
+will break the vehicle engine.
 
 - Go down hills in neutral.
 The vehicle can lose stability
@@ -329,8 +353,8 @@ less fuel
 Start-Stop function
 This system starts and stops the engine
 automatically when the vehicle
-stops for a moment at a traffic light,
-in a traffic jam or for other reasons.
+stops for a moment at traffic lights,
+in a traffic jam, or for other reasons.
 This way, when the vehicle is stopped
 it does not use fuel and does not release gases
 that pollute the environment.
@@ -357,16 +381,16 @@ Zero emissions
 Eco
 B
 C
-The information shown on each label is:
+The information that appears on each label is:
 <!-- Page: 464 -->
 The aim of this classification
 is to give preference to vehicles
-that harm the environment less.
+that damage the environment less.
 City authorities can:
 
 - Create low-emission zones in the city.
-These are areas that only vehicles
-that harm the environment less can enter.
+These are zones that only vehicles
+that damage the environment less can enter.
 This is done to improve air quality.
 Low-emission zones are shown
 with a vertical sign.
@@ -377,36 +401,17 @@ will be able to enter that zone.
 <!-- Page: 465 -->
 - Decide which vehicles can enter
 the city centre on days
-when there is a lot of air pollution.
+when there is a lot of pollution in the air.
 
 - Give financial or traffic benefits
 to vehicles that support caring
 for the environment.
-For example, they can allow vehicles
-with the “zero emissions” label
-to use the VAO lane,
+For example, they can allow vehicles to drive
+in the VAO lane if they have
+the “zero emissions” label,
 even if only the driver is travelling in the vehicle.
 Environmental labels must be placed
 in front of the windscreen, on the right side
 of the vehicle’s front glass.
 In vehicles that do not have a windscreen,
 it will be placed in a visible place.
-<!-- Page: 466 -->
-Shared vehicles
-Another measure to care for the environment
-is the use of shared vehicles.
-This initiative means that a person
-can hire a vehicle
-through an application (App)
-for hours or minutes
-and share it with other people.
-Shared-use vehicles
-carry this label.
-
-## Annex points. The driving licence with points
-<!-- Page: 467 -->
-Contents
-How many points does each driver have?
-Losing points
-Which offences take points
-from the driving licence?

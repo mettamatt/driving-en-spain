@@ -14,11 +14,12 @@ N
 The hard shoulder
 If there is no road, or part of it,
 that is meant for them to travel on,
-the following vehicles must travel on the hard shoulder:
+the following vehicles must travel
+on the hard shoulder:
 
 - Cycles.
 
-- Vehicles following cyclists.
+- Vehicles that follow cyclists.
 
 - Mopeds.
 
@@ -31,7 +32,7 @@ do not weigh more than 3,500 kilos.
 - Vehicles for people
 with difficulty moving.
 When the road has no hard shoulder
-or it is not possible to travel on it,
+or you cannot travel on it,
 these vehicles may use
 only the essential part of the lane.
 <!-- Page: 239 -->
@@ -40,7 +41,7 @@ can leave the hard shoulder and travel
 on the right-hand part of the lane
 on downhill slopes with bends.
 See video
-All vehicles travelling
+All vehicles that travel
 on the hard shoulder must do so in single file,
 one behind the other.
 Except bicycle riders,
@@ -55,13 +56,13 @@ when the overtaking:
 
 - Lasts more than 15 seconds.
 <!-- Page: 240 -->
-- Needs a space of more
-than 200 metres to overtake.
+- Needs more than
+200 metres to overtake.
 Bicycle riders
 may overtake other vehicles
 without following these two rules.
 Travelling on motorways and dual carriageways
-The following may not travel on motorways
+They cannot travel on motorways
 or dual carriageways:
 
 - Pedestrians.
@@ -83,7 +84,7 @@ unless there is a sign that forbids it.
 <!-- Page: 241 -->
 On toll motorways you must go through
 the booths prepared to collect
-the entry ticket to the motorway
+the ticket to enter the motorway
 or to pay when leaving.
 These booths have a traffic light
 or green arrow when they are open
@@ -94,10 +95,10 @@ Emergencies on the motorway and dual carriageway
 Vehicles that have to travel
 more slowly on the motorway or dual carriageway due to a breakdown
 must leave this road
-at the first exit they come to.
+at the first exit they find.
 A vehicle that has to stop
 because of an emergency
-must do so on the hard shoulder or in the central reservation.
+must do so on the hard shoulder or on the central reservation.
 To ask for help you can use
 the nearest emergency phone.
 People travelling
@@ -106,8 +107,8 @@ must not walk on the road.
 <!-- Page: 242 -->
 When a vehicle has an accident
 or a breakdown,
-another vehicle that is authorised
-must remove it from the road
+another vehicle must remove it from the road,
+one that is authorised
 to do so.
 For example, a tow truck.
 
@@ -137,7 +138,7 @@ inside towns and cities
 - Minimum speed limits
 inside and outside towns and cities
 
-- Why are speed limits necessary?
+- Why are speed limits needed?
 Types of distance
 
 - Reaction distance
@@ -155,7 +156,6 @@ It is very important to drive at the right speed
 to avoid dangers and road traffic accidents.
 2.2 seconds
 1.2 seconds
-30 metres
 30 metres
 50
 Km/h
@@ -176,14 +176,14 @@ that a vehicle can reach
 on the road it is travelling on.
 When the vehicle goes faster
 than the maximum permitted speed,
-it is travelling with excess speed.
-For example, it is excess speed
+it is speeding.
+For example, it is speeding
 to travel at a speed of 100 kilometres per hour
 on a road where the
 maximum permitted speed is 90 kilometres per hour.
 <!-- Page: 245 -->
 Minimum speed
-Minimum speed at which a vehicle must travel
+Minimum speed that a vehicle must travel at
 on the road it is travelling on.
 When a vehicle travels
 at a speed lower than the permitted one,
@@ -193,14 +193,14 @@ to drive at 40 kilometres per hour on a motorway
 where the minimum permitted speed
 is 60 kilometres per hour.
 Inappropriate speed
-Speed that is within the permitted limits
-but is not suitable
+Speed that is within the
+permitted limits but is not suitable
 because of the driver’s condition, the weather,
 the state of the road,
-or the circumstances of the vehicle.
+or the vehicle’s circumstances.
 For example, driving at a speed
 of 70 kilometres per hour on a road
-where there are ice patches and the vehicle can skid.
+where there are ice patches and the vehicle may skid.
 That speed would be appropriate
 in normal circumstances.
 But in that case it is an excessive speed
@@ -212,17 +212,17 @@ of road traffic accidents.
 Appropriate speed
 Speed that is within the permitted limits
 and that is suitable for the weather conditions,
-the road, the circumstances of the vehicle
+the road, the vehicle’s circumstances
 and the driver’s condition.
-Appropriate speed makes it possible
-to control the vehicle better in unexpected situations.
+The appropriate speed allows you
+to control the vehicle better if something unexpected happens.
 People are more likely to die
 in a road traffic accident
 when the vehicle is travelling at excessive speed
 than when it is travelling at an appropriate speed.
 What must you take into account to travel
 at an appropriate speed?
-You must always respect the speed limits.
+You must always respect speed limits.
 But you must also take into account
 the circumstances at each moment.
 These circumstances are:
@@ -237,7 +237,7 @@ when you are carrying a lot of weight in the vehicle.
 
 - The state of the road.
 You must go more slowly if the road
-has speed bumps or is badly surfaced.
+has speed bumps or has poor surfacing.
 
 - The traffic situation.
 You must drive more slowly
@@ -291,12 +291,12 @@ In these cases, the maximum speed must be
 See video
 
 - When approaching narrow places
-or places where visibility is poor.
+or places where you cannot see well.
 
-- When meeting another vehicle when
+- When passing an oncoming vehicle when
 the circumstances do not allow it
 to be done very safely.
-For example, when you meet a lorry
+For example, when you pass a lorry
 on a bend on a narrow road.
 
 - When you are dazzled by the lights of another vehicle.
@@ -354,7 +354,7 @@ Type of vehicle
 
 - Buses.
 
-- Car-derived vehicles.
+- Car-derived vans.
 
 - Adaptable mixed vehicles.
 Motorway
@@ -384,7 +384,7 @@ Type of vehicle
 
 - Lorries.
 
-- Articulated tractor units.
+- Tractor units.
 
 - Vans.
 
@@ -423,7 +423,7 @@ Type of vehicle
 - Heavy quadricycles.
 
 - Special vehicles that can reach
-60 kilometres per hour on flat ground.
+60 kilometres per hour on level ground.
 Motorway
 and dual carriageway
 Roads
@@ -458,9 +458,11 @@ Motorway
 and dual carriageway
 Roads
 Tracks
-Maximum and minimum speed
-Maximum and minimum speed
-May not
+Maximum and minimum
+speed
+Maximum and minimum
+speed
+They cannot
 travel
 25
 25
@@ -471,9 +473,11 @@ Motorway
 and dual carriageway
 Roads
 Tracks
-Maximum and minimum speed
-Maximum and minimum speed
-May not
+Maximum and minimum
+speed
+Maximum and minimum
+speed
+They cannot
 travel
 40
 30
@@ -485,12 +489,10 @@ and dual carriageway
 Roads
 Tracks
 Maximum speed
-Maximum speed
-Maximum speed
 45
-on dual carriageways.
-On motorways they
-may not travel.
+on a dual carriageway.
+On a motorway they
+cannot travel.
 45
 30
 <!-- Page: 255 -->
@@ -508,8 +510,7 @@ and dual carriageway
 Roads
 Tracks
 Maximum speed
-Maximum speed
-May not
+They cannot
 travel
 45
 30
@@ -525,39 +526,22 @@ the speed limit is 80 kilometres per hour.
 Maximum speed limit
 inside towns and cities
 Type of vehicle
-
 - All vehicles in general
 Streets
-without kerbs,
-where the carriageway
-and the pavement are
-at the same height
-Streets
-with one lane
-in each direction
-Streets
-with several lanes
-in each direction
-20
-30
-50
+
+| without kerbs, where the carriageway and the pavement are | Streets with one lane in each direction | Streets with several lanes in each direction |
+| --- | --- | --- |
+| at the same level |  |  |
+| 20 | 30 | 50 |
+
 Type of vehicle
-
 - Vehicles that carry dangerous goods.
-
 - Special vehicles that cannot reach
+
 a speed of more than 60 kilometres per hour.
 Streets
-without kerbs,
-where the carriageway
-and the pavement are
-at the same height
-Streets
-with one lane
-in each direction
-Streets
-with several lanes
-in each direction
-20
-30
-40
+
+| without kerbs, where the carriageway and the pavement are | Streets with one lane in each direction | Streets with several lanes in each direction |
+| --- | --- | --- |
+| at the same level |  |  |
+| 20 | 30 | 40 |

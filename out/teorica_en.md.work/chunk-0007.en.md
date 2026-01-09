@@ -1,10 +1,27 @@
+<!-- Page: 107 -->
+Wearing the seat belt correctly
+means a person has double the chances
+of surviving an accident.
+In fact, there are fewer deaths from road accidents
+since the seat belt exists.
+For a seat belt to be useful
+and safe it must meet the quality requirements
+and be well fixed to the vehicle body.
+You must check it from time to time
+and take it to the garage so they repair it or change it
+if it has any damage.
+Who must wear the seat belt?
+All people who travel in a vehicle
+that has seat belts fitted.
+Drivers must do it
+and also passengers on all roads and streets.
 <!-- Page: 108 -->
 There are some exceptions where drivers
-are not required to wear a seat belt,
+are not required to wear the seat belt,
 although it is recommended that they always wear it.
-These exceptions can only be applied
-when the vehicle is travelling within a town or city.
-Never when travelling on roads, dual carriageways, or motorways.
+These exceptions can only apply
+when the vehicle travels within a town or city.
+Never when it travels on roads, dual carriageways or motorways.
 Exceptions:
 
 - Drivers who are parking
@@ -12,7 +29,7 @@ moving the vehicle backwards.
 
 - Taxi drivers who are on duty.
 
-- Children who are less than 135 centimetres tall
+- Children who are under 135 centimetres tall
 and travel in a taxi that does not have
 child safety systems.
 In those cases, the children will travel
@@ -27,7 +44,7 @@ of the vehicle to collect and deliver orders.
 in emergency services.
 For example, ambulances.
 <!-- Page: 109 -->
-- Driving school instructors who take a learner
+- Driving instructors who take a learner
 and are in charge of the additional controls
 of the vehicle.
 Only people who cannot wear it
@@ -37,7 +54,7 @@ in any situation or on any road.
 These people must carry a medical certificate
 that explains the reasons.
 Seat belts for children
-Children who are less than 135 centimetres tall
+Children who are under 135 centimetres tall
 must use a different safety system,
 more suitable for them.
 They are called child restraint systems
@@ -51,15 +68,15 @@ To fit a child restraint system
 in a vehicle you must take into account
 the following recommendations:
 
-- Do not install the child seat
-in a seat that has an airbag in front of it.
+- Do not fit the child seat
+in a seat that has an airbag in front.
 
-- For small children, place the child seat
+- For small children, fit the child seat
 facing the opposite direction to the vehicle’s travel.
 That is, facing backwards. It is safer.
 
-- Place the child seat in the centre rear seat.
-This way they will be more protected
+- Fit the child seat in the centre rear seat.
+This way the child will be more protected
 in case there is an accident
 from either side.
 Watch video
@@ -75,27 +92,26 @@ in the front seat when:
 
 - The vehicle has no rear seats.
 
-- All the rear seats are occupied
+- All rear seats are occupied
 by other children.
 
-- The child restraint systems
-cannot be installed in the rear seats.
+- The child restraint systems cannot be fitted
+in the rear seats.
 On buses, children who are
-less than 135 centimetres tall and are three years old or more
+under 135 centimetres tall and are three years old or more
 must also use child restraint systems.
 <!-- Page: 112 -->
 If there are none, they will have to fasten
-the seat belt on the seat,
+the seat belt that is on the seat,
 as long as it is suitable for their height and weight.
 How do you fasten the seat belt?
 You must wear the seat belt
-properly fastened and fitted to the body.
+properly fastened and adjusted to the body.
 It must not be too loose or too tight
 so that you can move easily.
 The seat belt has two straps
 that you must wear in the right place
 so that they protect you.
-Watch video
 <!-- Page: 113 -->
 Chest
 strap
@@ -122,9 +138,9 @@ WRONG
 RIGHT
 After fastening your seat belt
 pull it slightly upwards to check
-that it fits well.
+that it is well adjusted.
 Check that it is not caught or twisted
-in any part.
+in any of its parts.
 <!-- Page: 114 -->
 The submarining effect
 This effect happens when in an accident
@@ -133,12 +149,12 @@ This happens because the seat is tilted backwards
 and the belt is badly positioned.
 To prevent this you must:
 
-- Fasten your seat belt properly.
+- Fasten the seat belt properly.
 
 - Check that the seat belt
-is well fitted to the body.
+is well adjusted to the body.
 
-- Do not place towels, cushions, or covers
+- Do not place towels, cushions or covers
 on the seat that could make you slip.
 
 - Have a correct driving posture,
@@ -148,7 +164,7 @@ effect
 Airbags
 What are they?
 A safety device
-that is a bag of air
+that consists of an air bag
 that inflates inside the vehicle
 in case of an accident
 to protect passengers.
@@ -165,7 +181,7 @@ in an accident are:
 against any part of the vehicle.
 
 - To protect people’s face and eyes
-from broken glass and other items
+from broken glass and other elements
 that come loose because of the accident.
 Precautions when using airbags:
 
@@ -178,7 +194,7 @@ is smaller.
 so that the front airbag
 does not hit you when it inflates.
 
-- Switch off the front passenger airbag
+- Switch off the front passenger seat airbag
 if you are going to place a child seat in that seat.
 <!-- Page: 116 -->
 The head restraint
@@ -204,9 +220,9 @@ because they wear a helmet.
 What does the helmet do in an accident?
 
 - It protects the head from impacts against the ground,
-other vehicles, or road elements.
+other vehicles or road elements.
 
-- It prevents stones, metal, or other sharp objects
+- It prevents stones, metal pieces or other sharp objects
 from entering the head
 
 - It spreads the force of the impact over the whole helmet
@@ -227,8 +243,8 @@ Watch video
 Material
 Some helmets expire after a few years
 and can lose properties
-if they are painted or if
-stickers are put on them.
+if they are painted or if stickers
+are put on them.
 Size
 It must fit the head well.
 Strap
@@ -303,8 +319,8 @@ that goes into the vehicle’s engine.
 The harder you press the accelerator, the more fuel
 will go into the engine and the faster the vehicle will go.
 This pedal is pressed with the right foot.
-If you do not press it, the vehicle receives the
-right amount of fuel to keep running
+If you do not press it, the vehicle receives the right amount
+of fuel to keep running
 and not stop.
 Watch video
 Brake pedal
@@ -312,7 +328,7 @@ It is used to reduce speed or stop the vehicle.
 The brake pedal acts
 on all the wheels of the car.
 This pedal is pressed with the right foot
-and you must press it gently.
+and you must press it smoothly.
 <!-- Page: 122 -->
 Clutch pedal
 It is a mechanism that allows the gearbox
@@ -340,7 +356,7 @@ How should you hold the steering wheel?
 
 - With both hands.
 You should only let go with one hand for just long enough
-to operate other car controls.
+to operate other controls in the car.
 
 - On the outside.
 You must never hold the steering wheel
@@ -358,7 +374,7 @@ with the right hand.
 Controls of motorcycles
 Motorcycles have the same controls
 as other motor vehicles.
-But they are in a different place
+But they are placed in a different place
 and are used differently.
 Watch video
 With the left
@@ -372,7 +388,7 @@ hand
 Front brake.
 Lever to brake the front wheel.
 Accelerator. It is on the handlebar
-and is activated by twisting the grip.
+and is activated by turning the grip.
 <!-- Page: 125 -->
 With the feet
 Brake pedal.
