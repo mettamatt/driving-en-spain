@@ -1462,6 +1462,88 @@ def _render_points_table(headers: tuple[str, str], rows: list[tuple[str, str]]) 
     return out
 
 
+TRAILER_TABLE_HEADING_RE = re.compile(r"^\s*#\s*\*\*(.+?)\*\*\s*(.+?)\s*$")
+TRAILER_TABLE_TITLES_ES_RE = re.compile(
+    r"^(remolque\s+ligero)\s+(remolque\s+pesado)$", re.IGNORECASE
+)
+TRAILER_TABLE_TITLES_EN_RE = re.compile(r"^(light\s+trailer)\s+(heavy\s+trailer)$", re.IGNORECASE)
+
+
+def _split_two_trailer_descriptions(text: str) -> tuple[str, str] | None:
+    """
+    Split a combined line like:
+      "With load it weighs ... . With load it can weigh ..."
+    into (left, right).
+    """
+    s = text.strip()
+    if not s:
+        return None
+
+    # Prefer splitting on the repeated lead-in phrase.
+    for phrase in ("con carga", "with load"):
+        s_low = s.lower()
+        first = s_low.find(phrase)
+        if first < 0:
+            continue
+        second = s_low.find(phrase, first + len(phrase))
+        if second > 0:
+            left = s[:second].strip()
+            right = s[second:].strip()
+            if left and right:
+                return left, right
+
+    # Fallback: split at the first sentence boundary.
+    m = re.search(r"\.\s+", s)
+    if not m:
+        return None
+    left = s[: m.end()].strip()
+    right = s[m.end() :].strip()
+    if not left or not right:
+        return None
+    return left, right
+
+
+def _render_two_col_single_row_table(headers: tuple[str, str], row: tuple[str, str]) -> list[str]:
+    h1, h2 = (_escape_md_table_cell(h) for h in headers)
+    c1, c2 = (_escape_md_table_cell(c) for c in row)
+    return [
+        f"| {h1} | {h2} |",
+        "| --- | --- |",
+        f"| {c1} | {c2} |",
+    ]
+
+
+def _maybe_convert_light_heavy_trailer_heading(line: str) -> list[str] | None:
+    """
+    Marker sometimes extracts the "Trailer light/heavy" 2-column box as a single H1 line like:
+
+        # **Light trailer Heavy trailer** With load it weighs ... With load it can weigh ...
+
+    Convert it into a 2-column Markdown table so PDF renderers don't treat it as a giant heading.
+    """
+    m = TRAILER_TABLE_HEADING_RE.match(line)
+    if not m:
+        return None
+
+    titles_raw = m.group(1).strip()
+    body_raw = m.group(2).strip()
+
+    m_titles = TRAILER_TABLE_TITLES_ES_RE.match(titles_raw) or TRAILER_TABLE_TITLES_EN_RE.match(
+        titles_raw
+    )
+    if not m_titles:
+        return None
+
+    left_title = m_titles.group(1).strip()
+    right_title = m_titles.group(2).strip()
+
+    split = _split_two_trailer_descriptions(body_raw)
+    if not split:
+        return None
+    left_desc, right_desc = split
+    return _render_two_col_single_row_table((left_title, right_title), (left_desc, right_desc))
+
+
 def convert_known_tables(markdown: str) -> str:
     """
     Convert a couple of known "PDF extracted" table patterns into Markdown tables.
@@ -1518,6 +1600,15 @@ def convert_known_tables(markdown: str) -> str:
             after_page_marker = False
 
         after_page_marker = False
+
+        trailer_table = _maybe_convert_light_heavy_trailer_heading(line)
+        if trailer_table:
+            if out and out[-1] != "":
+                out.append("")
+            out.extend(trailer_table)
+            out.append("")
+            i += 1
+            continue
 
         maybe_licence_header = _looks_like_licence_header(lines, i)
         if maybe_licence_header:

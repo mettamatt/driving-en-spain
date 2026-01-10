@@ -115,7 +115,10 @@ Platform with wheels that is attached to a motor vehicle, by means of an axle, t
 In a trailer, the axle makes the load spread out and makes it easier to drive.
 <!-- Page: 8 -->
 
-# **Light trailer Heavy trailer** With load it weighs a maximum of 750 kilos. With load it can weigh more than 750 kilos.
+| Light trailer | Heavy trailer |
+| --- | --- |
+| With load it weighs a maximum of 750 kilos. | With load it can weigh more than 750 kilos. |
+
 
 #### **Semi-trailer**
 
