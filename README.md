@@ -1,22 +1,24 @@
-# Driving Theory (Spain) → English (Markdown)
+# Spanish Driving Theory Manual — English Translation
 
-Small, practical toolchain for:
-1) extracting a Spanish driving theory PDF into Markdown (with images), then
-2) translating that Markdown into English via the OpenAI API, in resumable chunks.
+An English translation of Spain's official DGT driving theory manual, using British English to match the language used in the DGT's English exam. Designed to help English speakers study for the Spanish driving test.
 
-This repo is optimized for the source document:
-`TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf`.
+## Download
+
+- **English (Markdown):** [`TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md`](out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md)
+- **English (PDF):** [`TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.pdf`](out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.pdf)
+
+**Disclaimer:** This is not official material — verify against current DGT sources.
+
+---
+
+# Developer Notes
+
+This repo contains a small toolchain for extracting the Spanish driving theory PDF into Markdown (with images), then translating it to English via the OpenAI API.
 
 Notes:
-- The marker-based English output (with images) is checked in under `out/marker_es/...`.
-- The marker-based Spanish output (with images) is also checked in under `out/marker_es/...`.
-- The translation workdir (manifest + per-chunk outputs) is checked in so developers can rebuild/post-process without re-translating.
-- Other generated files under `out/` are still treated as build artifacts (they’re gitignored by default).
-- The PDF is gitignored; you must obtain it separately and place it in the repo root.
-- This is not official material and not legal/learning advice — verify against current DGT sources.
-- Marker has licensing constraints (GPL code + restricted weights); review before any commercial use.
+- The source PDF (`TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf`) is gitignored; obtain it separately from the DGT.
 
-## What’s in here
+## What's in here
 
 - `scripts/marker_extract_to_md.py` → extract PDF to Spanish Markdown via `marker-pdf` (includes images).
 - `scripts/translate_md_openai.py` → translate Markdown to English via the OpenAI API in resumable chunks.
@@ -26,11 +28,6 @@ Optional utilities:
 - `scripts/postprocess_markdown_cli.py` → run the post-processor on a Markdown file.
 - `scripts/slice_md_pages.py` → extract specific `<!-- Page: N -->` segments into a new Markdown file.
 - `scripts/diff_pages.py` → diff specific page segments between two Markdown files.
-
-## Outputs (checked in)
-
-- English (Markdown + images): [`out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md`](out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md)
-- Spanish (Markdown + images): [`out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md`](out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.md)
 
 ## Requirements
 
