@@ -1,14 +1,14 @@
 <!-- Page: 177 -->
 
-**R-203** Entry prohibited for vehicles that are longer than the measurement shown on the sign.
+**R-203** No entry for vehicles that are longer than the length shown on the sign.
 
 ![](_page_176_Picture_2.jpeg)
 
-**R-204** Entry prohibited for vehicles that are wider than the measurement shown on the sign.
+**R-204** No entry for vehicles that are wider than the width shown on the sign.
 
 ![](_page_176_Picture_4.jpeg)
 
-**R-205** Entry prohibited for vehicles that are higher than the measurement shown on the sign.
+**R-205** No entry for vehicles that are higher than the height shown on the sign.
 
 ![](_page_176_Picture_6.jpeg)
 
@@ -18,73 +18,73 @@
 
 ![](_page_176_Picture_9.jpeg)
 
-Obligation to keep the number of metres of distance from the vehicle in front that the sign shows.
+Obligation to keep the number of metres of distance from the vehicle in front shown on the sign.
 
-**R-301** Maximum permitted speed. It is prohibited to drive at a higher speed, in kilometres per hour, than the one shown on the sign. This applies until you see another sign for end of speed limit, end of prohibitions, or another maximum speed sign.
+**R-301** Maximum permitted speed. It is forbidden to drive at a higher speed, in kilometres per hour, than the one shown on the sign. This applies until you see another sign for end of speed limit, end of prohibitions, or another maximum speed sign.
 
 ![](_page_176_Picture_12.jpeg)
 
-**R-302** Right turn prohibited.
+**R-302** No right turn.
 
 ![](_page_176_Picture_14.jpeg)
 
-**R-303** Left turn and U-turn prohibited.
+**R-303** No left turn and no U-turn.
 
 ![](_page_176_Picture_16.jpeg)
 <!-- Page: 178 -->
 
-**R-304** U-turn prohibited.
+**R-304** No U-turn.
 
-You cannot turn around and go the other way.
+You must not turn round and go the other way.
 
 ![](_page_177_Picture_3.jpeg)
 
-**R-305** Overtaking prohibited. You may only overtake two-wheeled motorcycles if you do not enter the oncoming lane. You must obey this sign until another one appears that indicates that you can overtake in that area.
+**R-305** No overtaking other vehicles. You may only overtake two-wheeled motorcycles if you do not enter the oncoming lane. You must obey this sign until another one appears that indicates that you may overtake in that area.
 
 ![](_page_177_Picture_5.jpeg)
 
-**R-306** Overtaking prohibited for lorries that can carry loads of more than 3,500 kilos. They may only overtake two-wheeled motorcycles if they do not enter the oncoming lane.
+**R-306** No overtaking for lorries that can carry loads of more than 3,500 kilos. They may only overtake two-wheeled motorcycles if they do not enter the oncoming lane.
 
 ![](_page_177_Picture_7.jpeg)
 
-**R-307** Stopping and parking prohibited in that place.
+**R-307** No stopping and no parking in that place.
 
 ![](_page_177_Picture_9.jpeg)
 
-**R-308** Parking prohibited on that side of the carriageway. You may stop, but not park.
+**R-308** No parking on that side of the carriageway. You may stop, but not park.
 
 ![](_page_177_Picture_11.jpeg)
 
-**R-308a** Parking prohibited on that side of the carriageway on odd days of the month. You may stop, but not park.
+**R-308a** No parking on that side of the carriageway on odd days of the month. You may stop, but not park.
 
 ![](_page_177_Picture_13.jpeg)
 
-**R-308b** Parking prohibited on that side of the carriageway on even days of the month. For example, days 2, 4, 6… You may stop, but not park.
+**R-308b** No parking on that side of the carriageway on even days of the month. For example, days 2, 4, 6… You may stop, but not park.
 
 ![](_page_177_Picture_15.jpeg)
 <!-- Page: 179 -->
 
-**R-308c** Parking prohibited on that side of the carriageway during the first 15 days of each month. You may stop, but not park.
+**R-308c** No parking on that side of the carriageway during the first 15 days of each month. You may stop, but not park.
 
 ![](_page_178_Picture_2.jpeg)
 
-**R-308d** Parking prohibited on that side of the carriageway between day 16 and the last day of each month. You may stop, but not park.
+**R-308d** No parking on that side of the carriageway between day 16 and the last day of each month. You may stop, but not park.
 
 ![](_page_178_Picture_4.jpeg)
 
-**R-308e** Parking prohibited in front of a dropped kerb.
+**R-308e** No parking in front of a dropped kerb.
 
-Dropped kerbs are spaces in the street reserved so that some vehicles can enter their garages, homes, or shops.
+Dropped kerbs are spaces in the street reserved so that some vehicles can enter their garages, homes or shops.
 
 ![](_page_178_Picture_7.jpeg)
 
 **R-309** Limited-duration parking zone.
 
-The driver is required to indicate the time when they left the vehicle parked.
+The driver must indicate the time when they left the vehicle parked.
 
 ![](_page_178_Picture_10.jpeg)
 
-**R-310** Remember that you should only make sounds and use the horn with the vehicle when it is necessary to avoid accidents.
+**R-310** Remember that you should only use the horn and sound signals with the vehicle when they are necessary to avoid accidents.
 
 ![](_page_178_Picture_12.jpeg)
 
@@ -132,9 +132,9 @@ The driver is required to indicate the time when they left the vehicle parked.
 
 ![](_page_180_Picture_4.jpeg)
 
-You cannot make a U-turn.
+You must not make a U-turn.
 
-**R-403b** Must turn left or go straight on. You cannot make a U-turn.
+**R-403b** Must turn left or go straight on. You must not make a U-turn.
 
 ![](_page_180_Picture_7.jpeg)
 
@@ -144,17 +144,17 @@ You cannot make a U-turn.
 
 ![](_page_180_Picture_10.jpeg)
 
-**R-404** Cars must use that carriageway. Motorcycles without a sidecar are not
+**R-404** Cars must use this carriageway. Motorcycles without a sidecar are not
 
 required to.
 
 ![](_page_180_Picture_12.jpeg)
 
-**R-405** Motorcycles without a sidecar must use that carriageway.
+**R-405** Motorcycles without a sidecar must use this carriageway.
 
 ![](_page_180_Picture_14.jpeg)
 
-**R-406** Lorries, vans, and light vans must use that carriageway.
+**R-406** Lorries, vans and light vans must use this carriageway.
 
 ![](_page_180_Picture_16.jpeg)
 
@@ -167,21 +167,21 @@ required to.
 ![](_page_180_Picture_20.jpeg)
 <!-- Page: 182 -->
 
-**R-408** Vehicles drawn by animals must use that path. Others may also use that path.
+**R-408** Vehicles drawn by animals must use this track. Others may also use this track.
 
 ![](_page_181_Picture_2.jpeg)
 
-**R-409** People riding an animal must use that path. Nobody else may use that path.
+**R-409** People riding an animal must use this track. Nobody else may use this track.
 
 ![](_page_181_Picture_4.jpeg)
 
-**R-410** Pedestrians must use that path. Nobody else may use that path.
+**R-410** Pedestrians must use this track. Nobody else may use this track.
 
 ![](_page_181_Picture_6.jpeg)
 
 **R-411** Minimum speed.
 
-Vehicles must travel at least at the speed shown on the sign. You cannot travel more slowly. You must follow this rule until you find another sign that allows you to travel at a lower speed.
+Vehicles must travel at least at the speed shown on the sign. You must not drive more slowly. You must follow this rule until you find another sign that allows you to drive at a lower speed.
 
 ![](_page_181_Picture_9.jpeg)
 
@@ -191,26 +191,26 @@ Vehicles must travel at least at the speed shown on the sign. You cannot travel 
 
 **R-413** Must switch on dipped headlights.
 
-You must keep them on until another sign tells you that you can switch them off.
+You must keep them on until another sign tells you that you may switch them off.
 
 ![](_page_181_Picture_14.jpeg)
 
-**R-414** Vehicles carrying dangerous goods must use that road.
+**R-414** Vehicles carrying dangerous goods must use this road.
 
 ![](_page_181_Picture_16.jpeg)
 <!-- Page: 183 -->
 
-**R-415** Vehicles carrying more than 1,000 litres of products that can pollute water must use that road.
+**R-415** Vehicles carrying more than 1,000 litres of products that can pollute water must use this road.
 
 ![](_page_182_Picture_2.jpeg)
 
-**R-416** Vehicles carrying explosive material or material that can catch fire must use that road.
+**R-416** Vehicles carrying explosive material or material that can catch fire must use this road.
 
 ![](_page_182_Picture_4.jpeg)
 
 **R-418** Lane only for vehicles that have an electronic toll device.
 
-The electronic toll is an electronic device that is placed on the windscreen and recognises your vehicle’s number plate so that the barrier on the motorways opens automatically.
+The electronic toll is an electronic device that is placed on the windscreen and recognises your vehicle’s number plate so that the motorway barrier opens automatically.
 
 ![](_page_182_Picture_7.jpeg)
 
@@ -224,11 +224,11 @@ The electronic toll is an electronic device that is placed on the windscreen and
 
 ![](_page_182_Picture_12.jpeg)
 
-**R-502** End of overtaking prohibition. You may overtake other vehicles.
+**R-502** End of no overtaking. You may overtake other vehicles.
 
 ![](_page_182_Picture_14.jpeg)
 
-**R-503** End of overtaking prohibition for lorries.
+**R-503** End of no overtaking for lorries.
 
 Lorries may overtake other vehicles.
 
@@ -300,13 +300,13 @@ They are called information signs. There are different types of information sign
 ![](_page_184_Picture_14.jpeg)
 <!-- Page: 186 -->
 
-**S-11** One-way carriageway. They indicate the direction in which vehicles must travel on that road. They also prohibit U-turns (turning around).
+**S-11** One-way carriageway. They indicate the direction in which vehicles must travel on that road. They also prohibit making a U-turn (turning round).
 
 The arrows indicate the number of lanes
 
 ![](_page_185_Picture_2.jpeg)
 
-**S-12** One-way section of carriageway. It indicates that on that section of street or road you must travel in the direction the arrow points. It is prohibited to do so in the other direction.
+**S-12** Stretch of one-way carriageway. It indicates that on that stretch of street or road you must travel in the direction the arrow points. It is forbidden to do so in the other direction.
 
 ![](_page_185_Picture_4.jpeg)
 
@@ -318,7 +318,7 @@ The arrows indicate the number of lanes
 
 ![](_page_185_Picture_8.jpeg)
 
-**S-16** Emergency braking area. It indicates an area where vehicles can pull off and stop when their brakes fail.
+**S-16** Emergency stopping area. It indicates an area where vehicles can pull off and stop when their brakes fail.
 
 ![](_page_185_Picture_10.jpeg)
 
@@ -345,14 +345,14 @@ Road that crosses a mountain.
 
 #### **S-21.1 a, b, c, d and e.**
 
-Panel number 1. It can be different colours White, with the word OPEN. All vehicles may pass.
+Panel number 1. It can be different colours. White, with the word OPEN. All vehicles may drive through.
 
 ![](_page_186_Picture_11.jpeg)
 
-Green. All vehicles may pass. But lorries that can carry more than 3,500 kilos cannot overtake other vehicles.
+Green. All vehicles may drive through. But lorries that can carry more than 3,500 kilos must not overtake other vehicles.
 
-Yellow. Cars and buses must travel at a maximum speed of 60 kilometres per hour. Lorries that can carry more than 3,500 kilos and articulated lorries cannot pass.
+Yellow. Cars and buses must drive at a maximum speed of 60 kilometres per hour. Lorries that can carry more than 3,500 kilos and articulated lorries must not pass.
 
-Red. Vehicles must carry chains and travel at a maximum speed of 30 kilometres per hour. Lorries and buses cannot pass.
+Red. Vehicles must carry chains and drive at a maximum speed of 30 kilometres per hour. Lorries and buses must not pass.
 
 **Black**, with the word CLOSED. No vehicle may pass on that road.

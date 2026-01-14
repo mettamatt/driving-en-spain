@@ -11,7 +11,7 @@
 | Type of oil     | How is it obtained?                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------|
 | Mineral         | From oil.<br>Nowadays it is used very little.                                                |
-| Synthetic       | It is made in a laboratory<br>by mixing substances<br>from oil and from other materials.    |
+| Synthetic       | It is made in a laboratory<br>by mixing substances<br>from oil and from other materials.     |
 | Semi-synthetic  | A mixture of mineral oils<br>and synthetic oils.                                             |
 <!-- Page: 374 -->
 
@@ -21,18 +21,18 @@ Because they have the following advantages:
 
 - **■** They resist cold and heat better.
 - **■** They allow the vehicle to start better when it is very cold.
-- **■** They protect the engine better because they are thicker and less liquid than mineral oils.
+- **■** They protect the engine better because they are thicker and less runny than mineral oils.
 - **■** Less oil is needed.
-- **■** It lasts longer. Therefore, the vehicle’s oil needs to be changed less often.
+- **■** They last longer. Therefore, the vehicle’s oil needs changing less often.
 
 ### **Depending on their thickness**
 
-Oil is more liquid when it heats up and thicker when it is cold.
+Oil is more runny when it heats up and thicker when it is cold.
 
-That is why it is better to use a more liquid oil when the temperature is low. This way it will circulate better through the engine when starting the vehicle, even if it is very cold.
+That is why it is better to use a more runny oil when the temperature is low. This way it will circulate better through the engine when starting the vehicle, even if it is very cold.
 <!-- Page: 375 -->
 
-However, when the engine is hot it is better to use a thicker oil. If it is too liquid it will not cover the engine parts well.
+However, when the engine is hot it is better to use a thicker oil. If it is too runny it will not cover the engine parts well.
 
 ![](_page_374_Picture_2.jpeg)
 
@@ -53,7 +53,7 @@ To change it, the vehicle must be level and the engine must be stopped and warm.
 
 You must avoid the oil falling onto the ground because it is very polluting.
 
-If oil spills while you top up the vehicle, you must collect it.
+If oil spills while you are topping up the vehicle, you must collect it.
 
 When a bluish-white smoke comes out through the exhaust pipe it means that the vehicle has too much oil.
 
@@ -61,7 +61,7 @@ When a bluish-white smoke comes out through the exhaust pipe it means that the v
 
 **What is its function?**
 
-To ensure that the engine stays at a good temperature so it can keep working and to prevent its parts from wearing out and breaking due to excess heat.
+To make sure the engine stays at a good temperature so it can keep working and to prevent its parts from wearing out and breaking due to excess heat.
 
 Without this system, the engine would heat up very quickly when running and would break down.
 <!-- Page: 377 -->
@@ -83,7 +83,7 @@ However, it may indicate that there is a broken part or a fault if the white smo
 
 ![](_page_377_Picture_2.jpeg)
 
-At the beginning of winter it is important to check that the coolant is in good condition and will not freeze.
+At the start of winter it is important to check that the coolant is in good condition and is not going to freeze.
 
 If the vehicle is in a very cold place during winter, the liquid can freeze and break the engine or the cooling system.
 <!-- Page: 379 -->
@@ -92,17 +92,17 @@ If the vehicle is in a very cold place during winter, the liquid can freeze and 
 
 **What is its function?**
 
-To take the engine power to the wheels so that the vehicle can move.
+To transmit the engine’s power to the wheels so that the vehicle can move.
 
 A vehicle’s engine can drive some wheels or others.
 
 Depending on which wheels receive the drive, the vehicle can be:
 
 |                      | Which wheels<br>receive the drive<br>from the engine? |  |
-|----------------------|-------------------------------------------------------|--|
-| Front-wheel drive    | The front ones.                                       |  |
-| Rear-wheel<br>drive  | The rear ones.                                        |  |
-| Four-wheel<br>drive  | All the wheels.                                       |  |
+|----------------------|------------------------------------------------------|--|
+| Front-wheel drive    | The front ones.                                      |  |
+| Rear-wheel<br>drive  | The rear ones.                                       |  |
+| Four-wheel<br>drive  | All the wheels.                                      |  |
 
 First gear is the one that sends the most force to the wheels, but it is the slowest.
 <!-- Page: 380 -->
@@ -115,26 +115,26 @@ To transmit the movement of the steering wheel to the front wheels so that the d
 
 Signs that the steering system is failing:
 
-- **■** It takes a lot of effort to move the steering wheel.
+- **■** It takes a lot of effort to turn the steering wheel.
 - **■** The tyres may have low pressure and need inflating more.
 - **■** The steering wheel is too loose.
 - **■** The vehicle pulls to one side when you let go of the steering wheel on a straight road.
 - **■** Some tyres may be more inflated than others.
 - **■** The tyres wear out very quickly.
-- **■** The steering wheel vibrates while you drive. The wheels may not be properly balanced.
+- **■** The steering wheel vibrates while you are driving. The wheels may not be properly balanced.
 
 ![](_page_379_Picture_12.jpeg)
 <!-- Page: 381 -->
 
 #### **Power steering**
 
-A system that helps the driver to use less force to turn the steering wheel and control the vehicle.
+A system that helps the driver so they have to use less force to turn the steering wheel and control the vehicle.
 
 There is also a type of power steering called progressive.
 
 Progressive power steering makes it very easy to turn the steering wheel when the vehicle is going slowly and makes it a bit harder when the vehicle is travelling at higher speed.
 
-This will make it easier to control the vehicle.
+This makes it easier to control the vehicle.
 
 ![](_page_380_Picture_6.jpeg)
 <!-- Page: 382 -->
@@ -145,9 +145,9 @@ This will make it easier to control the vehicle.
 
 To keep contact between the tyres and the road at all times.
 
-Thanks to this system, the vehicle does not lose stability and allows passengers to travel more comfortably.
+Thanks to this system, the vehicle does not lose stability and it allows passengers to travel more comfortably.
 
-Without the suspension system the driver would have more difficulty getting over small obstacles on the road and driving without jolts.
+Without the suspension system the driver would have more difficulty getting over small obstacles in the road and driving without jolts.
 
 ![](_page_381_Picture_6.jpeg)
 <!-- Page: 383 -->
@@ -158,14 +158,14 @@ Without the suspension system the driver would have more difficulty getting over
 - **■** The vehicle sways from side to side or leans a lot when taking a bend.
 - **■** Bumps or wind are felt too much.
 - **■** The tyres wear out very quickly.
-- **■** The vehicle lights move up and down when they are on.
+- **■** The vehicle’s lights move up and down when they are on.
 
 ![](_page_382_Picture_7.jpeg)
 <!-- Page: 384 -->
 
 What consequences does a suspension system in poor condition have?
 
-**■** The vehicle loses stability. Especially on bends and when there is wind.
+**■** The vehicle loses stability. Especially on bends and when it is windy.
 
 ![](_page_383_Picture_3.jpeg)
 
@@ -189,7 +189,7 @@ This force passes through a liquid called brake fluid and reaches the parts that
 
 The pads and the shoes rub against other parts of the wheels and make them stop.
 
-## **What must you check?**
+## **What should you check?**
 
 **■** That there is brake fluid in the vehicle’s reservoir. And that it is between the minimum and maximum values and that it is in good condition.
 <!-- Page: 386 -->
@@ -214,18 +214,18 @@ You must do this check before you start driving.
 
 ![](_page_386_Picture_3.jpeg)
 
-**■** Look at the tyre tread to make sure it is not very worn.
+**■** Look at the tyre tread to make sure it is not too worn.
 
 ![](_page_386_Picture_5.jpeg)
 
 ![](_page_386_Picture_6.jpeg)
 
-You must always carry a spare wheel in the vehicle and other systems. This wheel will be a little more inflated than the others.
+You must always carry a spare wheel in the vehicle and other systems. This wheel will be slightly more inflated than the others.
 <!-- Page: 388 -->
 
 # <span id="page-387-0"></span>**Contents**
 
-#### **Avoiding road traffic accidents**
+#### **Preventing road traffic accidents**
 
 - **■** Risk factors
 - **■** Consequences of road traffic accidents for society
@@ -235,7 +235,7 @@ You must always carry a spare wheel in the vehicle and other systems. This wheel
 - **■** Pedestrians
 - **■** Drivers
 
-#### **Acting in the event of an accident**
+#### **What to do in case of an accident**
 
 - **■** Steps to follow
 - **■** PAS rule
@@ -247,7 +247,7 @@ You must always carry a spare wheel in the vehicle and other systems. This wheel
 - **■** Moving the injured
 <!-- Page: 389 -->
 
-## **Avoiding road traffic accidents**
+## **Preventing road traffic accidents**
 
 #### **Risk factors**
 
@@ -272,9 +272,9 @@ The circumstances that make a person have a higher risk of having an accident ar
 
 | Risk<br>factor            | Some causes                                                        | Number<br>of accidents         |
 |---------------------------|--------------------------------------------------------------------|--------------------------------|
-| Human                     | Speeding.<br>Drinking alcohol.<br>Distractions.                    | Between 70 and 90<br>out of every 100. |
-| Road<br>condition         | The road<br>is wet.<br>Losing control<br>on a bend.                | Between 10 and 35<br>out of every 100. |
-| Vehicle<br>failure        | The brakes fail.<br>A tyre<br>punctures.                           | Between 4 and 13<br>out of every 100.  |
+| Human                     | Speeding.<br>Drinking alcohol.<br>Distractions.                    | Between 70 and 90<br>out of 100. |
+| Condition of the<br>road  | The road<br>is wet.<br>Losing control<br>on a bend.                | Between 10 and 35<br>out of 100. |
+| Vehicle<br>fault          | The brakes fail.<br>A tyre<br>punctures.                           | Between 4 and 13<br>out of 100.  |
 
 ![](_page_389_Picture_3.jpeg)
 

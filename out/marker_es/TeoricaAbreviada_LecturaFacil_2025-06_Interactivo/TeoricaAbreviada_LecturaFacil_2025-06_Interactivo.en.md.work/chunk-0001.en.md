@@ -3,7 +3,7 @@
 ![](_page_0_Figure_0.jpeg)
 <!-- Page: 2 -->
 
-#### **Edited by the Ministry of the Interior - Directorate-General for Traffic (DGT)**
+#### **Edited by the Ministry of the Interior - Directorate-General for Traffic**
 
 Based on the content of:
 
@@ -13,19 +13,19 @@ Based on the content of:
 
 C/ Puerto Navacerrada, 128 Industrial Estate "Las Nieves" 28935 Móstoles (Madrid)
 
-«Any form of reproduction, public communication or transformation of this work may only be carried out stating its source, except for an exception provided by law. Contact CEDRO (Spanish Centre for Reprographic Rights) if you need to photocopy or scan any part of this work (www.conlicencia.com; 91 702 19 70 / 93 272 04 47)»
+«Any form of reproduction, public communication, or transformation of this work may only be carried out stating its source, except for the exception provided by law. Contact CEDRO (Spanish Centre for Reprographic Rights) if you need to photocopy or scan any part of this work (www.conlicencia.com; 91 702 19 70 / 93 272 04 47)»
 
-**Catalogue of Publications of the General State Administration (CPAGE)** https://cpage.mpr.gob.es/
+**Publications Catalogue of the General State Administration (CPAGE)** https://cpage.mpr.gob.es/
 
 NIPO: 128250063
 
 ![](_page_1_Picture_8.jpeg)
 
-This logo identifies materials that follow the international guidelines of IFLA (International Federation of Library Associations and Institutions) and Inclusion Europe regarding language, content and form, in order to make them easier to understand. It is awarded by the Asociación Lectura Fácil (www.lecturafacil.net).
+This logo identifies materials that follow the international guidelines of IFLA (International Federation of Library Associations and Institutions) and Inclusion Europe regarding language, content, and format, in order to make them easier to understand. It is awarded by the Asociación Lectura Fácil (www.lecturafacil.net).
 
-This document has been adapted and validated following the UNE 153101:2018 EX Easy Reading standard.
+This document has been adapted and validated following the UNE 153101:2018 EX Easy-to-Read standard.
 
-Easy Reading adaptation: María Peralta and Laia Vidal (Asociación Lectura Fácil) Validation: Cristina Casanova, Fernando Covas and Elisenda Copons (+Tu, Fundació de Suport).
+Easy-to-Read adaptation: María Peralta and Laia Vidal (Asociación Lectura Fácil) Validation: Cristina Casanova, Fernando Covas and Elisenda Copons (+Tu, Fundació de Suport).
 <!-- Page: 3 -->
 
 ## **GENERAL INDEX**
@@ -48,7 +48,7 @@ Easy Reading adaptation: María Peralta and Laia Vidal (Asociación Lectura Fác
 | Topic 15. Vehicle mechanics and maintenance          |
 | Topic 16. Traffic accidents                          |
 
-**[Annex points. The points-based driving licence](#page-466-0)**
+**[Annex points. The points driving licence](#page-466-0)**
 
 **[Topic 17. Preventive and efficient driving](#page-436-0)**
 <!-- Page: 4 -->
@@ -58,7 +58,7 @@ Easy Reading adaptation: María Peralta and Laia Vidal (Asociación Lectura Fác
 
 #### **Definitions related to vehicles**
 
-- **■** Vehicles without an engine
+- **■** Non-motor vehicles
 - **■** Motor vehicles
 - **■** Other types of motor vehicles
 
@@ -67,7 +67,7 @@ Easy Reading adaptation: María Peralta and Laia Vidal (Asociación Lectura Fác
 - **■** Driver
 - **■** Pedestrian
 - **■** Vehicle owner
-- **■** Usual driver
+- **■** Regular driver
 
 **Vehicle categories depending on their use**
 <!-- Page: 6 -->
@@ -76,23 +76,23 @@ Easy Reading adaptation: María Peralta and Laia Vidal (Asociación Lectura Fác
 
 #### **Vehicle**
 
-Device prepared to travel on roads, streets, roads and land of all kinds.
+Device prepared to travel on roads, streets, highways, and land of all kinds.
 
 ![](_page_5_Figure_4.jpeg)
 
 ![](_page_5_Picture_5.jpeg)
 
-## **Vehicles without an engine**
+## **Non-motor vehicles**
 
-| Vehicles without an engine        |
-|----------------------------------|
-| Vehicle drawn by animals         |
-| Cycle and bicycle                |
-| Trailer                          |
-| Semi-trailer                     |
+| Non-motor vehicles                 |
+|------------------------------------|
+| Animal-drawn vehicle               |
+| Cycle and bicycle                  |
+| Trailer                            |
+| Semi-trailer                       |
 <!-- Page: 7 -->
 
-#### **Vehicles drawn by animals**
+#### **Animal-drawn vehicles**
 
 For example, a horse-drawn carriage.
 
@@ -100,7 +100,7 @@ For example, a horse-drawn carriage.
 
 #### **Cycle**
 
-Vehicle with two or more wheels that has pedals. It moves by the energy and effort of the person who rides it.
+Vehicle with two or more wheels that has pedals. It moves by the energy and effort of the person riding it.
 
 A bicycle is a two-wheeled cycle.
 
@@ -121,41 +121,41 @@ In a trailer, the axle makes the load spread out and makes it easier to drive.
 
 Trailer that is attached directly to a motor vehicle, without an axle.
 
-| Light semi-trailer                       | Non-light<br>semi-trailer                 |
-|------------------------------------------|--------------------------------------------|
-|                                          |                                            |
+| Light semi-trailer                         | Non-light<br>semi-trailer                 |
+|--------------------------------------------|-------------------------------------------|
+|                                            |                                           |
 | With load it weighs<br>a maximum of 750 kilos. | With load it can weigh<br>more than 750 kilos. |
 
 #### **Motor vehicles**
 
 Vehicles that need an engine to work. Motor vehicles are classified into:
 
-## **■ Motor cars**
+## **■ Motor vehicles**
 
-They are used to carry people and things. They are also used to move or tow other vehicles.
+They are used to carry people and goods. They are also used to move or tow other vehicles.
 
 ![](_page_7_Picture_9.jpeg)
 <!-- Page: 9 -->
 
 #### **■ Special vehicles**
 
-They are used to do certain jobs or services. Some have their own engine and others are towed. For example, excavators to move earth and tractors to work in the countryside.
+They are used to do specific jobs or services. Some have their own engine and others are towed. For example, excavators to move earth and tractors to work in the countryside.
 
-There are different types of motor cars and special vehicles:
+There are different types of motor vehicles and special vehicles:
 
-| Motor cars   |                                       |  |
-|-------------|---------------------------------------|--|
-|             | Two-wheeled motorcycles               |  |
-|             | Motorcycles with sidecar              |  |
-|             | Three-wheeled vehicles                |  |
-|             | Heavy quadricycle (or quadricycle)    |  |
-|             | Car                                   |  |
-|             | Pick-up                               |  |
-|             | Car-derived van                       |  |
-|             | Adaptable dual-purpose vehicle        |  |
-|             | Bus / coach                           |  |
-|             | Trolleybus                            |  |
-|             | Lorry                                 |  |
+| Motor vehicles |                                       |  |
+|----------------|---------------------------------------|--|
+|                | Two-wheeled<br>motorcycles            |  |
+|                | Motorcycles with sidecar              |  |
+|                | Three-wheeled vehicles                |  |
+|                | Heavy quadricycle (or quadricycle)<br> |  |
+|                | Car                                   |  |
+|                | Pick-up                               |  |
+|                | Car-derived van                       |  |
+|                | Adaptable mixed-use vehicle            |  |
+|                | Bus / Coach                           |  |
+|                | Trolleybus                            |  |
+|                | Lorry                                 |  |
 <!-- Page: 10 -->
 
 ![](_page_9_Picture_1.jpeg)
@@ -172,7 +172,7 @@ There are different types of motor cars and special vehicles:
 | Towed machine        |                    |  |
 <!-- Page: 11 -->
 
-## **Motor cars Motorcycles**
+## **Motor vehicles Motorcycles**
 
 **[Watch video](https://www.youtube.com/watch?v=TBERC3yG5Ls)**
 
@@ -182,12 +182,12 @@ Two-wheeled vehicles that must meet at least one of these two characteristics re
 
 ![](_page_10_Picture_5.jpeg)
 
-- **■** If it is petrol, have an engine with an engine capacity greater than 50 cubic centimetres or, what is the same, 0.05 litres.
+- **■** If it is petrol, have an engine with an engine capacity greater than 50 cubic centimetres or, which is the same, 0.05 litres.
 - **■** Reach a speed greater than 45 kilometres per hour.
 
-**Engine capacity.** Measure used to calculate the power of an engine.
+**Engine capacity.** Measurement used to calculate the power of an engine.
 
-The greater the engine capacity of an engine, the greater its power.
+The greater the engine capacity, the greater its power.
 
 Engine capacity is measured in litres or in cubic centimetres.
 <!-- Page: 12 -->
@@ -209,16 +209,16 @@ Vehicle with three symmetrical wheels that must meet the same engine capacity an
 
 #### **Heavy quadricycle**
 
-Four-wheeled motor car that meets these characteristics:
+Four-wheeled motor vehicle that meets these characteristics:
 
-- **■** With load and passengers it weighs a maximum of 450 kilos if it carries people or 600 kilos if it carries goods.
+- **■** With load and passengers it weighs a maximum of 450 kilos if it carries people, or 600 kilos if it carries goods.
 - **■** The maximum power the engine can have is 15 **kilowatts**.
 
 **Kilowatt.** Unit used to measure the maximum power a device can have.
 
 #### **Car**
 
-Motor car used to carry people.
+Motor vehicle used to carry people.
 
 It has at least four wheels.
 
@@ -231,15 +231,15 @@ It can have a maximum of nine seats, including the driver’s seat.
 
 #### **Car-derived van**
 
-Motor car with the **bodywork** of a car, but used to carry goods instead of people.
+Motor vehicle with the **bodywork** of a car, but used to carry goods instead of people.
 
-It only has one row of seats to leave more space for the goods.
+It only has one row of seats to leave more space for goods.
 
 ![](_page_13_Picture_4.jpeg)
 
-**Bodywork.** Structure that gives the motor car its shape.
+**Bodywork.** Structure that gives the motor vehicle its shape.
 
-#### *Pick up*
+#### *Pick-up*
 
 Vehicle in which the seats for people and the load area are separated into two different spaces.
 
@@ -248,11 +248,11 @@ With load and passengers it weighs a maximum of 3,500 kilos.
 ![](_page_13_Picture_9.jpeg)
 <!-- Page: 15 -->
 
-#### **Adaptable dual-purpose vehicle**
+#### **Adaptable mixed-use vehicle**
 
 Vehicle used to carry people or goods.
 
-The seats can be put in or taken out depending on the use you want to give the vehicle.
+The seats can be put in or taken out depending on how you want to use the vehicle.
 
 A maximum of nine people can travel in it.
 
@@ -274,7 +274,7 @@ Vehicle with four wheels or more used to carry goods.
 #### It has two parts:
 
 - **■** The cab. Space with seats where the passengers and the driver travel. It can have a maximum of nine seats.
-- **■** The rest of the lorry. Space at the back. It is the place where the goods travel.
+- **■** Rest of the lorry. Space at the back. It is the place where the goods travel.
 
 ![](_page_15_Picture_7.jpeg)
 
@@ -282,7 +282,7 @@ Vehicle with four wheels or more used to carry goods.
 
 Vehicle with four wheels or more used to carry goods.
 
-Unlike a lorry, the cab and the rest of the lorry are together, not separated.
+Unlike a lorry, the cab and the rest of the vehicle are together, not separated.
 <!-- Page: 17 -->
 
 #### **Tractor unit**
@@ -293,7 +293,7 @@ Vehicle used to tow the semi-trailer.
 
 #### **Combination of vehicles**
 
-Motor car made up of a motor vehicle and a trailer or semi-trailer attached or connected to it.
+Motor vehicle made up of a motor vehicle and a trailer or semi-trailer attached or connected to it.
 
 ![](_page_16_Picture_6.jpeg)
 
@@ -305,9 +305,9 @@ There are three types of combinations of vehicles:
 <!-- Page: 18 -->
 
 - 2. Articulated vehicle. The semi-trailer is connected to the motor vehicle, without an axle.
-- 3. Euromodular configuration. Attached vehicles that have at least 6 axles on their wheels.
+- 3. Euromodular configuration. Connected vehicles that have at least 6 axles on their wheels.
 
-The axles connect the wheels to each other and help them turn.
+Axles connect the wheels to each other and help them turn.
 
 ![](_page_17_Picture_4.jpeg)
 
@@ -330,7 +330,7 @@ It is used to carry or tow materials and heavy loads.
 
 ![](_page_18_Picture_4.jpeg)
 
-The tractor is mainly used in field work (agricultural tractor) and in construction (works tractor).
+The tractor is used mainly for field work (agricultural tractor) and in construction (works tractor).
 
 ![](_page_18_Picture_6.jpeg)
 
@@ -338,8 +338,8 @@ The tractor is mainly used in field work (agricultural tractor) and in construct
 
 Small vehicle that has an engine and wheels.
 
-The person who drives it walks and moves it by means of a long part, like handlebars.
+The person driving it walks and moves it by means of a long part, like handlebars.
 
 This long part is part of the motor cultivator.
 
-It is mainly used in gardening and in agriculture to turn over the soil in vegetable gardens or small plots of land.
+It is used mainly in gardening and agriculture to turn over the soil in vegetable gardens or small plots of land.

@@ -13,9 +13,9 @@
 
 ## **Inflation pressure**
 
-Tyres are inflated with air so that they are more resistant and support the load and the weight of the vehicle better.
+Tyres are inflated with air so that they are more resistant and can better support the load and the weight of the vehicle.
 
-The manufacturer of each vehicle is the one who sets how much air the tyres must have. This amount of air will be the inflation pressure.
+The manufacturer of each vehicle is the one who states how much air the tyres must have. This amount of air will be the inflation pressure.
 <!-- Page: 100 -->
 
 **What happens when the inflation pressure is not correct?**
@@ -36,7 +36,7 @@ There is a higher chance that the tyre will burst.
 
 #### **Inflation pressure higher than recommended**
 
-The tyre has less contact with the ground.
+The tyre has less contact with the road surface.
 
 Therefore, it grips the road less.
 
@@ -55,17 +55,17 @@ You must check the tyre pressure of your vehicle at least once a month. You must
 
 #### **Tyre wear**
 
-The rubber of the tyres can wear out due to friction with the road.
+The rubber of the tyres can wear out due to rubbing against the road.
 
 For that reason, you must change the tyres of your vehicle every five years, even if they are in good condition.
 
 ![](_page_100_Picture_4.jpeg)
 
-The rubber of the tyres can wear out sooner for these reasons:
+Tyre rubber can wear out sooner for these reasons:
 
 - **■** Driving in a sudden or aggressive way.
 - **■** Driving very fast.
-- **■** The climate.
+- **■** The weather.
 - **■** Tyres wear more in summer.
 - **■** Carrying a lot of load in the vehicle.
 - **■** Not having the correct inflation pressure.
@@ -81,7 +81,7 @@ The steps you must take if a tyre gets punctured while you are driving are:
 
 - **■** Reduce speed slowly until you stop the vehicle. Do not stop suddenly.
 - **■** Immobilise the vehicle in a safe place. Off the road and off the hard shoulder if possible.
-- **■** Change the punctured wheel for the spare. Some vehicles have other systems so they can keep driving, and there are vehicles that have a wheel that is only used to reach the nearest garage.
+- **■** Change the punctured wheel for the spare wheel. Some vehicles have other systems so they can keep driving, and there are vehicles that have a wheel that is only used to reach the nearest garage.
 
 It is called a space-saver spare wheel.
 
@@ -98,7 +98,7 @@ With this wheel you can travel about 200 kilometres at a maximum speed of 80 kil
 
 #### **Wheel balancing**
 
-Wheel balancing consists of putting weights on the rims so that the wheels support the weight and the load of the vehicle. This balance is very important so that the wheels rotate properly.
+Wheel balancing consists of putting weights on the rims so that the wheels can support the weight and the load of the vehicle. This balance is very important so that the wheels rotate properly.
 
 Wheels can lose balance for these reasons:
 
@@ -144,7 +144,7 @@ This system helps to keep the vehicle stable on bends, when going up a hill or w
 
 Safety system that helps the vehicle to follow the path set by the steering wheel and not deviate when it does not turn as much as the driver asks or turns too much.
 
-This system helps you to keep control of the vehicle in dangerous situations. For example, when swerving to avoid an obstacle
+This system helps you to keep control of the vehicle in dangerous situations. For example, when avoiding an obstacle
 
 or when taking a bend.
 
@@ -180,7 +180,7 @@ Your vehicle will reduce speed or brake if you do not keep that distance and you
 
 ## **The chassis and the bodywork**
 
-The chassis is the internal structure of the vehicle on which all the parts that make it up are placed. It is the skeleton of the vehicle and it cannot be seen with the naked eye.
+The chassis is the internal structure of the vehicle on which all the parts that make it up are fitted. It is the skeleton of the vehicle and it cannot be seen with the naked eye.
 
 The bodywork is the external metal structure that covers the vehicle.
 
@@ -194,59 +194,59 @@ In the event of an accident, the chassis and the bodywork deform and protect the
 
 To protect all the people travelling in a vehicle in the event of a sudden impact or if the vehicle rolls over.
 
-In these cases, the seat belt helps people not to move from their seats and not to be thrown out of the vehicle.
+In these cases, the belt helps people not to move from their seats and not to be thrown out of the vehicle.
 <!-- Page: 107 -->
 
-Wearing the seat belt correctly makes a person twice as likely to survive an accident.
+Wearing the seat belt correctly means that a person has double the chance of surviving an accident.
 
-In fact, there have been fewer deaths from road traffic accidents since the seat belt exists.
+In fact, there have been fewer deaths from traffic accidents since the seat belt exists.
 
-For a seat belt to be useful and safe it must meet the quality requirements and be properly secured to the bodywork of the vehicle. It must be checked from time to time and taken to a garage to be repaired or replaced if it has any damage.
+For a seat belt to be useful and safe it must meet quality requirements and be properly secured to the vehicle bodywork. It must be checked from time to time and taken to a garage to be repaired or replaced if it has any damage.
 
 ![](_page_106_Picture_4.jpeg)
 
 **Who must wear the seat belt?**
 
-All people travelling in a vehicle that has seat belts installed. Drivers must do so, and also passengers, on all roads and streets.
+All people travelling in a vehicle that has seat belts installed. Drivers must do so and also passengers on all roads and streets.
 
 ![](_page_106_Picture_7.jpeg)
 <!-- Page: 108 -->
 
 There are some exceptions in which drivers are not required to wear the seat belt, although it is recommended that they always wear it.
 
-These exceptions can only be applied when the vehicle is travelling within a town or city. Never when it is travelling on roads, dual carriageways or motorways.
+These exceptions can only be applied when the vehicle is travelling within a town or city. Never when travelling on roads, dual carriageways or motorways.
 
 #### Exceptions:
 
-- **■** Drivers who are parking by reversing the vehicle.
+- **■** Drivers who are parking by moving the vehicle backwards.
 - **■** Taxi drivers who are on duty.
-- **■** Children who are under 135 centimetres tall and travel in a taxi that does not have child safety systems. In those cases, the children will travel in the back seats and will fasten the seat belt on the seat.
+- **■** Children who are less than 135 centimetres tall and travel in a taxi that does not have child safety systems. In those cases, the children will travel in the rear seats and will fasten the seat belt that is on the seat.
 - **■** Delivery drivers who have to get out of the vehicle continuously to collect and deliver orders.
 - **■** Drivers and passengers of vehicles in emergency services. For example, ambulances.
 <!-- Page: 109 -->
 
-**■** Driving instructors who are with a learner driver and are in charge of the additional controls of the vehicle.
+**■** Driving school instructors who are carrying a learner and are in charge of the additional controls of the vehicle.
 
 ![](_page_108_Picture_2.jpeg)
 
-Only people who cannot wear it for medical reasons or due to disability may travel without a seat belt in any situation or on any road.
+The only people who may travel without a seat belt in any situation or on any road are people who cannot wear it for medical reasons or disability.
 
 These people must carry a medical certificate that explains the reasons.
 
 #### **Seat belts for children**
 
-Children who are under 135 centimetres tall must use a different safety system, more suitable for them.
+Children who are less than 135 centimetres tall must use a different safety system, more suitable for them.
 
 They are called child restraint systems and are adapted to each child’s height and weight.
 
-It is best for the child to try the child restraint system before starting to use it to check that it fits their measurements and is comfortable.
+It is best for the child to try the child restraint system before starting to use it to check that it fits their measurements and is comfortable for them.
 <!-- Page: 110 -->
 
-To fit a child restraint system in a vehicle, you must take into account the following recommendations:
+To fit a child restraint system in a vehicle you must take into account the following recommendations:
 
 - **■** Do not install the child seat in a seat that has an airbag in front of it.
-- **■** For small children, fit the child seat facing the opposite direction to the vehicle’s travel. That is, facing backwards. It is safer.
-- **■** Fit the child seat in the central rear seat. This way the child will be more protected in case there is an accident from either side.
+- **■** For small children, place the child seat facing the opposite direction to the vehicle’s travel. That is, facing backwards. It is safer.
+- **■** Place the child seat in the centre rear seat. This way the child will be more protected in the event of an accident from either side.
 
 ![](_page_109_Picture_5.jpeg)
 
@@ -256,29 +256,29 @@ To fit a child restraint system in a vehicle, you must take into account the fol
 
 It is important that child restraint systems have passed all quality tests so that they are safe.
 
-In vehicles with nine seats or fewer, children must travel in the back seat and have the child restraint system properly secured.
+In vehicles with nine seats or fewer, children must travel in the rear seat and have the child restraint system properly secured.
 <!-- Page: 111 -->
 
 Children may only travel in the front seat when:
 
-- **■** The vehicle does not have rear seats.
-- **■** All the rear seats are occupied by other children.
-- **■** Child restraint systems cannot be fitted in the rear seats.
+- **■** The vehicle has no rear seats.
+- **■** All rear seats are occupied by other children.
+- **■** Child restraint systems cannot be installed in the rear seats.
 
 ![](_page_110_Picture_5.jpeg)
 
 ![](_page_110_Picture_6.jpeg)
 
-On buses, children who are under 135 centimetres tall and are three years old or older must also use child restraint systems.
+On buses, children who are less than 135 centimetres tall and are three years old or older must also use child restraint systems.
 <!-- Page: 112 -->
 
-If there are none, they must fasten the seat belt on the seat, as long as it is suitable for their height and weight.
+If there are none, they will have to fasten the seat belt on the seat, as long as it is suitable for their height and weight.
 
 ![](_page_111_Picture_2.jpeg)
 
 **How do you fasten the seat belt?**
 
-You must wear the seat belt properly fastened and adjusted to the body. It must not be too loose or too tight, so that you can move easily.
+You must wear the seat belt properly fastened and adjusted to the body. It must not be too loose or too tight so that you can move easily.
 
 The seat belt has two straps that you must wear in the correct place so that they protect you.
 

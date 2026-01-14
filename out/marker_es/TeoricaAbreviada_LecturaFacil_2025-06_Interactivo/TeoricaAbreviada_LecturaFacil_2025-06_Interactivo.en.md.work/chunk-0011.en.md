@@ -6,7 +6,7 @@ For example, a car that has to stop because of a breakdown on a poorly lit road.
 
 It is used when a vehicle has to stop in an area that is poorly lit. It can be used instead of sidelights.
 
-They are fitted at the front and rear of the vehicle.
+They are fitted at the front and the rear of the vehicle.
 
 They are the same colours as sidelights.
 
@@ -33,9 +33,9 @@ It is optional for motor vehicles that are between 1.80 metres and 2.10 metres w
 
 ![](_page_143_Picture_4.jpeg)
 
-#### **Main beam or main beam headlights**
+#### **Main beam or full beam headlights**
 
-It is used to light a long distance in front of the vehicle travelling on the road.
+They are used to light a long distance in front of the vehicle travelling on the road.
 
 This light is compulsory for all motor vehicles and optional for mopeds.
 
@@ -47,12 +47,12 @@ It is a powerful white light that can dazzle other vehicles.
 
 On roads that are outside towns or cities.
 
-It is compulsory to have it switched on:
+It is compulsory to have it on:
 
-**■** When you drive on a road at night, there is little natural light and you are travelling at more than 40 kilometres per hour.
+**■** When you drive on a road at night, there is little natural light and you are going at more than 40 kilometres per hour.
 <!-- Page: 145 -->
 
-**■** At any time of day in tunnels outside a municipality when the tunnel is not well lit.
+**■** At any time of day in tunnels outside a built-up area when the tunnel is not well lit.
 
 It is optional to switch it on when you drive at less than 40 kilometres per hour.
 
@@ -65,11 +65,11 @@ Main beam headlights can be used to warn other drivers of a danger. This is done
 
 ![](_page_144_Picture_7.jpeg)
 
-#### **Dipped headlights**
+#### **Dipped beam headlights**
 
-It is used to light the road in front of the vehicle without dazzling or bothering the drivers of other vehicles.
+They are used to light the road in front of the vehicle without dazzling or disturbing the drivers of other vehicles.
 
-It is white.
+They are white.
 
 ![](_page_144_Picture_11.jpeg)
 <!-- Page: 146 -->
@@ -97,10 +97,10 @@ During the day, it is used when driving through tunnels or through temporary lan
 These lights must also be used when:
 
 - **■** The vehicle does not have main beam headlights.
-- **■** You are driving at less than 40 kilometres per hour.
-- **■** There is a possibility that you could dazzle the drivers of other vehicles when you switch on main beam headlights.
+- **■** You drive at less than 40 kilometres per hour.
+- **■** There is a possibility that you could dazzle the drivers of other vehicles when using main beam headlights.
 
-Motorcycles must always have dipped headlights switched on during the day when they travel on any street or road.
+Motorcycles must always have dipped beam headlights on during the day when they travel on any street or road.
 
 ![](_page_146_Picture_6.jpeg)
 
@@ -121,11 +121,11 @@ There are front and rear fog lights. The front lights are white or yellow. The r
 
 Front fog lights are used with sidelights.
 
-You can also use them at the same time as main beam headlights and dipped headlights.
+You can also use them at the same time as main beam and dipped beam headlights.
 
 Rear fog lights must only be used in cases of great need, when the weather and visibility conditions are very bad.
 
-They can be switched on at the same time as main and dipped headlights and the front fog lights.
+They can be switched on at the same time as main beam and dipped beam headlights and the front fog lights.
 
 ![](_page_147_Picture_6.jpeg)
 
@@ -135,7 +135,7 @@ It is a device that reflects external light from other vehicles.
 
 It is used so that the vehicle can be seen.
 
-These types of lights are on the front, rear and side of the vehicle.
+This type of lights are on the front, rear and side of the vehicle.
 
 Reflectors must be:
 
@@ -150,13 +150,13 @@ Trailers and semi-trailers must have them in a triangular shape at the rear.
 
 ![](_page_148_Picture_1.jpeg)
 
-### **Direction indicator**
+### **Direction indicator light**
 
 It is used to warn that a vehicle is going to turn and move to the right or to the left.
 
-You must switch it on whenever you are going to change direction, make a U-turn or change lane. You must switch it off when you finish that movement.
+You must switch it on whenever you are going to change direction, change direction of travel or change lane. You must switch it off when you finish that movement.
 
-Its light is yellow and flashes intermittently. It is compulsory for all motor vehicles, trailers and semi-trailers.
+Its light is yellow and flashes. It is compulsory for all motor vehicles, trailers and semi-trailers.
 
 ![](_page_148_Picture_6.jpeg)
 
@@ -164,11 +164,11 @@ Its light is yellow and flashes intermittently. It is compulsory for all motor v
 
 ![](_page_148_Picture_8.jpeg)
 
-#### **Hazard warning lights**
+#### **Hazard warning signal**
 
 It warns that the vehicle has a problem and may be a danger to other vehicles that are on the road.
 
-To show the hazard warning lights, all the vehicle’s direction indicators are switched on.
+To show the hazard warning signal, all the vehicle’s direction indicator lights are switched on.
 
 These lights are compulsory for motor vehicles, their trailers and semi-trailers.
 <!-- Page: 150 -->
@@ -181,7 +181,7 @@ These lights are compulsory for motor vehicles, their trailers and semi-trailers
 
 #### **When are they used?**
 
-They are used in the following cases both by day and by night.
+They are used in the following cases both during the day and at night.
 
 - **■** When a vehicle has a breakdown and cannot reach the minimum speed that must be driven on that road.
 - **■** When a vehicle is making an emergency journey. For example, taking a woman who is about to give birth to hospital.
@@ -200,7 +200,7 @@ It indicates that the vehicle is braking. The driver must warn with these lights
 
 For example, stopping at a red traffic light.
 
-Its light is an intense red and they are fitted at the rear of the vehicle. It is compulsory for all motor vehicles, mopeds, trailers and semi-trailers.
+Its light is bright red and they are fitted at the rear of the vehicle. It is compulsory for all motor vehicles, mopeds, trailers and semi-trailers.
 
 ![](_page_150_Picture_5.jpeg)
 
@@ -214,7 +214,7 @@ It is a single light that is fitted at the rear of the vehicle, above the brake 
 
 It switches on at the same time as the brake lights and is the same colour.
 
-This light is optional for motor vehicles. Motorcycles cannot have it.
+This light is optional for motor vehicles. Motorcycles are not allowed to have it.
 
 ![](_page_150_Picture_12.jpeg)
 
@@ -227,7 +227,7 @@ It lights the road from the rear of the vehicle to warn that the vehicle is goin
 
 They are one or two white lights that switch on automatically when the vehicle starts to go backwards.
 
-This light is compulsory for all motor vehicles, except motorcycles, which are forbidden to have it. It is optional for three-wheeled vehicles and heavy quadricycles.
+This light is compulsory for all motor vehicles, except for motorcycles, which are forbidden to have it. It is optional for three-wheeled vehicles and heavy quadricycles.
 
 ![](_page_151_Picture_5.jpeg)
 
@@ -237,7 +237,7 @@ This light is compulsory for all motor vehicles, except motorcycles, which are f
 
 ## **Audible warning devices**
 
-They are sounds used to warn other drivers that a vehicle is there.
+They are sounds that are used to warn other drivers that a vehicle is there.
 
 They can only be used in the following cases.
 
@@ -265,7 +265,7 @@ They can only be used in the following cases.
 - **■** Regulatory signs
 - **■** Information signs
 
-#### **Lines and markings on roads**
+#### **Lines and road markings**
 
 - **■** White lines and markings
 - **■** Coloured lines and markings
@@ -292,12 +292,12 @@ They can only be used in the following cases.
 
 #### **Which traffic signs must you obey first?**
 
-| 1 | Signs and orders from traffic officers.<br>                                                                                                   |  |
-|---|---------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| 2 | Signs that indicate that<br>the road has been modified<br>temporarily for some reason<br>and signs that warn of bends<br>and obstacles. |  |
-| 3 | Traffic lights.                                                                                                                                        |  |
-| 4 | Vertical traffic signs.                                                                                                                |  |
-| 5 | Road markings and lines.                                                                                                                  |  |
+| 1 | Signs and orders from traffic officers.<br>of traffic.                                                                                                   |  |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 2 | Signs that indicate that<br>the road has been modified<br>temporarily for some reason<br>and signs that warn of bends<br>and obstacles.                  |  |
+| 3 | Traffic lights.                                                                                                                                            |  |
+| 4 | Vertical traffic signs.                                                                                                                                    |  |
+| 5 | Road markings and lines.                                                                                                                                   |  |
 
 ![](_page_155_Picture_3.jpeg)
 

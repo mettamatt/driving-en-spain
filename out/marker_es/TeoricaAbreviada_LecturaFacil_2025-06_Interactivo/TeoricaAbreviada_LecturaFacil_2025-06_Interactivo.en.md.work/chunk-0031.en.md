@@ -1,6 +1,6 @@
 <!-- Page: 428 -->
 
-#### **Knowing the condition of the injured people**
+#### **Knowing the condition of injured people**
 
 When the injured person is conscious and breathing, you must check whether they have other types of injuries or wounds.
 
@@ -12,7 +12,7 @@ To assess their condition, you must take into account whether there are:
 
 What is it?
 
-Losing a lot of blood because the blood vessels have been damaged. A person can go into **shock** or die if they lose a lot of blood.
+Losing a lot of blood because blood vessels have been damaged. A person can go into **shock** or die if they lose a lot of blood.
 
 **Shock.** Danger of death because the body does not receive the blood it needs.
 
@@ -47,7 +47,7 @@ Blood comes out of the person’s body. To control an external haemorrhage, thre
 **Artery**. Tube that carries blood from the heart to all parts of the body.
 
 - **■** It is used when direct pressure fails.
-- **■** Press the main artery of the arm or leg to stop the blood circulation.
+- **■** Press the main artery of the arm or leg to stop blood circulation.
 - **■** Keep the area pressed until the emergency services arrive.
 <!-- Page: 431 -->
 
@@ -56,7 +56,7 @@ Blood comes out of the person’s body. To control an external haemorrhage, thre
 - **■** It is only applied for haemorrhages in arms and legs when direct pressure and arterial pressure have not worked.
 - **■** Tourniquets are usually made with a folded cloth. Do not use very thin objects.
 - **■** It is done above the place where the wound is. Never below.
-- **■** You must write on a piece of paper the time when the tourniquet was applied and the place where it has been put.
+- **■** You must write on a piece of paper the time when the tourniquet was applied and the place where it has been placed.
 - **■** Only medical staff can remove the tourniquet.
 
 ![](_page_430_Picture_7.jpeg)
@@ -73,7 +73,7 @@ What symptoms does a person in *shock* have?
 - **■** Their skin is pale and their sweat is cold and sticky.
 - **■** They say things that do not make sense.
 
-In these cases, you must place the injured person lying down with their feet higher than their head. If they vomit, place them on their side and keep their feet higher than their head.
+In these cases, you must place the injured person lying down with their feet higher than their head. If they are vomiting, place them on their side and keep their feet higher than their head.
 
 ![](_page_431_Picture_9.jpeg)
 
@@ -82,7 +82,7 @@ In these cases, you must place the injured person lying down with their feet hig
 
 There is a type of internal haemorrhage in which the wound cannot be seen, but the blood does come out of the body through an opening such as the nose, the ear, or the mouth.
 
-These types of haemorrhages are called externalised. In these cases you must:
+These haemorrhages are called externalised. In these cases you must:
 
 - **■** Treat the injured person as very serious.
 - **■** Do not plug or stop these haemorrhages.
@@ -101,8 +101,8 @@ These types of haemorrhages are called externalised. In these cases you must:
 - **■** Do not touch the burnt area.
 - **■** Do not remove clothing that has stuck to that area.
 - **■** Pour cold water over the burnt area.
-- **■** Do not cut or burst the blisters.
-- **■** Put on a disinfected, damp dressing.
+- **■** Do not cut or burst blisters.
+- **■** Apply a disinfected and damp dressing.
 - **■** Do not bandage two burnt areas together.
 - **■** When the burnt area is on an arm or a leg, keep that arm or leg raised so that it swells less.
 - **■** You can give the injured person water to drink as long as they have no other injuries, are conscious, and do not vomit.
@@ -149,7 +149,7 @@ The transport should be done, if possible, in a van or lorry so that the injured
 - **■** Safety checks
 - **■** Choosing the route
 
-#### **Preventive driving**
+#### **Defensive driving**
 
 - **■** What is it?
 - **■** Vision
@@ -169,13 +169,13 @@ The transport should be done, if possible, in a van or lorry so that the injured
 
 #### **Safety checks**
 
-Before starting a journey in a car or in a vehicle that carries goods, you must check that you have:
+Before starting a journey in a car or in a vehicle that transports goods, you must check that you have:
 
-- **■** The warning light to indicate danger or the warning triangles that you must place on the road in case of breakdown or accident.
-- **■** A high-visibility vest.
+- **■** The warning light or the triangles that you must place on the road in case of breakdown or accident.
+- **■** A reflective vest.
 - **■** A spare wheel.
 
-It is also advisable to carry a first-aid kit.
+It is also advisable to carry a first aid kit.
 
 ![](_page_437_Picture_8.jpeg)
 
@@ -186,7 +186,7 @@ People who wear glasses are recommended to carry a spare pair.
 
 Before starting the journey, you must plan the route you are going to follow by looking at a map.
 
-It is important to choose the safest and most comfortable route, taking into account which roads have roadworks, the weather, and the number of vehicles travelling on each road that day.
+It is important to choose the safest and most comfortable route, taking into account which roads have roadworks, the weather, and the number of vehicles using each road that day.
 
 You must also plan the breaks you are going to take during the journey.
 
@@ -198,19 +198,19 @@ When you travel in winter, you must take the following precautions:
 - **■** Carry warm clothes, water, food, and a torch in the vehicle.
 <!-- Page: 440 -->
 
-## **Preventive driving**
+## **Defensive driving**
 
 #### **What is it?**
 
 A way of driving that allows you to anticipate unexpected events that may happen during the journey.
 
-In preventive driving, the driver:
+In defensive driving, the driver:
 
-- **■** Collects the necessary information before starting the journey to travel safely.
+- **■** Gathers the necessary information before starting the journey to drive safely.
 - **■** Anticipates unexpected events that may happen and reacts well to them.
 - **■** Adapts to the circumstances at each moment of the journey.
 
-To drive preventively, you must follow a technique based on three principles:
+To drive defensively, you must follow a technique based on three principles:
 
 ![](_page_439_Picture_9.jpeg)
 <!-- Page: 441 -->
@@ -218,8 +218,8 @@ To drive preventively, you must follow a technique based on three principles:
 |              | What does it consist of?                                                                                                 |
 |--------------|---------------------------------------------------------------------------------------------------------------------------|
 | Vision       | Look in all directions<br>to gather information<br>and not focus on things<br>that may be a distraction.                  |
-| Anticipation | Predict the movements and reactions<br>of other drivers<br>so that you can react in time.                                 |
-| Space        | Keep the safe following distance<br>from the rest of the vehicles<br>at all times.                                        |
+| Anticipation | Predict the movements and reactions<br>of other drivers<br>so you can react in time.                                      |
+| Space        | Keep a safe distance<br>from the rest of the vehicles<br>at all times.                                                    |
 
 #### **Vision**
 
@@ -229,10 +229,10 @@ To drive preventively, you must follow a technique based on three principles:
 
 #### **Look far ahead**
 
-You must look far ahead to control what happens in the space that your vehicle will travel through in the next 20 seconds.
+You must look far ahead to control what happens in the space your vehicle will cover in the next 20 seconds.
 <!-- Page: 442 -->
 
-This way you can predict dangerous situations and avoid harsh braking and sudden acceleration.
+This way you can anticipate dangerous situations and avoid harsh braking and sudden acceleration.
 
 The faster you drive, the further ahead you must look.
 
@@ -240,15 +240,15 @@ The faster you drive, the further ahead you must look.
 
 #### **Look to the sides**
 
-We take longer to see what happens at the sides than what happens in front.
+It takes us longer to see what happens at the sides than what happens in front.
 
-For this reason, it is necessary to keep checking all the time what is happening to the left and to the right during the journey.
+That is why it is necessary to keep checking all the time what is happening to the left and to the right during the journey.
 
 This is done through the rear-view mirrors because they allow you to see what happens behind and to the sides of the vehicle.
 
 You must look at them during the journey, even if you are not going to do any manoeuvre. How often you look at them will depend on the type of road you are on.
 
-You look at them quickly, briefly, so that you keep paying attention to the rest of the road.
+You look at them quickly, briefly, so you keep paying attention to the rest of the road.
 <!-- Page: 443 -->
 
 You must bear in mind that there is always a space on both sides of the vehicle that you cannot see, even if your rear-view mirrors are well adjusted.
@@ -261,18 +261,18 @@ These spaces are called blind spots and they are dangerous because you cannot co
 
 To make sure there is no other vehicle in the blind spot area, you can turn your head and look through the window.
 
-It is important to check that there is no other vehicle in the blind spot before turning the vehicle towards that side to change lanes.
+It is important to check that there is no other vehicle in the blind spot before steering the vehicle towards that side to change lanes.
 <!-- Page: 444 -->
 
 **Blind spot detector (BSM)**
 
 There is a system that warns you when there is another vehicle in the blind spot area that is moving towards your vehicle.
 
-In those cases, a light that is located in the rear-view mirror comes on.
+In those cases, a light that is placed in the rear-view mirror comes on.
 
 Some blind spot detectors light up whenever another vehicle is in the blind spot area.
 
-Other detectors only light up if you activate the direction indicator to change lanes and there is another vehicle in the blind spot.
+Other detectors only light up if you activate the indicator to change lanes and there is another vehicle in the blind spot.
 
 ![](_page_443_Picture_6.jpeg)
 
@@ -287,7 +287,7 @@ To avoid risks and react quickly to unexpected events on the road, you must:
 
 - **■** Keep a speed suitable for your circumstances, the vehicle’s circumstances, and the road’s circumstances at all times.
 - **■** Switch on the lights that are necessary at each moment so that other vehicles can see you and know what movement you are going to make.
-- **■** Do not stay for a long time in the blind spot of another vehicle’s rear-view mirrors. Especially if you are travelling alongside or behind a very large vehicle.
+- **■** Do not stay for a long time in the blind spot of another vehicle’s rear-view mirrors. Especially if you are driving alongside or behind a very large vehicle.
 - **■** Always signal the manoeuvres you are going to do for as long as necessary.
 
 ![](_page_444_Picture_8.jpeg)
@@ -303,9 +303,9 @@ To avoid risks and react quickly to unexpected events on the road, you must:
 
 #### **Space in front**
 
-It is advisable that there are two or three seconds of separation between your vehicle and the one in front.
+It is advisable to have two or three seconds of separation between your vehicle and the one in front.
 
-That is, that it takes you two or three seconds to reach it at the speed you are travelling at.
+That is, it should take you two or three seconds to reach it at the speed you are travelling.
 
 ![](_page_445_Picture_9.jpeg)
 

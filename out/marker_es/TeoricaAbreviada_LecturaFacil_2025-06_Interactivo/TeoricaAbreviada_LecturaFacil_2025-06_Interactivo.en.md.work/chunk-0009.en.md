@@ -1,10 +1,10 @@
 <!-- Page: 113 -->
 
-#### **Chest strap**
+#### **Shoulder strap**
 
 It must pass over the collarbone, between the shoulder and the neck, and go down the centre of the chest.
 
-Placing the chest strap on the neck or on one breast can cause serious injuries in the event of an accident.
+Placing the shoulder strap on the neck or on one breast can cause serious injuries in the event of an accident.
 
 Placing it on the shoulder can make the seat belt slip and protect less.
 
@@ -29,16 +29,16 @@ After fastening your seat belt, pull it slightly upwards to check that it fits y
 Check that it is not caught or twisted in any part.
 <!-- Page: 114 -->
 
-### **Submarining effect**
+### **The submarining effect**
 
-This effect happens when, in an accident, the body slides down, under the seat belt. This happens because the seat is tilted backwards and the seat belt is badly positioned.
+This effect happens when, in an accident, the body slides down, under the seat belt. This happens because the seat is tilted backwards and the seat belt is not positioned correctly.
 
 To prevent this from happening you must:
 
 - **■** Fasten your seat belt properly.
-- **■** Check that the seat belt is well fitted to the body.
+- **■** Check that the seat belt is properly fitted to the body.
 - **■** Do not place towels, cushions, or covers on the seat that could make you slip.
-- **■** Have a correct posture when driving, without tilting the seat too far back.
+- **■** Have a correct driving posture, without tilting the seat too far back.
 
 ![](_page_113_Picture_8.jpeg)
 
@@ -46,39 +46,39 @@ To prevent this from happening you must:
 
 **What are they?**
 
-A safety device that consists of a bag filled with air that inflates inside the vehicle in the event of an accident to protect the passengers.
+A safety device that consists of an air bag that inflates inside the vehicle in the event of an accident to protect the passengers.
 <!-- Page: 115 -->
 
-Airbags are placed at the front of the vehicle and on the sides.
+Airbags are fitted at the front of the vehicle and on the sides.
 
 #### **What are they for?**
 
 The main functions of the airbag in the event of an accident are:
 
-- **■** Slow down the sudden movement of the body.
-- **■** Prevent people from hitting violently against any part of the vehicle.
-- **■** Protect people’s face and eyes from broken glass and other elements that come loose because of the accident.
+- **■** To slow down the sudden movement of the body.
+- **■** To prevent people from hitting violently against any part of the vehicle.
+- **■** To protect people’s face and eyes from broken glass and other parts that come loose because of the accident.
 
 #### **Precautions when using airbags:**
 
 - **■** Always use the seat belt so that the impact against the airbag is smaller.
 - **■** Place your chest at a distance of at least 25 centimetres from the steering wheel so that the front airbag does not hit you when it inflates.
-- **■** Switch off the airbag for the front passenger seat if you are going to place a child seat on that seat.
+- **■** Deactivate the airbag for the front passenger seat if you are going to place a child seat on that seat.
 
 ![](_page_114_Picture_11.jpeg)
 <!-- Page: 116 -->
 
-#### **Head restraint**
+#### **The head restraint**
 
 A device that protects the neck and the **cervical vertebrae** in the event of a sudden impact.
 
-It is very important to place the head restraint at the height of the passengers’ heads, both in the front seats and in the rear seats.
+It is very important to position the head restraint at the height of the passengers’ heads, both in the front seats and in the rear seats.
 
 **Cervical vertebrae.** Bones that are in the upper part of the spine.
 
-The top part of the head restraint must be at the same height as the top part of your head.
+The top of the head restraint must be at the same height as the top of your head.
 
-You should try to keep the distance between your head and the head restraint at four centimetres or less.
+You should try to keep the distance between your head and the head restraint to four centimetres or less.
 
 ![](_page_115_Picture_7.jpeg)
 
@@ -87,7 +87,7 @@ You should try to keep the distance between your head and the head restraint at 
 ![](_page_115_Picture_9.jpeg)
 <!-- Page: 117 -->
 
-#### **Helmet**
+#### **The helmet**
 
 Head injuries are the main cause of death in accidents involving two-wheeled vehicles. Three out of ten people who have an accident on a two-wheeled vehicle save their life because they are wearing a helmet.
 
@@ -96,26 +96,26 @@ Head injuries are the main cause of death in accidents involving two-wheeled veh
 #### **What does the helmet do in the event of an accident?**
 
 - **■** It protects the head from impacts against the ground, other vehicles, or elements of the road.
-- **■** It prevents stones, metal, or other sharp objects from entering the head
+- **■** It prevents stones, metal pieces, or other sharp objects from entering the head
 - **■** It spreads the force of the impact over the whole helmet so that it does not concentrate on just one point of the head. This prevents serious injuries.
 - **■** It helps prevent the face and head from being burned when sliding along the ground after the fall.
 <!-- Page: 118 -->
 
-| Type of helmet            | Full-face model.<br>That is, one that also protects<br>the lower part of the face<br>and the jaw.<br>Watch video         |  |  |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------|--|--|
+| Type of helmet            | Full-face model.<br>That is, one that also protects<br>the lower part of the face<br>and the jaw.<br>Watch video |  |  |
+|--------------------------|------------------------------------------------------------------------------------------------------------------|--|--|
 | Material                 | Some helmets expire after a few years<br>and can lose properties<br>if they are painted or if<br>stickers are put on them. |  |  |
-| Size                     | It must fit the head well.                                                                                                  |  |  |
-| Strap<br>fastening       | Check that the helmet<br>is properly fastened<br>and does not come off even if you pull hard.<br>Watch video               |  |  |
-| Colour                   | Light and bright helmets<br>are safer.                                                                                       |  |  |
-| Ventilation              | It must have enough holes<br>for air to go in and out.                                                                       |  |  |
+| Size                     | It must fit the head properly.                                                                                    |  |  |
+| Strap<br>fastening       | Check that the helmet<br>is properly fastened<br>and does not come off even if you pull hard.<br>Watch video     |  |  |
+| Colour                   | Light and bright helmets<br>are safer.                                                                            |  |  |
+| Ventilation              | It must have enough holes<br>for air to go in and out.                                                            |  |  |
 <!-- Page: 119 -->
 
 **Topic 5. Safety devices in the vehicle**
 
 | Visor        | It is recommended to wear visors<br>over the face that do not mist up<br>and allow you to see well through them.<br>These visors are called anti-fog. |
-|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Approval     | The helmet must have a label<br>that explains that it has passed<br>quality tests<br>and is a safe helmet.                                             |
-|              |                                                                                                                                                        |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Approval     | The helmet must have a label<br>that explains that it has passed<br>quality tests<br>and is a safe helmet.                                                  |
+|              |                                                                                                                                                                |
 <!-- Page: 120 -->
 
 # <span id="page-119-0"></span>**Contents**
@@ -154,13 +154,13 @@ It is used to regulate the amount of fuel that enters the vehicle’s engine.
 
 The harder you press the accelerator, the more fuel will enter the engine and the faster the vehicle will go.
 
-This pedal is pressed with the right foot. If you do not press it, the vehicle receives the right amount of fuel to keep running and not stall.
+This pedal is pressed with the right foot. If you do not press it, the vehicle receives the right amount of fuel to keep running and not stop.
 
 ![](_page_120_Picture_9.jpeg)
 
 #### **Brake pedal**
 
-It is used to reduce speed or stop the vehicle. The brake pedal acts on all the wheels of the car. This pedal is pressed with the right foot and it must be pressed gently.
+It is used to reduce speed or stop the vehicle. The brake pedal acts on all the wheels of the car. This pedal is pressed with the right foot and it must be pressed smoothly.
 <!-- Page: 122 -->
 
 #### **Clutch pedal**
@@ -175,21 +175,21 @@ The **gearbox** is used to change gear.
 
 ![](_page_121_Picture_6.jpeg)
 
-When you release the clutch pedal, the engine power works again by itself so that you can continue driving.
+When you release the clutch pedal, the engine power works again on its own so that you can continue driving.
 
 ![](_page_121_Picture_8.jpeg)
 <!-- Page: 123 -->
 
 #### **Steering wheel**
 
-The part of the vehicle that allows you to control which direction you are going and where the wheels move.
+Part of the vehicle that allows you to control which direction you are going and where the wheels move.
 
 ![](_page_122_Picture_3.jpeg)
 
 #### **How should you hold the steering wheel?**
 
-- **■** With both hands. You should only let go with one hand for the short time needed to operate other controls of the car.
-- **■** By the outside. You must never hold the steering wheel by the inside.
+- **■** With both hands. You should only let go with one hand for the short time needed to operate other controls in the car.
+- **■** On the outside. You must never hold the steering wheel on the inside.
 - **■** Firmly, but without using too much force.
 - **■** Without crossing your hands when turning the steering wheel.
 
@@ -204,7 +204,7 @@ A system that brakes the rear wheels of the vehicle and keeps the vehicle stoppe
 
 #### **Controls of motorcycles**
 
-Motorcycles have the same controls as the rest of motor vehicles. But they are placed in a different position and are used differently.
+Motorcycles have the same controls as other motor vehicles. But they are placed in a different position and are used differently.
 
 | Watch video |  |
 |-----------|--|
@@ -235,8 +235,8 @@ To achieve this, all the windows must be clean.
 
 #### It is prohibited:
 
-- **■** Sticking films or stickers on the windows that make it harder to see an area.
-- **■** Fitting coloured windows that are not approved or allowed by law.
+- **■** Sticking films or stickers on the windows that make an area harder to see.
+- **■** Fitting coloured windows that are not approved or permitted by law.
 
 ![](_page_124_Picture_13.jpeg)
 <!-- Page: 126 -->
@@ -247,13 +247,13 @@ To achieve this, all the windows must be clean.
 
 #### **Windscreen wipers**
 
-They keep the front windscreen of the vehicle clean. There are cars that also have a rear window wiper to clean the rear window.
+They keep the front windscreen of the vehicle clean. There are cars that also have a rear wiper to clean the rear window.
 
 They move from side to side to clean the windows well.
 
 They have different speeds. You should try to use the slowest one.
 
-The windscreen wiper and the rear window wiper have a blade that must be changed when you notice that it leaves marks on the glass or it does not get properly clean.
+The windscreen wiper and the rear wiper have a blade that must be changed when you notice that it leaves marks on the glass or it does not get properly clean.
 
 You must not use the windscreen wiper when the glass is dry because it can scratch it.
 
@@ -268,14 +268,14 @@ A device that sprays a jet of liquid onto the windscreen so that the windscreen 
 
 There are special liquids that work as windscreen washer fluid, although water mixed with a little detergent can be used.
 
-It is important to check that the reservoir that contains the windscreen washer has liquid and to top it up when it is running low.
+It is important to check that the reservoir that holds the windscreen washer has liquid and to top it up when it is running low.
 
 ![](_page_126_Picture_5.jpeg)
 
 #### **Heated rear window**
 
-Lines that can be seen on the rear window of the vehicle. They remove ice and vapour that form on this window so that you can see well.
+Lines that can be seen on the rear window of the vehicle. They remove ice and mist that form on this window so that you can see well.
 
 #### **Rear-view mirrors**
 
-Mirrors that allow the driver to see better what happens at the sides and behind the vehicle.
+Mirrors that allow the driver to see better what happens to the sides and behind the vehicle.

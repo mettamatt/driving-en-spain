@@ -2,7 +2,7 @@
 
 #### **S-21.2 a, b, c and d.**
 
-Panel number 2. It may have the following signs:
+Panel number 2. It can have the following signs:
 
 R-306 when panel 1 is green.
 
@@ -20,7 +20,7 @@ It may show the name of the place from which you must follow the instructions on
 
 ![](_page_187_Picture_13.jpeg)
 
-**S-23** There is a hospital nearby. It warns drivers to make little noise with their vehicles when passing in front of it.
+**S-23** There is a hospital nearby. It warns drivers to make little noise with their vehicles when passing in front.
 
 ![](_page_187_Picture_15.jpeg)
 
@@ -33,42 +33,42 @@ It may show the name of the place from which you must follow the instructions on
 ![](_page_187_Picture_19.jpeg)
 <!-- Page: 189 -->
 
-**S-26 a** There is a motorway, dual carriageway or road for motor vehicles exit 300 metres ahead.
+**S-26 a** There is a motorway, dual carriageway or road for motor vehicles exit in 300 metres.
 
-**S-26 b** There is a motorway, dual carriageway or road for motor vehicles exit 200 metres ahead.
+**S-26 b** There is a motorway, dual carriageway or road for motor vehicles exit in 200 metres.
 
-**S-26 c** There is a motorway, dual carriageway or road for motor vehicles exit 100 metres ahead.
+**S-26 c** There is a motorway, dual carriageway or road for motor vehicles exit in 100 metres.
 
 ![](_page_188_Picture_4.jpeg)
 
-**S-27** There is a roadside assistance post to ask for help in case of an accident or breakdown.
+**S-27** There is an assistance post on the road to ask for help in case of an accident or breakdown.
 
 ![](_page_188_Picture_6.jpeg)
 
-**S-28** Zone with priority for pedestrians. You must not drive faster than 20 kilometres per hour.
+**S-28** Area with priority for pedestrians. You must not drive faster than 20 kilometres per hour.
 
 ![](_page_188_Picture_8.jpeg)
 
-**S-30** Zone where pedestrians may walk. You must not drive faster than 30 kilometres per hour.
+**S-30** Area where pedestrians may walk. You must not drive faster than 30 kilometres per hour.
 
 ![](_page_188_Picture_10.jpeg)
 
-**S-31** End of the zone with priority for pedestrians. You may drive at more than 30 kilometres per hour.
+**S-31** End of the area with priority for pedestrians. You may drive at more than 30 kilometres per hour.
 
 ![](_page_188_Picture_12.jpeg)
 
 **S-32** Electronic toll.
 
-Vehicles may pay the toll through electronic tolling provided that the vehicle has the necessary technical equipment installed.
+Vehicles may pay the toll by electronic toll as long as the vehicle has the necessary technical equipment installed.
 
 ![](_page_188_Picture_15.jpeg)
 <!-- Page: 190 -->
 
-**S-33** There is a path reserved for pedestrians and bicycles, separated from motorised traffic, in parks, gardens and forests.
+**S-33** There is a path reserved for pedestrians and bicycles, separated from motor traffic, in parks, gardens and forests.
 
 ![](_page_189_Picture_2.jpeg)
 
-**S-34** There is a place where a vehicle can be parked inside a tunnel in case of an emergency or breakdown.
+**S-34** There is a place where a vehicle can be parked inside a tunnel in case of emergency or breakdown.
 
 ![](_page_189_Picture_4.jpeg)
 
@@ -80,7 +80,7 @@ Vehicles may pay the toll through electronic tolling provided that the vehicle h
 
 #### **S-50a, S-50b, S-50c, S-50d and S-50e**
 
-Only vehicles travelling at that speed or faster may use the lanes marked with a number.
+In the lanes marked with a number, only vehicles travelling at that speed or faster may use them.
 
 ![](_page_189_Picture_10.jpeg)
 
@@ -107,19 +107,19 @@ It also indicates the maximum speed at which you may drive in each of them.
 
 ![](_page_190_Picture_3.jpeg)
 
-**S-60a.** On a two-lane road, it indicates that the left lane will deviate to the left.
+**S-60a.** On a two-lane road it indicates that the left lane is going to deviate to the left.
 
 ![](_page_190_Picture_5.jpeg)
 
-**S-60b.** On a two-lane road, it indicates that the right lane will deviate to the right.
+**S-60b.** On a two-lane road it indicates that the right lane is going to deviate to the right.
 
 ![](_page_190_Picture_7.jpeg)
 
-**S-61a.** On a three-lane road, it indicates that the left lane will deviate to the left.
+**S-61a.** On a three-lane road it indicates that the left lane is going to deviate to the left.
 
 ![](_page_190_Picture_9.jpeg)
 
-**S-61b.** On a three-lane road, it indicates that the right lane will deviate to the right.
+**S-61b.** On a three-lane road it indicates that the right lane is going to deviate to the right.
 
 ![](_page_190_Picture_11.jpeg)
 
@@ -127,7 +127,7 @@ It also indicates the maximum speed at which you may drive in each of them.
 
 ![](_page_190_Picture_13.jpeg)
 
-**Signs that give information about services**
+**Signs that inform about services**
 
 **S-100** First-aid post where emergency treatment can be given.
 
@@ -159,17 +159,43 @@ It also indicates the maximum speed at which you may drive in each of them.
 ![](_page_191_Picture_12.jpeg)
 <!-- Page: 193 -->
 
-| S-107 Place where you can camp. |  |
-|-----------------------------------|--|
-| S-108 There is a water fountain.    |  |
-| S-109 There is a nice place to see. |  |
-| S-110 There is a hotel or a motel.    |  |
-| S-111 There is a restaurant.         |  |
-| S-112 There is a bar or café.     |  |
-| S-113 Caravans may park.   |  |
+| S-107 Place where you can camp. | ![](_page_192_Picture_1.png) |
+| --- | --- |
+| S-108 There is a drinking water fountain. | ![](_page_192_Picture_2.png) |
+| S-109 There is a nice place to see. | ![](_page_192_Picture_3.png) |
+| S-110 There is a hotel or a motel. | ![](_page_192_Picture_4.png) |
+| S-111 There is a restaurant. | ![](_page_192_Picture_5.png) |
+| S-112 There is a bar or café. | ![](_page_192_Picture_6.png) |
+| S-113 Caravans may park. | ![](_page_192_Picture_7.png) |
 <!-- Page: 194 -->
 
-**S-114** You may stop to eat. **S-115** From that place you can start a walking excursion. **S-116** You may camp in that place with a tent and with a caravan. **S-117** There is a youth hostel. **S-118** There is a tourist information office. **S-119** Area of a river where special authorisation is needed to fish. **S-120** There is a national park.
+**S-114** You may stop to eat.
+
+![](_page_193_Picture_1.png)
+
+**S-115** From that place you can start a walking excursion.
+
+![](_page_193_Picture_2.png)
+
+**S-116** You may camp in that place with a tent and with a caravan.
+
+![](_page_193_Picture_3.png)
+
+**S-117** There is a youth hostel.
+
+![](_page_193_Picture_4.png)
+
+**S-118** There is a tourist information office.
+
+![](_page_193_Picture_5.png)
+
+**S-119** Area of a river where special authorisation is needed to fish.
+
+![](_page_193_Picture_6.png)
+
+**S-120** There is a national park.
+
+![](_page_193_Picture_7.png)
 <!-- Page: 195 -->
 
 **S-121** There are monuments to see and visit.
@@ -188,7 +214,7 @@ It also indicates the maximum speed at which you may drive in each of them.
 
 ![](_page_194_Picture_8.jpeg)
 
-**S-125** Area to park vehicles that connects with an underground train station.
+**S-125** Area to park vehicles that connects with an underground station.
 
 ![](_page_194_Picture_10.jpeg)
 
@@ -196,7 +222,7 @@ It also indicates the maximum speed at which you may drive in each of them.
 
 ![](_page_194_Picture_12.jpeg)
 
-**S-127** Service area within a motorway or dual carriageway. In service areas there are usually petrol stations, restaurants and places to rest for a while.
+**S-127** Service area on a motorway or dual carriageway. In service areas there are usually petrol stations, restaurants and places to rest for a while.
 
 ![](_page_194_Picture_14.jpeg)
 <!-- Page: 196 -->
@@ -233,10 +259,10 @@ that they lead to a motorway or dual carriageway.
 
 ![](_page_195_Picture_15.jpeg)
 
-**S-360** It indicates the road number, the place that road goes towards, and the name of the town or city at the next exit towards another road.
+**S-360** It indicates the road number, the place that road goes to, and the name of the town or city at the next exit towards another road.
 <!-- Page: 197 -->
 
-**S-368** It indicates the number of the motorway or dual carriageway, where they go towards, and the name of the town or city at the next exit towards another road.
+**S-368** It indicates the motorway or dual carriageway number, where they go, and the name of the town or city at the next exit towards another road.
 
 ![](_page_196_Picture_2.jpeg)
 
@@ -254,7 +280,7 @@ that they lead to a motorway or dual carriageway.
 
 **S-430** Most important road of an Autonomous Community. They are called first-level regional roads.
 
-**S-440** Roads that connect towns within an Autonomous Community or serve to reach first-level roads. They are called second-level regional roads.
+**S-440** Roads that connect towns within an Autonomous Community or are used to reach first-level roads. They are called second-level regional roads.
 
 **C-241** Roads that connect small towns.
 
@@ -269,7 +295,7 @@ They are called third-level regional roads.
 
 ![](_page_197_Picture_5.jpeg)
 
-**S-574** It indicates the kilometre where you are on a motorway or dual carriageway, and you will see them every 10 kilometres. That is, from the start of the motorway or dual carriageway it marks kilometre 10, kilometre 20, kilometre 30, up to the end.
+**S-574** It indicates the kilometre where you are on a motorway or dual carriageway, and you will see them every 10 kilometres. That is, from the start of the motorway or dual carriageway it marks kilometre 10, kilometre 20, kilometre 30, until the end.
 
 ![](_page_197_Picture_7.jpeg)
 
@@ -277,7 +303,7 @@ They are called third-level regional roads.
 
 ![](_page_197_Picture_9.jpeg)
 
-**S-574b** It indicates the kilometre where you are on a toll motorway, and you will see them every 10 kilometres, like the rest.
+**S-574b** It indicates the kilometre where you are on a toll motorway, and you will see them every 10 kilometres, the same as the rest.
 
 ![](_page_197_Picture_11.jpeg)
 
@@ -285,24 +311,24 @@ They are called third-level regional roads.
 
 ![](_page_197_Picture_13.jpeg)
 
-#### **Supplementary panels**
+#### **Supplementary plates**
 
 **S-800** It indicates the distance from the sign to a hazard or warning.
 <!-- Page: 199 -->
 
-**S-810** It indicates how long the dangerous section is.
+**S-810** It indicates how long the hazardous section is.
 
 For how many metres or kilometres there is danger.
 
-**S-820** and **S-821** These signs are placed below a prohibition sign. They indicate how many metres that prohibition lasts following the arrow.
+**S-820** and **S-821** These signs are placed below a prohibition sign. They indicate how many metres that prohibition lasts, following the arrow.
 
 ![](_page_198_Picture_5.jpeg)
 
-**S-850** to **S-853** It indicates in which direction and in which direction of travel you may drive with priority. It is placed next to sign R-3, which means road with priority.
+**S-850** to **S-853** It indicates in which direction and sense you may drive with priority. It is placed next to sign R-3, which means priority road.
 
 ![](_page_198_Picture_7.jpeg)
 
-**S-840** It is placed below the give way sign.
+**S-840** It is placed below the Give way sign.
 
 **S-870** It is placed below another sign. It indicates that the prohibition or warning on the other sign only applies to the lane or slip road it points to.
 
@@ -310,11 +336,11 @@ It indicates the distance at which you must stop.
 
 ![](_page_198_Picture_11.jpeg)
 
-**S-880** It is placed below another sign. It indicates that the prohibition or warning on the other sign must only be complied with by the vehicles shown on this sign.
+**S-880** It is placed below another sign. It indicates that the prohibition or warning on the other sign only has to be obeyed by the vehicles shown on this sign.
 
 ![](_page_198_Picture_13.jpeg)
 
-**S-890** It is placed below another sign. It indicates that the prohibition or warning on the other sign must be complied with when there is snow, rain or fog.
+**S-890** It is placed below another sign. It indicates that the prohibition or warning on the other sign must be obeyed when there is snow, rain or fog.
 
 ![](_page_198_Picture_15.jpeg)
 
@@ -331,16 +357,16 @@ It indicates the distance at which you must stop.
 
 ![](_page_199_Picture_4.jpeg)
 
-## **Lines and markings on roads**
+## **Lines and road markings**
 
-#### **White lines and markings**
+#### **Lines and white markings**
 
 **Continuous line**
 
 This line prohibits drivers from:
 
 - **■** Crossing the line.
-- **■** Driving over it.
+- **■** Driving on it.
 - **■** Driving to the left of the line when the road is two-way.
 
 ![](_page_199_Picture_12.jpeg)
@@ -348,22 +374,3 @@ This line prohibits drivers from:
 When the line is slightly wider than normal it indicates that there is a special lane.
 
 For example, a lane that only some vehicles may use.
-<!-- Page: 201 -->
-
-#### **Broken line**
-
-This line prohibits drivers from driving over it.
-
-You may only drive over it when the lane is less than three metres wide and it is necessary.
-
-![](_page_200_Picture_4.jpeg)
-
-When the gap between the broken lines is shorter than normal it means that a continuous line or a dangerous situation is near. For example, a bend with poor visibility.
-
-When the gap between the lines is wider
-
-than normal it means that there is a special lane nearby.
-
-![](_page_200_Picture_8.jpeg)
-
-Broken line. Line made up of many smaller lines in a row, with empty spaces between them.

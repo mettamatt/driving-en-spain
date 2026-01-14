@@ -1,6 +1,6 @@
 <!-- Page: 391 -->
 
-Accidents can also be avoided by reducing speed and leaving a greater safe following distance from the vehicle in front on a road in the rain.
+Accidents can also be avoided by reducing speed and leaving a greater safe distance from the vehicle in front on a road when it is raining.
 
 #### **Where and when are there more road traffic accidents?**
 
@@ -13,7 +13,7 @@ Accidents can also be avoided by reducing speed and leaving a greater safe follo
   - Especially at the end of the working day.
 <!-- Page: 392 -->
 
-**■** The accidents that happen most within cities are pedestrian collisions.
+**■** The accidents that happen most within cities are pedestrians being run over.
 
 ![](_page_391_Picture_2.jpeg)
 
@@ -30,7 +30,7 @@ Also, each road traffic accident has very negative consequences for the whole of
 
 **Medical and healthcare costs**
 
-**Costs in security resources**
+**Costs in safety resources**
 
 #### **Human**
 
@@ -45,11 +45,11 @@ Road traffic accidents cause damage to vehicles, the road and the environment.
 A lot of staff and money must be invested to provide first aid to the injured, treatment, rehabilitation and the adaptations that each injured person needs.
 <!-- Page: 394 -->
 
-#### **Spending on security resources**
+#### **Spending on safety resources**
 
 A lot of staff and money must also be invested in the work that police officers and firefighters do at accidents.
 
-Also, each accident means extra costs that have to be paid by insurance companies and the organisations that provide services to the injured.
+Also, each accident means extra costs that insurance companies and the organisations that provide services to the injured have to pay.
 
 For all these reasons, the World Health Organization considers that road traffic accidents are a health problem that affects the whole of society.
 
@@ -71,21 +71,21 @@ Within these risk groups, we must distinguish between the risk that pedestrians 
 
 #### **Pedestrians**
 
-When a vehicle hits a pedestrian, the pedestrian usually suffers very serious injuries.
+When a vehicle runs over a pedestrian, the pedestrian usually suffers very serious injuries.
 
 They are more likely to die when the accident is on a road outside the city because vehicles travel faster.
 
 ![](_page_395_Picture_4.jpeg)
 
-Pedestrian collisions happen more in areas where drivers cannot see them well because there is some kind of obstacle.
+Pedestrians being run over happens more in areas where drivers cannot see them well because there is some kind of obstacle.
 
-To avoid being hit, pedestrians must take the following precautions:
+To avoid being run over, pedestrians must take the following precautions:
 
 **■** Cross at pedestrian crossings.
 
 ![](_page_395_Picture_8.jpeg)
 
-- **■** Cross when the traffic lights are green.
+- **■** Cross when the traffic light is green.
 - **■** Walk in the permitted areas on roads and hard shoulders.
 <!-- Page: 397 -->
 
@@ -95,19 +95,19 @@ To avoid being hit, pedestrians must take the following precautions:
 
 ![](_page_396_Picture_4.jpeg)
 
-Drivers must also take measures so as not to hit pedestrians.
+Drivers must also take measures so as not to run over pedestrians.
 
 - **■** Drive at a moderate speed. Especially within the city.
-- **■** Drive more carefully when arriving at places where there are pedestrians and other parked vehicles with people inside. One of these people may get out of the vehicle without looking.
+- **■** Drive more carefully when you reach places where there are pedestrians and other parked vehicles with people inside. Some of these people may get out of the vehicle without looking.
 - **■** Do not go through when the traffic light is red or amber.
 <!-- Page: 398 -->
 
-- **■** Let pedestrians cross when they have right of way.
+- **■** Let pedestrians cross when they have priority.
 - **■** Take special care when a pedestrian crosses while talking on their mobile phone. They may be distracted.
 
 ![](_page_397_Picture_3.jpeg)
 
-- **■** Pay attention to pedestrians who walk in places near areas for parties and entertainment.
+- **■** Pay attention to pedestrians who walk in places near areas of parties and entertainment.
 - **■** Take special care at the exit of garages.
 
 ![](_page_397_Picture_6.jpeg)
@@ -122,7 +122,7 @@ Vehicles on the pavement force pedestrians to walk on the road.
 ![](_page_398_Picture_2.jpeg)
 
 - **■** Do not make changes to the outside of vehicles.
-  - The outside of today’s vehicles is designed to cause less damage in pedestrian collisions.
+  - The outside of today’s vehicles is designed to cause less damage in collisions with pedestrians.
 - **■** Drive more slowly when passing near a bus that is stopped. Especially if it is a bus that takes children to school.
 - **■** Drive more carefully on rainy days.
 <!-- Page: 400 -->
@@ -131,7 +131,7 @@ Vehicles on the pavement force pedestrians to walk on the road.
 
 ![](_page_399_Picture_2.jpeg)
 
-There is a system called a pedestrian detector that is able to detect when there is a pedestrian in front of a vehicle.
+There is a system called a pedestrian detector that can detect when there is a pedestrian in front of a vehicle.
 
 It warns the driver and, if they do not respond, the system activates the brakes and stops the vehicle.
 
@@ -151,7 +151,7 @@ The pedestrians who are most at risk of having a road traffic accident are child
 - **■** They pay less attention to the road because they have less sense of danger.
 - **■** They do not know the traffic rules.
 
-Most collisions involving children happen when they leave school.
+Most collisions with children happen when they leave school.
 <!-- Page: 402 -->
 
 #### **Older people**
@@ -184,21 +184,21 @@ The drivers with the highest risk of having accidents are:
 
 In Spain, road traffic accidents are the leading cause of death for young people between 15 and 29 years old.
 
-These accidents happen, above all, in big cities, on the way to and from work, and in places for parties.
+These accidents happen, above all, in big cities, on the way to and from work, and in places where people go out to party.
 
 The times when more young people die in road traffic accidents are: the summer months, Christmas and weekends.
 
-The times when there are most accidents of this type are at night and in the early hours of the morning.
+The hours when there are most of these accidents are at night and in the early hours of the morning.
 <!-- Page: 404 -->
 
-#### Main causes of road traffic accidents among young people:
+#### Main causes of young people’s road traffic accidents:
 
 **■** Driving at excessive speed.
 
 ![](_page_403_Picture_3.jpeg)
 
-- **■** Using alcohol and drugs.
-- **■** Not respecting the traffic rules.
+- **■** Drinking alcohol and taking drugs.
+- **■** Not respecting traffic rules.
 
 ![](_page_403_Picture_6.jpeg)
 
@@ -210,16 +210,16 @@ The times when there are most accidents of this type are at night and in the ear
 **■** Competing with other drivers.
 <!-- Page: 405 -->
 
-- **■** Not wearing the seat belt or helmet because they believe they do not need it.
+- **■** Not wearing a seat belt or a helmet because they believe they do not need it.
 - **■** Following the advice of some advertising that encourages drivers to take risks.
 
 ![](_page_404_Picture_3.jpeg)
 
 #### **People over 65 years old**
 
-These people are usually very cautious when driving and comply with the traffic rules. But they may have more accidents for the following reasons:
+These people are usually very cautious when driving and follow traffic rules. But they may have more accidents for the following reasons:
 
-**■** They may have less ability to pay attention and need more time to react to an unexpected event.
+**■** They may have less ability to pay attention and need more time to react to something unexpected.
 
 ![](_page_404_Picture_7.jpeg)
 <!-- Page: 406 -->
@@ -237,7 +237,7 @@ In the event of an accident, older people have more serious injuries and less ch
 
 #### **Drivers of two-wheeled vehicles**
 
-Two-wheeled vehicles are more fragile and are seen worse than the rest of the vehicles. For this reason, their drivers must drive with special care.
+Two-wheeled vehicles are more fragile and are seen worse than the rest of the vehicles. That is why their drivers must drive with special care.
 
 #### **Bicycles**
 
@@ -248,17 +248,17 @@ Cyclist accidents happen more at weekends. Especially when the good weather arri
 The causes of these accidents may be due to offences committed by cyclists or offences committed by drivers of other vehicles.
 <!-- Page: 408 -->
 
-| Offences committed<br>by cyclists                                         | Offences committed<br>by drivers<br>of other vehicles |
-|---------------------------------------------------------------------------|-------------------------------------------------------|
-| Distractions.                                                             | Distractions.                                         |
-| Riding in the<br>opposite or prohibited<br>direction.                     | Driving very fast.<br>Overtaking when                 |
-| Making prohibited turns.                                                  | they must not.                                        |
-| Not obeying the STOP sign<br>or the priority sign<br>for other vehicles.  | Making prohibited turns.                              |
-| Entering the road<br>without caution.                                     |                                                       |
+| Offences committed<br>by cyclists                                         | Offences committed<br>by drivers<br>of other vehicles        |
+|---------------------------------------------------------------------------|-------------------------------------------------------------|
+| Distractions.                                                             | Distractions.                                               |
+| Riding in the<br>wrong or prohibited direction.                           | Driving very fast.<br>Overtaking when                       |
+| Making prohibited turns.                                                  | they must not.                                              |
+| Not obeying the Stop sign<br>or the give way sign<br>for other vehicles.  | Making prohibited turns.                                    |
+| Entering the road<br>without caution.                                     |                                                             |
 
-To avoid hitting cyclists, drivers of other vehicles must:
+To avoid running over cyclists, drivers of other vehicles must:
 
-- **■** Leave space in front until overtaking them, and also leave enough lateral separation when we are overtaking them.
+- **■** Leave space in front until you overtake them, and leave enough lateral separation when you are overtaking them.
 - **■** Do not overtake other vehicles if cyclists are coming in the opposite direction.
 <!-- Page: 409 -->
 
@@ -268,7 +268,7 @@ To avoid hitting cyclists, drivers of other vehicles must:
 
 - **■** Do not use the horn near cyclists so as not to frighten them.
 - **■** Be careful when there are parked vehicles. Cyclists may appear between these vehicles.
-- **■** Drive with more caution near buildings and leisure areas.
+- **■** Drive more carefully near buildings and leisure areas.
 
 #### **Motorcycles and mopeds**
 

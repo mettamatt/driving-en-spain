@@ -28,6 +28,7 @@ Optional utilities:
 - `scripts/postprocess_markdown_cli.py` → run the post-processor on a Markdown file.
 - `scripts/slice_md_pages.py` → extract specific `<!-- Page: N -->` segments into a new Markdown file.
 - `scripts/diff_pages.py` → diff specific page segments between two Markdown files.
+- `scripts/backfill_sign_images.py` → backfill missing service-sign icons (e.g. S-107..S-120) from the PDF into an existing Markdown file.
 
 ## Requirements
 

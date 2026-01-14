@@ -6,17 +6,17 @@ Sometimes there are signs placed together, but they give different instructions.
 
 | Different signs                                                | Which one must you obey?                                                         |  |
 |----------------------------------------------------------------|----------------------------------------------------------------------------------|--|
-| STOP sign and<br>traffic lights on green                        | Traffic lights on green                                                          |  |
-| STOP sign and<br>give way sign                                  | STOP sign                                                                        |  |
-| Traffic lights on green and<br>no left turn sign                | You must obey both.<br>You can go straight on<br>or turn right.                   |  |
+| Stop sign and<br>traffic lights on green                       | Traffic lights on green                                                          |  |
+| Stop sign and<br>give way sign                                 | Stop sign                                                                        |  |
+| Traffic lights on green and<br>no left turn sign               | You must obey both.<br>You can go straight on<br>or turn right.                   |  |
 
 ## **Traffic officers**
 
-**Signals and orders from traffic officers**
+**Signals and orders from officers**
 
-The signals given by traffic officers must always be obeyed.
+You must always comply with the signals given by traffic officers.
 
-To give instructions they will use objects and clothing that can be seen well from 150 metres away.
+To give instructions, they will use objects and clothing that can be clearly seen from 150 metres away.
 
 Traffic officers will give instructions by the following means:
 
@@ -31,7 +31,7 @@ Traffic officers will give instructions by the following means:
 
 ![](_page_157_Picture_3.jpeg)
 
-vertically All drivers approaching the traffic officer must stop.
+vertically All drivers approaching the officer must stop.
 
 > When this signal is made at a junction, drivers who were already inside the junction may continue.
 
@@ -39,30 +39,30 @@ Arm or arms extended horizontally
 
 ![](_page_157_Picture_7.jpeg)
 
-All drivers approaching the traffic officer must stop.
+All drivers approaching the officer must stop.
 
-The traffic officer’s arm or arms act as a barrier for approaching vehicles.
+The officer’s arm or arms act as a barrier for vehicles approaching.
 
-This order must be obeyed until the traffic officer gives another instruction, even if they lower their arms.
+This order must be obeyed until the officer gives another instruction, even if they lower their arms.
 
 Waves a red or yellow light with one arm
 
 ![](_page_157_Picture_12.jpeg)
 
-Drivers towards whom the traffic officer directs the light must stop.
+Drivers towards whom the officer directs the light must stop.
 
 Extended arm moving upwards
 
 ![](_page_157_Picture_15.jpeg)
 
-and downwards All drivers approaching the traffic officer from the side from which they make the arm signal must reduce the vehicle’s speed.
+and downwards All drivers approaching the officer from the side from which they make the arm signal must reduce the vehicle’s speed.
 <!-- Page: 159 -->
 
 #### **Sound signals with a whistle**
 
-| Several short, repeated whistle blasts | Stop the vehicle.                          |
-|----------------------------------------|-------------------------------------------|
-| One long whistle blast                 | Move off again<br>and continue driving.   |
+| Several short, repeated<br>whistle blasts | Stop the vehicle.                         |
+|------------------------------------------|------------------------------------------|
+| One long whistle blast                   | Move off again<br>and continue driving.  |
 
 ![](_page_158_Picture_3.jpeg)
 
@@ -73,7 +73,7 @@ and downwards All drivers approaching the traffic officer from the side from whi
 | Green flag                                                                                | Vehicles may drive again<br>on that road.                                                                                                                                   |
 | Yellow flag                                                                               | Drivers and pedestrians must<br>move with great care<br>because there is a possible danger<br>on the road.                                                                  |
 | Arm extended<br>downwards and held still                                                  | Requires the drivers<br>indicated by the arm<br>to stop<br>on the right-hand side.                                                                                          |
-| Police vehicle<br>with a flashing red or<br>yellow light<br>and making sounds             | You must stop the vehicle<br>on the right-hand side,<br>in front of the police vehicle,<br>and stay inside the vehicle<br>following all the instructions<br>from the traffic officer. |
+| Police vehicle<br>with a red or<br>yellow flashing light<br>and emitting sounds           | You must stop the vehicle<br>on the right-hand side,<br>in front of the police vehicle<br>and stay inside the vehicle<br>following all the instructions<br>from the officer. |
 
 ![](_page_158_Picture_6.jpeg)
 <!-- Page: 160 -->
@@ -86,7 +86,7 @@ and downwards All drivers approaching the traffic officer from the side from whi
 
 #### **Panels with changing messages**
 
-They are panels placed on roads that change the information depending on traffic conditions.
+These are panels placed on roads that change the information depending on traffic circumstances.
 
 #### They are used to:
 
@@ -98,19 +98,19 @@ They are panels placed on roads that change the information depending on traffic
 
 #### **Roadworks marking signs**
 
-They are lights, signs, and devices to highlight roadworks. They indicate the direction you must follow on a street or road and the obstacles you may find on them.
+These are lights, signs and devices to highlight roadworks. They indicate the direction you must follow on a street or road and the obstacles you may find on them.
 <!-- Page: 161 -->
 
 **Topic 8. Traffic signs**
 
-| Temporary direction panel                   | Prohibits entry and informs<br>which way traffic must go.                                                                                                                                            |
-|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Small flags and cones                       | Prohibit passing through them<br>and through the space<br>between each small flag or cone.                                                                                                          |
-| Fixed red light                             | The road is closed to traffic.                                                                                                                                                                       |
-| Fixed or flashing<br>yellow lights          | Prohibit passing through the space<br>between the lights.                                                                                                                                            |
-| Permanent direction panels                  | Devices that indicate which way<br>traffic must go in a place<br>where there is always<br>a possible danger.                                                                                        |
+| Temporary<br>direction panel                | Prohibits entry and informs<br>which way you must go.                                                                                                                                              |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Small flags and cones                      | Prohibit passing through them<br>and through the space<br>between each small flag or cone.                                                                                                        |
+| Fixed red light                            | The road is closed to traffic.                                                                                                                                                                    |
+| Fixed or flashing<br>yellow lights         | Prohibit passing through the space<br>between the lights.                                                                                                                                         |
+| Permanent<br>direction panels              | Devices that indicate which way<br>you must go in a place<br>where there is always<br>a possible danger.                                                                                          |
 |                                            | The number of panels warns<br>how much danger there is in that area:<br>■<br>One panel means<br>moderate danger.<br>■<br>Two panels mean<br>quite a lot of danger.<br>■<br>Three panels mean |
-|                                            | a lot of danger.                                                                                                                                                                                     |
+|                                            | a lot of danger.                                                                                                                                                                                  |
 
 ## **Traffic lights**
 
@@ -121,9 +121,9 @@ There are different types of traffic lights:
 
 #### **Traffic lights for pedestrians**
 
-Their instructions are for pedestrians.
+Their instructions apply to pedestrians.
 
-Not for drivers
+Not to drivers
 
 ![](_page_161_Picture_4.jpeg)
 
@@ -136,16 +136,16 @@ Not for drivers
 ## **Circular traffic lights for vehicles**
 
 | Fixed red light                                   | No entry.                                                                                                                                    |  |
-|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|--|
-| One or two<br>flashing red lights                 | Prohibits entry<br>for a period of time.<br>They are placed before a level crossing<br>or a bridge.                                          |  |
-| Fixed yellow<br>light                             | Prohibits entry<br>like the fixed red light.<br>But it does allow vehicles to pass<br>that cannot stop<br>for safety reasons.               |  |
-| One or two<br>flashing<br>yellow lights           | Require you to give way<br>to vehicles coming<br>from the right and from the left.<br>Also to pedestrians.                                  |  |
-| Fixed green light                                 | Allows vehicles to go through<br>and also gives them right of way<br>at the junction.                                                       |  |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|--|
+| One or two<br>flashing red<br>lights              | Prohibits entry<br>for a period of time.<br>They are placed before a level crossing<br>or a bridge.                                           |  |
+| Fixed amber<br>light                              | Prohibits entry<br>like the fixed red light.<br>But it does allow vehicles to pass<br>that cannot stop for safety reasons.                   |  |
+| One or two<br>flashing<br>amber<br>lights         | Require you to give way<br>to vehicles coming<br>from the right and from the left.<br>Also to pedestrians.                                   |  |
+| Fixed green light                                 | Allows vehicles to go<br>and also gives them priority<br>at the junction.                                                                    |  |
 <!-- Page: 163 -->
 
-| Black arrow | The vehicle may only go towards<br>the side indicated by the arrow.<br>Also, you must respect<br>the meaning of the colour<br>behind the arrow.<br>For example, do not go through<br>if it is red. |  |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Green arrow | Allows vehicles to move forward<br>in the direction indicated by the arrow.<br>You must do so carefully,<br>watching for pedestrians<br>crossing the road<br>and vehicles entering<br>that lane.     |  |
+| Black arrow | The vehicle may only go towards<br>the side indicated by the arrow.<br>Also, you must respect<br>the meaning of the colour<br>behind the arrow.<br>For example, do not go<br>if it is red. |  |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| Green arrow | Allows vehicles to move forward<br>in the direction indicated by the arrow.<br>You must do so carefully,<br>watching for pedestrians<br>crossing the road<br>and vehicles entering<br>that lane. |  |
 
 ![](_page_162_Picture_2.jpeg)
 
@@ -156,30 +156,30 @@ Only vehicles travelling in the lane where the traffic light is placed must obey
 Meaning of their lights
 
 | Red light in<br>the shape of a cross | You must not use<br>that lane.<br>All drivers<br>must leave it<br>as quickly as possible. |  |
-|--------------------------------------|-------------------------------------------------------------------------------------------|--|
-|--------------------------------------|-------------------------------------------------------------------------------------------|--|
+|--------------------------------------|------------------------------------------------------------------------------------------|--|
+|--------------------------------------|------------------------------------------------------------------------------------------|--|
 <!-- Page: 164 -->
 
-| Green light in<br>the shape of a downward<br>arrow                 | It is allowed to drive<br>in that lane.<br>Drivers must<br>obey the rest<br>of the signs that are<br>in that lane.                         |  |
-|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--|
-| White<br>or yellow light in<br>the shape of a downward<br>arrow    | It tells drivers<br>that they must move<br>to the lane indicated<br>by the arrow because<br>the lane they are in now<br>is going to be closed. |  |
+| Green light in<br>the shape of a downward<br>arrow                              | You are allowed to drive<br>in that lane.<br>Drivers must<br>obey the rest<br>of the signs there are<br>in that lane.                         |  |
+|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--|
+| White<br>or amber light in<br>the shape of a downward<br>arrow                  | Tells drivers<br>that they must go<br>to the lane indicated<br>by the arrow because<br>the lane they are in now<br>is going to be closed.   |  |
 
 **Traffic lights for some vehicles Traffic lights for cycles and mopeds**
 
-A cycle is shown on the traffic light. Its instructions do not apply to other vehicles.
+A cycle is shown on the traffic light. Its instructions do not apply to the rest of the vehicles.
 
 ![](_page_163_Picture_4.jpeg)
 
 ## **Traffic lights for trams, buses and other vehicles**
 
-They have a white line on a circular black background. Their instructions do not apply to cars.
+They have a white line on a black circular background. Their instructions do not apply to cars.
 
 ![](_page_163_Picture_7.jpeg)
 <!-- Page: 165 -->
 
 ## **Vertical signs**
 
-They are plates with information that stay fixed on posts or on other structures on the road and on streets.
+They are plates with information that stay fixed on posts or on other structures on roads and streets.
 
 Vertical signs depending on what their function is:
 
@@ -187,6 +187,6 @@ Vertical signs depending on what their function is:
 
 ## **Remember…**
 
-A **road** is the place where you travel; it can be a street, a road, or a track.
+A **road** is the place where you travel. It can be a street, a road or a track.
 
 The **carriageway** is the part of the road where vehicles travel.

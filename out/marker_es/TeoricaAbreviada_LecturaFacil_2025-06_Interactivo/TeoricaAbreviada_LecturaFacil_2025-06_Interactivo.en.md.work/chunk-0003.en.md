@@ -2,21 +2,21 @@
 
 You must do it no later than 15 days after the change.
 
-You must also notify it if you sell or hand over the vehicle to another person. In this case, you have 10 days to notify it. The person who buys or receives the vehicle must request that the vehicle registration certificate be renewed in their name.
+You must also report if you sell or hand over the vehicle to another person. In this case, you have 10 days to report it. The person who buys or receives the vehicle must request that the registration certificate be renewed in their name.
 
 ![](_page_33_Picture_3.jpeg)
 
 ## **Vehicle roadworthiness inspection card (ITV)**
 
-Document that proves that a vehicle has no faults and is in good condition to operate.
+Document that proves that a vehicle has no faults and is in good condition to be used.
 
-## **Which vehicles must have the vehicle roadworthiness inspection card?**
+## **Which vehicles must have the roadworthiness inspection card?**
 
 - **■** All motor vehicles.
 - **■** All mopeds.
 - **■** All trailers and semi-trailers.
 
-## **What information appears on the vehicle roadworthiness inspection card?**
+## **What information appears on the roadworthiness inspection card?**
 
 - **■** Vehicle characteristics.
 - **■** Record of the inspections the vehicle has passed.
@@ -24,7 +24,7 @@ Document that proves that a vehicle has no faults and is in good condition to op
 
 ![](_page_34_Figure_1.jpeg)
 
-## **When must you have your vehicle roadworthiness inspection (ITV)?**
+## **When must you have your vehicle’s roadworthiness inspection (ITV)?**
 
 To know when each vehicle must be inspected, you must take into account what type of vehicle it is, how many years old it is, and what it is used for: whether it is a car, a special vehicle...
 
@@ -35,35 +35,35 @@ To know when each vehicle must be inspected, you must take into account what typ
 | Quads                                                                                                                        |                                                                               |
 <!-- Page: 36 -->
 
-| Motor vehicles<br>that can carry                                                                                      | First inspection at 4 years.<br>After 4 years,<br>inspection every 2 years.                                                                                                 |
+| Motor vehicles<br>that can carry                                                                                      | First inspection at 4 years.<br>After 4 years,<br>inspection every 2 years.                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| up to nine passengers                                                                                               | After 10 years,<br>inspection every year.                                                                                                                                   |
-| Motor vehicles<br>that can carry<br>goods with a weight<br>of up to 3.5 tonnes                                       | First inspection at 2 years.<br>After 2 years,<br>inspection every 2 years.<br>After 6 years,<br>inspection every year.<br>After 10 years,<br>inspection every 6 months. |
-| Trailers for<br>carrying goods<br>or people<br>or for accommodating people<br>Except the towed<br>caravan            | First inspection at 1 year.<br>Up to 10 years, inspection<br>every year.<br>After 10 years,<br>once every 6 months.                                                       |
-| Towed caravan                                                                                                        | First inspection at 6 years.<br>After 6 years,<br>every 2 years.                                                                                                            |
+| up to nine passengers                                                                                                 | After 10 years,<br>inspection every year.                                                                                                                                  |
+| Motor vehicles<br>that can carry<br>goods with a weight<br>of up to 3.5 tonnes                                         | First inspection at 2 years.<br>After 2 years,<br>inspection every 2 years.<br>After 6 years,<br>inspection every year.<br>After 10 years,<br>inspection every 6 months. |
+| Trailers to<br>carry goods<br>or people<br>or to accommodate people<br>Except the towed<br>caravan                    | First inspection at 1 year.<br>Up to 10 years, inspection<br>every year.<br>After 10 years,<br>once every 6 months.                                                      |
+| Towed caravan                                                                                                         | First inspection at 6 years.<br>After 6 years,<br>every 2 years.                                                                                                         |
 
 You must also have a roadworthiness inspection when the vehicle is modified, or if it has had an accident and the structure has been damaged.
 
-The vehicle owner is the person responsible for ensuring that the roadworthiness inspections are carried out.
+The vehicle holder is the person responsible for checking that the roadworthiness inspections are carried out.
 <!-- Page: 37 -->
 
 #### **Roadworthiness inspection results**
 
 When the vehicle is in good condition, the ITV technicians:
 
-- **■** Write on the vehicle roadworthiness inspection card that the vehicle is OK and the date of the next inspection.
-- **■** Provide a sticker. You must place it inside the vehicle, on the right-hand side of the windscreen.
-- **■** Provide a report. You must always carry it in the vehicle.
+- **■** Write on the roadworthiness inspection card that the vehicle is OK and the date of the next inspection.
+- **■** Give you a sticker. You must place it inside the vehicle, on the right-hand side of the windscreen.
+- **■** Give you a report. You must always carry it in the vehicle.
 
 ## **When the vehicle has a serious fault or problem:**
 
 - **■** You cannot continue driving.
 - **■** You must take it to a garage to have it repaired.
-- **■** Once repaired, you must take it for a new inspection to check that it can now be driven.
+- **■** Once repaired, you must take it for a new inspection to check that it can drive again.
 
 ## **Compulsory third-party liability insurance**
 
-People who have a motor vehicle are required to take out and pay for insurance. This insurance is used to protect other people, objects, or vehicles if you have an accident. This insurance is called third-party liability insurance.
+People who have a motor vehicle have the obligation to take out and pay for insurance. This insurance is used to protect other people, objects, or vehicles if you have an accident. This insurance is called third-party liability insurance.
 
 ![](_page_36_Picture_12.jpeg)
 <!-- Page: 38 -->
@@ -93,31 +93,31 @@ For example, a road traffic accident caused by a hurricane or a fire.
 #### **What does compulsory insurance not cover?**
 
 - **■** Injuries suffered in an accident by the driver of the insured vehicle. For example, it does not pay the medical costs of a driver who loses a leg in an accident.
-- **■** Damage suffered by objects that are inside the car of the person driving.
-- **■** Damage that the accident causes to the objects of the insured person, the person driving, or their family members. For example, it does not cover repairing a garage door that a driver breaks when entering the home of their brother.
+- **■** Damage suffered by objects that are inside the car of the person who is driving.
+- **■** Damage that the accident causes to the objects of the insured person, the person who is driving, or their family members. For example, it does not cover repairing a garage door that a driver breaks when entering the home of their brother.
 - **■** Damage to people who are not wearing a helmet if it is compulsory to wear one.
 
 ![](_page_38_Picture_6.jpeg)
 
 **■** Accidents and damage that occur in a stolen vehicle.
 
-When there is an accident, the drivers of all vehicles must inform their insurers. They must do it no later than 7 days after the accident.
+When there is an accident, the drivers of all vehicles have to inform their insurers. They must do it no later than 7 days after the accident.
 <!-- Page: 40 -->
 
 ## **What are the consequences of not insuring the vehicle?**
 
 - **■** The vehicle cannot be driven. If a traffic officer stops you, they will immobilise the vehicle at that moment.
-- **■** The vehicle owner must pay the costs of the place where the vehicle is kept while it has no insurance.
-- **■** The vehicle owner must pay a fine.
+- **■** The owner of the vehicle has to pay the costs of the place where the vehicle is kept while it has no insurance.
+- **■** The owner of the vehicle has to pay a fine.
 
-You must always carry in the vehicle the proof of payment for the insurance. This way you can prove that the vehicle is insured.
+You must always carry in the vehicle the proof of payment of the insurance. This way you can prove that the vehicle is insured.
 
 This proof will show the following information:
 
 - **■** Name of the insurance company.
 - **■** Vehicle registration number.
 - **■** Insurance certificate.
-- **■** Date on which the insurance must be renewed.
+- **■** Date when the insurance must be renewed.
 - **■** Indication of what damage the insurance covers.
 
 ## **Responsible persons**
@@ -137,11 +137,11 @@ However, there are cases in which drivers are responsible for an offence or infr
 
 ![](_page_40_Picture_5.jpeg)
 
-**■** Drivers who carry minors in vehicles in which children of that age are not allowed to travel.
+**■** Drivers who carry minors in vehicles where children of that age are not allowed to travel.
 
-When road traffic offences or infringements are committed by a person under 18 years of age, the fine must be paid by their father, mother, or guardian.
+When traffic offences or infringements are committed by a person under 18 years of age, the fine must be paid by their father, mother, or guardian.
 
-The person who is the vehicle owner is responsible for offences or infringements related to:
+The person who is the holder of a vehicle is responsible for offences or infringements related to:
 
 - **■** The vehicle documentation.
 - **■** Not complying with the vehicle inspections.
@@ -150,7 +150,7 @@ The person who is the vehicle owner is responsible for offences or infringements
 
 # <span id="page-41-0"></span>**Contents**
 
-**Physical and psychological condition of the driver Factors that influence the driver's condition**
+**Physical and psychological condition of the driver Factors that influence the driver’s condition**
 
 - **■** Fatigue
 - **■** Drowsiness
@@ -173,9 +173,9 @@ You must be in good physical and psychological condition to drive.
 
 There are many physical and psychological factors that affect your safety and that of other people when you drive a vehicle.
 
-For example, your ability to see well, your mood, and the time it takes you to react to unexpected events that happen on the road.
+For example, your ability to see well, your mood, and the time you take to react to unexpected events that happen on the road.
 
-In addition, you must have sufficient training to handle the vehicle and understand all traffic rules.
+In addition, you must have enough training to handle the vehicle and understand all traffic rules.
 
 #### **Vision**
 
@@ -207,7 +207,7 @@ It is the time that passes between hearing or seeing something and reacting.
 
 For example, the time that passes between seeing a red traffic light and stopping the car.
 
-Under normal conditions, the reaction time of a person who is driving is between half a second and one second.
+In normal conditions, the reaction time of a person who is driving is between half a second and one second.
 <!-- Page: 45 -->
 
 Factors that make a person take longer to react:
@@ -226,7 +226,7 @@ Factors that make a person take longer to react:
 
 ![](_page_44_Picture_13.jpeg)
 
-## **Factors that influence the driver's condition**
+## **Factors that influence the driver’s condition**
 
 #### **Being tired (fatigue)**
 

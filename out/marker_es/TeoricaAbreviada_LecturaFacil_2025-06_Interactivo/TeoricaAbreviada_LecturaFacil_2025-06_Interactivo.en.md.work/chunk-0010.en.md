@@ -2,11 +2,11 @@
 
 #### **Rear-view mirrors in cars, vans and lorries**
 
-Cars, vans and lorries that can carry up to 3,500 kilos in weight must have the following rear-view mirrors:
+Cars, vans and lorries that can carry up to 3,500 kilos of weight must have the following rear-view mirrors:
 
-- **■** A rear-view mirror outside the vehicle, on the left-hand side.
-- **■** A rear-view mirror inside the vehicle, in the centre, above the front windscreen.
-- **■** A rear-view mirror outside the vehicle, on the right-hand side. This mirror is recommended, but it is not compulsory.
+- **■** A mirror outside the vehicle, on the left-hand side.
+- **■** A mirror inside the vehicle, in the centre, above the front windscreen.
+- **■** A mirror outside the vehicle, on the right-hand side. This mirror is recommended, but it is not compulsory.
 
 ![](_page_127_Picture_6.jpeg)
 
@@ -14,51 +14,51 @@ Cars, vans and lorries that can carry up to 3,500 kilos in weight must have the 
 
 ![](_page_127_Picture_8.jpeg)
 
-Sun blinds can be fitted on the rear side windows of the vehicle only when both exterior rear-view mirrors are fitted, on the right and on the left.
+Sun blinds can be fitted on the rear side windows of the vehicle only when both exterior mirrors are fitted, on the right and on the left.
 
 #### **Rear-view mirrors on motorcycles**
 
-Motorcycles that travel at less than 100 kilometres per hour must have a rear-view mirror on the left-hand side of the vehicle.
+Motorcycles that travel at less than 100 kilometres per hour must have one mirror on the left-hand side of the vehicle.
 <!-- Page: 129 -->
 
-Motorcycles that travel at more than 100 kilometres per hour must have two rear-view mirrors. One on the left-hand side of the vehicle and another on the right-hand side.
+Motorcycles that travel at more than 100 kilometres per hour must have two mirrors. One on the left-hand side of the vehicle and another on the right-hand side.
 
 #### **Rear-view mirrors on two-wheeled mopeds**
 
-These vehicles must have a compulsory rear-view mirror on the left-hand side of the moped. The rear-view mirror on the right-hand side is optional.
+These vehicles must have one compulsory mirror on the left-hand side of the moped. The mirror on the right-hand side is optional.
 
 ## **Rules for driving comfortably and safely**
 
-Having a good driving position helps to avoid fatigue and makes driving safer.
+Having a good driving posture helps to avoid fatigue and makes driving safer.
 
-Getting into a good position in front of the steering wheel helps you respond better and faster to unexpected situations.
+Sitting in a good posture in front of the steering wheel helps you respond better and faster to unexpected situations.
 
 Driving too close to the steering wheel causes fatigue because you have to strain your body more to make movements.
 
-Driving too far from the steering wheel forces you to lean forwards to reach the controls
+Driving too far from the steering wheel makes you lean forwards to reach the controls
 
 and to lift your back off the seat backrest. This can be dangerous.
 <!-- Page: 130 -->
 
-Your head must be above the steering wheel. If this is not possible because you are not tall enough, you can use a suitable accessory that is securely fixed to the seat, bearing in mind that it cannot be a cushion or similar.
+Your head must be above the steering wheel. If this is not possible because you are not tall enough, you can use a suitable accessory firmly secured to the seat, bearing in mind that it cannot be a cushion or similar.
 
 ### **Rules for driving cars, vans and lorries**
 
 #### **Before you start driving you must check that:**
 
-**The seat and the backrest are properly adjusted**
+**The seat and the backrest are well adjusted**
 
-**The rear-view mirrors are properly positioned**
+**The mirrors are correctly positioned**
 
 **The seat belt is properly fastened**
 
-#### **The seat and the backrest are properly adjusted** when:
+#### **The seat and the backrest are well adjusted** when:
 
-- **■** You can reach the pedals properly and you can press them fully without straining your ankles.
-- **■** Your legs are not fully stretched. They are slightly bent and do not rub against any part of the vehicle.
+- **■** You can reach the pedals well and you can press them fully without straining your ankles.
+- **■** Your legs are not fully stretched out. They are slightly bent and do not rub against any part of the vehicle.
 - **■** Your head is above the steering wheel so you can see over it and not through it.
 - **■** The position of the seat backrest lets you reach all the controls.
-  - To check it, rest your back against the backrest, stretch your arms and check that your wrists can rest on the top of the steering wheel.
+  - To check it, rest your back against the backrest, stretch out your arms and check that your wrists can rest on the top of the steering wheel.
 
 **[Watch video](https://www.youtube.com/watch?v=vPN6z28_b7M)**
 
@@ -71,20 +71,20 @@ Your head must be above the steering wheel. If this is not possible because you 
 
 ![](_page_130_Picture_3.jpeg)
 
-#### **The rear-view mirrors are properly positioned** when:
+#### **The rear-view mirrors are correctly positioned** when:
 
-**■** Looking at the rear-view mirror inside the vehicle, you can see all four edges of the rear window.
+**■** Looking at the mirror inside the vehicle, you can see the four edges of the rear window.
 
 ![](_page_130_Picture_6.jpeg)
 
 ![](_page_130_Picture_7.jpeg)
 <!-- Page: 132 -->
 
-**■** Looking at the rear-view mirrors on the sides, you can see the road, the vehicles coming from behind and those beside you. By turning your neck slightly you can see a part of the left rear of your vehicle.
+**■** Looking at the mirrors on the sides, you can see the road, the vehicles coming from behind and those alongside you. By turning your neck a little you can see a part of the left rear of your vehicle.
 
 ![](_page_131_Picture_2.jpeg)
 
-If you find that the rear-view mirrors are badly positioned while you are driving, you must stop the vehicle and position them correctly.
+If you find that the mirrors are badly positioned while you are driving, you must stop the vehicle and adjust them correctly.
 
 To do this, try to stop in a flat and straight place.
 
@@ -94,15 +94,15 @@ Once you have made these checks, fasten your seat belt properly before you start
 
 #### **Rules for riding motorcycles**
 
-- **■** Keep a natural body position. Do not force your posture.
-- **■** Lean your body only as much as needed to reach the handlebars.
+- **■** Keep a natural body position. Do not force postures.
+- **■** Lean your body just enough to reach the handlebars.
 
 ![](_page_131_Picture_10.jpeg)
 <!-- Page: 133 -->
 
 - **■** Keep your arms and hands relaxed. This will help you avoid tiredness.
 - **■** When the motorcycle starts moving, place your feet on the footrests. Do not let them hang down.
-- **■** Lean your body slightly to take bends. Do not lean too much, like professional riders do in races.
+- **■** Lean your body a little to take bends. Do not lean too much, like professional riders do in races.
 
 ![](_page_132_Picture_4.jpeg)
 
@@ -112,7 +112,7 @@ Once you have made these checks, fasten your seat belt properly before you start
 
 - **■** Leaning your body too much.
 - **■** Keeping your elbows tucked inwards.
-- **■** Having your arms completely stretched out.
+- **■** Having your arms completely straight.
 
 These postures cause fatigue and can make it harder for you to react.
 <!-- Page: 134 -->
@@ -121,13 +121,13 @@ These postures cause fatigue and can make it harder for you to react.
 
 ## **Traffic sign recognition system (TSR)**
 
-It detects speed limit signs on the road so that the person driving can reduce the vehicle’s speed if necessary.
+It detects the speed limit signs on the road so that the person driving can reduce the vehicle’s speed if necessary.
 
 In some vehicles the system shows the number that corresponds to the maximum speed the vehicle may travel at. This number appears on the **instrument panel.**
 
 In other vehicles, as well as warning, the system reduces the speed by itself when the driver is going faster than they should.
 
-**Instrument panel.** Set of indicators in front of the driver that provide information about the condition and operation of the vehicle.
+**Instrument panel.** Set of indicators in front of the driver that give information about the condition and operation of the vehicle.
 
 ![](_page_133_Picture_7.jpeg)
 
@@ -184,7 +184,7 @@ and can stop the manoeuvre at any time.
 
 ## **Hill start assist system**
 
-This system helps prevent the vehicle from rolling backwards when the driver moves off on a very steep slope.
+This system helps the vehicle not roll backwards when the driver moves off on a very steep slope.
 
 Or when the driver moves their foot from the brake to the accelerator to continue driving on a slope.
 
@@ -208,11 +208,11 @@ The system will make a sound when it sees that there is a vehicle behind that is
 
 #### **Vehicle lights**
 
-- **■** Sidelights
+- **■** Position lights
 - **■** Parking light
 - **■** Clearance lights
-- **■** Main beam or main beam headlights
-- **■** Dipped headlights
+- **■** Main beam or full beam
+- **■** Dipped beam or passing beam
 - **■** Fog lights
 - **■** Reflector
 - **■** Direction indicator
@@ -221,7 +221,7 @@ The system will make a sound when it sees that there is a vehicle behind that is
 - **■** Third brake light
 - **■** Reversing light
 
-#### **Audible warning devices**
+#### **Audible warnings**
 <!-- Page: 140 -->
 
 ## **General rules for using the vehicle lights**
@@ -240,14 +240,14 @@ The system will make a sound when it sees that there is a vehicle behind that is
 
 A lane that is sometimes open in one direction and other times in the opposite direction.
 
-**■** You drive in an **additional lane** or one that goes in the opposite direction to the one it normally has. For example, an additional lane is set up or the direction of a lane is changed for a period of time due to roadworks or an accident in that area.
+**■** You drive in an **additional lane** or one that goes in the opposite direction to the one it normally has. For example, an additional lane is set up or the direction of a lane is changed for a period due to roadworks or an accident in that area.
 
 #### **Additional lane.**
 
 A new lane that is opened temporarily due to roadworks, queues, an accident…
 <!-- Page: 141 -->
 
-If some lights break down while you are driving, you must reduce the car’s speed and switch on the lights that work, even if they are less visible.
+If some lights break down while you are driving, you must reduce the car’s speed and switch on the lights that work, even if they are dimmer.
 
 When you reach a lit area, you must park the vehicle and not continue driving until the lighting system is repaired.
 
@@ -260,16 +260,16 @@ A road is considered poorly lit when:
 
 ![](_page_140_Picture_7.jpeg)
 
-- 1. Front sidelight
-- 2. Dipped headlights
-- 3. Main beam
+- 1. Front position light
+- 2. Dipped beam or passing beam
+- 3. Main beam or full beam
 - 4. Direction indicators
 - 5. Front fog light
 - 6. Daytime running lights
 
 ![](_page_140_Picture_14.jpeg)
 
-- 1. Rear sidelight
+- 1. Rear position light
 - 2. Brake light
 - 3. Rear fog light
 - 4. Direction indicators
@@ -277,21 +277,21 @@ A road is considered poorly lit when:
 - 6. Third brake light
 <!-- Page: 142 -->
 
-#### **Sidelights**
+#### **Position lights**
 
 They are used so that the vehicle can be seen clearly and so that its width is known.
 
-There are sidelights at the front, at the rear and on the sides of the vehicle.
+There are position lights at the front, at the rear and on the sides of the vehicle.
 
 ![](_page_141_Picture_4.jpeg)
 
-**What colour are the sidelights?**
+**What colour are the position lights?**
 
 The front lights are white.
 
 The rear lights are red.
 
-The side lights are yellow.
+The side lights are amber.
 
 #### **When are they used?**
 
@@ -299,8 +299,8 @@ The side lights are yellow.
 - **■** When going through a tunnel.
 - **■** On dark days when there is little natural light for driving.
 
-When the vehicle is moving, sidelights are always switched on together with another type of lights.
+When the vehicle is moving, the position lights are always switched on together with another type of lights.
 
 ![](_page_141_Picture_14.jpeg)
 
-Sidelights are switched on by themselves, without any other type of lights, only when the car is stopped for some reason.
+The position lights are switched on on their own, without any other type of lights, only when the car is stopped for some reason.

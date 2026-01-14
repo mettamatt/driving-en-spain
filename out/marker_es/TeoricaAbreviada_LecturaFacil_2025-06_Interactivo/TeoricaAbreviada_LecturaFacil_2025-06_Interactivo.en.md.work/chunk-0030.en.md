@@ -8,55 +8,54 @@ The causes of these accidents may be due to offences committed by moped or motor
 
 | Offences committed by | Offences committed by |
 |------------------------|---------------------------------------------------------------------------------------|
-| motorcycle             | drivers of other vehicles                                                             |
-| riders                 |                                                                                       |
-| Using the lane         | Not respecting                                                                         |
+| motorcycle riders      | drivers                                                                               |
+|                        | of other vehicles                                                                    |
+| Taking the lane        | Not respecting                                                                        |
 | of the road that goes  | the right of way                                                                      |
-| in the opposite        | of motorcycles.                                                                       |
-| direction.             |                                                                                       |
-| Distractions.          | Using the lane<br>of the road that goes<br>in the opposite direction.<br>Distractions. |
+| in the opposite direction. | of motorcycles.                                                                  |
+| Distractions.          | Taking the lane<br>of the road that goes<br>in the opposite direction.<br>Distractions. |
 <!-- Page: 411 -->
 
 To avoid accidents with motorcycles and mopeds, drivers of other vehicles must:
 
 - **■** Check that there are no two-wheeled vehicles travelling before changing lane.
-- **■** Do not stay alongside a two-wheeled vehicle. Travel in front of it or behind it.
-- **■** Keep a safe following distance from these vehicles.
-- **■** Respect situations in which they have right of way.
+- **■** Not stay alongside a two-wheeled vehicle. Travel in front of it or behind it.
+- **■** Keep a safe distance from these vehicles.
+- **■** Respect situations in which they have the right of way.
 
 ![](_page_410_Picture_6.jpeg)
 
 **■** Be more careful when there is rain, snow, fog, or visibility is poor.
 <!-- Page: 412 -->
 
-## **What to do in case of an accident**
+## **What to do in the event of an accident**
 
 #### **Steps to follow**
 
-All people who witness a traffic accident must:
+All people who witness a road traffic accident must:
 
 - **■** Attend to the victims or ask for help so that someone helps them.
-- **■** Cooperate so that there is no more damage or more injured people.
-- **■** Help traffic become safe again when possible.
+- **■** Co-operate so that there is no further damage or injuries.
+- **■** Help traffic to become safe again when possible.
 - **■** Explain what happened to the authorities and emergency services.
-- **■** Give your name and contact details to the authorities and to other people involved in the accident. Drivers must also give their vehicle details.
+- **■** Give your name and contact details to the authorities and to other people involved in the accident. Drivers must also give the details of their vehicle.
 
-When you witness an accident, but you cannot do anything to help or the traffic officers have already arrived, it is best to keep driving so you do not get in the way at the accident scene.
+When you witness an accident, but you cannot do anything to help or the traffic officers have already arrived, it is best to keep driving so as not to obstruct the accident scene.
 
 ![](_page_411_Picture_10.jpeg)
 <!-- Page: 413 -->
 
-#### **Failure to assist**
+#### **Failure to provide assistance**
 
 You must always try to help the person who has had an accident.
 
-Anyone who does not do so is committing an offence called failure to assist, that is, not helping, and they may go to prison.
+Anyone who does not do so is committing an offence called failure to provide assistance, that is, not helping, and may go to prison.
 
-#### A person commits this offence if they:
+#### This offence is committed by the person who:
 
-- **■** Do not help the victims of an accident when they can do so without putting themselves in danger.
-- **■** Do not report the accident so that someone comes to help.
-- **■** Cause an accident and flee instead of helping.
+- **■** Does not help the victims of an accident when they can do so without putting themselves in danger.
+- **■** Does not report the accident so that someone comes to help.
+- **■** Causes an accident and flees instead of helping.
 <!-- Page: 414 -->
 
 #### **Important moments after an accident**
@@ -65,8 +64,8 @@ After an accident there are three moments when people are at risk of dying:
 
 | First<br>moment  | The first seconds after<br>the accident.<br>It is called immediate death.                                                                                             |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Second<br>moment | One or two hours after the accident.<br>In this period, resuscitation work is very important<br>to try to save life.<br>It is called the golden hour.                |
-| Last<br>moment   | Days or weeks after<br>the accident.<br>It is called late mortality.                                                                                                 |
+| Second<br>moment | One or two hours after the accident.<br>In this period, resuscitation<br>work is very important<br>to try to save life.<br>It is called the golden hour. |
+| Last<br>moment   | Days or weeks after<br>the accident.<br>It is called late mortality.                                                                                               |
 <!-- Page: 415 -->
 
 #### **PAS rule**
@@ -93,7 +92,7 @@ It is very important to follow the PAS rule in the first 10 minutes after the ac
 
 - **■** Yourself. Do not put yourself in danger or risk having an accident.
 - **■** The victims.
-- **■** The accident scene. Mark the place so it can be seen clearly, prevent more accidents, and help the emergency services find the place more easily.
+- **■** The accident scene. Mark the place so that it can be seen clearly, prevent more accidents, and help the emergency services find the place more easily.
 
 ![](_page_415_Picture_9.jpeg)
 <!-- Page: 417 -->
@@ -103,7 +102,7 @@ What steps must you take to protect?
 - **■** Keep calm.
 - **■** Stop and park the vehicle in a safe place, leaving access for the emergency services.
 - **■** Stop the engine and switch on the hazard warning lights.
-- **■** Put on the high-visibility vest before getting out of the vehicle. This vest must be **approved** to make sure it meets all safety rules. It can be yellow, orange, or red.
+- **■** Put on the reflective vest before getting out of the vehicle. This vest must be **approved** to ensure that it meets all safety rules. It can be yellow, orange, or red.
 
 ![](_page_416_Picture_6.jpeg)
 
@@ -121,7 +120,7 @@ You must not throw water on the fire.
 
 ![](_page_417_Picture_7.jpeg)
 
-- **■** Help the area become safe again and allow traffic to move again.
+- **■** Help the area to become safe again and traffic to be able to move again.
 - **■** Try not to touch or move people or things if there are dead people or people with very serious injuries.
 <!-- Page: 419 -->
 
@@ -129,7 +128,7 @@ You must not throw water on the fire.
 
 Before alerting the emergency services, you should try to gather as much information as possible to make it easier for the necessary services to come and do their job well.
 
-For example, report if there is fire so that the firefighters come. Or explain how many injured people there are so they know how many ambulances they must send.
+For example, report if there is a fire so that the fire brigade comes. Or explain how many injured people there are so they know how many ambulances they must send.
 
 To ask for help you must call the emergency number 112 from your mobile. If you do not have a mobile, you can go to the nearest SOS post to report it.
 
@@ -140,14 +139,14 @@ You must stay at the accident scene or nearby until the authorities and emergenc
 
 In some vehicles there is a system called eCall.
 
-This system automatically sends a message to 112 in case of an accident so that the emergency services go to the place, even if nobody alerts them.
+This system automatically sends a message to 112 in the event of an accident so that the emergency services go to the place, even if nobody alerts them.
 
 ![](_page_419_Picture_4.jpeg)
 <!-- Page: 421 -->
 
 #### **Assist**
 
-You must help the injured quickly but staying calm.
+You must help the injured quickly but keeping calm.
 
 You must stay with the injured and not leave them alone.
 
@@ -164,17 +163,17 @@ General rules for assisting.
 - **■** Do not apply ointments or alcohol to their wounds.
 <!-- Page: 422 -->
 
-**■** Cover the injured with clothing or thin blankets so they keep their body temperature.
+**■** Cover the injured with clothing or thin blankets so that they keep their body temperature.
 
 ![](_page_421_Picture_2.jpeg)
 
-**■** If in doubt about how to act, talk to the injured and give them emotional support. It is better not to touch or move them if you are not sure how to do it, because you could make their injuries worse.
+**■** If in doubt about how to act, talk to the injured and give them emotional support. It is better not to touch or move them if you are not sure how to do it because you could make their injuries worse.
 
 #### **How should you move an injured person?**
 
-When it is necessary to move an injured person because their life is in danger in that place, it must be done by three people, moving them as if they were a single block.
+When it is necessary to move an injured person because in that place their life is in danger, it must be done by three people, to move them as if they were a single block.
 
-The three people must be coordinated so as not to move their neck and to keep the head, neck, and body aligned.
+The three people must be co-ordinated so as not to move their neck and to ensure that the head, neck, and body remain aligned.
 <!-- Page: 423 -->
 
 To remove an injured person from their vehicle, you must follow these steps:
@@ -191,7 +190,7 @@ To remove an injured person from their vehicle, you must follow these steps:
 
 #### **Vital signs**
 
-In traffic accidents, the parts of the body that usually suffer the most damage are the head and the legs.
+In road traffic accidents, the parts of the body that usually suffer the most damage are the head and the legs.
 
 To know how serious the injured are, the first step is to check their vital signs, always following the same order.
 
@@ -199,18 +198,18 @@ To know how serious the injured are, the first step is to check their vital sign
 
 #### **Consciousness**
 
-To know if a person is conscious, you can ask them: Are you OK? If they do not answer, you can give them a small pinch to see if they react with any movement or sound.
+To know if a person is conscious you can ask: Are you OK? If they do not answer, you can give a small pinch to see if they react with any movement or sound.
 
 ![](_page_423_Picture_9.jpeg)
 <!-- Page: 425 -->
 
 #### **How to act depending on their reaction?**
 
-| The injured person responds<br>by answering<br>or moving             | The injured person does not respond<br>or move |
-|---------------------------------------------------------------------|-----------------------------------------------|
-| Do not move the injured person.                                     | They are unconscious.                         |
-| Check if they have<br>bleeding,<br>burns, or fractures.             | Check if they are breathing.                  |
-| Observe them every few<br>minutes to see if there are<br>changes.   |                                               |
+| The injured person responds<br>by answering<br>or moving             | The injured person does not respond<br>and does not move |
+|---------------------------------------------------------------|--------------------------------------|
+| Do not move the injured person.                                | They are unconscious.                |
+| Check if they have<br>bleeding,<br>burns, or fractures.        | Check if they are breathing.         |
+| Observe them every few<br>minutes to see if there are<br>changes. |                                      |
 
 #### **Breathing**
 
@@ -244,8 +243,8 @@ Place them on their side if you have to leave them alone to attend to other inju
 Start cardiopulmonary resuscitation until the emergency services arrive, as follows:
 
 - **■** Place both hands with fingers interlocked on top of the chest of the person who is not breathing.
-- **■** With elbows straight, push the hands up and down about 100 times per minute.
-- **■** Give 2 mouth-to-mouth breaths every 30 chest compressions so that air enters the injured person’s mouth.
+- **■** With your elbows straight, push your hands up and down about 100 times per minute.
+- **■** Give 2 mouth-to-mouth breaths after every 30 chest compressions so that air enters the injured person’s mouth.
 
 ![](_page_426_Picture_12.jpeg)
 

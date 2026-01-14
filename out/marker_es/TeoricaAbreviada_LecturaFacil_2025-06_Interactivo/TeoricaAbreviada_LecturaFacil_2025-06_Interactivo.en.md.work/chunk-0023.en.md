@@ -2,9 +2,9 @@
 
 People travelling in a vehicle that cannot continue driving must get out of the vehicle and go to a safe place.
 
-Before getting out of the vehicle, they must put on the yellow high-visibility vests that all drivers must carry in their vehicles.
+Before getting out of the vehicle, you must put on the yellow high-visibility vests that all drivers must carry in their vehicles.
 
-If there is no safe place, they must stay inside the vehicle with the seat belt fastened.
+If there is no safe place, you must stay inside the vehicle with the seat belt fastened.
 
 You must switch on the hazard warning lights to show that there is a vehicle stopped on the road.
 
@@ -12,9 +12,9 @@ It is also compulsory to place the emergency warning light (orange light) on top
 
 ![](_page_292_Picture_6.jpeg)
 
-If you want, you can place the warning triangles. They are placed 50 metres from the vehicle. One at the front and one at the back, on the right-hand side of the road, and they must be visible from 100 metres away.
+If you want, you can place the warning triangles. They are placed 50 metres from the vehicle. One in front and one behind, on the right-hand side of the road, and they must be visible from 100 metres away.
 
-Vehicles that pick up and tow broken-down vehicles must be prepared to provide roadside assistance (for example, recovery trucks). Not just any vehicle can do it.
+Vehicles that pick up and tow broken-down vehicles must be prepared for roadside assistance (for example, recovery vehicles). Not just any vehicle can do it.
 <!-- Page: 294 -->
 
 ## **Stopping and parking**
@@ -23,7 +23,7 @@ Vehicles that pick up and tow broken-down vehicles must be prepared to provide r
 
 #### **Stopping**
 
-Leaving the vehicle stopped for less than two minutes. When stopping, the driver does not get out of the vehicle. And if they get out, they stay close to it.
+Leaving the vehicle stationary for less than two minutes. When stopping, the driver does not get out of the vehicle. And if they get out, they stay close to it.
 
 ![](_page_293_Picture_5.jpeg)
 
@@ -54,8 +54,8 @@ Drivers of a motor vehicle or moped must:
 
 - **■** Stop the engine and switch off the system that allows the vehicle to move.
 - **■** Apply the parking brake.
-- **■** Leave first gear engaged if you park on an uphill slope.
-- **■** Leave reverse gear engaged if you park on a downhill slope.
+- **■** Leave first gear engaged if parking on an uphill slope.
+- **■** Leave reverse gear engaged if parking on a downhill slope.
 - **■** Select the parking position if the vehicle is automatic.
 <!-- Page: 296 -->
 
@@ -65,11 +65,11 @@ Drivers of vehicle combinations, in addition, must leave their vehicle properly 
 
 They can do it in 2 ways:
 
-1. By placing suitable **wheel chocks**. Stones or other items must not be used.
+1. By placing the appropriate **wheel chocks**. Stones or other objects must not be used.
 
 **Wheel chock.** Wedge placed between the vehicle and the road so that the vehicle does not move.
 
-2. By resting one of the front wheels against the kerb of the pavement.
+2. By resting one of the front wheels against the kerb.
 
 On uphill slopes, the wheel turns towards the centre of the carriageway. On downhill slopes, the wheel turns outwards.
 
@@ -84,14 +84,14 @@ What are these situations?
 
 **■** When a parked vehicle does not allow other vehicles to pass.
 
-When a vehicle is less than three metres from the opposite side of the road or from the continuous line that separates directions. Some vehicles will not be able to pass through that space.
+When a vehicle is less than three metres from the opposite side of the road or from the continuous line that separates the directions. Some vehicles will not be able to pass through that space.
 
 ![](_page_296_Picture_6.jpeg)
 
 - **■** When a parked vehicle does not allow another vehicle that is stopped or parked to rejoin the road.
 - **■** When people or animals cannot enter or leave their homes or any other place because a vehicle prevents it.
-- **■** When vehicles cannot use a marked vehicle crossing.
-- **■** When a vehicle is an obstacle so that people with physical disabilities cannot enter or leave the road via the areas prepared for this.
+- **■** When vehicles cannot use a signposted vehicle crossing.
+- **■** When a vehicle is an obstacle so that people with physical disabilities cannot enter or leave the road using the areas prepared for this.
 <!-- Page: 298 -->
 
 ![](_page_297_Picture_1.jpeg)
@@ -115,16 +115,16 @@ When a vehicle prevents another vehicle from turning where the sign indicates.
 
 # **Where is stopping and parking prohibited?** It is prohibited to **stop** and **park** in:
 
-**■** Bends and crests where visibility is poor.
+**■** Bends and changes of gradient where visibility is poor.
 
 ![](_page_298_Picture_3.jpeg)
 
 - **■** Tunnels.
 - **■** Level crossings, pedestrian crossings and cyclist crossings.
-- **■** Lanes or parts of roads reserved for other vehicles.
+- **■** Lanes or parts of the road reserved for other vehicles.
 - **■** Junctions or near them when you do not allow other vehicles to turn.
 - **■** On tram tracks or very close to them.
-- **■** Places where the parked vehicle does not allow signs to be seen.
+- **■** Places where the parked vehicle does not allow the signs to be seen.
 
 ![](_page_298_Picture_10.jpeg)
 
@@ -142,7 +142,7 @@ When a vehicle prevents another vehicle from turning where the sign indicates.
 - **■** On pavements, promenades and other areas where pedestrians pass. For two-wheeled vehicles, provided it is regulated by the municipality and they do not obstruct pedestrians.
 - **■** In front of vehicle crossings where there is a vehicle crossing sign.
 - **■** In double parking.
-- **■** In places where a permit is needed to park at certain times or for a set time. You may park if you have the authorisation that allows it.
+- **■** In places where a permit is needed to park at certain times or for a certain period. You will be able to park if you have the authorisation that allows it.
 <!-- Page: 301 -->
 
 # <span id="page-300-0"></span>**Contents**
@@ -152,7 +152,7 @@ When a vehicle prevents another vehicle from turning where the sign indicates.
 - **■** General rules
 - **■** Rules for giving way in specific places
 - **■** Right of way for cyclists, pedestrians and animals
-- **■** Right of way for vehicles in emergency service
+- **■** Right of way for emergency service vehicles
 
 #### **Right of way in narrow sections**
 
@@ -198,10 +198,10 @@ At junctions without signs, there are some exceptions you must take into account
 
 They have right of way:
 
-- **■** Vehicles travelling on rails before those travelling on the road. For example, a tram has right of way over a car.
+- **■** Vehicles running on rails before those using the road. For example, a tram has priority over a car.
 - **■** Vehicles travelling on a paved road before vehicles travelling on an unpaved road.
 
-**To pave.** To cover the ground of roads and streets with asphalt and other materials that allow vehicles and people to pass more safely.
+**To pave.** To cover the surface of roads and streets with asphalt and other materials that allow vehicles and people to pass more safely.
 
 ![](_page_302_Picture_6.jpeg)
 
@@ -213,18 +213,18 @@ They have right of way:
 
 At junctions with signs you must always follow the instructions shown by that sign.
 
-When there are no lines indicating which is the entry to that junction, you must wait and give way from the place where you can best see the junction and the vehicles approaching it.
+When there are no lines showing where the entry to that junction is, you must wait and give way from the place where you can best see the junction and the vehicles approaching it.
 
-You must never enter a junction, a pedestrian crossing or a cyclist crossing if you think your vehicle will get stuck in the middle of the junction or crossing, interrupting traffic.
+You must never enter a junction, a pedestrian crossing or a cyclist crossing if you think your vehicle will get trapped in the middle of the junction or crossing, interrupting traffic.
 
-For example, you must not enter a pedestrian crossing when there are vehicles right in front that will not let you pass. In that case, you must wait before the pedestrian crossing.
+For example, you must not enter a pedestrian crossing when there are vehicles just in front that will not let you pass. In that case, you must wait before the pedestrian crossing.
 
-If you are stopped at a junction with traffic lights and your vehicle is an obstacle for other drivers, you must leave the junction by whatever way is possible, to continue on the route you wanted to take, provided that no vehicles are coming towards you.
+If you are stopped at a junction with traffic lights and your vehicle is an obstacle for other drivers, you must leave the junction by whatever way is possible, to continue along the route you wanted to take, provided that no vehicles are coming from the opposite direction.
 <!-- Page: 305 -->
 
 #### **Roundabouts**
 
-You must drive in the same way as on the rest of the roads, depending on whether they are urban roads with or without boundaries, inter-urban roads, etc.
+You must drive in the same way as on the rest of the roads, depending on whether they are urban with marked lanes or not, interurban, etc.
 
 ![](_page_304_Picture_3.jpeg)
 
@@ -240,7 +240,7 @@ You must drive in the same way as on the rest of the roads, depending on whether
 
 Cyclists have right of way in the following situations:
 
-**■** When they are travelling in a cycle lane, a cyclist crossing or a well-marked hard shoulder.
+**■** When they are travelling on a cycle lane, a cyclist crossing or a well-signposted hard shoulder.
 <!-- Page: 306 -->
 
 - **■** When another vehicle wants to turn right or left and there are cyclists nearby.
@@ -252,17 +252,17 @@ Cyclists have right of way in the following situations:
 
 Pedestrians have right of way in the following situations.
 
-- **■** At pedestrian crossings, on pavements and in other pedestrian zones.
+- **■** At pedestrian crossings, on pavements and in other pedestrian areas.
 - **■** When a vehicle is going to turn to enter another road where pedestrians are crossing.
-- **■** When a vehicle crosses a hard shoulder where pedestrians are walking who have nowhere else to go because there are no pavements.
-- **■** When a vehicle needs to cross a pedestrian zone. For example, the pavement that a car must cross when leaving a garage.
+- **■** When a vehicle crosses a hard shoulder where pedestrians are walking because they have nowhere else to go because there are no pavements.
+- **■** When a vehicle needs to cross a pedestrian area. For example, the pavement that a car must cross when leaving a garage.
 
 ![](_page_305_Picture_10.jpeg)
 <!-- Page: 307 -->
 
 Drivers must also give way to:
 
-**■** An organised group of people who are all going together with a purpose. For example, a group of children on a school trip.
+**■** An organised group of people who are all going together for a purpose. For example, a group of children on a school trip.
 
 ![](_page_306_Picture_3.jpeg)
 
@@ -274,6 +274,6 @@ Animals have right of way in the following situations.
 
 **■** On drovers' roads where there is a "Domestic animals crossing" sign. And below it a sign that says drovers' road.
 
-**Drovers' road.** Path created for animals to pass along it.
+**Drovers' road.** Path created so that animals can pass along it.
 
 ![](_page_306_Picture_9.jpeg)

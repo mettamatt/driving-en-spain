@@ -6,7 +6,7 @@
 - **■** You judge distances worse and you stop seeing some signs because you are not paying attention to driving.
 - **■** Leaving the road and entering the opposite lane because you pay attention to the conversation.
 - **■** Difficulty handling the steering wheel when you hold the mobile phone in your hand or on your shoulder.
-- **■** Disorientation and loss of sense of time.
+- **■** Disorientation and loss of the sense of time.
 
 ![](_page_70_Picture_7.jpeg)
 
@@ -17,7 +17,7 @@ But you can use it through a hands-free device that allows you to talk on the mo
 However, hands-free devices are also dangerous because the person driving pays part of their attention to the conversation and not to the road.
 <!-- Page: 72 -->
 
-#### **Recommendations for using the mobile and the hands-free device**
+#### **Recommendations for using the mobile phone and the hands-free device**
 
 - **■** Stop the vehicle in a safe place when you need to make a call. Drive again only when the call ends.
 - **■** When you talk through the hands-free device, tell the other person that you are driving.
@@ -31,7 +31,7 @@ However, hands-free devices are also dangerous because the person driving pays p
 
 It is a system that calculates the route from one place to another in real time. It helps you to find your way and to know where you have to go.
 
-If you make a mistake, the GPS sat nav calculates the route again and tells you again where you must go.
+If you make a mistake, the GPS sat nav recalculates the route and tells you again where you must go.
 <!-- Page: 73 -->
 
 Tips to use the GPS sat nav well:
@@ -41,14 +41,14 @@ Tips to use the GPS sat nav well:
 Do not do it while you are driving.
 
 - **■** Leave it fixed in one place. Do not let it move or roll around the vehicle.
-- **■** Place it in a place where you can see it without taking your eyes off the road.
-- **■** Place it in a place that allows the **airbags** to open if necessary.
+- **■** Put it in a place where you can see it without taking your eyes off the road.
+- **■** Put it in a place that allows the **airbags** to open if necessary.
 
 **[Watch video](https://www.youtube.com/watch?v=z92x1QgjnRI)**
 
 ![](_page_72_Picture_8.jpeg)
 
-**Airbag.** Safety device that is fitted in the front of a car and on the sides to protect passengers in the event of an accident.
+**Airbag.** Safety device that is placed at the front of a car and on the sides to protect passengers in the event of an accident.
 
 ![](_page_72_Picture_10.jpeg)
 <!-- Page: 74 -->
@@ -94,7 +94,7 @@ Especially objects that can damage the road, make it difficult for vehicles to p
 
 #### **General obligations**
 
-When you drive a vehicle you are obliged not to get distracted, to prevent harm or accidents.
+When you drive a vehicle you are required not to get distracted, to prevent damage or accidents.
 
 In this way, you will avoid dangers for you, for the people travelling with you, those travelling in other vehicles, and pedestrians.
 
@@ -108,8 +108,8 @@ In particular, you must pay attention to pedestrians, especially children, older
 
 #### It is forbidden for all drivers:
 
-- **■** To drive a vehicle that gives off more noise, gases, or fumes than allowed.
-- **■** To keep the vehicle doors open or open them before it has come to a complete stop.
+- **■** To drive a vehicle that gives off more noise, gases or fumes than allowed.
+- **■** To keep the vehicle doors open or open them before the vehicle has completely stopped.
 - **■** To open the doors and get out of the vehicle before making sure there is no danger for you or for other vehicles and pedestrians. For example, it is dangerous to open the car door without looking because at that moment a bicycle may pass in front and you can cause an accident.
 <!-- Page: 77 -->
 
@@ -129,15 +129,15 @@ Many vehicles need fuel to work. For example, petrol.
 
 #### **Terms related to safe driving**
 
-| Defensive<br>driving | A way of driving in which the person<br>is alert to anticipate what other road users<br>(drivers and pedestrians)<br>are going to do<br>and react appropriately.<br>For example, taking into account<br>that another driver may need<br>to change lane and being prepared<br>if this happens.               |
+| Defensive<br>driving | A way of driving in which the person<br>is alert to anticipate what other road users<br>(drivers and pedestrians)<br>are going to do<br>and react appropriately.<br>For example, taking into account<br>that another driver may need<br>to change lanes and being prepared<br>if this happens.               |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Danger<br>zone  | Space in which unexpected events may arise<br>from other drivers and pedestrians.<br>For example, a child runs out<br>onto the road behind a ball<br>or a bicycle crosses in front of your vehicle<br>suddenly.<br>These unexpected events can arise in front,<br>behind, and to the sides of your vehicle. |
+| Danger<br>zone  | Space in which unexpected events may arise<br>from other drivers and pedestrians.<br>For example, a child runs out<br>onto the road behind a ball<br>or a bicycle crosses your vehicle’s path<br>suddenly.<br>These unexpected events can arise in front,<br>behind and to the sides of your vehicle. |
 
 ![](_page_77_Picture_3.jpeg)
 
 #### **Two- or three-wheeled vehicles**
 
-These vehicles are less visible, are less stable, and are also more fragile than other cars. Therefore, their passengers are more likely to suffer injuries in the event of accidents.
+These vehicles are less visible, are less stable and are also more fragile than other motor vehicles. That is why their passengers are more likely to suffer injuries in the event of accidents.
 
 #### **Which vehicles are these?**
 
@@ -150,7 +150,7 @@ Whenever you travel on these vehicles as a driver or passenger you must wear the
 
 When you ride a bicycle at night or when visibility is poor for another reason, you have to switch on the vehicle lights and wear a garment or object that shines and can be seen from a distance of 150 metres.
 
-You must wear this bright garment or object if you are the driver and also if you travel as a passenger.
+You must wear this bright garment or object if you are the rider and also if you travel as a passenger.
 
 ![](_page_78_Picture_4.jpeg)
 
@@ -161,11 +161,11 @@ In vehicles with a seat belt you do not need to wear a helmet.
 
 #### **Special vehicles**
 
-Vehicles that enter the roads to do works or provide a special service must have a yellow light switched on while they carry out the work to improve or maintain the road.
+Vehicles that enter the roads to do works or provide a special service must have a yellow light switched on while they carry out the road improvement or maintenance work.
 
 When they work on motorways or dual carriageways they must switch on the yellow light from when they enter the motorway or dual carriageway until they reach their destination.
 
-This light is used so that other drivers know that the vehicle is there. They do not have priority to go through or to overtake.
+This light is used so that other drivers know that the vehicle is there. They do not have priority to go through or overtake.
 
 The maximum speed at which these vehicles may travel is 40 kilometres per hour.
 
@@ -184,13 +184,13 @@ The maximum speed at which these vehicles may travel is 40 kilometres per hour.
 
 #### **When walking in towns and cities**
 
-- **■** Walk on the pavement and not on the road whenever you can. This rule must also be followed by pedestrians using skates, skateboards, or other similar devices that are not electric.
-- **■** Always keep to the right, in the city and on the road, when you pull or push a bicycle or a two-wheeled moped, handcarts, or a similar device. People who use a wheelchair must also keep to the right.
+- **■** Walk on the pavement and not on the road whenever you can. This rule must also be followed by pedestrians who use skates, skateboards or other similar devices that are not electric.
+- **■** Always keep to the right, in town and on the road, when you pull or push a bicycle or a two-wheeled moped, handcarts or a similar device. People who use a wheelchair must also keep to the right.
 <!-- Page: 82 -->
 
-**■** People carrying a very large object or a small vehicle without an engine may walk on the carriageway if the **hard shoulder** or the pavement are narrow and get in the way of pedestrians.
+**■** People who carry a very large object or a small vehicle without an engine may walk on the carriageway if the **hard shoulder** or the pavement are narrow and they obstruct pedestrians.
 
-**Hard shoulder.** Sides of the road that may be on the right and on the left. On the right one, only some vehicles may travel, such as, for example, mopeds.
+**Hard shoulder.** Sides of the road that can be on the right and on the left. On the right one only some vehicles may travel, such as, for example, mopeds.
 
 ![](_page_81_Picture_3.jpeg)
 
@@ -198,10 +198,10 @@ The maximum speed at which these vehicles may travel is 40 kilometres per hour.
 
 - **■** On roads that are outside towns or cities you must always walk on the left side of the road.
   - Unless it is safer to walk on the right.
-- **■** At night you must wear a light or reflective item that can be seen from a distance of 150 metres. For example, a vest that reflects light, a luminous wristband…
+- **■** At night you must wear a luminous or reflective item that can be seen from a distance of 150 metres. For example, a reflective vest, a luminous bracelet…
 <!-- Page: 83 -->
 
-**■** Groups of people must walk in single file, one behind another. The people at the front must carry a white or yellow light that shines and the people at the back must carry a red light that shines too.
+**■** Groups of people must walk in single file, one behind another. The people at the front must carry a white or yellow light that shines and the people at the back must carry a red light that shines as well.
 
 This way drivers will be able to know where the line of pedestrians starts and where it ends.
 
@@ -225,7 +225,7 @@ Electric scooters, electric **unicycles** and other personal mobility vehicles a
 
 **Unicycle.** Vehicle that has a single wheel attached to the seat by means of a metal bar.
 
-- **■** Pavements and pedestrian zones.
+- **■** Pavements and pedestrian areas.
 - **■** Tunnels.
 - **■** Through roads.
 - **■** Motorways and dual carriageways.
@@ -235,7 +235,7 @@ Electric scooters, electric **unicycles** and other personal mobility vehicles a
 
 - **■** You cannot use headphones while you are riding.
 - **■** You cannot use the mobile while you are riding.
-- **■** You must take breath alcohol tests and drug tests when a traffic officer asks you to, like the rest of drivers.
+- **■** You must take alcohol and drug tests when an officer asks you to, like the rest of drivers.
 - **■** You must wear bright and luminous clothing if you ride at night or in places where visibility is poor.
 - **■** You must wear a helmet when the law requires it.
 - **■** You cannot carry passengers.

@@ -4264,18 +4264,44 @@ También indica la velocidad máxima a la que se puede circular por cada uno de 
 
 <!-- Page: 193 -->
 
-| S-107 Lugar donde puedes acampar. |  |
-|-----------------------------------|--|
-| S-108 Hay una fuente con agua.    |  |
-| S-109 Hay un lugar bonito de ver. |  |
-| S-110 Hay un hotel o un motel.    |  |
-| S-111 Hay un restaurante.         |  |
-| S-112 Hay un bar o cafetería.     |  |
-| S-113 Pueden aparcar caravanas.   |  |
+| S-107 Lugar donde puedes acampar. | ![](_page_192_Picture_1.png) |
+| --- | --- |
+| S-108 Hay una fuente con agua. | ![](_page_192_Picture_2.png) |
+| S-109 Hay un lugar bonito de ver. | ![](_page_192_Picture_3.png) |
+| S-110 Hay un hotel o un motel. | ![](_page_192_Picture_4.png) |
+| S-111 Hay un restaurante. | ![](_page_192_Picture_5.png) |
+| S-112 Hay un bar o cafetería. | ![](_page_192_Picture_6.png) |
+| S-113 Pueden aparcar caravanas. | ![](_page_192_Picture_7.png) |
 
 <!-- Page: 194 -->
 
-**S-114** Puedes parar a comer. **S-115** Desde ese lugar puedes empezar una excursión andando. **S-116** Puedes acampar en ese lugar con tienda de campaña y con caravana. **S-117** Hay un albergue juvenil. **S-118** Hay una oficina de turismo. **S-119** Zona de un rio en el que se necesita una autorización especial para pescar. **S-120** Hay un parque nacional.
+**S-114** Puedes parar a comer.
+
+![](_page_193_Picture_1.png)
+
+**S-115** Desde ese lugar puedes empezar una excursión andando.
+
+![](_page_193_Picture_2.png)
+
+**S-116** Puedes acampar en ese lugar con tienda de campaña y con caravana.
+
+![](_page_193_Picture_3.png)
+
+**S-117** Hay un albergue juvenil.
+
+![](_page_193_Picture_4.png)
+
+**S-118** Hay una oficina de turismo.
+
+![](_page_193_Picture_5.png)
+
+**S-119** Zona de un rio en el que se necesita una autorización especial para pescar.
+
+![](_page_193_Picture_6.png)
+
+**S-120** Hay un parque nacional.
+
+![](_page_193_Picture_7.png)
 
 <!-- Page: 195 -->
 

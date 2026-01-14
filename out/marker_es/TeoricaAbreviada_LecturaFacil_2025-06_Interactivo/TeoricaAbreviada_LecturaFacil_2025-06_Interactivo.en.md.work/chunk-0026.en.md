@@ -1,16 +1,16 @@
 <!-- Page: 336 -->
 
-Trailers and semi-trailers that can carry more than 750 kilos must display their number plate at the back and, in addition, the number plate of the vehicle towing them.
+Trailers and semi-trailers that can carry more than 750 kilos must have their number plate at the back and, in addition, the number plate of the vehicle towing them.
 
-Trailers and semi-trailers that can carry less than 750 kilos will only display the number plate of the vehicle towing them at the back.
+Trailers and semi-trailers that can carry less than 750 kilos will only have the number plate of the vehicle towing them at the back.
 
 ![](_page_335_Picture_3.jpeg)
 
-#### **Priority vehicle sign**
+#### **Priority vehicle signal**
 
 Light signal made up of one or more blue lights.
 
-It is used by vehicles that provide emergency services.
+It is carried by vehicles that provide emergency services.
 
 ### These vehicles are:
 
@@ -23,13 +23,13 @@ These vehicles can use the light signal at the same time as the siren to make so
 
 **Speed limit plate**
 
-It indicates that the vehicle displaying it must not travel at more kilometres per hour than the number shown on the plate. It is placed at the back of the vehicle.
+It indicates that the vehicle carrying it must not travel at more kilometres per hour than the number shown on the plate. It is placed at the back of the vehicle.
 
 ![](_page_336_Picture_3.jpeg)
 
 #### **Slow vehicle plate**
 
-It indicates that the vehicle displaying it must not travel faster than 40 kilometres per hour.
+It indicates that the vehicle carrying it must not travel faster than 40 kilometres per hour.
 
 ![](_page_336_Picture_6.jpeg)
 
@@ -37,7 +37,7 @@ It is placed at the back of the vehicle.
 
 #### **Long vehicle plate**
 
-It indicates that the vehicle displaying it is more than 12 metres long.
+It indicates that the vehicle carrying it is more than 12 metres long.
 
 This plate is placed at the back of the vehicle. It is rectangular, yellow, and with red edges.
 
@@ -48,7 +48,7 @@ This plate is placed at the back of the vehicle. It is rectangular, yellow, and 
 
 **Plate for a vehicle carrying dangerous goods**
 
-These plates may have numbers. The numbers at the top give information about the type of danger that material can cause. For example, if it is toxic material or if it can catch fire.
+These plates may have numbers. The numbers at the top give information about the type of danger that the material can cause. For example, if it is toxic material or if it can catch fire.
 
 The numbers at the bottom indicate the material the vehicle is carrying.
 
@@ -58,26 +58,26 @@ The numbers at the bottom indicate the material the vehicle is carrying.
 
 It indicates that the driving licence of the person driving the vehicle is less than one year old.
 
-This sign is placed on the rear window of the vehicle, in a place where it can be clearly seen.
+This sign is placed on the rear window of the vehicle, in a place where it can be seen clearly.
 
 ![](_page_337_Picture_8.jpeg)
 <!-- Page: 339 -->
 
-**Sign to indicate danger**
+**Signal to indicate danger**
 
 It indicates that the vehicle is stopped on the road due to any emergency, due to a breakdown, or that the load it is carrying has fallen onto the road surface.
 
-It is a yellow sign that is placed on the highest part of the vehicle so that it can be clearly seen.
+It is a yellow signal that is placed on the highest part of the vehicle so that it can be seen clearly.
 
 ![](_page_338_Picture_4.jpeg)
 
-**Vehicle roadworthiness inspection sign**
+**Vehicle roadworthiness inspection signal**
 
 Sticker that indicates that the vehicle has passed the roadworthiness inspection and is in good condition to drive.
 
 It also indicates the date when it must pass the next inspection.
 
-This sticker is placed on the right-hand side of the front windscreen of motor vehicles. On trailers and semi-trailers it is placed in a place where it can be clearly seen.
+This sticker is placed on the right-hand side of the front windscreen of motor vehicles. On trailers and semi-trailers it is placed in a place where it can be seen clearly.
 
 ![](_page_338_Picture_9.jpeg)
 <!-- Page: 340 -->
@@ -148,7 +148,7 @@ Bends are dangerous stretches of road where you must drive more carefully. The r
 ## In the bend you must:
 
 - **■** Turn the steering wheel smoothly.
-- **■** Do not accelerate or brake sharply.
+- **■** Do not accelerate or brake suddenly.
 - **■** Accelerate little by little.
 
 ## When leaving the bend you must:
@@ -159,9 +159,9 @@ Bends are dangerous stretches of road where you must drive more carefully. The r
 
 #### **Skidding on bends**
 
-Skidding happens mainly on bends. The reason is that the force that pushes vehicles on bends can cause their tyres not to grip the road, to slip, and to lose control.
+Skidding happens mainly on bends. The reason is that the force that pushes vehicles on bends can make their tyres lose grip on the road, slip, and lose control.
 
-**Skid**. To slide or slip on the road. When a vehicle skids, it moves away from the direction it was going and goes towards another side.
+**Skid**. To slide or slip on the road. When a vehicle skids, it moves away from the direction it was going and goes to another side.
 
 #### A skid can be caused by:
 
@@ -174,11 +174,11 @@ Skidding happens mainly on bends. The reason is that the force that pushes vehic
 
 #### **How can you make the vehicle stop skidding?**
 
-| Type of vehicle                                                     | Which<br>wheels<br>skid? | What must you do?                                                                                                        |
+| Type of vehicle                                                     | Which<br>wheels<br>skid? | What must you do?                                                                                                         |
 |----------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Front-wheel drive.<br>The engine power<br>goes to the<br>front wheels | Rear                     | Do not brake.<br>Turn the steering wheel<br>towards the side the<br>wheels are moving towards.<br>Accelerate             |
+| Front-wheel drive.<br>The engine power<br>goes to the front<br>wheels | Rear                     | Do not brake.<br>Turn the steering wheel<br>towards the side the<br>wheels are moving to.<br>Accelerate                  |
 | Rear-wheel drive.                                                    | Rear                     | smoothly.<br>Do not brake.                                                                                               |
-| The engine power<br>goes to the<br>rear wheels                       |                          | Stop accelerating<br>smoothly.<br>Turn the steering wheel<br>towards the side<br>the rear wheels<br>are moving towards. |
+| The engine power<br>goes to the rear<br>wheels                       |                          | Stop accelerating<br>smoothly.<br>Turn the steering wheel<br>towards the side<br>the rear wheels<br>are moving to.       |
 | Rear-wheel drive                                                     | Front                    | Stop accelerating.<br>Straighten the steering wheel<br>until the wheels<br>stop skidding.                                |
 
 ![](_page_344_Picture_3.jpeg)
@@ -188,10 +188,10 @@ Skidding happens mainly on bends. The reason is that the force that pushes vehic
 
 Roadworks can be a danger. Whenever you drive on a road with roadworks, you must follow the instructions of the roadworks staff.
 
-To show that a road has roadworks, the following signs are used.
+To show that a road is under roadworks, the following signs are used.
 
 - **■** Vertical warning signs and signs that inform you of the rules you must follow. These signs will have a yellow background.
-- **■** Signs painted on the road, yellow in colour.
+- **■** Road markings, in yellow.
 - **■** Other signs that are only placed when there are roadworks.
 <!-- Page: 347 -->
 
@@ -207,7 +207,7 @@ Driving at night is more dangerous than driving during the day.
 - **■** Distances, people, objects and vehicles are harder to see.
 - **■** Other vehicles can dazzle you with their lights.
 
-You must pay special attention when moving from an area that is well lit to one that is poorly lit. It takes the eyes a few seconds to get used to the change in light.
+You must pay special attention when going from an area that is well lit to another that is poorly lit. It takes the eyes a few seconds to get used to the change in light.
 
 ![](_page_346_Picture_9.jpeg)
 <!-- Page: 348 -->
@@ -218,7 +218,7 @@ When driving at night you must take special care with:
 
 ## **Speed**
 
-You must respect speed limits and drive more slowly if you cannot see the road well. This way it will be easier to stop the vehicle if there is a danger or something unexpected.
+You must respect the speed limits and drive more slowly if you cannot see the road well. In this way it will be easier to stop the vehicle if there is a danger or something unexpected.
 
 #### **Dazzle**
 
@@ -228,11 +228,11 @@ When a vehicle dazzles you, you cannot see the road well because too much light 
 
 What can you do to avoid dazzling other drivers?
 
-- **■** Keep the lights properly adjusted. Dipped headlights may bother others because they are not properly adjusted.
-- **■** Distribute the weight you are carrying in the vehicle well. Dipped headlights may end up too high and dazzle because there is too much weight at the back of the vehicle.
+- **■** Keep the lights properly adjusted. Dipped beam may bother others because it is not properly adjusted.
+- **■** Distribute the weight you are carrying in the vehicle properly. Dipped beam may be too high and dazzle because there is too much weight at the back of the vehicle.
 <!-- Page: 349 -->
 
-**■** Switch off main beam and switch on dipped headlights when another vehicle is coming towards you from any direction.
+**■** Switch off main beam and switch on dipped beam when another vehicle is coming towards you from any direction.
 
 When a vehicle dazzles you, reduce speed or even stop the car, taking the necessary safety precautions.
 
@@ -245,7 +245,7 @@ Do not use dark or sunglasses at night. Other vehicles may dazzle you less, but 
 
 ### **Overtaking**
 
-When you are going to overtake another vehicle at night, you must switch off main beam and switch on dipped headlights.
+When you are going to overtake another vehicle at night, you must switch off main beam and switch on dipped beam.
 
 Main beam can dazzle the other driver through the rear-view mirrors.
 
@@ -265,15 +265,15 @@ Those lights will light up the road for both of you during the overtaking.
 
 #### **Bends**
 
-When two vehicles travelling in opposite directions pass each other at night on a bend, the vehicle travelling on the inside of the bend is the one that must switch off main beam and switch on dipped headlights.
+When two vehicles travelling in opposite directions pass each other at night on a bend, the vehicle travelling on the inside of the bend is the one that must switch off main beam and switch on dipped beam.
 
 ![](_page_351_Picture_3.jpeg)
 
-The reason is that its lights are the ones that light up the road directly and can dazzle the other driver.
+The reason is that its lights are the ones that light the road directly and can dazzle the other driver.
 
 The driver travelling on the outside of the bend can keep main beam on because their lights shine off the road. They cannot dazzle other drivers.
 
-They must only change them to dipped headlights if they see that at any moment they are dazzling another driver.
+They must only change to dipped beam if they see that at any moment they are dazzling another driver.
 <!-- Page: 353 -->
 
 ## **The weather**
@@ -282,9 +282,9 @@ They must only change them to dipped headlights if they see that at any moment t
 
 #### **Driving in rain**
 
-When it rains heavily it can be harder to drive for the following reasons:
+When it rains heavily it can be more difficult to drive for the following reasons:
 
 - **■** The road is harder to see.
-- **■** The tyres grip the road less. When this happens the vehicle needs more space to brake.
+- **■** The tyres have less grip on the road. When this happens, the vehicle needs more space to brake.
 
 ![](_page_352_Picture_7.jpeg)

@@ -12,9 +12,9 @@ Which vehicles are prepared to provide emergency services?
 - **■** Civil protection and rescue vehicles.
 - **■** Ambulances and other medical assistance vehicles.
 
-When these vehicles are on an emergency service, they must warn of their arrival by switching on the siren and the lights provided for this.
+When these vehicles are on an emergency service, they must warn of their arrival by switching on the siren and the lights provided for that purpose.
 
-In these cases, these vehicles have right of way on all roads (streets and roads). The rest of the vehicles and pedestrians have to give way to them.
+In these cases, these vehicles have right of way on all roads (streets and roads). All other vehicles and pedestrians must give way to them.
 
 ![](_page_307_Picture_11.jpeg)
 <!-- Page: 309 -->
@@ -22,26 +22,26 @@ In these cases, these vehicles have right of way on all roads (streets and roads
 The following vehicles also have right of way:
 
 - **■** Maintenance teams that repair the road.
-- **■** Roadside assistance vehicles when they are going to help vehicles that have had a breakdown or an accident.
+- **■** Roadside assistance vehicles when they are going to help vehicles that have broken down or had an accident.
 
 Drivers of vehicles prepared to provide emergency services may drive faster than the permitted speed and are not obliged to obey traffic signs.
 
 ![](_page_308_Picture_5.jpeg)
 
-The only signs they must obey are those given to them by traffic officers.
+The only signs they must obey are those given by traffic officers.
 
 They must make sure they do not endanger pedestrians or vehicles when passing through a junction or going through a red traffic light.
 
-On the motorway and the dual carriageway they may change direction, make a U-turn, reverse and enter the central reservation when they can ensure there is no danger to other vehicles.
+On the motorway and dual carriageway they may change direction, reverse direction, drive in reverse, and enter the central reservation when they can ensure there is no danger to other vehicles.
 <!-- Page: 310 -->
 
-**How should you act when faced with emergency service vehicles?**
+**How should you act when faced with vehicles providing emergency services?**
 
-All vehicles must make it easier for them to pass as soon as they hear the siren or see the lights. They will move to the right and stop if necessary. Pedestrians will keep the carriageway clear and wait on the pavement.
+All vehicles must make it easier for them to pass as soon as they hear the siren or see the lights. They will move to the right and stop if necessary. Pedestrians will keep the road clear and wait on the pavement.
 
 ![](_page_309_Picture_3.jpeg)
 
-**Any vehicle on an emergency service**
+**Any vehicle providing an emergency service**
 
 ![](_page_309_Picture_5.jpeg)
 
@@ -61,13 +61,13 @@ In these cases, the driver of the vehicle can warn of the emergency situation in
 
 The driver must obey the traffic rules. Especially at junctions.
 
-The other drivers have to let them pass.
+Other drivers must let them pass.
 
 ## **Right of way in narrow sections**
 
 ## **Narrow sections with signs**
 
-You must always follow the rules indicated by vertical signs, traffic lights or traffic officers when passing along a very narrow road or track.
+You must always follow the rules indicated by vertical signs, traffic lights, or traffic officers when passing along a very narrow road or track.
 
 ## **Narrow sections without signs**
 
@@ -76,15 +76,15 @@ If there are no signs for passing through a narrow section, the vehicle that ent
 ![](_page_310_Picture_11.jpeg)
 <!-- Page: 312 -->
 
-If there is doubt about which vehicle entered first, vehicles that have more difficulty carrying out manoeuvres will have right of way.
+If there is doubt about which vehicle entered first, vehicles that have more difficulty manoeuvring will have priority.
 
-**Which vehicles have right of way to pass through a narrow section?**
+**Which vehicles have priority to pass through a narrow section?**
 
 The order of priority of vehicles is as follows:
 
 - 1. Special vehicles that exceed the weight and dimensions set by the rules that regulate vehicles.
 - 2. Vehicle combinations.
-- 3. Vehicles drawn by animals.
+- 3. Animal-drawn vehicles.
 - 4. Motor caravans and cars towing a trailer that weighs less than 750 kilos.
 - 5. Buses.
 - 6. Lorries, articulated lorries and vans.
@@ -94,10 +94,10 @@ The order of priority of vehicles is as follows:
 - 10. Motorcycles, two-wheeled mopeds and bicycles.
 <!-- Page: 313 -->
 
-When they are vehicles of the same type or there are doubts about which one should go, the following has right of way:
+When they are vehicles of the same type or there are doubts about which one should pass, the following has priority:
 
 - **■** The vehicle that has to reverse for a longer distance.
-- **■** When the reversing distance is the same, the vehicle that is wider, longer or can carry more load will have right of way to pass.
+- **■** When the reversing distance is the same, the vehicle that is wider, longer, or can carry more load will have priority to pass.
 
 The lorry can go first. The car has to reverse.
 
@@ -110,11 +110,11 @@ The bus can go first. The lorry has to reverse.
 
 #### **Narrow sections on a slope**
 
-On steep slopes, the vehicle travelling uphill has right of way to pass, unless it has a safe place to stop closer than the other vehicle.
+On steep slopes, the vehicle travelling uphill has priority to pass, unless it has a safe place to stop closer than the other vehicle.
 
 If in doubt, the same rule will be followed as in narrow sections that are not on a slope.
 
-The car has right of way. The lorry must reverse.
+The car has priority. The lorry must reverse.
 
 ![](_page_313_Picture_5.jpeg)
 
@@ -131,7 +131,7 @@ You must not cross the level crossing or movable bridge when:
 - **■** Its barriers are moving to open or close the crossing.
 - **■** There is a traffic light indicating that you must stop.
 
-In those cases all vehicles have to wait in their lane, one behind another, until the crossing is clear.
+In those cases, all vehicles must wait in their lane, one behind another, until the crossing is clear.
 
 Once the crossing is clear, you must cross quickly. Make sure beforehand that there is no risk of being trapped inside the level crossing.
 
@@ -141,7 +141,7 @@ When a vehicle is trapped inside a level crossing or a movable bridge, all the p
 
 The driver will try to start the vehicle once the rest of the passengers have got out.
 
-If they cannot, they will also get out of the vehicle and try to warn any trains or trams that may pass and the drivers of the other vehicles approaching the area .
+If they do not manage it, they will also get out of the vehicle and try to warn any trains or trams that may pass and the drivers of other vehicles approaching the area .
 <!-- Page: 316 -->
 
 ## **Crossing tunnels and underpasses**
@@ -160,7 +160,7 @@ When there is heavy traffic and vehicles cannot move forward inside a tunnel, al
 
 The driver must switch off the engine
 
-and leave the sidelights on. When braking, they will switch on the hazard warning lights for a moment so that other drivers can see them.
+and leave the position lights on. When braking, they will switch on the hazard warning lights for a moment so that other drivers can see them.
 
 ![](_page_315_Picture_10.jpeg)
 <!-- Page: 317 -->
@@ -169,10 +169,10 @@ and leave the sidelights on. When braking, they will switch on the hazard warnin
 
 When a driver has to stop the vehicle inside a tunnel because of an emergency, the steps they must follow are:
 
-- **■** Switch off the engine, leave the sidelights and the hazard warning lights on so that other drivers can see the vehicle.
+- **■** Switch off the engine, leave the position lights and the hazard warning lights on so that other drivers can see the vehicle.
 - **■** Take the vehicle to the nearest emergency area. If there is no emergency area, they must move it as close as possible to the right-hand edge of the road.
-- **■** Switch on and place the warning light, if you have one, or otherwise place the warning triangles on the carriageway to indicate danger.
-- **■** Ask for help using the nearest emergency telephone post inside the tunnel and follow the instructions you are given.
+- **■** Switch on and place the warning light, if you have one, or otherwise place the warning triangles on the carriageway.
+- **■** Ask for help through the nearest emergency call post inside the tunnel and follow the instructions you are given.
 - **■** All the people travelling in the vehicle must get out and go to the nearest refuge or exit.
 - **■** When the vehicle can be moved, despite the breakdown, drive until you leave the tunnel or reach the nearest emergency area.
 <!-- Page: 318 -->
@@ -215,11 +215,11 @@ All vehicles have a maximum number of kilos they can carry, depending on their c
 
 It is prohibited for vehicles to carry more load than they can, taking into account the weight of passengers, luggage and other materials or loads.
 
-When a vehicle carries more weight than it should, some of its parts are damaged, such as: the tyres, the acceleration systems and the braking systems.
+When a vehicle carries more weight than it should, some of its parts get damaged, such as: the tyres, the acceleration systems and the braking systems.
 
 #### **Carrying animals**
 
-Animals have to travel in the back of the vehicle and be secured to the seat. When possible, a separation mesh or another device will be placed between the part where the animals travel and the part where the driver travels.
+Animals must travel in the back of the vehicle and be secured to the seat. When possible, a separation net or another device will be placed between the part where the animals travel and the part where the driver travels.
 <!-- Page: 321 -->
 
 Animals must never travel loose in the vehicle.
@@ -253,7 +253,7 @@ However, people may travel in the parts of vehicles intended for carrying loads 
 
 The driver must distribute the passengers in the vehicle and place the load so that they have enough space to drive and can see the road well from all sides of the vehicle.
 
-The driver has to pay special attention to:
+The driver must pay special attention to:
 
 - **■** Being comfortable in their seat.
 - **■** Making sure the rest of the passengers occupy their seats and do not move from them.
@@ -261,4 +261,4 @@ The driver has to pay special attention to:
 
 ![](_page_321_Picture_8.jpeg)
 
-All travellers will get in and out of the vehicle when it is stopped and on the side closest to the pavement or the hard shoulder.
+All passengers will get in and out of the vehicle when it is stopped and on the side closest to the pavement or the hard shoulder.

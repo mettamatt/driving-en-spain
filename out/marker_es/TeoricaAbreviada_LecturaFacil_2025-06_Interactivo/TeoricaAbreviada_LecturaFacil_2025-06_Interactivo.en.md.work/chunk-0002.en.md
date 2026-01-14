@@ -1,6 +1,6 @@
 <!-- Page: 20 -->
 
-#### **Motor vehicle machine**
+#### **Self-propelled machine**
 
 Vehicle with four wheels or more that is used to do work in the countryside and in construction.
 
@@ -23,12 +23,12 @@ Some vehicles that have an engine are not considered motor vehicles because they
 |                                        | Tram                                             |  |
 |                                        | Moped                                            |  |
 |                                        | Vehicles for people<br>with reduced mobility     |  |
-|                                        | Pedal bicycle<br>with engine                     |  |
+|                                        | Pedal bicycle<br>with motor                      |  |
 |                                        | Personal mobility<br>vehicle                     |  |
 
 ## **Tram**
 
-It works through rails placed on the road or in the street.
+It runs on rails placed on the road or in the street.
 
 ![](_page_20_Picture_6.jpeg)
 
@@ -50,7 +50,7 @@ They are made to be used by people who have a physical disability. The maximum s
 ![](_page_21_Picture_7.jpeg)
 <!-- Page: 23 -->
 
-**Pedal bicycles with engine**
+**Pedal bicycles with motor**
 
 **Personal mobility vehicles**
 
@@ -58,7 +58,7 @@ They have an electric motor that reaches a speed of between 6 and 25 kilometres 
 
 For example, the electric scooter.
 
-In this type of vehicle only one person can travel.
+In this type of vehicle, only one person can travel.
 
 ![](_page_22_Picture_6.jpeg)
 
@@ -81,33 +81,33 @@ Person who walks on the pavement and the road. Pedestrians are also people who:
 
 ![](_page_23_Picture_6.jpeg)
 
-## **Vehicle owner**
+## **Vehicle holder**
 
 Person who has the vehicle registered in their name in the corresponding official register.
 
-This person will always carry in the vehicle the documents that say they are the owner and will show them to the authorities when they ask for them.
+This person will always carry in the vehicle the documents that say they are the holder and will show them to the authorities when they ask for them.
 
-The vehicle owner is responsible for ensuring that people who do not have a driving licence do not drive that vehicle.
+The vehicle holder is responsible for making sure that people who do not have a driving licence do not drive that vehicle.
 <!-- Page: 25 -->
 
 ### **Usual driver**
 
-Person who usually drives a vehicle, even if they are not the owner.
+Person who usually drives a vehicle, even if they are not the holder.
 
 The usual driver must have the driving licence needed to drive that vehicle.
 
-The vehicle owner is the one who authorises that person to be the usual driver.
+The vehicle holder is the one who authorises that person to be the usual driver.
 
 ## **Categories of vehicles depending on their use**
 
-| Category | Use                                                                          |  |
-|----------|------------------------------------------------------------------------------|--|
-| M        | Motor vehicles made<br>to transport people<br>and their luggage.             |  |
-|          | For example, cars and buses.                                                 |  |
-| N        | Motor vehicles made                                                         |  |
-|          | to transport goods.                                                          |  |
-|          | For example, vans and lorries.                                               |  |
-| O        | Trailers made to transport<br>people and goods.                              |  |
+| Category | Use                                                                            |  |
+|----------|--------------------------------------------------------------------------------|--|
+| M        | Motor vehicles made<br>to transport people<br>and their luggage.               |  |
+|          | For example, cars and buses.                                                   |  |
+| N        | Motor vehicles made                                                           |  |
+|          | to transport goods.                                                            |  |
+|          | For example, vans and lorries.                                                 |  |
+| O        | Trailers made to transport<br>people and goods.                                |  |
 <!-- Page: 26 -->
 
 # <span id="page-25-0"></span>**Contents**
@@ -121,17 +121,17 @@ The vehicle owner is the one who authorises that person to be the usual driver.
 - **■** New drivers
 - **■** When must you renew your Category B driving licence?
 
-#### **Vehicle registration certificate**
+#### **Registration certificate**
 
-- **■** Which vehicles must have a vehicle registration certificate?
-- **■** What details appear on the vehicle registration certificate?
+- **■** Which vehicles must have a registration certificate?
+- **■** What information appears on the registration certificate?
 
-#### **Vehicle roadworthiness inspection card (ITV)**
+#### **Vehicle inspection card (ITV)**
 
-- **■** Which vehicles must have the vehicle roadworthiness inspection card (ITV)?
-- **■** What details appear on the vehicle roadworthiness inspection card (ITV)?
-- **■** When must you have your vehicle roadworthiness inspection (ITV)?
-- **■** Roadworthiness inspection results
+- **■** Which vehicles must have the vehicle inspection card?
+- **■** What information appears on the vehicle inspection card?
+- **■** When must you take your vehicle for the vehicle inspection (ITV)?
+- **■** Vehicle inspection results
 
 #### **Compulsory third-party liability insurance**
 
@@ -156,9 +156,9 @@ These documents must be the originals. You can also present a photocopy of the d
 **Certify.** An official body certifies that the copy of the document is authentic
 <!-- Page: 28 -->
 
-When you need to adapt the vehicle to drive, you must apply for a special permit and make the necessary changes to the vehicle.
+When you need to adapt the vehicle to drive, you must request a special permit and make the necessary changes to the vehicle.
 
-For example, fitting controls on the steering wheel for people who have a disability in their legs and difficulty using the car pedals.
+For example, fitting hand controls on the steering wheel for people who have a disability in their legs and difficulty using the car pedals.
 
 We are going to learn about the 4 documents that a driver must have, what they are for, and how they are used.
 
@@ -177,30 +177,30 @@ You must obtain one licence or another depending on the vehicle you are going to
 ![](_page_27_Picture_10.jpeg)
 <!-- Page: 29 -->
 
-| Type of        | Vehicles                                                                                                                                                                                   | Minimum age              |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| licence<br>AM  | that you can drive<br>Mopeds<br>with two or three wheels<br>and light quadricycles.<br>Vehicles<br>for people<br>with reduced mobility.                                                     | to drive<br>15 years     |
-| A1             | Motorcycles with a<br>maximum engine capacity<br>of 125 cubic<br>centimetres and a<br>maximum power<br>of 11 kilowatts.<br>Motor tricycles with<br>a maximum power<br>of 15 kilowatts.      | 16 years                 |
-| A2             | Motorcycles with a<br>maximum power<br>of 35 kilowatts.                                                                                                                                    | 18 years                 |
-| A              | Motorcycles and tricycles<br>with any type<br>of engine and power.                                                                                                                         | 20 years                 |
+| Type of        | Vehicles                                                                                                                                                                                     | Minimum age              |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| licence<br>AM  | that you can drive<br>Mopeds<br>with two or three wheels<br>and light quadricycles.<br>Vehicles<br>for people<br>with reduced mobility.                                                      | to drive<br>15 years     |
+| A1             | Motorcycles with a<br>maximum engine capacity<br>of 125 cubic<br>centimetres and a<br>maximum power<br>of 11 kilowatts.<br>Motor tricycles with a<br>maximum power<br>of 15 kilowatts.     | 16 years                 |
+| A2             | Motorcycles with a<br>maximum power<br>of 35 kilowatts.                                                                                                                                      | 18 years                 |
+| A              | Motorcycles and tricycles<br>with any type<br>of engine and power.                                                                                                                           | 20 years                 |
 <!-- Page: 30 -->
 
-| B   | Mopeds.<br>Vehicles<br>for people<br>with reduced mobility.<br>Cars<br>that can carry<br>up to nine passengers.<br>Special<br>agricultural vehicles.<br>Special<br>non-agricultural<br>vehicles<br>that reach a<br>maximum speed<br>of 40 kilometres<br>per hour<br>and do not weigh more<br>than 3,500 kilos.<br>Combination of vehicles<br>when the trailer<br>does not carry a weight greater<br>than 750 kilos. | 18 years |
+| B   | Mopeds.<br>Vehicles<br>for people<br>with reduced mobility.<br>Motor vehicles<br>that can carry<br>up to nine passengers.<br>Special<br>agricultural vehicles.<br>Special<br>non-agricultural vehicles<br>that reach a<br>maximum speed<br>of 40 kilometres<br>per hour<br>and do not weigh more<br>than 3,500 kilos.<br>Combination of vehicles<br>when the trailer<br>does not carry a weight greater<br>than 750 kilos. | 18 years |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| B+E | Combination of vehicles.<br>The trailer<br>can carry a load<br>of up to 3,500 kilos.                                                                                                                                                                                                                                                                                                                                  | 18 years |
+| B+E | Combination of vehicles.<br>The trailer<br>can carry a load<br>of up to 3,500 kilos.                                                                                                                                                                                                                                                                                                                                    | 18 years |
 <!-- Page: 31 -->
 
 **Points-based driving licence**
 
-When you get your driving licence you are given 8 points.
+When you get the driving licence you are given 8 points.
 
-You will lose some of these points or all of them if you commit a serious or very serious offence. For example, using your mobile while driving.
+You will lose some of these points or all of them if you commit a serious or very serious offence. For example, using your mobile phone while driving.
 
 You can recover the points after some time by doing a re-education course for driving. This course lasts 12 hours.
 
 ### **New drivers**
 
-A person who gets a driving licence is called a new driver during the first year.
+A person who gets the driving licence is called a new driver during the first year.
 
 New drivers must display in the car a green rectangular plate with a white letter L.
 
@@ -222,29 +222,29 @@ You must also apply again for the driving licence if you lose it, it is stolen, 
 
 ![](_page_31_Picture_6.jpeg)
 
-## **Vehicle registration certificate**
+## **Registration certificate**
 
-Document that confirms that a vehicle has a **number plate** and is authorised to circulate.
+Document that confirms that a vehicle has a **registration number plate** and is authorised to circulate.
 
 ![](_page_31_Figure_9.jpeg)
 <!-- Page: 33 -->
 
-#### **Which vehicles must have a vehicle registration certificate?**
+#### **Which vehicles must have a registration certificate?**
 
 - **■** All motor vehicles.
 - **■** Mopeds.
-- **■** Trailers and semi-trailers that can carry more than 750 kilos.
+- **■** Trailers and semi-trailers that can transport more than 750 kilos.
 
-**Number plate.** Set of letters and numbers that identify vehicles.
+**Registration number plate.** Set of letters and numbers that identify vehicles.
 
-Each vehicle has a different number plate, which is stamped on a metal plate and placed on the vehicle.
+Each vehicle has a different registration number plate, which is stamped on a metal plate and placed on the vehicle.
 
-## **What details appear on the vehicle registration certificate?**
+## **What information appears on the registration certificate?**
 
-- **■** First name, surname(s), and address of the vehicle owner.
-- **■** Vehicle number plate and the date when it was registered.
+- **■** First name, surname(s), and address of the vehicle holder.
+- **■** Vehicle registration number and the date it was registered.
 - **■** Number of seats the vehicle has.
 - **■** Use of the vehicle. That is, whether it is used to transport people or goods.
-- **■** Maximum weight that the vehicle can carry.
+- **■** Maximum weight the vehicle can carry.
 
-The owner of a vehicle must report any change in their details to the Traffic Headquarters.
+The holder of a vehicle must report any change in their details to the Traffic Headquarters.

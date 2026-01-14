@@ -1,8 +1,27 @@
+<!-- Page: 201 -->
+
+#### **Broken line**
+
+This line forbids drivers to drive over it.
+
+You may only drive over it when the lane is less than three metres wide and it is necessary.
+
+![](_page_200_Picture_4.jpeg)
+
+When the gap between the broken lines is shorter than normal, it means that a continuous line or a dangerous situation is near. For example, a bend with poor visibility.
+
+When the gap between the lines is wider
+
+than normal, it means that a special lane is near.
+
+![](_page_200_Picture_8.jpeg)
+
+Broken line. Line made up of many smaller lines in a row, with empty spaces between them.
 <!-- Page: 202 -->
 
 #### **Double broken lines**
 
-Double broken lines on both sides of a lane mean that in this lane sometimes you can drive in one direction and other times in the other direction.
+Double broken lines on both sides of a lane mean that in this lane sometimes you can drive in one direction and other times in the other.
 
 There will be traffic lights in that lane or other means to indicate in which direction you may drive and to avoid accidents.
 
@@ -10,14 +29,14 @@ There will be traffic lights in that lane or other means to indicate in which di
 
 #### **Continuous and broken lines together**
 
-In this case, each driver must only take into account the line that is closest to the side they are driving on.
+In this case, each driver must only take into account the line that is closer to the side they are driving on.
 
 ![](_page_201_Picture_7.jpeg)
 <!-- Page: 203 -->
 
 #### **Edge and parking lines**
 
-Lines that mark where the road ends or places where you may park.
+Lines that mark where the road ends or places where you can park.
 
 ![](_page_202_Picture_3.jpeg)
 
@@ -43,7 +62,7 @@ In any case, the marking does not by itself impose an obligation.
 
 #### **Broken transverse line**
 
-Vehicles must not cross it if they must give way to other vehicles, following the right of way rules and obeying the indications shown by these signs:
+Vehicles must not cross it if they must give way to other vehicles, following the right-of-way rules and obeying the indications shown by these signs:
 
 - **■** Give way sign.
 - **■** Green turning arrow of a traffic light.
@@ -72,9 +91,9 @@ The driver must stop their vehicle before the stop line to give way to drivers t
 
 **Speed limit sign written on the carriageway**
 
-No vehicle must travel at more kilometres per hour than the number shown by the sign in that lane.
+No vehicle must go at more kilometres per hour than the number shown by the sign in that lane.
 
-You must follow that indication until another sign says that you may travel at another speed.
+You must follow that indication until another sign says that you may drive at another speed.
 
 ![](_page_205_Picture_4.jpeg)
 
@@ -82,7 +101,7 @@ You must follow that indication until another sign says that you may travel at a
 
 All drivers must follow the direction, or one of the directions, shown by the arrows in the lane they are travelling in.
 
-If the signs allow it, you may also change lanes.
+If the signs allow it, you may also change lane.
 
 ![](_page_205_Picture_8.jpeg)
 
@@ -101,7 +120,7 @@ It warns that a continuous line is coming and indicates to drivers that they mus
 
 #### **Level crossing marking**
 
-The letters P and N written on the ground with two cross-shaped lines indicate that there is a level crossing nearby.
+The letters P and N written on the ground with two cross-shaped lines indicate that a level crossing is near.
 
 ![](_page_206_Picture_6.jpeg)
 
@@ -112,13 +131,13 @@ It indicates that that area or lane is reserved for certain vehicles to travel o
 ![](_page_206_Picture_9.jpeg)
 <!-- Page: 208 -->
 
-**Marking for the start of a reserved lane**
+**Start of reserved lane marking**
 
-It indicates where the reserved lane for some vehicles begins.**BUS**
+It indicates where the lane reserved for some vehicles begins.**BUS**
 
 ![](_page_207_Picture_3.jpeg)
 
-#### **Cycle route or cycle path marking**
+#### **Cycle lane or cycle track marking**
 
 It indicates that that lane is reserved for bicycles to travel.
 
@@ -126,7 +145,7 @@ It indicates that that lane is reserved for bicycles to travel.
 
 ## **Zebra markings**
 
-It prohibits vehicles from travelling in that area. Only vehicles that are obliged to travel on the hard shoulder may travel in that space.
+It forbids vehicles to travel in that area. Only vehicles that are obliged to travel on the hard shoulder may travel in that space.
 
 ![](_page_207_Picture_9.jpeg)
 <!-- Page: 209 -->
@@ -160,7 +179,7 @@ It indicates to drivers that entering that area is prohibited if they could end 
 
 #### **White and red squares**
 
-Area to carry out emergency braking. It is the only reason why a vehicle may enter that area.
+Area for emergency braking. This is the only reason why a vehicle may enter that area.
 
 ![](_page_209_Picture_6.jpeg)
 
@@ -169,7 +188,7 @@ Area to carry out emergency braking. It is the only reason why a vehicle may ent
 
 **Blue parking markings**
 
-At some times of the day you may only park for a limited time and you must pay.
+At some times of the day you may only park for a limited time and you have to pay.
 
 ![](_page_210_Picture_3.jpeg)
 <!-- Page: 212 -->
@@ -180,7 +199,7 @@ At some times of the day you may only park for a limited time and you must pay.
 
 - **■** Parts of the road for vehicles
 - **■** Other areas of the road
-- **■** Direction and traffic flow
+- **■** Direction and sense
 
 #### **Types of road**
 
@@ -203,7 +222,7 @@ At some times of the day you may only park for a limited time and you must pay.
 
 ## **The road for vehicles and pedestrians**
 
-#### **What is the road?**
+#### **What is a road?**
 
 A road is each street, road and track, public and private, where vehicles and pedestrians may travel.
 
@@ -215,14 +234,14 @@ The parts of the road that matter to the driver are:
 
 #### **Roadway**
 
-It is the whole area of the road that vehicles may use to travel and to stop. Within the roadway are the carriageway and the hard shoulder.
+It is the whole area of the road that vehicles can use to travel and to stop. Within the roadway are the carriageway and the hard shoulder.
 
 ![](_page_212_Picture_9.jpeg)
 <!-- Page: 214 -->
 
 #### **Topic 9. The road**
 
-| Carriageway | Part of the road<br>where vehicles travel.<br>The same road may have several carriageways.<br>A carriageway is called narrow<br>when it measures<br>less than 6.5 metres. |
+| Carriageway | Part of the road<br>where vehicles travel.<br>The same road may have several carriageways.<br>A narrow carriageway<br>is one that measures<br>less than 6.5 metres. |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hard shoulder   | Paved area that is<br>on both sides of the carriageway<br>where most vehicles<br>do not travel.<br>Some roads do not have a hard shoulder.                           |
 
@@ -262,7 +281,7 @@ It is the slope of the road. A change of gradient means that a section of the ro
 
 ![](_page_215_Picture_3.jpeg)
 
-There are changes of gradient with reduced visibility where the road is very steep and you cannot see the vehicles in front of you or coming from the other direction.
+There are changes of gradient with reduced visibility where the road is very steep and you cannot see the vehicles in front of you or coming from the opposite direction.
 
 **[Watch video](https://www.youtube.com/watch?v=2KnxWIbbRqE)**
 
@@ -273,7 +292,7 @@ There are changes of gradient with reduced visibility where the road is very ste
 
 #### **Central reservation**
 
-Space between two roadways separated by which vehicles do not travel.
+Space between two separate roadways where vehicles do not travel.
 
 ![](_page_216_Picture_3.jpeg)
 
@@ -285,7 +304,7 @@ Part of the carriageway that widens so that vehicles that need it can stop witho
 
 #### **Emergency braking area**
 
-Part of the road prepared for vehicles to stop when their brakes fail.
+Part of the road prepared for vehicles with brake failure to stop.
 
 When entering that area, the vehicle stops even if the brakes do not respond.
 
@@ -300,7 +319,7 @@ Place where several roads, streets or tracks cross.
 
 #### **Roundabout**
 
-Junction where there is a circular construction in the centre and vehicles have to drive around that construction. You must not go through the centre.
+Junction where there is a circular construction in the centre and vehicles have to drive around that construction. You cannot go through the centre.
 
 ![](_page_217_Picture_6.jpeg)
 
@@ -313,11 +332,11 @@ Place where a road or track and the railway tracks cross.
 
 #### **Traffic island**
 
-Slightly raised or painted area of the carriageway that is used to guide traffic. They are usually placed at junctions. The parallel white lines that form the traffic island are called **zebra markings**.
+Slightly raised or painted area of the carriageway used to guide traffic. They are usually placed at junctions. The parallel white lines that form the traffic island are called **zebra markings**.
 
 ![](_page_218_Picture_3.jpeg)
 
-#### **Cycle route**
+#### **Cycle track**
 
 Road prepared for cycles to travel.
 
@@ -326,51 +345,15 @@ Road prepared for cycles to travel.
 ![](_page_218_Picture_7.jpeg)
 <!-- Page: 220 -->
 
-#### There are several types of cycle route:
+#### There are several types of cycle track:
 
-| Cycle lane              | It is next to<br>the carriageway.<br>It may operate<br>in two directions<br>or in one direction only.                                           |  |
+| Cycle lane              | It is next to<br>the carriageway.<br>It can operate<br>in two directions<br>or in one direction only.                                           |  |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------|--|
-| Protected<br>cycle lane | It is separated<br>from the carriageway<br>or from the pavement by<br>physical elements<br>to better protect<br>the people<br>who use it. |  |
+| Protected<br>cycle lane | It is separated<br>from the carriageway<br>or the pavement by<br>physical elements<br>to better protect<br>the people<br>who use it. |  |
 | Cycle pavement               | It is marked within<br>the pavement.                                                                                               |  |
-| Cycle track               | There is a space<br>separating<br>the cycle route<br>and the road.                                                      |  |
-| Cycle<br>path        | Road located in parks,<br>gardens and forests<br>where only<br>pedestrians<br>and cycles may travel.                         |  |
+| Cycle track               | There is a space<br>separating<br>the cycle track<br>and the road.                                                      |  |
+| Cycle<br>path        | Road located in parks,<br>gardens and woods<br>where only<br>pedestrians<br>and cycles may travel.                         |  |
 
 **[Watch video](https://www.youtube.com/watch?v=DZ8Sp0nMytI)**
 
 ![](_page_219_Picture_4.jpeg)
-<!-- Page: 221 -->
-
-#### **Pedestrian zone**
-
-Part of the road reserved for pedestrian traffic. The pavement, the walkway and the refuge are considered a pedestrian zone.
-
-![](_page_220_Picture_3.jpeg)
-
-The refuge is a pedestrian zone located on the carriageway that vehicles may not enter.
-
-For example, an area to stop between two pedestrian crossings.
-
-![](_page_220_Picture_6.jpeg)
-
-#### **Built-up area**
-
-Areas where there are buildings. That is, towns and cities.
-
-On the roads entering and leaving built-up areas there are signs with their name written on them.
-<!-- Page: 222 -->
-
-![](_page_221_Picture_1.jpeg)
-
-## **Direction and traffic flow**
-
-**Direction**
-
-Straight or curved line that connects two places.
-
-#### **Traffic flow**
-
-The two possibilities, outward and return, that can be used to go in the same direction.
-
-For example, two cars travelling on the same road, one in an outward lane and the other in the return lane, are going in the same direction, but in a different traffic flow.
-
-There are one-way roads and others where you may travel in both directions, in different lanes.

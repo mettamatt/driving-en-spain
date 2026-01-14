@@ -27,6 +27,12 @@ LOAD_ROW_START_RE = re.compile(r"^vehicles that\b", re.IGNORECASE)
 INCL_LOAD_PREFIX_RE = re.compile(r"^\(?(?:including the load)\)?\s*", re.IGNORECASE)
 GENERAL_INDEX_HEADINGS = {"general index", "índice general", "indice general"}
 
+ARM_SIGNALS_HEADING_RE = re.compile(
+    r"^\s*####\s+\*\*(?:señales\s+con\s+el\s+brazo|arm\s+signals)\*\*\s*$",
+    re.IGNORECASE,
+)
+SERVICE_SIGN_BOLD_RE = re.compile(r"\*\*S-\d{1,3}[A-Za-z]*\*\*")
+
 
 @dataclass(frozen=True)
 class LicenceRow:
@@ -1469,6 +1475,143 @@ TRAILER_TABLE_TITLES_ES_RE = re.compile(
 TRAILER_TABLE_TITLES_EN_RE = re.compile(r"^(light\s+trailer)\s+(heavy\s+trailer)$", re.IGNORECASE)
 
 
+def _strip_wrapping_bold(line: str) -> str:
+    s = line.strip()
+    if s.startswith("**") and s.endswith("**") and s.count("**") == 2:
+        return s[2:-2].strip()
+    return s
+
+
+def _strip_heading_prefix(line: str) -> str:
+    return re.sub(r"^\s*#{1,6}\s+", "", line).strip()
+
+
+def _normalize_title_text(line: str) -> str:
+    s = _strip_heading_prefix(line)
+    s = _strip_wrapping_bold(s)
+    return s.strip()
+
+
+def _maybe_fix_arm_signals_section(lines: list[str], start_index: int) -> tuple[list[str], int] | None:
+    """
+    Marker sometimes extracts the "Arm signals" page as:
+      - an H1 (# ...) inside a subsection
+      - with the trailing qualifier split onto the next line ("en vertical ...")
+      - and with normal paragraphs rendered as blockquotes.
+
+    This is a targeted, low-risk fix that:
+      - demotes the H1 to bold
+      - merges "en vertical"/"vertically" and "y hacia abajo"/"and downwards" into the title
+      - converts those blockquotes back into regular paragraphs
+    """
+    if start_index >= len(lines):
+        return None
+    heading = lines[start_index].rstrip()
+    if not ARM_SIGNALS_HEADING_RE.match(heading):
+        return None
+
+    section: list[str] = [heading]
+    i = start_index + 1
+    while i < len(lines):
+        ln = lines[i].rstrip()
+        if re.match(r"^\s*####\s+", ln) and not ARM_SIGNALS_HEADING_RE.match(ln):
+            break
+        section.append(ln)
+        i += 1
+
+    body = section[1:]
+
+    # Convert extractor blockquotes back into paragraphs (within this section only).
+    for idx, ln in enumerate(body):
+        if ln.lstrip().startswith(">"):
+            body[idx] = re.sub(r"^\s*>\s?", "", ln)
+
+    def next_nonblank_index(from_index: int) -> int | None:
+        j = from_index + 1
+        while j < len(body) and body[j].strip() == "":
+            j += 1
+        return j if j < len(body) else None
+
+    def prev_nonblank_index(from_index: int) -> int | None:
+        j = from_index - 1
+        while j >= 0 and body[j].strip() == "":
+            j -= 1
+        return j if j >= 0 else None
+
+    for idx, ln in enumerate(body):
+        if not MD_IMAGE_RE.match(ln.strip()):
+            continue
+
+        title_idx = prev_nonblank_index(idx)
+        if title_idx is None:
+            continue
+
+        title_text = _normalize_title_text(body[title_idx])
+        if not title_text:
+            continue
+
+        desc_idx = next_nonblank_index(idx)
+        if desc_idx is not None:
+            desc = body[desc_idx].strip()
+            desc_low = desc.lower()
+
+            def move_prefix(prefix: str) -> None:
+                nonlocal title_text
+                # Append the prefix to the title (if it's not already there).
+                if prefix.lower() not in title_text.lower():
+                    title_text = f"{title_text} {prefix}".strip()
+                body[desc_idx] = desc[len(prefix) :].lstrip()
+
+            if desc_low.startswith("en vertical "):
+                move_prefix("en vertical")
+            elif desc_low.startswith("vertically "):
+                move_prefix("vertically")
+            elif desc_low.startswith("y hacia abajo "):
+                move_prefix("y hacia abajo")
+            elif desc_low.startswith("and downwards "):
+                move_prefix("and downwards")
+
+        body[title_idx] = f"**{title_text}**"
+
+    fixed = [section[0], *body]
+    return fixed, i
+
+
+def _maybe_split_service_sign_runon_line(line: str) -> list[str] | None:
+    """
+    Marker sometimes collapses multiple service signs into a single line like:
+      **S-114** ... **S-115** ... **S-116** ...
+
+    Split into separate lines (with blank lines between) so it can be read, diffed,
+    and post-processed more reliably.
+    """
+    if TABLE_LINE_RE.match(line):
+        return None
+    matches = list(SERVICE_SIGN_BOLD_RE.finditer(line))
+    # Avoid splitting short ranges like "**S-820** y **S-821**" or "**S-850** a **S-853**".
+    if len(matches) < 3:
+        return None
+
+    chunks: list[str] = []
+    for idx, m in enumerate(matches):
+        start = m.start()
+        end = matches[idx + 1].start() if idx + 1 < len(matches) else len(line)
+        chunk = line[start:end].strip()
+        if chunk:
+            chunks.append(chunk)
+
+    if len(chunks) < 2:
+        return None
+
+    out: list[str] = []
+    for c in chunks:
+        out.append(c)
+        out.append("")
+    while out and out[-1] == "":
+        out.pop()
+    return out
+
+
 def _split_two_trailer_descriptions(text: str) -> tuple[str, str] | None:
     """
     Split a combined line like:
@@ -1601,11 +1744,26 @@ def convert_known_tables(markdown: str) -> str:
 
         after_page_marker = False
 
+        fixed_arm_signals = _maybe_fix_arm_signals_section(lines, i)
+        if fixed_arm_signals:
+            out.extend(fixed_arm_signals[0])
+            i = fixed_arm_signals[1]
+            continue
+
         trailer_table = _maybe_convert_light_heavy_trailer_heading(line)
         if trailer_table:
             if out and out[-1] != "":
                 out.append("")
             out.extend(trailer_table)
+            out.append("")
+            i += 1
+            continue
+
+        sign_lines = _maybe_split_service_sign_runon_line(line)
+        if sign_lines:
+            if out and out[-1] != "":
+                out.append("")
+            out.extend(sign_lines)
             out.append("")
             i += 1
             continue

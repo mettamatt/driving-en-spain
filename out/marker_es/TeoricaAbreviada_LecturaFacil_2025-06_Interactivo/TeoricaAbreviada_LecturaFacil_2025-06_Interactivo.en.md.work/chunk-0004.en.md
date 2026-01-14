@@ -13,7 +13,7 @@
 - **■** Road with heavy traffic.
 - **■** The road surface is in poor condition.
 - **■** You do not know the road.
-- **■** Weather difficulties: rain, fog, snow, or too much heat.
+- **■** Difficult weather: rain, fog, snow, or too much heat.
 
 ### **The condition of the vehicle:**
 
@@ -30,7 +30,7 @@
 
 - **■** You drive for many hours without resting or you take very short breaks.
 - **■** You drive fast for a long time.
-- **■** You drive when sleepy, after drinking alcohol, or you are in poor health.
+- **■** You drive sleepy, after drinking alcohol, or you are in poor health.
 - **■** You do long journeys and at night when you are not used to doing them.
 - **■** You have had your driving licence for a short time.
 - **■** You drive with your body in a bad posture.
@@ -46,7 +46,7 @@ There are some signs that warn you that you are suffering from fatigue and you m
 - **■** Difficulty concentrating on the road.
 - **■** Your eyes feel heavy and you start to see badly.
 - **■** You hear badly.
-- **■** Feeling that your arms have gone numb.
+- **■** Feeling that your arms are numb.
 - **■** Feeling of pressure in your head.
 - **■** You move a lot in the seat and change posture.
 <!-- Page: 48 -->
@@ -60,7 +60,7 @@ There are some signs that warn you that you are suffering from fatigue and you m
 
 ## **Being sleepy (drowsiness)**
 
-Many traffic accidents are related to driving when sleepy.
+Many road traffic accidents are related to driving while sleepy.
 
 It is not necessary to fall completely asleep to have an accident for this reason. The symptoms of drowsiness appear before falling fully asleep.
 
@@ -79,7 +79,7 @@ A state in which you feel tired, heavy in the body, and sleepy.
 - **■** Driving on roads with little traffic.
 - **■** Drinking alcohol or taking medicines before driving.
 - **■** Having illnesses related to sleep.
-- **■** Driving in the early hours of the morning or at midday, after eating.
+- **■** Driving at dawn or at midday, after eating.
 
 ![](_page_48_Picture_9.jpeg)
 
@@ -127,40 +127,40 @@ There are some signs that warn you that you are suffering from drowsiness and yo
 
 It is very dangerous to drink alcohol when you are going to drive, even if you drink a small amount.
 
-Alcohol spreads throughout your body through the blood and affects, above all, the brain and eyesight.
+Alcohol spreads through your whole body through the blood and affects, above all, the brain and eyesight.
 
-Alcohol is the cause of many traffic accidents.
+Alcohol is the cause of many road traffic accidents.
 
 ![](_page_51_Picture_5.jpeg)
 
 #### **Blood alcohol level**
 
-Blood alcohol level is the total amount of alcohol in the blood after drinking.
+Blood alcohol is the total amount of alcohol in the blood after drinking.
 
-The blood alcohol limit is the amount of alcohol in each litre of blood.
+The blood alcohol level is the amount of alcohol in each litre of blood.
 
 It can be calculated in two ways:
 
 - **■** Grams of alcohol in each litre of blood.
-- **■** Milligrams of alcohol in each litre of air that we breathe out from the lungs when breathing.
+- **■** Milligrams of alcohol in each litre of air that we breathe out from the lungs when we breathe.
 
 ![](_page_51_Picture_12.jpeg)
 <!-- Page: 53 -->
 
-The permitted blood alcohol limit depends on the type of vehicle and the driving licence.
+The permitted blood alcohol level depends on the type of vehicle and the driving licence.
 
-- 1. For people who have obtained their driving licence less than two years ago. And for vehicles that carry:
+- 1. For people who got their driving licence less than two years ago. And for vehicles that carry:
   - **■** Goods with a weight greater than 3,500 kilos.
   - **■** More than nine people.
   - **■** Minors.
   - **■** People in emergency services.
   - **■** Dangerous loads.
 
-The permitted blood alcohol limit is:
+The permitted alcohol level is:
 
 - **■** 0.15 milligrams of alcohol per litre of air.
 - **■** 0.3 grams of alcohol per litre of blood.
-- 2. For any other vehicle and driver, the permitted blood alcohol limit is:
+- 2. For any other vehicle and driver, the permitted alcohol level is:
   - **■** 0.25 milligrams of alcohol per litre of air.
   - **■** 0.5 grams of alcohol per litre of blood.
 
@@ -184,8 +184,8 @@ The factors that influence the blood alcohol level are:
 
 - **■** The time that passes since you drink alcohol. The time when the blood alcohol level is highest is one hour after drinking alcohol. After that, the effects of alcohol go down very slowly.
 - **■** The type of drink and the way of drinking it. Alcohol reaches the blood faster after drinking some drinks such as gin or whisky than after drinking other drinks such as wine or beer. Also, alcohol reaches the blood faster when it is mixed with tonic or some soft drinks.
-- **■** Sleeping after drinking. Alcohol is eliminated more slowly when we sleep. For this reason, it is not safe to drive after drinking a lot of alcohol and sleeping a few hours.
-- **■** The speed at which you drink. The body eliminates alcohol better when you drink slowly than when you drink quickly.
+- **■** Sleeping after drinking. Alcohol is removed more slowly when we sleep. For this reason, it is not safe to drive after drinking a lot of alcohol and sleeping a few hours.
+- **■** The speed at which you drink. The body removes alcohol better when you drink slowly than when you drink fast.
 - **■** Drinking alcohol without eating. Food helps alcohol reach the blood more slowly.
 - **■** Age. Alcohol usually affects people under 18 and people over 65 more.
 <!-- Page: 56 -->
@@ -201,13 +201,13 @@ The factors that influence the blood alcohol level are:
 - **■** False confidence in yourself.
 - **■** You take more risks.
 - **■** You commit more offences that cause accidents.
-- **■** You may treat other drivers more aggressively or impulsively.
+- **■** You may treat other drivers in a more aggressive or impulsive way.
 <!-- Page: 57 -->
 
-| In the way<br>you see the surroundings | ■<br>You see traffic signs<br>and traffic lights worse.<br>■<br>You judge the distance<br>to other vehicles worse.<br>■<br>Less ability<br>to see what happens to one side<br>and the other.<br>■<br>You are dazzled more<br>by vehicle lights.<br>■<br>Possibility of being distracted<br>by elements in the surroundings. |  |
-|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| In<br>movements            | ■<br>Difficulty coordinating<br>your body movements.                                                                                                                                                                                                                                                                            |  |
-| In decision<br>making      | ■<br>You need more time<br>to react.<br>■<br>Greater likelihood<br>of making bad decisions<br>or not knowing<br>how to carry them out.                                                                                                                                                                                             |  |
+| In the way<br>you see the surroundings | ■<br>You see traffic signs<br>and traffic lights worse.<br>■<br>You judge the distance<br>to other vehicles worse.<br>■<br>Less ability<br>to see what happens to one side<br>and the other.<br>■<br>You are more dazzled<br>by vehicle lights.<br>■<br>Possibility of being distracted<br>by elements in the surroundings. |  |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| In<br>movements                        | ■<br>Difficulty coordinating<br>your body movements.                                                                                                                                                                                                                                                                            |  |
+| In decision-<br>making                 | ■<br>You need more time<br>to react.<br>■<br>Greater probability<br>of making bad decisions<br>or not knowing<br>how to carry them out.                                                                                                                                                                                             |  |
 
 ![](_page_56_Picture_2.jpeg)
 
@@ -218,7 +218,7 @@ The factors that influence the blood alcohol level are:
 
 #### **Other drugs**
 
-Taking drugs before driving is very dangerous. One in 10 people who die in a traffic accident had taken drugs before driving.
+Taking drugs before driving is very dangerous. One in 10 people who die in a road traffic accident had taken drugs before driving.
 
 It is forbidden to drive any type of vehicle when a person has taken drugs and they are still in their body.
 
@@ -229,7 +229,7 @@ You may only drive after taking substances prescribed by the doctor and that do 
 All drugs are dangerous and it is forbidden to drive when they have been taken. But each one produces different effects, which are the cause of the danger.
 
 | Type of drug | Possible dangers<br>while the person is driving                                                                                                                                                            |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cannabis      | ■<br>Seeing the surroundings in a different way.<br>For example, colours look<br>different.<br>■<br>Judging distances worse<br>■<br>Losing concentration.<br>■<br>Needing more time to<br>react. |
-|               | ■<br>Falling asleep while driving.                                                                                                                                                                                  |
-|               | Watch video                                                                                                                                                                                                   |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cannabis     | ■<br>Seeing the surroundings in a different way.<br>For example, colours look<br>different.<br>■<br>Judging distances worse<br>■<br>Losing concentration.<br>■<br>Needing more time to<br>react. |
+|              | ■<br>Falling asleep while driving.                                                                                                                                                                          |
+|              | Watch video                                                                                                                                                                                                  |
