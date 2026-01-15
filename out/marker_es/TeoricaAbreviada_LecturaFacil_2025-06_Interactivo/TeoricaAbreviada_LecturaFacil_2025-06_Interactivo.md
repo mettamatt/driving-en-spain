@@ -5222,7 +5222,7 @@ Si no existe vía o parte de ella que les esté destinada para circular, deben c
 - **■** Vehículos especiales que cargados no pesen más de 3.500 kilos.
 - **■** Vehículos para personas con dificultad para moverse.
 
-Cuando la carretera no tenga arcén o no se pueda circular por él, estos vehículos podrán usar solo la parte imprescindible del carril. 
+Cuando la carretera no tenga arcén o no se pueda circular por él, estos vehículos podrán usar solo la parte imprescindible del carril.
 
 <!-- Page: 239 -->
 
@@ -5470,10 +5470,12 @@ Hay velocidades genéricas máximas y mínimas.
 
 <!-- Page: 252 -->
 
-| Autopista<br>y autovía                     |                                                                              | Carreteras<br>120<br>100<br>120<br>90<br>100                                                                                                      |                                                                                              | Caminos<br>90<br>80<br>70<br>80<br>70<br>50             |                                             |
-|--------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------|
-| Velocidad<br>80<br>70<br>máxima            | Velocidad<br>50<br>mínima                                                    | Velocidad<br>45<br>40<br>máxima                                                                                                                   | Velocidad<br>45<br>30<br>120<br>100<br>mínima                                                | Velocidad<br>40<br>30<br>25<br>20<br>90<br>80<br>máxima | Velocidad<br>25<br>20<br>70<br>60<br>mínima |
-| 25<br>20120<br>120<br>30<br>25<br>45<br>45 | 100<br>60<br>90<br>100<br>15<br>40<br>45<br>30<br>40<br>35<br>45<br>40<br>40 | 80<br>90<br>70<br>80<br>45<br>40<br>En algunas<br>25<br>30<br>20<br>25<br>carreteras<br>el límite<br>30<br>35<br>25<br>30<br>puede ser<br>de 100. | 45<br>35<br>40<br>50<br>70<br>45<br>50<br>40<br>20<br>45<br>60<br>40<br>60<br>15<br>25<br>15 | 35<br>30<br>30<br>25<br>35<br>30                        | 30<br>25<br>25<br>15<br>20<br>25            |
+| Vía | Velocidad máxima (km/h) | Velocidad mínima (km/h) |
+| --- | --- | --- |
+| Autopista y autovía | 120 | 60 |
+| Carreteras | 90 (En algunas carreteras el límite puede ser de 100.) | 45 |
+| Caminos | 30 | 15 |
+
 
 #### **Tipo de vehículo**
 
@@ -5481,10 +5483,12 @@ Hay velocidades genéricas máximas y mínimas.
 - **■** Vehículos derivados de turismos.
 - **■** Vehículos mixtos adaptables.
 
-| Autopista<br>y autovía          |                           | Carreteras<br>120<br>100<br>120<br>100<br>90 |                                               | Caminos<br>90<br>80<br>70<br>80<br>70<br>50             |                                             |
-|---------------------------------|---------------------------|----------------------------------------------|-----------------------------------------------|---------------------------------------------------------|---------------------------------------------|
-| Velocidad<br>80<br>70<br>máxima | Velocidad<br>50<br>mínima | Velocidad<br>45<br>40<br>máxima              | Velocidad<br>45<br>120<br>30<br>100<br>mínima | Velocidad<br>40<br>30<br>25<br>90<br>20<br>80<br>máxima | Velocidad<br>25<br>20<br>70<br>60<br>mínima |
-| 25<br>20120<br>100              | 90<br>60<br>80<br>100     | 70<br>90<br>50<br>80<br>45<br>40             | 45<br>35<br>40<br>70<br>45<br>50<br>40        | 35<br>30<br>30<br>25                                    | 30<br>25<br>25<br>15<br>20                  |
+| Vía | Velocidad máxima (km/h) | Velocidad mínima (km/h) |
+| --- | --- | --- |
+| Autopista y autovía | 100 | 60 |
+| Carreteras | 90 | 45 |
+| Caminos | 30 | 15 |
+
 
 <!-- Page: 253 -->
 
@@ -5497,21 +5501,25 @@ Hay velocidades genéricas máximas y mínimas.
 - **■** Vehículos articulados.
 - **■** Vehículos con remolque.
 
-| Autopista<br>y autovía          |                           | Carreteras<br>120<br>100<br>120<br>100<br>90 |                                               | Caminos<br>90<br>80<br>70<br>50<br>80<br>70<br>50       |                                             |
-|---------------------------------|---------------------------|----------------------------------------------|-----------------------------------------------|---------------------------------------------------------|---------------------------------------------|
-| Velocidad<br>80<br>70<br>máxima | Velocidad<br>50<br>mínima | Velocidad<br>45<br>45<br>40<br>máxima        | Velocidad<br>40<br>120<br>30<br>100<br>mínima | Velocidad<br>30<br>25<br>25<br>90<br>20<br>80<br>máxima | Velocidad<br>20<br>70<br>60<br>60<br>mínima |
-| 25<br>12020<br>90<br>80         | 100<br>60<br>70<br>90     | 50<br>80<br>70<br>45<br>45<br>40             | 45<br>35<br>40<br>50<br>40                    | 35<br>30<br>30<br>30<br>25                              | 25<br>15<br>25<br>15<br>20                  |
+| Vía | Velocidad máxima (km/h) | Velocidad mínima (km/h) |
+| --- | --- | --- |
+| Autopista y autovía | 90 | 60 |
+| Carreteras | 80 | 40 |
+| Caminos | 30 | 15 |
+
 
 #### **Tipo de vehículo**
 
-- 40 15 40 15 **■** Vehículos de tres ruedas que no son motocicletas.
+- **■** Vehículos de tres ruedas que no son motocicletas.
   - **■** Cuadriciclos pesados.
   - **■** Vehículos especiales que pueden alcanzar 60 kilómetros por hora en una zona llana.
 
-| Autopista<br>y autovía             |                           | Carreteras<br>120<br>100<br>120<br>100      | 90<br>90<br>80                                | Caminos<br>80<br>70<br>70                               | 50<br>50                              |
-|------------------------------------|---------------------------|---------------------------------------------|-----------------------------------------------|---------------------------------------------------------|---------------------------------------|
-| Velocidad<br>80<br>70<br>máxima    | Velocidad<br>50<br>mínima | Velocidad<br>45<br>40<br>45<br>40<br>máxima | Velocidad<br>120<br>30<br>100<br>30<br>mínima | Velocidad<br>25<br>90<br>20<br>80<br>25<br>20<br>máxima | Velocidad<br>70<br>60<br>60<br>mínima |
-| 25<br>20<br>120<br>70<br>100<br>50 | 90<br>60<br>80            | 70<br>50<br>45<br>40<br>45<br>40            | 45<br>35<br>40<br>35<br>30                    | 30<br>30<br>25<br>25                                    | 25<br>15<br>15<br>20                  |
+| Vía | Velocidad máxima (km/h) | Velocidad mínima (km/h) |
+| --- | --- | --- |
+| Autopista y autovía | 70 | 60 |
+| Carreteras | 70 | 35 |
+| Caminos | 30 | 15 |
+
 
 <!-- Page: 254 -->
 
@@ -5521,28 +5529,34 @@ Hay velocidades genéricas máximas y mínimas.
 - **■** Vehículos especiales que llevan remolque.
 - **■** Motocultores.
 
-| Autopista<br>y autovía                  | Carreteras                                                         | Caminos                                        |
-|-----------------------------------------|--------------------------------------------------------------------|------------------------------------------------|
-| 120<br>100<br>90                        | Velocidad máxima<br>80<br>120<br>70<br>100<br>50<br>90<br>y mínima | Velocidad máxima<br>80<br>70<br>50<br>y mínima |
-| No pueden<br>45<br>40<br>30<br>circular | 25<br>45<br>20<br>40<br>30<br>60                                   | 25<br>20<br>60                                 |
+| Vía | Velocidad máxima y mínima (km/h) |
+| --- | --- |
+| Autopista y autovía | No pueden circular |
+| Carreteras | 25 |
+| Caminos | 25 |
 
-#### 45 40 15 35 **Tipos de vehículo**
+
+#### **Tipos de vehículo**
 
 **■** Resto de vehículos especiales
 
-| Autopista<br>y autovía      | Carreteras                                                    | Caminos                                                    |
-|-----------------------------|---------------------------------------------------------------|------------------------------------------------------------|
-| 120                         | Velocidad máxima<br>120<br>100<br>100<br>90<br>80<br>y mínima | Velocidad máxima<br>90<br>80<br>70<br>70<br>50<br>y mínima |
-| No pueden<br>45<br>circular | 45<br>40<br>40<br>30<br>25                                    | 30<br>25<br>20<br>20<br>60                                 |
+| Vía | Velocidad máxima y mínima (km/h) |
+| --- | --- |
+| Autopista y autovía | No pueden circular |
+| Carreteras | 40 |
+| Caminos | 30 |
 
-#### 45 40 15 **Tipos de vehículo**
+
+#### **Tipos de vehículo**
 
 **■** Ciclos
 
-| Autopista<br>y autovía                                                                  | Carreteras                                                                                   | Caminos                                                              |
-|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Velocidad máxima<br>90<br>120<br>100                                                    | 120<br>100<br>Velocidad máxima<br>80<br>70<br>50<br>90<br>120<br>100                         | 90<br>80<br>70<br>Velocidad máxima<br>80<br>70<br>50                 |
-| 45<br>40<br>30<br>en autovía.<br>Por autopista no<br>35<br>45<br>40<br>pueden circular. | 45<br>40<br>25<br>45<br>20<br>40<br>30<br>60<br>30<br>25<br>15<br>35<br>45<br>40<br>45<br>40 | 30<br>25<br>20<br>25<br>20<br>60<br>35<br>30<br>25<br>30<br>25<br>15 |
+| Vía | Velocidad máxima (km/h) |
+| --- | --- |
+| Autopista y autovía | 45 (en autovía). Por autopista no pueden circular. |
+| Carreteras | 45 |
+| Caminos | 30 |
+
 
 <!-- Page: 255 -->
 
@@ -5554,10 +5568,12 @@ Las bicicletas pueden superar estas velocidades si las circunstancias lo permite
 - **■** Cuadriciclos ligeros.
 - **■** Vehículos para personas con poca movilidad.
 
-| Autopista<br>y autovía | Carreteras                                         | Caminos                                              |
-|------------------------|----------------------------------------------------|------------------------------------------------------|
-|                        | 120<br>100<br>Velocidad máxima<br>120<br>100<br>90 | 90<br>80<br>70<br>Velocidad máxima<br>80<br>70<br>50 |
-| No pueden<br>circular  | 45<br>40<br>45<br>40<br>30                         | 30<br>25<br>20<br>25<br>20<br>60                     |
+| Vía | Velocidad máxima (km/h) |
+| --- | --- |
+| Autopista y autovía | No pueden circular |
+| Carreteras | 45 |
+| Caminos | 30 |
+
 
 Para los vehículos que hacen transporte escolar con niños o que llevan mercancías peligrosas el límite de velocidad máxima es de 10 kilómetros menos que para el resto de vehículos.
 
@@ -5571,18 +5587,24 @@ Por ejemplo, el límite de velocidad en carretera para un autobús es de 90 kil�
 
 **■** Todos los vehículos en general
 
-| 100<br>90<br>80 | Calles<br>sin bordillos,<br>donde la calzada<br>y la acera están<br>70<br>50<br>120<br>100<br>a la misma altura | Calles<br>con un solo carril<br>para cada sentido<br>90<br>80<br>70 | Calles<br>con varios carriles<br>en cada sentido<br>50 |
-|-----------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------|
-| 40<br>30<br>25  | 20<br>45<br>120<br>40<br>100<br>60                                                                              | 30<br>90<br>25<br>80<br>20<br>70                                    | 50<br>60                                               |
+| Tipo de calle | Velocidad máxima (km/h) |
+| --- | --- |
+| Calles sin bordillos, donde la calzada y la acera están a la misma altura | 20 |
+| Calles con un solo carril para cada sentido | 30 |
+| Calles con varios carriles en cada sentido | 50 |
 
-#### 45 40 15 45 40 15 45 **Tipo de vehículo**
 
-- 45 40 15 35 30 25 **■** Vehículos que transportan mercancías peligrosas.
+#### **Tipo de vehículo**
+
+- **■** Vehículos que transportan mercancías peligrosas.
 - **■** Vehículos especiales que no pueden alcanzar una velocidad de más de 60 kilómetros por hora.
 
-| 100<br>90<br>80 | Calles<br>sin bordillos,<br>donde la calzada<br>y la acera están<br>70<br>50<br>120<br>100<br>a la misma altura | Calles<br>con un solo carril<br>para cada sentido<br>90<br>80<br>70<br>120 | Calles<br>con varios carriles<br>en cada sentido<br>50<br>100<br>90<br>80 |
-|-----------------|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 40<br>30<br>25  | 20<br>45<br>40<br>60                                                                                            | 30<br>25<br>20<br>45                                                       | 40<br>30<br>25<br>60                                                      |
+| Tipo de calle | Velocidad máxima (km/h) |
+| --- | --- |
+| Calles sin bordillos, donde la calzada y la acera están a la misma altura | 20 |
+| Calles con un solo carril para cada sentido | 30 |
+| Calles con varios carriles en cada sentido | 40 |
+
 
 <!-- Page: 257 -->
 
@@ -5593,19 +5615,25 @@ Por ejemplo, el límite de velocidad en carretera para un autobús es de 90 kil�
 - **■** Vehículos para personas con poca movilidad.
 - **■** Ciclos.
 
-| 100<br>90<br>80 | Calles<br>sin bordillos,<br>donde la calzada<br>y la acera están<br>70<br>50<br>120<br>100<br>a la misma altura | Calles<br>con un solo carril<br>para cada sentido<br>90<br>80<br>70 | Calles<br>con varios carriles<br>en cada sentido<br>50<br>120<br>90 |
-|-----------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| 40<br>30<br>25  | 20<br>45<br>40<br>60                                                                                            | 30<br>25<br>20                                                      | 45<br>40<br>60                                                      |
+| Tipo de calle | Velocidad máxima (km/h) |
+| --- | --- |
+| Calles sin bordillos, donde la calzada y la acera están a la misma altura | 20 |
+| Calles con un solo carril para cada sentido | 30 |
+| Calles con varios carriles en cada sentido | 45 |
 
-#### 45 40 15 45 40 15 **Tipo de vehículo**
+
+#### **Tipo de vehículo**
 
 - **■** Vehículos de movilidad personal.
 - **■** Vehículos especiales con remolque o semirremolque.
 - **■** Vehículos sin luces de freno.
 
-| 100<br>90<br>80 | Calles<br>sin bordillos,<br>donde la calzada<br>y la acera están<br>70<br>120<br>50<br>100<br>90<br>a la misma altura | Calles<br>con un solo carril<br>para cada sentido<br>80<br>120<br>70<br>100<br>50<br>90 | Calles<br>con varios carriles<br>en cada sentido<br>80<br>70<br>50 |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| 40<br>30<br>25  | 20<br>45<br>40<br>30<br>60                                                                                            | 25<br>45<br>20<br>40<br>30<br>60                                                        | 25<br>20<br>60                                                     |
+| Tipo de calle | Velocidad máxima (km/h) |
+| --- | --- |
+| Calles sin bordillos, donde la calzada y la acera están a la misma altura | 20 |
+| Calles con un solo carril para cada sentido | 25 |
+| Calles con varios carriles en cada sentido | 25 |
+
 
 La velocidad máxima para todos los vehículos en autopistas y autovías que están dentro de un pueblo o ciudad es de 80 kilómetros por hora, si no está señalizada de otra manera.
 

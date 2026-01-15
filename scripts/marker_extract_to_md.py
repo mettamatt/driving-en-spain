@@ -596,6 +596,18 @@ def main(argv: list[str]) -> int:
             except Exception as exc:  # pragma: no cover
                 print(f"[warn] sign icon backfill failed: {exc}", file=sys.stderr)
 
+        # Targeted cleanup for marker's broken speed-limit tables (pages 252-257).
+        try:
+            from markdown_postprocess import fix_marker_speed_tables_252_257
+
+            md_current = md_path.read_text(encoding="utf-8")
+            md_fixed, tables_rewritten = fix_marker_speed_tables_252_257(md_current)
+            if tables_rewritten:
+                md_path.write_text(md_fixed, encoding="utf-8")
+                print(f"[fixup] rewrote {tables_rewritten} speed tables (pages 252-257)")
+        except Exception as exc:  # pragma: no cover
+            print(f"[warn] speed table fixup failed: {exc}", file=sys.stderr)
+
         print(f"[ok] markdown {md_path}")
         print(f"[ok] images live alongside markdown in {out_folder}")
         return 0
@@ -729,6 +741,18 @@ def main(argv: list[str]) -> int:
                     print(f"[fixup] backfilled {images_written} service sign icons from PDF")
             except Exception as exc:  # pragma: no cover
                 print(f"[warn] sign icon backfill failed: {exc}", file=sys.stderr)
+
+        # Targeted cleanup for marker's broken speed-limit tables (pages 252-257).
+        try:
+            from markdown_postprocess import fix_marker_speed_tables_252_257
+
+            md_current = md_path.read_text(encoding="utf-8")
+            md_fixed, tables_rewritten = fix_marker_speed_tables_252_257(md_current)
+            if tables_rewritten:
+                md_path.write_text(md_fixed, encoding="utf-8")
+                print(f"[fixup] rewrote {tables_rewritten} speed tables (pages 252-257)")
+        except Exception as exc:  # pragma: no cover
+            print(f"[warn] speed table fixup failed: {exc}", file=sys.stderr)
 
     print(f"[ok] markdown {md_path}")
     print(f"[ok] images live alongside markdown in {out_folder}")

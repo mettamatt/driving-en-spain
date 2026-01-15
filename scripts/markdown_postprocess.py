@@ -2053,6 +2053,404 @@ def _fix_kmh_diagram_numbers(markdown: str) -> str:
     return "\n".join(out).rstrip() + "\n"
 
 
+_SPEED_TABLE_PAGES_252_257 = set(range(252, 258))
+_HEADING_VEHICLE_TYPE_NOISE_RE = re.compile(
+    r"^(\s*#{1,6}\s+)(?:\d+\s+){2,}(\*\*(?:tipos?|types?)\s+(?:de\s+|of\s+)?veh[ií]culo\*\*.*)$",
+    re.IGNORECASE,
+)
+_LIST_VEHICLE_TYPE_NOISE_RE = re.compile(
+    r"^(\s*[-*+]\s+)(?:\d+\s+){2,}(\*\*■\*\*.*)$"
+)
+
+
+def _strip_speed_section_noise(line: str) -> str:
+    """
+    Some marker table extractions leak speed numbers into nearby headings/lists, e.g.:
+      - "#### 45 40 15 35 **Tipos de vehículo**"
+      - "- 40 15 40 15 **■** Vehículos ..."
+
+    Strip the numeric prefix while keeping the original text.
+    """
+    m = _HEADING_VEHICLE_TYPE_NOISE_RE.match(line)
+    if m:
+        return f"{m.group(1)}{m.group(2)}"
+    m = _LIST_VEHICLE_TYPE_NOISE_RE.match(line)
+    if m:
+        return f"{m.group(1)}{m.group(2)}"
+    return line
+
+
+def _clean_table_label(cell: str) -> str:
+    """
+    Turn a marker cell like "Carreteras<br>120<br>100" into "Carreteras".
+    Removes pure numeric tokens and normalizes whitespace.
+    """
+    text = re.sub(r"<br\s*/?>", " ", cell, flags=re.IGNORECASE)
+    tokens = [t for t in text.split() if not t.isdigit()]
+    return re.sub(r"\s+", " ", " ".join(tokens)).strip()
+
+
+def _extract_note_limit_100(table_lines: list[str]) -> str | None:
+    """
+    Extract the "limit may be 100" note from a broken speed table block, if present.
+    """
+    raw = " ".join(table_lines)
+    raw = re.sub(r"<br\s*/?>", " ", raw, flags=re.IGNORECASE)
+    raw = re.sub(r"\s+", " ", raw).strip()
+
+    # Marker sometimes injects unrelated speed numbers between words; allow optional numeric tokens.
+    m_es = re.search(
+        r"En\s+algunas(?:\s+\d+)*\s+carreteras(?:\s+\d+)*\s+el\s+límite(?:\s+\d+)*\s+puede(?:\s+\d+)*\s+ser(?:\s+\d+)*\s+de\s+100\.",
+        raw,
+        re.IGNORECASE,
+    )
+    if m_es:
+        return "En algunas carreteras el límite puede ser de 100."
+    m_en = re.search(
+        r"On\s+some(?:\s+\d+)*\s+roads(?:\s+\d+)*\s+the\s+limit(?:\s+\d+)*\s+may(?:\s+\d+)*\s+be(?:\s+\d+)*\s+100\.",
+        raw,
+        re.IGNORECASE,
+    )
+    if m_en:
+        return "On some roads the limit may be 100."
+    # Fallback: looser match (keeps wording from the input file).
+    m_loose = re.search(r"([A-Za-zÁÉÍÓÚÜÑáéíóúüñ\s]+limit[\w\s]*100\.)", raw, re.IGNORECASE)
+    if m_loose:
+        return m_loose.group(1).strip()
+    return None
+
+
+def _render_outside_speed_table(
+    *,
+    rows: list[tuple[str, str, str]],
+    is_spanish: bool,
+) -> list[str]:
+    h1 = "Vía" if is_spanish else "Road type"
+    h2 = "Velocidad máxima (km/h)" if is_spanish else "Max speed (km/h)"
+    h3 = "Velocidad mínima (km/h)" if is_spanish else "Min speed (km/h)"
+
+    out = [
+        f"| {h1} | {h2} | {h3} |",
+        "| --- | --- | --- |",
+    ]
+    for road, v_max, v_min in rows:
+        out.append(
+            f"| {_escape_md_table_cell(road)} | {_escape_md_table_cell(v_max)} | {_escape_md_table_cell(v_min)} |"
+        )
+    return out
+
+
+def _render_single_limit_table(
+    *,
+    rows: list[tuple[str, str]],
+    is_spanish: bool,
+    is_max_min_same: bool,
+) -> list[str]:
+    h1 = "Vía" if is_spanish else "Road type"
+    if is_max_min_same:
+        h2 = "Velocidad máxima y mínima (km/h)" if is_spanish else "Max and min speed (km/h)"
+    else:
+        h2 = "Velocidad máxima (km/h)" if is_spanish else "Max speed (km/h)"
+
+    out = [
+        f"| {h1} | {h2} |",
+        "| --- | --- |",
+    ]
+    for road, val in rows:
+        out.append(f"| {_escape_md_table_cell(road)} | {_escape_md_table_cell(val)} |")
+    return out
+
+
+def _render_in_town_table(
+    *,
+    street_labels: tuple[str, str, str],
+    values: tuple[str, str, str],
+    is_spanish: bool,
+) -> list[str]:
+    h1 = "Tipo de calle" if is_spanish else "Street type"
+    h2 = "Velocidad máxima (km/h)" if is_spanish else "Max speed (km/h)"
+
+    s1, s2, s3 = (_escape_md_table_cell(s) for s in street_labels)
+    v1, v2, v3 = (_escape_md_table_cell(v) for v in values)
+
+    return [
+        f"| {h1} | {h2} |",
+        "| --- | --- |",
+        f"| {s1} | {v1} |",
+        f"| {s2} | {v2} |",
+        f"| {s3} | {v3} |",
+    ]
+
+
+def fix_marker_speed_tables_252_257(markdown: str) -> tuple[str, int]:
+    """
+    Marker occasionally produces severely corrupted tables for the speed-limit section
+    (pages 252–257 in this PDF), mixing unrelated speed numbers into table cells and
+    leaking those numbers into nearby headings/lists.
+
+    This fix:
+    - Rewrites the known broken tables on pages 252–257 into small, readable Markdown tables.
+    - Strips numeric junk prefixes from affected headings/list items on those pages.
+    Returns (fixed_markdown, tables_rewritten).
+    """
+    lines = markdown.splitlines()
+    out: list[str] = []
+
+    in_code_fence = False
+    current_page: int | None = None
+    tables_rewritten = 0
+    table_index_by_page: dict[int, int] = {}
+
+    def is_spanish_context(sample: str) -> bool:
+        return any(w in sample for w in ("Autopista", "Carreteras", "Caminos", "Calles", "vehículo"))
+
+    i = 0
+    while i < len(lines):
+        raw = lines[i].rstrip("\n")
+        line = raw.rstrip()
+
+        if FENCE_RE.match(line):
+            in_code_fence = not in_code_fence
+            out.append(line)
+            i += 1
+            continue
+
+        if in_code_fence:
+            out.append(line)
+            i += 1
+            continue
+
+        m_page = PAGE_MARKER_RE.match(line.strip())
+        if m_page:
+            current_page = int(m_page.group(1))
+            out.append(line.strip())
+            i += 1
+            continue
+
+        if current_page is not None and current_page in _SPEED_TABLE_PAGES_252_257:
+            line = _strip_speed_section_noise(line)
+
+            # Rewrite the known broken tables on these pages.
+            if _is_markdown_table_start(lines, i):
+                # Capture table block.
+                table_lines: list[str] = []
+                j = i
+                while j < len(lines):
+                    row = lines[j].rstrip()
+                    if row.strip() == "":
+                        break
+                    if not TABLE_LINE_RE.match(row):
+                        break
+                    table_lines.append(row)
+                    j += 1
+
+                # Skip already-cleaned versions (idempotency).
+                if table_lines and (
+                    table_lines[0].lstrip().startswith("| Vía |")
+                    or table_lines[0].lstrip().startswith("| Road type |")
+                    or table_lines[0].lstrip().startswith("| Tipo de calle |")
+                    or table_lines[0].lstrip().startswith("| Street type |")
+                ):
+                    out.extend([ln.rstrip() for ln in table_lines])
+                    i = j
+                    continue
+
+                header_cells = _split_md_table_row(table_lines[0]) if table_lines else []
+                header_joined = " ".join(header_cells)
+
+                # Only target the speed-limit tables: motorway/roads/tracks or street-type tables.
+                looks_outside = any(
+                    k in header_joined
+                    for k in (
+                        "Autopista",
+                        "Motorway",
+                        "dual carriageway",
+                        "autovía",
+                    )
+                )
+                looks_town = any(k in header_joined for k in ("Calles", "Streets"))
+
+                page_table_index = table_index_by_page.get(current_page, 0)
+                replacement: list[str] | None = None
+
+                # Specs: per page, per table index (in reading order).
+                # Values are (motorway/autovía, roads, tracks) or (street1, street2, street3).
+                if looks_outside:
+                    # Derive road labels from the header row (strip leaked numbers).
+                    road_labels: tuple[str, str, str] | None = None
+                    if len(header_cells) >= 6:
+                        road_labels = (
+                            _clean_table_label(header_cells[0]),
+                            _clean_table_label(header_cells[2]),
+                            _clean_table_label(header_cells[4]),
+                        )
+                    elif len(header_cells) == 3:
+                        road_labels = (
+                            _clean_table_label(header_cells[0]),
+                            _clean_table_label(header_cells[1]),
+                            _clean_table_label(header_cells[2]),
+                        )
+
+                    if road_labels and all(road_labels):
+                        is_spanish = is_spanish_context(header_joined)
+
+                        if current_page == 252 and page_table_index == 0:
+                            note = _extract_note_limit_100(table_lines)
+                            roads_max = "90"
+                            if note:
+                                roads_max = f"90 ({note})"
+                            replacement = _render_outside_speed_table(
+                                rows=[
+                                    (road_labels[0], "120", "60"),
+                                    (road_labels[1], roads_max, "45"),
+                                    (road_labels[2], "30", "15"),
+                                ],
+                                is_spanish=is_spanish,
+                            )
+                        elif current_page == 252 and page_table_index == 1:
+                            replacement = _render_outside_speed_table(
+                                rows=[
+                                    (road_labels[0], "100", "60"),
+                                    (road_labels[1], "90", "45"),
+                                    (road_labels[2], "30", "15"),
+                                ],
+                                is_spanish=is_spanish,
+                            )
+                        elif current_page == 253 and page_table_index == 0:
+                            replacement = _render_outside_speed_table(
+                                rows=[
+                                    (road_labels[0], "90", "60"),
+                                    (road_labels[1], "80", "40"),
+                                    (road_labels[2], "30", "15"),
+                                ],
+                                is_spanish=is_spanish,
+                            )
+                        elif current_page == 253 and page_table_index == 1:
+                            replacement = _render_outside_speed_table(
+                                rows=[
+                                    (road_labels[0], "70", "60"),
+                                    (road_labels[1], "70", "35"),
+                                    (road_labels[2], "30", "15"),
+                                ],
+                                is_spanish=is_spanish,
+                            )
+                        elif current_page == 254 and page_table_index == 0:
+                            # Special vehicles without brake lights / towing / motor cultivators.
+                            # Keep the "cannot drive" phrase in the document language.
+                            cannot = (
+                                "No pueden circular" if is_spanish else "Cannot drive"
+                            )
+                            replacement = _render_single_limit_table(
+                                rows=[
+                                    (road_labels[0], cannot),
+                                    (road_labels[1], "25"),
+                                    (road_labels[2], "25"),
+                                ],
+                                is_spanish=is_spanish,
+                                is_max_min_same=True,
+                            )
+                        elif current_page == 254 and page_table_index == 1:
+                            cannot = (
+                                "No pueden circular" if is_spanish else "Cannot drive"
+                            )
+                            replacement = _render_single_limit_table(
+                                rows=[
+                                    (road_labels[0], cannot),
+                                    (road_labels[1], "40"),
+                                    (road_labels[2], "30"),
+                                ],
+                                is_spanish=is_spanish,
+                                is_max_min_same=True,
+                            )
+                        elif current_page == 254 and page_table_index == 2:
+                            if is_spanish:
+                                first_val = "45 (en autovía). Por autopista no pueden circular."
+                            else:
+                                first_val = "45 (on a dual carriageway). On a motorway they cannot drive."
+                            replacement = _render_single_limit_table(
+                                rows=[
+                                    (road_labels[0], first_val),
+                                    (road_labels[1], "45"),
+                                    (road_labels[2], "30"),
+                                ],
+                                is_spanish=is_spanish,
+                                is_max_min_same=False,
+                            )
+                        elif current_page == 255 and page_table_index == 0:
+                            cannot = (
+                                "No pueden circular" if is_spanish else "Cannot drive"
+                            )
+                            replacement = _render_single_limit_table(
+                                rows=[
+                                    (road_labels[0], cannot),
+                                    (road_labels[1], "45"),
+                                    (road_labels[2], "30"),
+                                ],
+                                is_spanish=is_spanish,
+                                is_max_min_same=False,
+                            )
+
+                if looks_town and replacement is None:
+                    # In-town tables: first column is noise, remaining are street labels.
+                    if len(header_cells) >= 4:
+                        street_labels = (
+                            _clean_table_label(header_cells[1]),
+                            _clean_table_label(header_cells[2]),
+                            _clean_table_label(header_cells[3]),
+                        )
+                        if all(street_labels):
+                            is_spanish = is_spanish_context(header_joined)
+
+                            if current_page == 256 and page_table_index == 0:
+                                replacement = _render_in_town_table(
+                                    street_labels=street_labels,
+                                    values=("20", "30", "50"),
+                                    is_spanish=is_spanish,
+                                )
+                            elif current_page == 256 and page_table_index == 1:
+                                replacement = _render_in_town_table(
+                                    street_labels=street_labels,
+                                    values=("20", "30", "40"),
+                                    is_spanish=is_spanish,
+                                )
+                            elif current_page == 257 and page_table_index == 0:
+                                replacement = _render_in_town_table(
+                                    street_labels=street_labels,
+                                    values=("20", "30", "45"),
+                                    is_spanish=is_spanish,
+                                )
+                            elif current_page == 257 and page_table_index == 1:
+                                replacement = _render_in_town_table(
+                                    street_labels=street_labels,
+                                    values=("20", "25", "25"),
+                                    is_spanish=is_spanish,
+                                )
+
+                if replacement:
+                    # Ensure a blank line before/after for readability.
+                    if out and out[-1] != "":
+                        out.append("")
+                    out.extend(replacement)
+                    out.append("")
+
+                    tables_rewritten += 1
+                    table_index_by_page[current_page] = page_table_index + 1
+                    i = j
+                    continue
+
+                # Not a known broken speed table; keep as-is.
+                out.extend([ln.rstrip() for ln in table_lines])
+                i = j
+                continue
+
+        out.append(line)
+        i += 1
+
+    while out and out[-1] == "":
+        out.pop()
+    return "\n".join(out).rstrip() + "\n", tables_rewritten
+
+
 def postprocess_markdown(
     markdown: str,
     *,
@@ -2071,6 +2469,9 @@ def postprocess_markdown(
 
     # PDF extraction frequently duplicates lines, which can confuse later heuristics.
     text = _collapse_consecutive_duplicate_lines(text)
+
+    # Targeted fix for marker corruption in the speed-limit section (pages 252–257).
+    text, _ = fix_marker_speed_tables_252_257(text)
 
     if enable_tables:
         # First pass: catch tables that are already parseable pre-reflow.
