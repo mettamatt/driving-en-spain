@@ -5,6 +5,7 @@ An English translation of Spain's official DGT driving theory manual, using Brit
 ## Download
 
 - **English (Markdown):** [`TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md`](out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md)
+- **English (EPUB):** [`TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.epub`](out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.epub)
 - **English (PDF):** [`TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.pdf`](out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.pdf)
 
 **Disclaimer:** This is not official material — verify against current DGT sources.
@@ -87,6 +88,71 @@ python scripts/translate_md_openai.py \
 Resuming:
 - If it stops mid-run, re-run the same command.
 - Per-chunk outputs and a manifest are written to `<out_md>.work/` (by default); completed chunks are skipped.
+
+### 4) (Optional) Generate a large-font PDF from Markdown
+
+For iPhone/Apple Books, a **reflowable EPUB** is usually more pleasant than a PDF. You can generate one with:
+
+```sh
+python scripts/md_to_epub.py \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.epub \
+  --toc \
+  --split-level 2
+```
+
+`md_to_epub.py` also fixes a common Apple Books issue where raw HTML `<br>` tags inside Markdown tables can create invalid XHTML in the EPUB.
+
+This repo includes `scripts/md_to_pdf.py`, which renders Markdown to a readable PDF with bigger defaults (font size, line spacing, margins).
+
+It uses **pandoc + Chrome headless** by default (no TeX install required if you already have Google Chrome). If Chrome headless crashes on your macOS version, install `tectonic` and use `--backend=latex` (this also tends to produce nicer typography).
+
+Install dependencies (macOS/Homebrew):
+
+```sh
+brew install pandoc
+brew install tectonic   # only needed for --backend=latex
+```
+
+Example (LaTeX backend, 16pt font):
+
+```sh
+python scripts/md_to_pdf.py \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md \
+  /tmp/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.large.pdf \
+  --backend=latex \
+  --pdf-engine=tectonic \
+  --toc \
+  --font-size-pt 16 \
+  --line-height 1.35 \
+  --paper a4
+```
+
+Tip (iPhone): PDFs are fixed-layout, so making them comfortable on a small screen usually means using a *smaller paper size* plus a bigger font. Try `--paper iphone` (or `--paper a6`) and a larger `--font-size-pt` (e.g. 22–26).
+
+```sh
+python scripts/md_to_pdf.py \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md \
+  /tmp/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.iphone.pdf \
+  --backend=latex \
+  --pdf-engine=tectonic \
+  --paper iphone \
+  --font-size-pt 24 \
+  --line-height 1.4 \
+  --margin 6mm
+```
+
+Example (Chrome backend, 16pt font):
+
+```sh
+python scripts/md_to_pdf.py \
+  out/marker_es/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.md \
+  /tmp/TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.en.large.pdf \
+  --backend=chrome \
+  --font-size-pt 16 \
+  --line-height 1.35 \
+  --paper a4
+```
 
 ## Configuration
 

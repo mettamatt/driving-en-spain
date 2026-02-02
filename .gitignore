@@ -4,9 +4,6 @@
 # virtualenv
 .venv/
 
-# OS
-.DS_Store
-
 # Python
 __pycache__/
 *.pyc
@@ -16,6 +13,9 @@ out/**
 !out/marker_es/
 !out/marker_es/**
 out/marker_es/**/*.html
+
+# OS (re-ignored; out/marker_es/** is unignored above)
+.DS_Store
 
 # source pdf (do not commit)
 TeoricaAbreviada_LecturaFacil_2025-06_Interactivo.pdf
